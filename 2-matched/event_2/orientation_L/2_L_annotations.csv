@@ -1,0 +1,282 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+2_L_0000,ACTION,PRK nuclear missile test suspension,No Longer Need' Nuclear or Missile Tests,,2,L,0,0,2,9,L
+2_L_0001,ACTOR,PRK\Kim,North Korean Leader,,2,L,0,0,11,13,L
+2_L_0002,ACTOR,PRK\Kim,Kim Jong-un,,2,L,1,1,16,17,L
+2_L_0003,COUNTRY,PRK,North Korea's state news agency,,2,L,1,1,4,9,L
+2_L_0004,ACTOR,PRK\Kim,the North's leader,,2,L,1,1,11,14,L
+2_L_0005,ACTOR,PRK\Kim,Kim Jong-un,,2,L,2,2,10,11,L
+2_L_0006,ACTOR,PRK\Kim,North Korea's leader,,2,L,2,2,5,8,L
+2_L_0007,MISC,PRK plans to close down test site,close a nuclear test site,,2,L,2,2,31,35,L
+2_L_0008,ACTION,PRK nuclear missile test suspension,no longer needed to test nuclear weapons or long-range missiles,,2,L,2,2,19,28,L
+2_L_0009,ACTOR,PRK\Kim,Mr. Kim,,2,L,3,3,11,12,L
+2_L_0010,COUNTRY,PRK,North Korea's state media,,2,L,3,3,19,23,L
+2_L_0011,EVENT,Kim's announcement,a statement carried by North Korea's state media,,2,L,3,3,15,23,L
+2_L_0012,PROPERTY,Good quality,has done its job,PRK nuclear tests/capabilities,2,L,3,3,5,8,L
+2_L_0013,MISC,PRK plans to close down test site,nuclear test site has done its job,,2,L,3,3,2,8,L
+2_L_0014,ACTOR,PRK\Kim,Mr. Kim,,2,L,4,4,0,1,L
+2_L_0015,ACTOR,PRK\Kim,Mr. Kim,,2,L,4,4,20,21,L
+2_L_0016,EVENT,Kim's announcement,Mr. Kim's announcement,,2,L,4,4,0,3,L
+2_L_0017,COUNTRY,PRK,North Korea,,2,L,4,6,0,1,L
+2_L_0018,ACTOR,KOR\Moon,President Moon Jae-in,,2,L,4,4,13,15,L
+2_L_0019,ACTOR,USA\Trump,President Trump,,2,L,4,4,28,29,L
+2_L_0020,COUNTRY,KOR,South Korea,,2,L,4,4,17,18,L
+2_L_0021,COUNTRY,USA,United States,,2,L,4,5,20,21,L
+2_L_0022,EVENT,PRK KOR summit,a scheduled summit meeting,,2,L,4,4,8,11,L
+2_L_0023,PROPERTY,Other,cemented the status quo,Kim,2,L,4,5,25,28,L
+2_L_0024,ACTION,PRK nuclear missile test suspension,had stopped testing its weapons,,2,L,4,6,3,7,L
+2_L_0025,PROPERTY,Other,made what appeared to be a significant concession,Kim,2,L,4,5,10,17,L
+2_L_0026,EVENT,USA PRK summit,meet with President Trump,,2,L,4,4,26,29,L
+2_L_0027,ACTOR,PRK\Kim,Mr. Kim,,2,L,5,7,0,1,L
+2_L_0028,COUNTRY,PRK,North Korea,,2,L,5,7,17,18,L
+2_L_0029,MISC,Denuclearization,dismantling the nuclear weapons and long-range missiles,,2,L,5,7,10,16,L
+2_L_0030,PROPERTY,Affection,Look forward,USA PRK summit,2,L,6,12,0,1,L
+2_L_0031,ACTOR,PRK\Kim,Mr. Kim,,2,L,6,9,6,7,L
+2_L_0032,ACTOR,USA\Trump,Mr. Trump,,2,L,6,9,2,3,L
+2_L_0033,COUNTRY,PRK,North Korea,,2,L,6,10,1,2,L
+2_L_0034,COUNTRY,PRK,North Korea,,2,L,6,11,7,8,L
+2_L_0035,EVENT,USA PRK summit,Summit,,2,L,6,12,4,4,L
+2_L_0036,PROPERTY,Affection,big progress,PRK nuclear missile test suspension; PRK plans to close down test site,2,L,6,11,13,14,L
+2_L_0037,MISC,PRK plans to close down test site,close up a major test site,,2,L,6,10,11,16,L
+2_L_0038,ACTION,PRK nuclear missile test suspension,suspend all Nuclear Tests,,2,L,6,10,6,9,L
+2_L_0039,ACTOR,USA\Trump,the president,,2,L,6,10,19,20,L
+2_L_0040,PROPERTY,Affection,very good news,PRK nuclear missile test suspension; PRK plans to close down test site,2,L,6,11,3,5,L
+2_L_0041,PROPERTY,Affection,welcomed,Kim,2,L,6,9,4,4,L
+2_L_0042,ACTOR,KOR\Moon,Mr. Moon,,2,L,7,13,0,1,L
+2_L_0043,ACTOR,KOR\Moon,Mr. Moon,,2,L,7,14,32,33,L
+2_L_0044,COUNTRY,KOR,Mr. Moon's office,,2,L,7,13,0,3,L
+2_L_0045,ACTOR-I,KOR\KOR-I,Yoon Young-chan,,2,L,7,14,26,27,L
+2_L_0046,PROPERTY,Importance,a significant step,PRK nuclear missile test suspension; PRK plans to close down test site,2,L,7,14,8,10,L
+2_L_0047,EVENT,Kim's announcement,a significant step toward the denuclearization of the Korean Peninsula,,2,L,7,14,8,17,L
+2_L_0048,ACTOR-I,KOR\KOR-I,a spokesman for Mr. Moon,,2,L,7,14,29,33,L
+2_L_0049,MISC,Denuclearization,denuclearization,,2,L,7,14,13,13,L
+2_L_0050,PROPERTY,Affection,praised the announcement,PRK nuclear missile test suspension; PRK plans to close down test site,2,L,7,13,5,7,L
+2_L_0051,COUNTRY,KOR,the Korean Peninsula,,2,L,7,14,15,17,L
+2_L_0052,COUNTRY,PRK,the Korean Peninsula,,2,L,7,14,15,17,L
+2_L_0053,COUNTRY,PRK,the North,,2,L,7,14,3,4,L
+2_L_0054,EVENT,Kim's announcement,the North's decision,,2,L,7,14,3,6,L
+2_L_0055,EVENT,Kim's announcement,the announcement,,2,L,7,13,6,7,L
+2_L_0056,COUNTRY,USA,American officials,,2,L,8,15,4,5,L
+2_L_0057,ACTOR,PRK\Kim,Mr. Kim,,2,L,8,15,8,9,L
+2_L_0058,PROPERTY,Other,mix of satisfaction and wariness,USA,2,L,8,15,12,16,L
+2_L_0059,COUNTRY,USA,American officials,,2,L,9,17,6,7,L
+2_L_0060,ACTOR,PRK\Kim,Mr. Kim,,2,L,9,17,24,25,L
+2_L_0061,COUNTRY,PRK,North Korea,,2,L,9,17,10,11,L
+2_L_0062,COUNTRY,PRK,North Korea,,2,L,9,17,30,31,L
+2_L_0063,COUNTRY,USA,North Korea,,2,L,9,17,10,11,L
+2_L_0064,COUNTRY,USA,North Korea,,2,L,9,17,30,31,L
+2_L_0065,ACTOR,PRK\Kim,The North Korean leader,,2,L,9,16,0,3,L
+2_L_0066,EVENT,Kim's announcement,The North Korean leader's move,,2,L,9,16,0,5,L
+2_L_0067,MISC,PRK plans to close down test site,The North Korean leader's move,,2,L,9,16,0,5,L
+2_L_0068,PROPERTY,Other,could be tactical,Kim,2,L,9,16,6,8,L
+2_L_0069,MISC,Denuclearization,give up North Korea's nuclear weapons,,2,L,9,17,28,34,L
+2_L_0070,PROPERTY,Aggressor,putting pressure,PRK,2,L,9,17,13,14,L
+2_L_0071,PROPERTY,Victim,putting pressure,USA,2,L,9,17,13,14,L
+2_L_0072,PROPERTY,Power,putting the United States on the defensive,PRK,2,L,9,16,10,16,L
+2_L_0073,COUNTRY,USA,the United States,,2,L,9,16,11,13,L
+2_L_0074,COUNTRY,USA,the United States,,2,L,9,17,16,18,L
+2_L_0075,ACTOR,PRK\Kim,Mr. Kim,,2,L,10,18,0,1,L
+2_L_0076,ACTOR,KOR\Moon,President Moon,,2,L,10,18,19,20,L
+2_L_0077,COUNTRY,KOR,South Korea,,2,L,10,18,15,16,L
+2_L_0078,MISC,PRK KOR end of military conflict,ending more than six decades of conflict,,2,L,10,18,26,32,L
+2_L_0079,PROPERTY,Importance,put great emphasis on,PRK KOR end of military conflict,2,L,10,18,22,25,L
+2_L_0080,COUNTRY,KOR,the Korean Peninsula,,2,L,10,18,34,36,L
+2_L_0081,COUNTRY,PRK,the Korean Peninsula,,2,L,10,18,34,36,L
+2_L_0082,COUNTRY,USA,the United States,,2,L,10,18,11,13,L
+2_L_0083,PROPERTY,Aggressor,trying to drive a wedge,PRK,2,L,10,18,5,9,L
+2_L_0084,PROPERTY,Victim,trying to drive a wedge,USA; KOR,2,L,10,18,5,9,L
+2_L_0085,COUNTRY,USA,American troops,,2,L,11,19,24,25,L
+2_L_0086,ACTOR,PRK\Kim,Mr. Kim,,2,L,11,19,6,7,L
+2_L_0087,ACTOR,KOR\Moon,Mr. Moon,,2,L,11,19,3,4,L
+2_L_0088,COUNTRY,USA,White House officials,,2,L,11,20,1,3,L
+2_L_0089,PROPERTY,Refusal,dismissed,Kim,2,L,11,20,5,5,L
+2_L_0090,PROPERTY,Reason,no longer insisted,Kim,2,L,11,19,17,19,L
+2_L_0091,COUNTRY,KOR,the Korean Peninsula,,2,L,11,19,27,29,L
+2_L_0092,COUNTRY,PRK,the Korean Peninsula,,2,L,11,19,27,29,L
+2_L_0093,COUNTRY,PRK,the North,,2,L,11,19,15,16,L
+2_L_0094,COUNTRY,USA,the troops,,2,L,11,20,12,13,L
+2_L_0095,COUNTRY,JPN,Itsunori Onodera,,2,L,12,22,4,5,L
+2_L_0096,COUNTRY,JPN,Japan,,2,L,12,21,14,14,L
+2_L_0097,COUNTRY,JPN,Japan,,2,L,12,22,49,49,L
+2_L_0098,ACTOR,PRK\Kim,Mr. Kim,,2,L,12,21,2,3,L
+2_L_0099,ACTOR,PRK\Kim,Mr. Kim,,2,L,12,22,12,13,L
+2_L_0100,MISC,PRK plans to close down test site,Mr. Kim's peace overtures,,2,L,12,21,2,6,L
+2_L_0101,COUNTRY,PRK,North Korea,,2,L,12,21,17,18,L
+2_L_0102,COUNTRY,JPN,The defense minister,,2,L,12,22,0,2,L
+2_L_0103,EVENT,Kim's announcement,announced the suspension of nuclear and missile tests,,2,L,12,22,14,21,L
+2_L_0104,PROPERTY,Poor quality,did not clearly state,PRK nuclear missile test suspension,2,L,12,22,33,36,L
+2_L_0105,MISC,PRK nuclear tests/capabilities,missile strikes,,2,L,12,21,23,24,L
+2_L_0106,PROPERTY,Negative,not sufficient,PRK nuclear missile test suspension,2,L,12,22,28,29,L
+2_L_0107,COUNTRY,JPN,officials from Japan,,2,L,12,21,12,14,L
+2_L_0108,PROPERTY,Importance,punctuated the reaction,Kim,2,L,12,21,8,10,L
+2_L_0109,ACTION,PRK nuclear missile test suspension,the move,,2,L,12,22,24,25,L
+2_L_0110,EVENT,Kim's announcement,"the move was ""not sufficient""",,2,L,12,22,24,30,L
+2_L_0111,MISC,PRK nuclear tests/capabilities,the short and midrange missiles that could hit Japan,,2,L,12,22,41,49,L
+2_L_0112,ACTION,PRK nuclear missile test suspension,the suspension of nuclear and missile tests,,2,L,12,22,15,21,L
+2_L_0113,PROPERTY,Aggressor,threatened,PRK,2,L,12,21,21,21,L
+2_L_0114,COUNTRY,JPN,Mr. Onodera,,2,L,13,23,0,1,L
+2_L_0115,COUNTRY,PRK,North Korea,,2,L,13,24,8,9,L
+2_L_0116,MISC,Denuclearization,abandon all weapons of mass destruction and ballistic missiles in a complete verifiable and irreversible manner,,2,L,13,24,10,25,L
+2_L_0117,MISC,Denuclearization,abandon their nuclear weapons and missiles,,2,L,13,25,25,30,L
+2_L_0118,PROPERTY,Importance,an aim that,Denuclearization,2,L,13,25,21,23,L
+2_L_0119,MISC,Denuclearization,denuclearization,,2,L,13,23,11,11,L
+2_L_0120,PROPERTY,Importance,in a complete verifiable and irreversible manner,Denuclearization,2,L,13,24,19,25,L
+2_L_0121,PROPERTY,Importance,must keep applying pressure,Denuclearization,2,L,13,25,16,19,L
+2_L_0122,COUNTRY,PRK,Central Committee of his ruling Workers' Party,,2,L,14,26,8,15,L
+2_L_0123,ACTOR,PRK\Kim,Mr. Kim,,2,L,14,26,17,18,L
+2_L_0124,MISC,PRK nuclear tests/capabilities,a nuclear deterrent,,2,L,14,26,35,37,L
+2_L_0125,PROPERTY,Aggressor,a nuclear deterrent,PRK; PRK nuclear tests/capabilities,2,L,14,26,35,37,L
+2_L_0126,EVENT,Kim's announcement,a statement,,2,L,14,26,1,2,L
+2_L_0127,PROPERTY,Good quality,already achieved,PRK nuclear tests/capabilities,2,L,14,26,33,34,L
+2_L_0128,PROPERTY,Economy positive,rebuilding the economy,PRK,2,L,14,27,7,9,L
+2_L_0129,ACTION,PRK nuclear missile test suspension,required no further nuclear and long-range missile tests,,2,L,14,26,22,29,L
+2_L_0130,COUNTRY,PRK,Korean Central News Agency,,2,L,15,28,20,23,L
+2_L_0131,ACTOR,PRK\Kim,Mr. Kim,,2,L,15,28,27,28,L
+2_L_0132,COUNTRY,PRK,North Korea,,2,L,15,28,5,6,L
+2_L_0133,ACTION,PRK nuclear missile test suspension,stop nuclear tests and launches of intercontinental ballistic missiles,,2,L,15,28,8,16,L
+2_L_0134,MISC,Denuclearization,An arms announcement,,2,L,16,29,0,2,L
+2_L_0135,EVENT,Kim's announcement,An arms announcement from North Korea,,2,L,16,29,0,5,L
+2_L_0136,COUNTRY,PRK,North Korea,,2,L,16,29,4,5,L
+2_L_0137,COUNTRY,PRK,North and South Korea,,2,L,16,29,10,13,L
+2_L_0138,COUNTRY,KOR,South Korea,,2,L,16,29,12,13,L
+2_L_0139,PROPERTY,Importance,first-ever,KOR PRK hotline,2,L,16,29,20,20,L
+2_L_0140,OBJECT,KOR PRK hotline,first-ever hotline,,2,L,16,29,20,21,L
+2_L_0141,COUNTRY,KOR,top leaders,,2,L,16,29,24,25,L
+2_L_0142,COUNTRY,PRK,top leaders,,2,L,16,29,24,25,L
+2_L_0143,PROPERTY,Trustworthiness,guarantee transparency,PRK,2,L,17,30,20,21,L
+2_L_0144,MISC,PRK plans to close down test site,shut down a nuclear test site in the country's northern side,,2,L,17,30,7,18,L
+2_L_0145,ACTION,PRK nuclear missile test suspension,suspending nuclear tests,,2,L,17,30,23,25,L
+2_L_0146,COUNTRY,PRK,the North,,2,L,17,30,3,4,L
+2_L_0147,COUNTRY,PRK,the country,,2,L,17,30,14,15,L
+2_L_0148,ACTOR,PRK\Kim,Mr. Kim,,2,L,18,31,8,9,L
+2_L_0149,ACTOR,PRK\Kim,Mr. Kim,,2,L,18,31,51,52,L
+2_L_0150,EVENT,Kim's announcement,Mr. Kim's decision to shut down his country's only known nuclear test site,,2,L,18,31,8,22,L
+2_L_0151,COUNTRY,PRK,North Korea,,2,L,18,31,28,29,L
+2_L_0152,COUNTRY,USA,Washington,,2,L,18,31,63,63,L
+2_L_0153,ACTION,PRK nuclear missile test suspension,his moratorium on long-range missile tests,,2,L,18,31,32,37,L
+2_L_0154,PROPERTY,Positive,improve the mood for dialogue,Kim,2,L,18,31,57,61,L
+2_L_0155,COUNTRY,KOR,officials and analysts in South Korea,,2,L,18,31,1,6,L
+2_L_0156,MISC,PRK plans to close down test site,shut down his country's only known nuclear test site,,2,L,18,31,13,22,L
+2_L_0157,PROPERTY,Trustworthiness,trust-building steps,Kim,2,L,18,31,44,45,L
+2_L_0158,COUNTRY,CHN,China,,2,L,19,33,25,25,L
+2_L_0159,ACTOR,PRK\Kim,Mr. Kim,,2,L,19,32,0,1,L
+2_L_0160,ACTOR,KOR\Moon,Mr. Moon,,2,L,19,33,42,43,L
+2_L_0161,ACTOR,USA\Trump,Mr. Trump,,2,L,19,33,45,46,L
+2_L_0162,ACTOR,CHN\Xi,President Xi Jinping,,2,L,19,33,21,23,L
+2_L_0163,COUNTRY,USA,United States,,2,L,19,32,25,26,L
+2_L_0164,PROPERTY,Other,a dramatic about-face,Kim,2,L,19,33,4,6,L
+2_L_0165,PROPERTY,Power,conducting,Kim,2,L,19,32,5,5,L
+2_L_0166,MISC,PRK nuclear tests/capabilities,conducting a series of nuclear and intercontinental ballistic missile tests,,2,L,19,32,5,14,L
+2_L_0167,PROPERTY,Power,has initiated,Kim,2,L,19,33,2,3,L
+2_L_0168,PROPERTY,Difficulty,raising tensions and a risk of war,USA,2,L,19,32,16,22,L
+2_L_0169,EVENT,USA PRK summit,summit talks,,2,L,19,33,48,49,L
+2_L_0170,COUNTRY,USA,Analysts in the region,,2,L,20,34,0,3,L
+2_L_0171,ACTOR,PRK\Kim,Mr. Kim,,2,L,20,34,8,9,L
+2_L_0172,ACTOR,PRK\Kim,Mr. Kim,,2,L,20,35,3,4,L
+2_L_0173,ACTOR,PRK\Kim,Mr. Kim,,2,L,20,36,4,5,L
+2_L_0174,COUNTRY,USA,Washington,,2,L,20,36,35,35,L
+2_L_0175,MISC,Denuclearization,abandon his nuclear weapons,,2,L,20,35,21,24,L
+2_L_0176,PROPERTY,Economy positive,economic aid,PRK,2,L,20,36,39,40,L
+2_L_0177,MISC,Denuclearization,give up his nuclear arsenal,,2,L,20,36,8,12,L
+2_L_0178,MISC,PRK nuclear tests/capabilities,his nuclear arsenal,,2,L,20,36,10,12,L
+2_L_0179,PROPERTY,Economy positive,rebuild his economy,PRK,2,L,20,36,44,46,L
+2_L_0180,PROPERTY,No trustworthiness,use negotiations to buy time and ease international sanctions,Kim,2,L,20,35,8,16,L
+2_L_0181,EVENT,Kim's announcement,His latest announcement,,2,L,21,37,0,2,L
+2_L_0182,COUNTRY,PRK,North and South Korea,,2,L,21,37,7,10,L
+2_L_0183,COUNTRY,KOR,South Korea,,2,L,21,37,9,10,L
+2_L_0184,PROPERTY,Importance,first-ever,KOR PRK hotline,2,L,21,37,17,17,L
+2_L_0185,PROPERTY,Honor,improving relations,PRK; KOR,2,L,21,37,27,28,L
+2_L_0186,COUNTRY,KOR,the divided Korean Peninsula,,2,L,21,37,30,33,L
+2_L_0187,COUNTRY,PRK,the divided Korean Peninsula,,2,L,21,37,30,33,L
+2_L_0188,OBJECT,KOR PRK hotline,the first-ever hotline,,2,L,21,37,16,18,L
+2_L_0189,COUNTRY,KOR,top leaders,,2,L,21,37,21,22,L
+2_L_0190,COUNTRY,PRK,top leaders,,2,L,21,37,21,22,L
+2_L_0191,ACTOR,PRK\Kim,Mr. Kim,,2,L,22,38,19,20,L
+2_L_0192,ACTOR,KOR\Moon,Mr. Moon,,2,L,22,38,0,1,L
+2_L_0193,OBJECT,KOR PRK hotline,the hotline,,2,L,22,38,6,7,L
+2_L_0194,ACTOR,KOR\Moon,the two leaders,,2,L,22,38,22,24,L
+2_L_0195,ACTOR,PRK\Kim,the two leaders,,2,L,22,38,22,24,L
+2_L_0196,EVENT,PRK KOR summit,their summit meeting,,2,L,22,38,26,28,L
+2_L_0197,COUNTRY,KOR,Duty officers from both sides,,2,L,23,41,0,4,L
+2_L_0198,COUNTRY,PRK,Duty officers from both sides,,2,L,23,41,0,4,L
+2_L_0199,OBJECT,KOR PRK hotline,The line,,2,L,23,42,0,1,L
+2_L_0200,COUNTRY,KOR,The two Koreas,,2,L,23,40,0,2,L
+2_L_0201,COUNTRY,PRK,The two Koreas,,2,L,23,40,0,2,L
+2_L_0202,OBJECT,KOR PRK hotline,a telephone hotline,,2,L,23,40,5,7,L
+2_L_0203,PROPERTY,Honor,communications there have been restored,KOR; PRK,2,L,23,42,15,19,L
+2_L_0204,PROPERTY,Difficulty,have soured,KOR; PRK,2,L,23,42,11,12,L
+2_L_0205,EVENT,PRK KOR summit,the inter-Korean meeting,,2,L,23,40,19,21,L
+2_L_0206,OBJECT,KOR PRK hotline,a direct hotline,,2,L,24,43,7,9,L
+2_L_0207,COUNTRY,KOR,officials,,2,L,24,43,17,17,L
+2_L_0208,COUNTRY,PRK,officials,,2,L,24,43,17,17,L
+2_L_0209,COUNTRY,KOR,the two countries,,2,L,24,43,1,3,L
+2_L_0210,COUNTRY,PRK,the two countries,,2,L,24,43,1,3,L
+2_L_0211,ACTOR,KOR\Moon,their top leaders,,2,L,24,43,11,13,L
+2_L_0212,ACTOR,PRK\Kim,their top leaders,,2,L,24,43,11,13,L
+2_L_0213,COUNTRY,KOR,their top leaders' offices,,2,L,24,43,11,15,L
+2_L_0214,COUNTRY,PRK,their top leaders' offices,,2,L,24,43,11,15,L
+2_L_0215,ACTOR,KOR\Moon,Mr. Moon,,2,L,25,44,6,7,L
+2_L_0216,OBJECT,KOR PRK hotline,The hotline telephones,,2,L,25,44,0,2,L
+2_L_0217,COUNTRY,PRK,the North,,2,L,25,44,27,28,L
+2_L_0218,COUNTRY,KOR,the South,,2,L,25,44,13,14,L
+2_L_0219,COUNTRY,PRK,the State Affairs Commission,,2,L,25,44,20,23,L
+2_L_0220,ACTOR,PRK\Kim,Mr. Kim,,2,L,26,45,8,9,L
+2_L_0221,ACTOR,PRK\Kim,Mr. Kim,,2,L,26,45,26,27,L
+2_L_0222,ACTOR,PRK\Kim,Mr. Kim,,2,L,26,46,5,6,L
+2_L_0223,ACTOR,KOR\Moon,Mr. Moon,,2,L,26,45,1,2,L
+2_L_0224,ACTOR,KOR\Moon,Mr. Moon,,2,L,26,45,29,30,L
+2_L_0225,COUNTRY,KOR,Mr. Moon's special envoys,,2,L,26,45,1,5,L
+2_L_0226,MISC,Denuclearization,abandoning his country's nuclear weapons,,2,L,26,46,18,23,L
+2_L_0227,COUNTRY,PRK,his country,,2,L,26,46,19,20,L
+2_L_0228,EVENT,USA PRK summit,negotiate with the United States,,2,L,26,46,12,16,L
+2_L_0229,COUNTRY,USA,the United States,,2,L,26,46,14,16,L
+2_L_0230,OBJECT,KOR PRK hotline,the hotline,,2,L,26,45,21,22,L
+2_L_0231,OBJECT,KOR PRK hotline,the phone,,2,L,26,45,33,34,L
+2_L_0232,EVENT,PRK KOR summit,the same meeting,,2,L,26,46,1,3,L
+2_L_0233,COUNTRY,KOR,the two Koreas,,2,L,26,45,15,17,L
+2_L_0234,COUNTRY,PRK,the two Koreas,,2,L,26,45,15,17,L
+2_L_0235,EVENT,PRK KOR summit,their summit meeting,,2,L,26,45,36,38,L
+2_L_0236,PROPERTY,Honor,willing to negotiate,Kim,2,L,26,46,10,12,L
+2_L_0237,COUNTRY,USA,Mike Pompeo,,2,L,27,47,8,9,L
+2_L_0238,ACTOR,PRK\Kim,Mr. Kim,,2,L,27,47,14,15,L
+2_L_0239,ACTOR,USA\Trump,President Trump,,2,L,27,47,0,1,L
+2_L_0240,PROPERTY,Importance,first-ever,USA PRK summit,2,L,27,47,28,28,L
+2_L_0241,EVENT,USA PRK summit,meet with Mr. Kim,,2,L,27,47,12,15,L
+2_L_0242,COUNTRY,USA,the C.I.A. director,,2,L,27,47,4,6,L
+2_L_0243,EVENT,USA PRK summit,the first-ever summit meeting between the two nations,,2,L,27,47,27,34,L
+2_L_0244,COUNTRY,KOR,the two nations,,2,L,27,47,32,34,L
+2_L_0245,COUNTRY,USA,the two nations,,2,L,27,47,32,34,L
+2_L_0246,EVENT,PRK KOR summit,their meeting,,2,L,27,47,21,22,L
+2_L_0247,COUNTRY,KOR,South Korean officials,,2,L,28,48,0,2,L
+2_L_0248,OBJECT,KOR PRK hotline,The hotline,,2,L,28,49,0,1,L
+2_L_0249,PROPERTY,Safety,avert unintended armed clashes,KOR PRK hotline,2,L,28,49,7,10,L
+2_L_0250,PROPERTY,Other,hope the hotline will improve communications,KOR PRK hotline,2,L,28,48,3,8,L
+2_L_0251,PROPERTY,Honor,improved ties,KOR PRK hotline,2,L,28,48,18,19,L
+2_L_0252,OBJECT,KOR PRK hotline,the hotline,,2,L,28,48,4,5,L
+2_L_0253,COUNTRY,KOR,the sides,,2,L,28,49,12,13,L
+2_L_0254,COUNTRY,PRK,the sides,,2,L,28,49,12,13,L
+2_L_0255,ACTOR,KOR\Moon,the top leaders,,2,L,28,48,10,12,L
+2_L_0256,ACTOR,PRK\Kim,the top leaders,,2,L,28,48,10,12,L
+2_L_0257,COUNTRY,KOR,the two Koreas,,2,L,28,48,21,23,L
+2_L_0258,COUNTRY,PRK,the two Koreas,,2,L,28,48,21,23,L
+2_L_0259,MISC,PRK KOR end of military conflict,to avert unintended armed clashes between the sides,,2,L,28,49,6,13,L
+2_L_0260,ACTOR,PRK\Kim,Mr. Kim,,2,L,29,50,33,34,L
+2_L_0261,ACTOR,KOR\Moon,President Moon,,2,L,29,50,17,18,L
+2_L_0262,PROPERTY,Unreason,arrogant blockheads,PRK,2,L,29,50,14,15,L
+2_L_0263,COUNTRY,PRK,our officials,,2,L,29,50,10,11,L
+2_L_0264,PROPERTY,Confidence,the problem will be promptly solved,Kim,2,L,29,50,25,30,L
+2_L_0265,COUNTRY,KOR,the visiting South Korean envoys,,2,L,29,50,39,43,L
+2_L_0266,ACTOR,PRK\Kim,Mr. Kim,,2,L,30,51,8,9,L
+2_L_0267,ACTOR,KOR\Moon,Mr. Moon,,2,L,30,51,5,6,L
+2_L_0268,ACTOR,KOR\Moon,Mr. Moon,,2,L,30,51,34,35,L
+2_L_0269,COUNTRY,KOR,Youn Kun-young,,2,L,30,51,24,25,L
+2_L_0270,COUNTRY,KOR,aides to Mr. Moon,,2,L,30,51,3,6,L
+2_L_0271,COUNTRY,PRK,aides to Mr. Moon and Mr. Kim,,2,L,30,51,3,9,L
+2_L_0272,COUNTRY,KOR,director for the government situation room,,2,L,30,51,27,32,L
+2_L_0273,OBJECT,KOR PRK hotline,the line,,2,L,30,51,12,13,L
+2_L_0274,ACTOR,KOR\Moon,Mr. Moon,,2,L,31,52,20,21,L
+2_L_0275,COUNTRY,KOR,Mr. Moon's office,,2,L,31,52,20,23,L
+2_L_0276,COUNTRY,PRK,a North Korean caller,,2,L,31,52,9,12,L
+2_L_0277,COUNTRY,KOR,a South Korean and a North Korean caller,,2,L,31,52,5,12,L
+2_L_0278,COUNTRY,KOR,Mr. Youn,,2,L,32,53,8,9,L
+2_L_0279,PROPERTY,Good quality,as if talking to a neighbor right next door,KOR PRK hotline,2,L,32,54,3,11,L
+2_L_0280,PROPERTY,Good quality,very good,KOR PRK hotline,2,L,32,53,4,5,L

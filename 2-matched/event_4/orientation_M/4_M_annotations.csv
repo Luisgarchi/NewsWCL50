@@ -1,0 +1,191 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+4_M_0000,ACTOR,FRA\Macron,Emmanuel Macron,,4,M,0,0,2,3,M
+4_M_0001,OBJECT,IRN nuclear deal,Iran deal,,4,M,0,0,8,9,M
+4_M_0002,ACTOR,USA\Trump,Trump,,4,M,0,0,0,0,M
+4_M_0003,ACTOR,USA\Trump,Trump,,4,M,0,0,11,11,M
+4_M_0004,PROPERTY,Aggressor,calls 'insane',Trump,4,M,0,0,12,14,M
+4_M_0005,MISC,Reactions on deal,calls 'insane',,4,M,0,0,12,14,M
+4_M_0006,PROPERTY,Unreason,insane,IRN nuclear deal,4,M,0,0,14,14,M
+4_M_0007,PROPERTY,Power,seek common ground,Trump; Macron,4,M,0,0,4,6,M
+4_M_0008,ACTOR,FRA\Macron,French counterpart,,4,M,1,1,13,14,M
+4_M_0009,COUNTRY,IRN,Iran,,4,M,1,1,18,18,M
+4_M_0010,ACTOR,USA\Trump,President Trump,,4,M,1,1,2,3,M
+4_M_0011,MISC,Reactions on deal,"described as ""insane"" and ""ridiculous.""",,4,M,1,1,30,39,M
+4_M_0012,PROPERTY,Unreason,insane,IRN nuclear deal,4,M,1,1,33,33,M
+4_M_0013,PROPERTY,Power,look for common ground,Trump; Macron,4,M,1,1,7,10,M
+4_M_0014,PROPERTY,Unsafety,no commitment to stick with the nuclear agreement,IRN nuclear deal,4,M,1,1,21,28,M
+4_M_0015,PROPERTY,Unreason,ridiculous,IRN nuclear deal,4,M,1,1,37,37,M
+4_M_0016,OBJECT,IRN nuclear deal,the nuclear agreement,,4,M,1,1,26,28,M
+4_M_0017,ACTOR,FRA\Macron,French President Emmanuel Macron,,4,M,2,2,1,4,M
+4_M_0018,COUNTRY,IRN,Tehran,,4,M,2,2,33,33,M
+4_M_0019,EVENT,IRN restart nuclear,Tehran's missile program,,4,M,2,2,33,36,M
+4_M_0020,ACTOR,USA\Trump,Trump,,4,M,2,2,14,14,M
+4_M_0021,PROPERTY,Poor quality,doesn't address Tehran's missile program or its attempts to foment unrest in the region,IRN nuclear deal,4,M,2,2,30,45,M
+4_M_0022,PROPERTY,Power,freeze Iran's nuclear program,IRN nuclear deal,4,M,2,2,22,26,M
+4_M_0023,PROPERTY,Refusal,repeated his criticism,IRN nuclear deal,4,M,2,2,15,17,M
+4_M_0024,MISC,Reactions on deal,repeated his criticism,,4,M,2,2,15,17,M
+4_M_0025,OBJECT,IRN nuclear deal,the agreement,,4,M,2,2,19,20,M
+4_M_0026,COUNTRY,IRN,Iran,,4,M,3,3,7,7,M
+4_M_0027,ACTOR,USA\Trump,Trump,,4,M,3,3,1,1,M
+4_M_0028,PROPERTY,Aggressor,explicit warning,Trump,4,M,3,3,4,5,M
+4_M_0029,PROPERTY,Victim,explicit warning,IRN,4,M,3,3,4,5,M
+4_M_0030,COUNTRY,USA,his administration,,4,M,3,3,15,16,M
+4_M_0031,ACTOR,FRA\Macron,Macron,,4,M,4,4,27,27,M
+4_M_0032,ACTOR,USA\Trump,Trump,,4,M,4,4,21,21,M
+4_M_0033,PROPERTY,Confidence,You can mark it down,Trump,4,M,4,5,1,5,M
+4_M_0034,PROPERTY,Aggressor,bigger problems than they have ever had before,Trump,4,M,4,4,11,18,M
+4_M_0035,PROPERTY,Victim,bigger problems than they have ever had before,IRN,4,M,4,4,11,18,M
+4_M_0036,EVENT,IRN restart nuclear,restart their nuclear program,,4,M,4,4,3,6,M
+4_M_0037,COUNTRY,FRA,France,,4,M,5,6,8,8,M
+4_M_0038,COUNTRY,IRN,Iran,,4,M,5,6,22,22,M
+4_M_0039,COUNTRY,USA,U.S.,,4,M,5,6,6,6,M
+4_M_0040,PROPERTY,Affection,understand each other,USA; FRA,4,M,5,6,13,15,M
+4_M_0041,COUNTRY,IRN,Iran,,4,M,6,8,15,15,M
+4_M_0042,ACTOR,FRA\Macron,Macron,,4,M,6,7,0,0,M
+4_M_0043,ACTOR,FRA\Macron,Macron,,4,M,6,8,0,0,M
+4_M_0044,ACTOR,USA\Trump,Trump,,4,M,6,7,7,7,M
+4_M_0045,ACTOR,USA\Trump,Trump,,4,M,6,8,26,26,M
+4_M_0046,PROPERTY,Importance,build on the current agreement but also address Trump's concerns,IRN new deal,4,M,6,8,18,28,M
+4_M_0047,PROPERTY,Power,encouraged,Macron,4,M,6,7,6,6,M
+4_M_0048,OBJECT,IRN new deal,new deal,,4,M,6,8,11,12,M
+4_M_0049,PROPERTY,Affection,remain in,IRN nuclear deal,4,M,6,7,9,10,M
+4_M_0050,OBJECT,IRN nuclear deal,the agreement,,4,M,6,7,11,12,M
+4_M_0051,PROPERTY,Power,wants to work on,Macron,4,M,6,8,5,8,M
+4_M_0052,ACTOR,FRA\Macron,Macron,,4,M,7,9,0,0,M
+4_M_0053,PROPERTY,Positive,very frank,Macron; Trump,4,M,7,9,9,10,M
+4_M_0054,ACTOR,FRA\Macron,Macron,,4,M,8,10,36,36,M
+4_M_0055,ACTOR,USA\Trump,Trump,,4,M,8,10,38,38,M
+4_M_0056,PROPERTY,Difficulty,did not have the same starting positions,Macron; Trump,4,M,8,10,7,13,M
+4_M_0057,PROPERTY,Reason,you nor I have a habit of changing our stances,Macron; Trump,4,M,8,10,19,28,M
+4_M_0058,COUNTRY,IRN,Iran,,4,M,9,11,7,7,M
+4_M_0059,ACTOR,FRA\Macron,Macron,,4,M,9,12,15,15,M
+4_M_0060,COUNTRY,SYR,Syria,,4,M,9,11,15,15,M
+4_M_0061,COUNTRY,SYR,Syria,,4,M,9,12,12,12,M
+4_M_0062,ACTOR,USA\Trump,The president,,4,M,9,13,0,1,M
+4_M_0063,ACTOR,FRA\Macron,The two leaders,,4,M,9,11,0,2,M
+4_M_0064,ACTOR,USA\Trump,The two leaders,,4,M,9,11,0,2,M
+4_M_0065,COUNTRY,USA,U.S. troops,,4,M,9,12,8,9,M
+4_M_0066,PROPERTY,Power,bring U.S. troops home,Trump,4,M,9,12,7,10,M
+4_M_0067,OBJECT,IRN nuclear deal,containing Iran,,4,M,9,11,6,7,M
+4_M_0068,PROPERTY,Other,injected nuance into his answer,Trump,4,M,9,13,13,17,M
+4_M_0069,PROPERTY,Importance,reiterated his desire,Trump,4,M,9,13,4,6,M
+4_M_0070,PROPERTY,Importance,the key to lasting peace,IRN nuclear deal,4,M,9,11,9,13,M
+4_M_0071,PROPERTY,Power,urged a longer timeline,Macron,4,M,9,12,17,20,M
+4_M_0072,ACTOR,FRA\Macron,Emmanuel,,4,M,10,16,1,1,M
+4_M_0073,COUNTRY,IRN,Iran,,4,M,10,16,13,13,M
+4_M_0074,COUNTRY,SYR,Syria,,4,M,10,14,4,4,M
+4_M_0075,ACTOR,USA\Trump,Trump,,4,M,10,15,12,12,M
+4_M_0076,PROPERTY,Confidence,brave,USA,4,M,10,15,6,6,M
+4_M_0077,PROPERTY,Power,don't want to give Iran open season,Macron; Trump,4,M,10,16,8,15,M
+4_M_0078,COUNTRY,USA,our brave warriors,,4,M,10,15,5,7,M
+4_M_0079,PROPERTY,Honor,would love to bring our brave warriors back home,Trump,4,M,10,15,1,9,M
+4_M_0080,PROPERTY,Difficulty,would love to get out,SYR,4,M,10,14,9,13,M
+4_M_0081,PROPERTY,Weakness,would love to get out,Trump,4,M,10,14,9,13,M
+4_M_0082,ACTOR,USA\Trump,Trump,,4,M,11,17,0,0,M
+4_M_0083,COUNTRY,USA,troops,,4,M,11,17,6,6,M
+4_M_0084,PROPERTY,Power,want to leave a strong and lasting footprint,Trump; Macron,4,M,11,17,16,23,M
+4_M_0085,PROPERTY,Other,wanted to bring troops home,Trump,4,M,11,17,3,7,M
+4_M_0086,ACTOR,FRA\Macron,Macron,,4,M,12,18,13,13,M
+4_M_0087,ACTOR,FRA\Macron,Macron,,4,M,12,19,2,2,M
+4_M_0088,ACTOR,FRA\Macron,Macron,,4,M,12,19,23,23,M
+4_M_0089,ACTOR,USA\Trump,Trump,,4,M,12,18,11,11,M
+4_M_0090,ACTOR,USA\Trump,Trump,,4,M,12,19,0,0,M
+4_M_0091,PROPERTY,Affection,brushed what he said was a piece of dandruff off,Macron,4,M,12,19,12,21,M
+4_M_0092,PROPERTY,Affection,close relationship,Macron; Trump,4,M,12,18,17,18,M
+4_M_0093,PROPERTY,Negative,heavily scripted series of meetings,Macron; Trump,4,M,12,18,2,6,M
+4_M_0094,PROPERTY,Affection,held Macron's hands,Macron,4,M,12,19,1,4,M
+4_M_0095,PROPERTY,Confidence,showed off,Trump; Macron,4,M,12,18,14,15,M
+4_M_0096,PROPERTY,Affection,showered him with compliments,Macron,4,M,12,19,6,9,M
+4_M_0097,ACTOR,FRA\Macron,Macron,,4,M,13,20,19,19,M
+4_M_0098,ACTOR,USA\Trump,Trump,,4,M,13,20,8,8,M
+4_M_0099,PROPERTY,Affection,getting a kiss,Macron,4,M,13,20,12,14,M
+4_M_0100,ACTOR,USA\Trump,like him a lot,Macron,4,M,13,20,2,5,M
+4_M_0101,PROPERTY,Weakness,sheepishly after getting a kiss,Trump,4,M,13,20,10,14,M
+4_M_0102,ACTOR,FRA\Macron,Macron,,4,M,14,21,15,15,M
+4_M_0103,ACTOR,USA\Trump,Trump,,4,M,14,21,6,6,M
+4_M_0104,PROPERTY,Importance,hinted at the issues dividing the two countries,FRA; USA,4,M,14,21,17,24,M
+4_M_0105,OBJECT,IRN nuclear deal,the Iran nuclear deal,,4,M,14,21,26,29,M
+4_M_0106,COUNTRY,FRA,the two countries,,4,M,14,21,22,24,M
+4_M_0107,COUNTRY,USA,the two countries,,4,M,14,21,22,24,M
+4_M_0108,PROPERTY,Affection,very special relationship,Trump; Macron,4,M,14,21,10,12,M
+4_M_0109,ACTOR,FRA\Macron,Macron,,4,M,15,22,17,17,M
+4_M_0110,PROPERTY,Affection,family and in any friendship,Macron; Trump,4,M,15,24,25,29,M
+4_M_0111,PROPERTY,Power,together that we will be able to act effectively,Macron; Trump; USA; FRA,4,M,15,22,3,11,M
+4_M_0112,PROPERTY,Difficulty,we do not always agree as to the solutions,Macron; Trump,4,M,15,24,4,12,M
+4_M_0113,ACTOR,FRA\Macron,Macron,,4,M,16,25,0,0,M
+4_M_0114,ACTOR,FRA\Macron,Macron,,4,M,16,25,29,29,M
+4_M_0115,ACTOR,USA\Trump,Trump,,4,M,16,25,9,9,M
+4_M_0116,ACTOR,USA\Trump,Trump,,4,M,16,25,35,35,M
+4_M_0117,ACTOR,FRA\Macron,Trump's most trusted European ally,,4,M,16,25,35,40,M
+4_M_0118,PROPERTY,Affection,long 241-year friendship,USA; FRA,4,M,16,25,16,18,M
+4_M_0119,PROPERTY,Affection,most trusted European ally,Macron,4,M,16,25,37,40,M
+4_M_0120,PROPERTY,Affection,personal friendship,Macron,4,M,16,25,26,27,M
+4_M_0121,COUNTRY,FRA,the two countries,,4,M,16,25,20,22,M
+4_M_0122,COUNTRY,USA,the two countries,,4,M,16,25,20,22,M
+4_M_0123,ACTOR,USA\Trump,President Trump,,4,M,17,26,2,3,M
+4_M_0124,PROPERTY,Affection,make him perfect,Macron,4,M,17,26,16,18,M
+4_M_0125,ACTOR,USA\Trump,Trump,,4,M,18,27,24,24,M
+4_M_0126,PROPERTY,Affection,historic friendship,USA; FRA,4,M,18,27,16,17,M
+4_M_0127,COUNTRY,FRA,our two nations,,4,M,18,27,19,21,M
+4_M_0128,COUNTRY,USA,our two nations,,4,M,18,27,19,21,M
+4_M_0129,PROPERTY,Affection,wonderful friendship,Macron; Trump,4,M,18,27,2,3,M
+4_M_0130,ACTOR,FRA\Macron,Macron,,4,M,19,28,2,2,M
+4_M_0131,ACTOR,USA\Trump,Trump,,4,M,19,28,0,0,M
+4_M_0132,ACTOR,USA\Trump,Trump,,4,M,19,28,17,17,M
+4_M_0133,ACTOR,USA\Trump,Trump,,4,M,19,29,1,1,M
+4_M_0134,PROPERTY,Importance,protocol-laden pomp,Macron,4,M,19,28,6,7,M
+4_M_0135,ACTOR,FRA\Macron,the two leaders,,4,M,19,29,20,22,M
+4_M_0136,ACTOR,USA\Trump,the two leaders,,4,M,19,29,20,22,M
+4_M_0137,ACTOR,FRA\Macron,Macron,,4,M,20,30,10,10,M
+4_M_0138,COUNTRY,FRA,Paris,,4,M,20,30,18,18,M
+4_M_0139,ACTOR,USA\Trump,Trump,,4,M,20,31,10,10,M
+4_M_0140,COUNTRY,USA,Washington,,4,M,20,30,20,20,M
+4_M_0141,PROPERTY,Affection,close relationship,Macron; Trump,4,M,20,30,2,3,M
+4_M_0142,OBJECT,IRN nuclear deal,the Iran nuclear agreement,,4,M,20,31,4,7,M
+4_M_0143,ACTOR,FRA\Macron,the two leaders,,4,M,20,30,4,6,M
+4_M_0144,ACTOR,USA\Trump,the two leaders,,4,M,20,30,4,6,M
+4_M_0145,OBJECT,IRN nuclear deal,the worst deal ever negotiated,,4,M,20,31,16,20,M
+4_M_0146,PROPERTY,Difficulty,underscored deep policy differences,USA; FRA; Trump; Macron,4,M,20,30,13,16,M
+4_M_0147,PROPERTY,Poor quality,worst,IRN nuclear deal,4,M,20,31,17,17,M
+4_M_0148,MISC,Reactions on deal,worst deal ever negotiated,,4,M,20,31,17,20,M
+4_M_0149,ACTOR,USA\Obama,President Obama,,4,M,21,32,11,12,M
+4_M_0150,ACTOR,USA\Trump,Trump,,4,M,21,32,0,0,M
+4_M_0151,PROPERTY,Importance,centerpiece of his presidential campaign,IRN nuclear deal,4,M,21,32,15,19,M
+4_M_0152,PROPERTY,Reason,did little to soften,Trump,4,M,21,33,1,4,M
+4_M_0153,OBJECT,IRN nuclear deal,the Iran deal,,4,M,21,32,3,5,M
+4_M_0154,PROPERTY,Power,upending the Iran deal,Trump,4,M,21,32,2,5,M
+4_M_0155,MISC,Reactions on deal,upending the Iran deal,,4,M,21,32,2,5,M
+4_M_0156,MISC,Reactions on deal,It's insane,,4,M,22,34,1,3,M
+4_M_0157,MISC,Reactions on deal,It's ridiculous,,4,M,22,35,0,2,M
+4_M_0158,ACTOR,FRA\Macron,Macron,,4,M,22,36,18,18,M
+4_M_0159,ACTOR,USA\Trump,Trump,,4,M,22,36,8,8,M
+4_M_0160,PROPERTY,Poor quality,insane,IRN nuclear deal,4,M,22,34,3,3,M
+4_M_0161,PROPERTY,Poor quality,ridiculous,IRN nuclear deal,4,M,22,35,2,2,M
+4_M_0162,PROPERTY,Poor quality,should have never been made,IRN nuclear deal,4,M,22,36,1,5,M
+4_M_0163,MISC,Reactions on deal,should have never been made,,4,M,22,36,1,5,M
+4_M_0164,OBJECT,IRN nuclear deal,the deal,,4,M,22,36,11,12,M
+4_M_0165,PROPERTY,Power,will be talking about it,Macron; Trump,4,M,23,37,3,7,M
+4_M_0166,MISC,Reactions on deal,will be talking about it,,4,M,23,37,3,7,M
+4_M_0167,COUNTRY,IRN,Iran,,4,M,24,38,11,11,M
+4_M_0168,ACTOR,USA\Trump,Trump,,4,M,24,38,0,0,M
+4_M_0169,PROPERTY,Difficulty,certain to come up again,Trump,4,M,24,39,2,6,M
+4_M_0170,COUNTRY,IRN,Iran,,4,M,25,40,14,14,M
+4_M_0171,ACTOR,FRA\Macron,Macron,,4,M,25,40,3,3,M
+4_M_0172,ACTOR,USA\Trump,Trump,,4,M,25,40,5,5,M
+4_M_0173,PROPERTY,Power,more substantive talks on Iran than any other issue,Trump; Macron,4,M,25,40,10,18,M
+4_M_0174,COUNTRY,IRN,Iran,,4,M,26,41,10,10,M
+4_M_0175,ACTOR,FRA\Macron,Macron,,4,M,26,41,0,0,M
+4_M_0176,OBJECT,IRN new deal,a new deal,,4,M,26,41,6,8,M
+4_M_0177,PROPERTY,Power,limiting Tehran's ballistic missile program,IRN new deal,4,M,26,41,20,25,M
+4_M_0178,PROPERTY,Power,pursue a new deal,Macron,4,M,26,41,5,8,M
+4_M_0179,OBJECT,IRN nuclear deal,the existing agreement,,4,M,26,41,15,17,M
+4_M_0180,ACTOR,USA\Trump,Trump,,4,M,27,42,0,0,M
+4_M_0181,PROPERTY,Refusal,skeptical,IRN new deal,4,M,27,42,4,4,M
+4_M_0182,OBJECT,IRN new deal,such an agreement,,4,M,27,42,6,8,M
+4_M_0183,OBJECT,IRN new deal,new deal,,4,M,28,43,20,21,M
+4_M_0184,PROPERTY,Unsafety,whether or not it will be possible,IRN new deal,4,M,28,43,10,16,M
+4_M_0185,ACTOR,FRA\Macron,Macron,,4,M,29,44,5,5,M
+4_M_0186,ACTOR,FRA\Macron,The French president,,4,M,29,45,0,2,M
+4_M_0187,ACTOR,USA\Trump,Trump,,4,M,29,45,6,6,M
+4_M_0188,COUNTRY,USA,Washington,,4,M,29,45,15,15,M
+4_M_0189,PROPERTY,Aggressor,openly criticized,Macron,4,M,29,45,4,5,M

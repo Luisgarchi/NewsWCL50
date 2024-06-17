@@ -1,0 +1,162 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+1_R_0000,PROPERTY,Lawfulness,"'clearly' show no obstruction, collusion",Trump,1,R,0,0,5,12,R
+1_R_0001,ACTOR,USA\Comey,Comey,,1,R,0,0,3,3,R
+1_R_0002,OBJECT,Comey Memos,Comey memos,,1,R,0,0,3,4,R
+1_R_0003,ACTOR,USA\Trump,Trump,,1,R,0,0,0,0,R
+1_R_0004,EVENT,RUS interference,"no obstruction, collusion",,1,R,0,0,9,12,R
+1_R_0005,ACTOR,USA\Comey,Comey,,1,R,1,1,0,0,R
+1_R_0006,COUNTRY,USA,FBI,,1,R,1,1,2,2,R
+1_R_0007,PROPERTY,Other,claims,Comey,1,R,1,1,1,1,R
+1_R_0008,OBJECT,Comey Memos,redacted memos,,1,R,1,1,7,8,R
+1_R_0009,PROPERTY,Lawfulness,"""show clearly"" no collusion with Russia",Trump,1,R,2,2,17,24,R
+1_R_0010,ACTOR,USA\Trump,President Trump,,1,R,2,2,0,1,R
+1_R_0011,COUNTRY,RUS,Russia,,1,R,2,2,24,24,R
+1_R_0012,ACTOR,USA\Comey,former FBI Director James Comey,,1,R,2,2,12,16,R
+1_R_0013,EVENT,RUS interference,no collusion with Russia in 2016,,1,R,2,2,21,26,R
+1_R_0014,PROPERTY,Lawfulness,no obstruction,Trump,1,R,2,2,28,29,R
+1_R_0015,EVENT,Comey Memos\Russian Investigation,the investigation,,1,R,2,2,31,32,R
+1_R_0016,OBJECT,Comey Memos,the newly released memos,,1,R,2,2,6,9,R
+1_R_0017,ACTOR,USA\Comey,Comey,,1,R,3,3,7,7,R
+1_R_0018,ACTOR-I,USA\USA-Misc,Democrats,,1,R,3,4,1,1,R
+1_R_0019,COUNTRY,USA,FBI,,1,R,3,3,18,18,R
+1_R_0020,COUNTRY,USA,FBI,,1,R,3,4,10,10,R
+1_R_0021,COUNTRY,USA,GOP lawmakers,,1,R,3,3,24,25,R
+1_R_0022,OBJECT,Comey Memos,The memos,,1,R,3,3,0,1,R
+1_R_0023,ACTOR,USA\Trump,Trump,,1,R,3,3,12,12,R
+1_R_0024,ACTOR,USA\Trump,Trump,,1,R,3,4,4,4,R
+1_R_0025,PROPERTY,Other,alleged collusion,Trump,1,R,3,4,14,15,R
+1_R_0026,EVENT,RUS interference,alleged collusion leading up to the 2016 election,,1,R,3,4,14,21,R
+1_R_0027,PROPERTY,Other,claim,USA-Misc,1,R,3,4,2,2,R
+1_R_0028,MISC,Comey Memos\Interactions with Trump,his interaction with Trump,,1,R,3,3,9,12,R
+1_R_0029,PROPERTY,Safety,never felt obstructed,Comey,1,R,3,3,20,22,R
+1_R_0030,EVENT,Comey Memos\Russian Investigation,the FBI's investigation into alleged collusion,,1,R,3,4,9,15,R
+1_R_0031,ACTOR,USA\Comey,the fired FBI director,,1,R,3,3,16,19,R
+1_R_0032,PROPERTY,No trustworthiness,tried to hold up the FBI's investigation,Trump,1,R,3,4,5,12,R
+1_R_0033,ACTOR,USA\Comey,James Comey,,1,R,4,5,1,2,R
+1_R_0034,OBJECT,Comey Memos,James Comey Memos,,1,R,4,5,1,3,R
+1_R_0035,PROPERTY,Lawfulness,NO COLLUSION,Trump,1,R,4,5,11,12,R
+1_R_0036,EVENT,RUS interference,NO COLLUSION,,1,R,4,5,11,12,R
+1_R_0037,PROPERTY,Lawfulness,NO OBSTRUCTION,Trump,1,R,4,5,14,15,R
+1_R_0038,ACTOR,USA\Trump,Trump,,1,R,4,9,0,0,R
+1_R_0039,PROPERTY,Aggressor,Witch Hunt,Comey,1,R,4,8,2,3,R
+1_R_0040,PROPERTY,Victim,Witch Hunt,Trump,1,R,4,8,2,3,R
+1_R_0041,OBJECT,Comey Memos,classified information,,1,R,4,6,4,5,R
+1_R_0042,PROPERTY,No trustworthiness,leaked classified information,Comey,1,R,4,6,3,5,R
+1_R_0043,OBJECT,Comey Memos,the Witch Hunt,,1,R,4,8,1,3,R
+1_R_0044,ACTOR,USA\Comey,Comey,,1,R,5,10,17,17,R
+1_R_0045,OBJECT,Comey Memos,The memos,,1,R,5,10,0,1,R
+1_R_0046,ACTOR,USA\Trump,Trump,,1,R,5,10,15,15,R
+1_R_0047,PROPERTY,Confidence,expected loyalty,Trump,1,R,5,10,32,33,R
+1_R_0048,PROPERTY,Weakness,needed loyalty,Trump,1,R,5,10,29,30,R
+1_R_0049,ACTOR,USA\Comey,Comey,,1,R,6,11,0,0,R
+1_R_0050,ACTOR,USA\Comey,Comey,,1,R,6,12,5,5,R
+1_R_0051,PROPERTY,Weakness,I need loyalty,Trump,1,R,6,12,14,16,R
+1_R_0052,ACTOR,USA\Trump,Trump,,1,R,6,11,20,20,R
+1_R_0053,ACTOR,USA\Trump,Trump,,1,R,6,12,8,8,R
+1_R_0054,PROPERTY,Unsafety,did not reply,Comey,1,R,6,11,5,7,R
+1_R_0055,PROPERTY,Unsafety,even nod or change my facial expression,Comey,1,R,6,11,10,16,R
+1_R_0056,ACTOR,USA\Comey,Comey,,1,R,7,13,14,14,R
+1_R_0057,ACTOR,USA\Trump,Trump,,1,R,7,14,1,1,R
+1_R_0058,PROPERTY,Trustworthiness,always get honesty from me,Comey,1,R,7,13,6,10,R
+1_R_0059,ACTOR,USA\Comey,Comey,,1,R,8,16,11,11,R
+1_R_0060,PROPERTY,Honor,"loyalty to the office, the country, and the truth",Comey,1,R,8,16,41,51,R
+1_R_0061,PROPERTY,Trustworthiness,serve the President with loyalty,Comey,1,R,8,16,37,41,R
+1_R_0062,ACTOR,USA\Trump,the President,,1,R,8,16,38,39,R
+1_R_0063,MISC,Comey Memos\Interactions with Trump,the conversation,,1,R,8,16,32,33,R
+1_R_0064,ACTOR,USA\Comey,Comey,,1,R,9,18,10,10,R
+1_R_0065,COUNTRY,RUS,Russian officials,,1,R,9,18,35,36,R
+1_R_0066,ACTOR,USA\Trump,Trump,,1,R,9,18,13,13,R
+1_R_0067,EVENT,Comey Memos\Russian Investigation,investigation over contacts between Russian officials and members of his campaign,,1,R,9,18,31,41,R
+1_R_0068,PROPERTY,Lawfulness,not under investigation,Trump,1,R,9,18,29,31,R
+1_R_0069,PROPERTY,Power,pressed the FBI director,Trump,1,R,9,18,18,21,R
+1_R_0070,ACTOR,USA\Trump,the FBI director,,1,R,9,18,19,21,R
+1_R_0071,ACTOR,USA\Trump,the president,,1,R,9,18,26,27,R
+1_R_0072,ACTOR,USA\Comey,Comey,,1,R,10,19,29,29,R
+1_R_0073,ACTOR,USA\Trump,Trump,,1,R,10,19,4,4,R
+1_R_0074,ACTOR,USA\Trump,Trump,,1,R,10,20,1,1,R
+1_R_0075,PROPERTY,Weakness,several times asked me to find a way,Trump,1,R,10,20,14,21,R
+1_R_0076,COUNTRY,USA,the Congressional leadership,,1,R,10,19,21,23,R
+1_R_0077,ACTOR,USA\Comey,Comey,,1,R,11,21,17,17,R
+1_R_0078,OBJECT,Comey Memos,Comey's memos,,1,R,11,21,17,19,R
+1_R_0079,ACTOR-I,USA\USA-I,House Intelligence Committee Chairman Devin Nunes,,1,R,11,21,2,7,R
+1_R_0080,ACTOR-I,USA\USA-I,House Judiciary Committee Chairman Bob Goodlatte,,1,R,11,21,0,5,R
+1_R_0081,ACTOR-I,USA\USA-I,House Oversight Committee Chairman Trey Gowdy,,1,R,11,21,9,14,R
+1_R_0082,COUNTRY,RUS,Russia,,1,R,11,21,40,40,R
+1_R_0083,EVENT,RUS interference,"collusion, coordination, and conspiracy between his campaign and Russia",,1,R,11,21,30,40,R
+1_R_0084,PROPERTY,Confidence,joint statement,USA-I,1,R,11,21,14,15,R
+1_R_0085,ACTOR,USA\Trump,the President,,1,R,11,21,22,23,R
+1_R_0086,ACTOR,USA\Trump,President Trump,,1,R,12,22,10,11,R
+1_R_0087,OBJECT,Comey Memos,The memos,,1,R,12,22,1,2,R
+1_R_0088,COUNTRY,GBR,ex-British spy Christopher Steele,,1,R,12,22,44,47,R
+1_R_0089,PROPERTY,Unreason,"salacious, unsubstantiated allegations",Steele dossier,1,R,12,22,29,32,R
+1_R_0090,EVENT,RUS interference,the Russian interference in the 2016 election,,1,R,12,22,16,22,R
+1_R_0091,OBJECT,Comey Memos\Steele dossier,"the salacious, unsubstantiated allegations related to personal conduct leveled in the dossier",,1,R,12,22,28,40,R
+1_R_0092,ACTOR-I,USA\USA-I,House Minority Leader Nancy Pelosi,,1,R,13,23,0,4,R
+1_R_0093,ACTOR,USA\Trump,Trump,,1,R,13,23,20,20,R
+1_R_0094,PROPERTY,Unlawfulness,contempt for the rule of law,Trump,1,R,13,23,23,28,R
+1_R_0095,PROPERTY,Power,further proof,Comey Memos,1,R,13,23,16,17,R
+1_R_0096,PROPERTY,Good quality,further proof,Comey Memos,1,R,13,23,16,17,R
+1_R_0097,OBJECT,Comey Memos,the memos,,1,R,13,23,12,13,R
+1_R_0098,PROPERTY,Aggressor,attempts to intimidate,Trump,1,R,14,24,2,4,R
+1_R_0099,PROPERTY,Unlawfulness,circumvent the law,Trump,1,R,14,24,6,8,R
+1_R_0100,PROPERTY,Importance,demand immediate action,Trump,1,R,14,24,16,18,R
+1_R_0101,EVENT,Comey Memos\Russian Investigation,law enforcement investigations,,1,R,14,24,13,15,R
+1_R_0102,EVENT,Comey Memos\Russian Investigation,the Mueller investigation,,1,R,14,24,21,23,R
+1_R_0103,PROPERTY,Unlawfulness,undermine integrity of law enforcement investigations,Trump,1,R,14,24,10,15,R
+1_R_0104,ACTOR,USA\Comey,Comey,,1,R,15,25,3,3,R
+1_R_0105,ACTOR,USA\Flynn,Michael Flynn,,1,R,15,25,20,21,R
+1_R_0106,COUNTRY,RUS,Russian envoy to the U.S.,,1,R,15,25,38,42,R
+1_R_0107,ACTOR,USA\Trump,Trump,,1,R,15,25,5,5,R
+1_R_0108,COUNTRY,USA,Vice President Mike Pence,,1,R,15,25,30,33,R
+1_R_0109,PROPERTY,No trustworthiness,misleading,USA,1,R,15,25,29,29,R
+1_R_0110,COUNTRY,USA,national security adviser,,1,R,15,25,25,27,R
+1_R_0111,ACTOR,USA\Trump,the president,,1,R,15,25,15,16,R
+1_R_0117,ACTOR,USA\Comey,Comey,,1,R,17,26,2,2,R
+1_R_0118,ACTOR,USA\Comey,Comey,,1,R,17,26,55,55,R
+1_R_0119,ACTOR,USA\Trump,Trump,,1,R,17,26,0,0,R
+1_R_0120,PROPERTY,Lawfulness,he hadn't done anything,Trump,1,R,17,26,48,52,R
+1_R_0121,PROPERTY,No trustworthiness,some satellite,USA,1,R,17,26,14,15,R
+1_R_0122,COUNTRY,USA,some satellite,,1,R,17,26,14,15,R
+1_R_0123,MISC,Comey Memos\Interactions with Trump,their March 30 conversation,,1,R,17,26,4,7,R
+1_R_0124,ACTOR,USA\Comey,Comey,,1,R,18,27,0,0,R
+1_R_0125,ACTOR,USA\Trump,Trump,,1,R,18,27,2,2,R
+1_R_0126,PROPERTY,Weakness,hoped I could find a way to get out,Trump,1,R,18,27,14,22,R
+1_R_0127,ACTOR,USA\Trump,the president,,1,R,18,27,11,12,R
+1_R_0128,MISC,Comey Memos\Interactions with Trump,their conversation,,1,R,18,27,8,9,R
+1_R_0129,ACTOR,USA\Comey,Comey,,1,R,19,28,27,27,R
+1_R_0130,PROPERTY,Good quality,do the work well and as quickly as we could,Comey; USA,1,R,19,28,15,24,R
+1_R_0131,ACTOR,USA\Comey,Comey,,1,R,20,29,7,7,R
+1_R_0132,ACTOR,USA\Comey,Comey,,1,R,20,29,22,22,R
+1_R_0133,ACTOR-I,USA\USA-I,Goodlatte,,1,R,20,29,0,0,R
+1_R_0134,ACTOR-I,USA\USA-I,Gowdy,,1,R,20,29,2,2,R
+1_R_0135,ACTOR-I,USA\USA-I,Nunes,,1,R,20,29,4,4,R
+1_R_0136,PROPERTY,Poor quality,never once mentioned the most relevant fact of all,Comey,1,R,20,29,53,61,R
+1_R_0137,PROPERTY,Safety,never wrote that he felt obstructed or threatened,Comey,1,R,20,29,9,16,R
+1_R_0138,ACTOR,USA\Comey,Comey,,1,R,21,30,2,2,R
+1_R_0139,ACTOR,USA\Comey,Comey,,1,R,21,31,0,0,R
+1_R_0140,COUNTRY,USA,Dana Boente,,1,R,21,31,16,17,R
+1_R_0141,ACTOR,USA\Trump,Trump,,1,R,21,30,0,0,R
+1_R_0142,ACTOR,USA\Trump,Trump,,1,R,21,31,4,4,R
+1_R_0143,EVENT,Comey Memos\Russian Investigation,investigation,,1,R,21,30,28,28,R
+1_R_0144,COUNTRY,USA,then-Acting Attorney General,,1,R,21,31,13,15,R
+1_R_0145,ACTOR,USA\Comey,Comey,,1,R,22,32,8,8,R
+1_R_0146,ACTOR,USA\Trump,Trump,,1,R,22,32,1,1,R
+1_R_0147,ACTOR,USA\Trump,the president,,1,R,22,32,10,11,R
+1_R_0148,PROPERTY,Honor,very loyal,Trump,1,R,22,32,19,20,R
+1_R_0149,PROPERTY,Honor,very loyal,Trump,1,R,22,32,24,25,R
+1_R_0150,ACTOR,USA\Comey,Comey,,1,R,23,33,20,20,R
+1_R_0151,ACTOR,USA\Trump,Trump,,1,R,23,33,26,26,R
+1_R_0152,PROPERTY,Affection,great job,Comey,1,R,23,33,40,41,R
+1_R_0153,ACTOR,USA\Trump,the president,,1,R,23,33,31,32,R
+1_R_0154,ACTOR,USA\Comey,Comey,,1,R,24,34,10,10,R
+1_R_0155,ACTOR,USA\Trump,Trump,,1,R,24,34,13,13,R
+1_R_0156,OBJECT,Comey Memos\Steele dossier,salacious allegations,,1,R,24,34,24,25,R
+1_R_0157,PROPERTY,Unreason,salacious allegations,Steele dossier,1,R,24,34,24,25,R
+1_R_0158,OBJECT,Comey Memos\Steele dossier,the dossier,,1,R,24,34,30,31,R
+1_R_0159,PROPERTY,No trustworthiness,was a lie,Steele dossier,1,R,24,34,33,35,R
+1_R_0160,ACTOR,USA\Comey,Comey,,1,R,25,35,0,0,R
+1_R_0161,ACTOR,USA\Trump,Trump,,1,R,25,35,9,9,R
+1_R_0162,ACTOR,USA\Comey,Comey,,1,R,26,36,22,22,R
+1_R_0163,PROPERTY,Importance,bring it up to me repeatedly,Steele dossier,1,R,26,37,3,8,R
+1_R_0164,OBJECT,Comey Memos\Steele dossier,the dossier,,1,R,26,36,17,18,R
+1_R_0165,ACTOR,USA\Trump,the president,,1,R,26,36,6,7,R

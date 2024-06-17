@@ -1,0 +1,104 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+2_M_0000,COUNTRY,PRK,North Korea,,2,M,0,0,0,1,M
+2_M_0001,ACTION,PRK nuclear missile test suspension,suspend nuclear missile tests,,2,M,0,0,3,6,M
+2_M_0002,MISC,PRK plans to close down test site,will close nuke test site,,2,M,0,0,8,12,M
+2_M_0003,COUNTRY,PRK,North Korea,,2,M,1,1,0,1,M
+2_M_0004,ACTOR,PRK\Kim,North Korea's Kim,,2,M,1,1,0,3,M
+2_M_0005,ACTION,PRK nuclear missile test suspension,"suspends nuclear, missile test",,2,M,1,1,4,8,M
+2_M_0006,ACTOR,PRK\Kim,North Korean leader Kim Jong Un,,2,M,2,2,0,5,M
+2_M_0007,MISC,PRK plans to close down test site,plans to close a nuclear test site,,2,M,2,2,16,22,M
+2_M_0008,ACTION,PRK nuclear missile test suspension,suspend nuclear and long-range missile tests,,2,M,2,2,9,14,M
+2_M_0009,ACTOR,PRK\Kim,Kim,,2,M,3,4,0,0,M
+2_M_0010,EVENT,USA PRK summit,Kim is also in negotiations to meet with President Trump,,2,M,3,4,0,9,M
+2_M_0011,COUNTRY,PRK,North Korea's state media agency,,2,M,3,3,8,13,M
+2_M_0012,ACTOR,USA\Trump,President Trump,,2,M,3,4,8,9,M
+2_M_0013,ACTOR,KOR\Moon,South Korean President Moon Jae-in,,2,M,3,3,30,34,M
+2_M_0014,COUNTRY,PRK,The Korean Central News Agency,,2,M,3,3,0,4,M
+2_M_0015,MISC,PRK KOR end of military conflict,ongoing peace talks,,2,M,3,3,26,28,M
+2_M_0016,PROPERTY,Weakness,reclusive,Kim,2,M,3,3,22,22,M
+2_M_0017,EVENT,Kim's announcement,the announcement,,2,M,3,3,16,17,M
+2_M_0018,ACTOR,PRK\Kim,the nation's reclusive leader,,2,M,3,3,19,23,M
+2_M_0019,ACTOR,PRK\Kim,Kim,,2,M,4,5,25,25,M
+2_M_0020,COUNTRY,PRK,Worker's Party of Korea,,2,M,4,5,32,36,M
+2_M_0021,PROPERTY,Good quality,completed its mission,PRK nuclear tests/capabilities,2,M,4,5,46,48,M
+2_M_0022,ACTION,PRK nuclear missile test suspension,not necessary for us to conduct any more nuclear tests,,2,M,4,5,13,22,M
+2_M_0023,MISC,PRK plans to close down test site,nuclear test site has completed its mission,,2,M,4,5,42,48,M
+2_M_0024,MISC,PRK nuclear tests/capabilities,the weaponisation of nuclear weapons,,2,M,4,5,2,6,M
+2_M_0025,COUNTRY,KOR,South and North Korea,,2,M,5,6,0,3,M
+2_M_0026,COUNTRY,PRK,South and North Korea,,2,M,5,6,0,3,M
+2_M_0027,MISC,PRK KOR end of military conflict,official end to the military conflict,,2,M,5,6,10,15,M
+2_M_0028,ACTOR-I,KOR\KOR-Misc,the Munhwa Ilbo newspaper,,2,M,5,6,27,30,M
+2_M_0029,COUNTRY,KOR,the two countries,,2,M,5,6,17,19,M
+2_M_0030,COUNTRY,PRK,the two countries,,2,M,5,6,17,19,M
+2_M_0031,PROPERTY,Other,unidentified,KOR,2,M,5,6,35,35,M
+2_M_0032,ACTOR-I,KOR\KOR-I,unidentified South Korean official,,2,M,5,6,35,38,M
+2_M_0033,COUNTRY,PRK,The Korean Central News Agency,,2,M,6,7,0,4,M
+2_M_0034,ACTION,PRK nuclear missile test suspension,freeze its nuclear tests and long-range missiles,,2,M,6,7,9,15,M
+2_M_0035,MISC,PRK nuclear tests/capabilities,intercontinental ballistic missiles,,2,M,6,7,18,20,M
+2_M_0036,PROPERTY,Trustworthiness,prove the vow,PRK,2,M,7,8,21,23,M
+2_M_0037,ACTION,PRK nuclear missile test suspension,prove the vow to suspend nuclear test,,2,M,7,8,21,27,M
+2_M_0038,MISC,PRK plans to close down test site,shut down a nuclear test site,,2,M,7,8,8,13,M
+2_M_0039,COUNTRY,PRK,the North,,2,M,7,8,5,6,M
+2_M_0040,ACTOR,USA\Trump,President Trump,,2,M,8,9,4,5,M
+2_M_0041,EVENT,Kim's announcement,the announcement,,2,M,8,9,1,2,M
+2_M_0042,EVENT,Kim's announcement,the move,,2,M,8,9,10,11,M
+2_M_0043,PROPERTY,Affection,very good news,PRK nuclear missile test suspension; PRK plans to close down test site,2,M,8,9,14,16,M
+2_M_0044,PROPERTY,Affection,Look forward,USA PRK summit,2,M,9,12,0,1,M
+2_M_0045,COUNTRY,PRK,North Korea,,2,M,9,10,1,2,M
+2_M_0046,COUNTRY,PRK,North Korea,,2,M,9,11,7,8,M
+2_M_0047,EVENT,USA PRK summit,Summit,,2,M,9,12,4,4,M
+2_M_0048,MISC,PRK plans to close down test site,close up a major test site,,2,M,9,10,11,16,M
+2_M_0049,ACTION,PRK nuclear missile test suspension,suspend all Nuclear Tests,,2,M,9,10,6,9,M
+2_M_0050,PROPERTY,Affection,very good news,PRK nuclear missile test suspension; PRK plans to close down test site,2,M,9,11,3,5,M
+2_M_0051,ACTOR,PRK\Kim,Kim,,2,M,10,13,14,14,M
+2_M_0052,ACTOR,USA\Trump,President Trump,,2,M,10,13,4,5,M
+2_M_0053,PROPERTY,Difficulty,expressed a caution,Trump,2,M,10,13,6,8,M
+2_M_0054,PROPERTY,Poor quality,"not ""fruitful.""",USA PRK summit,2,M,10,13,27,31,M
+2_M_0055,EVENT,USA PRK summit,the meeting,,2,M,10,13,21,22,M
+2_M_0056,EVENT,USA PRK summit,the planned meeting,,2,M,10,13,10,12,M
+2_M_0057,COUNTRY,PRK,North Korea,,2,M,11,14,4,5,M
+2_M_0058,ACTOR,USA\Trump,Trump,,2,M,11,14,9,9,M
+2_M_0059,PROPERTY,Confidence,exuding confidence,Trump,2,M,11,14,1,2,M
+2_M_0060,PROPERTY,Difficulty,lack of agreement,USA PRK summit,2,M,11,14,26,28,M
+2_M_0061,PROPERTY,Poor quality,not be successful,USA PRK summit,2,M,11,14,37,39,M
+2_M_0062,EVENT,USA PRK summit,the yet-to-be scheduled summit,,2,M,11,14,15,18,M
+2_M_0063,ACTOR,USA\Trump,Trump,,2,M,12,15,12,12,M
+2_M_0064,PROPERTY,Good quality,a great success,USA PRK summit,2,M,12,15,7,9,M
+2_M_0065,EVENT,USA PRK summit,that meeting,,2,M,12,15,3,4,M
+2_M_0066,ACTOR,PRK\Kim,Kim,,2,M,13,16,23,23,M
+2_M_0067,COUNTRY,PRK,North Korea,,2,M,13,16,3,4,M
+2_M_0068,ACTOR,USA\Trump,Trump,,2,M,13,16,25,25,M
+2_M_0069,PROPERTY,Importance,a dangerous slinging of insults,Kim; Trump,2,M,13,16,17,21,M
+2_M_0070,PROPERTY,Aggressor,a dangerous slinging of insults,Kim; Trump,2,M,13,16,17,21,M
+2_M_0071,PROPERTY,Importance,helped escalate,PRK nuclear tests/capabilities,2,M,13,16,15,16,M
+2_M_0072,MISC,PRK nuclear tests/capabilities,missile tests,,2,M,13,16,6,7,M
+2_M_0073,PROPERTY,Power,raised concerns,PRK nuclear tests/capabilities,2,M,13,16,9,10,M
+2_M_0074,EVENT,Kim's announcement,Friday's announcement,,2,M,14,17,0,2,M
+2_M_0075,COUNTRY,PRK,North Korea,,2,M,14,17,35,36,M
+2_M_0076,ACTOR,USA\Trump,Trump,,2,M,14,17,25,25,M
+2_M_0077,ACTION,PRK nuclear missile test suspension,a freeze on tests,,2,M,14,17,4,7,M
+2_M_0078,PROPERTY,Affection,a step in the right direction,PRK nuclear missile test suspension; PRK plans to close down test site,2,M,14,17,18,23,M
+2_M_0079,PROPERTY,Difficulty,challenging,Denuclearization,2,M,14,17,51,51,M
+2_M_0080,MISC,Denuclearization,gives up its nuclear weapons,,2,M,14,17,37,41,M
+2_M_0081,MISC,PRK plans to close down test site,the shutdown of a facility,,2,M,14,17,9,13,M
+2_M_0082,PROPERTY,Difficulty,strings might be attached,PRK plans to close down test site; Denuclearization,2,M,15,18,5,8,M
+2_M_0083,ACTION,PRK nuclear missile test suspension,the freeze of tests,,2,M,15,18,10,13,M
+2_M_0084,MISC,PRK plans to close down test site,the freeze of tests,,2,M,15,18,10,13,M
+2_M_0085,ACTION,PRK nuclear missile test suspension,this suspension,,2,M,15,18,17,18,M
+2_M_0086,PROPERTY,Unsafety,unclear,PRK plans to close down test site; Denuclearization,2,M,15,18,3,3,M
+2_M_0087,PROPERTY,No trustworthiness,Both times it backtracked,PRK,2,M,16,20,0,3,M
+2_M_0088,COUNTRY,PRK,North Korea,,2,M,16,19,0,1,M
+2_M_0089,MISC,Denuclearization,abandon its nuclear programs,,2,M,16,19,10,13,M
+2_M_0090,PROPERTY,Trustworthiness,pledged,PRK,2,M,16,19,3,3,M
+2_M_0091,COUNTRY,USA,Tom Karako,,2,M,17,21,0,1,M
+2_M_0092,ACTOR-I,USA\USA-I,Tom Karako,,2,M,17,21,0,1,M
+2_M_0093,COUNTRY,USA,director of the Missile Defense Project at the Center for Strategic and International Studies,,2,M,17,21,3,16,M
+2_M_0094,ACTOR-I,USA\USA-I,director of the Missile Defense Project at the Center for Strategic and International Studies,,2,M,17,21,3,16,M
+2_M_0095,COUNTRY,PRK,the North,,2,M,17,21,21,22,M
+2_M_0096,COUNTRY,KOR,South Korea,,2,M,18,22,13,14,M
+2_M_0097,COUNTRY,PRK,The North,,2,M,18,22,0,1,M
+2_M_0098,COUNTRY,USA,advanced missile defense system and nuclear equipment,,2,M,18,22,21,27,M
+2_M_0099,PROPERTY,Other,curtail joint exercises,KOR; USA,2,M,18,22,9,11,M
+2_M_0100,COUNTRY,USA,the U.S.,,2,M,18,22,6,7,M
+2_M_0101,COUNTRY,PRK,South Korea,,2,M,19,23,8,9,M
+2_M_0102,COUNTRY,USA,U.S. troops,,2,M,19,23,5,6,M

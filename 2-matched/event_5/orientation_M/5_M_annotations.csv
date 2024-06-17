@@ -1,0 +1,94 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+5_M_0000,ACTOR,USA\Trump,Trump,,5,M,0,0,0,0,M
+5_M_0001,EVENT,Visit Trump UK,Trump will visit UK,,5,M,0,0,0,3,M
+5_M_0002,COUNTRY,GBR,UK,,5,M,0,0,3,3,M
+5_M_0003,ACTION,Break UK visits,more than a year of suspense,,5,M,0,0,8,13,M
+5_M_0004,PROPERTY,Unsafety,year of suspense,Break UK visits,5,M,0,0,11,13,M
+5_M_0005,ACTOR,GBR\May,British Prime Minister Theresa May,,5,M,1,1,18,22,M
+5_M_0006,ACTOR,USA\Trump,President Trump,,5,M,1,1,2,3,M
+5_M_0007,EVENT,Visit Trump UK,Trump will travel to the United Kingdom,,5,M,1,1,3,9,M
+5_M_0008,COUNTRY,GBR,a close ally,,5,M,1,1,38,40,M
+5_M_0009,ACTOR,GBR\May,a close ally,,5,M,1,1,38,40,M
+5_M_0010,ACTION,Break UK visits,a series of declined invitations,,5,M,1,1,25,29,M
+5_M_0011,EVENT,Visit Trump UK,a working visit,,5,M,1,1,14,16,M
+5_M_0012,ACTION,Break UK visits,missed opportunities,,5,M,1,1,34,35,M
+5_M_0013,PROPERTY,Poor quality,missed opportunities,Break UK visits,5,M,1,1,34,35,M
+5_M_0014,ACTION,Break UK visits,scheduling conflicts,,5,M,1,1,31,32,M
+5_M_0015,COUNTRY,GBR,the United Kingdom,,5,M,1,1,7,9,M
+5_M_0016,COUNTRY,GBR,The prime minister's office,,5,M,2,2,0,4,M
+5_M_0017,PROPERTY,Other,did not elaborate on their expected agenda,GBR,5,M,2,2,15,21,M
+5_M_0018,ACTOR,GBR\May,the two leaders,,5,M,2,2,7,9,M
+5_M_0019,ACTOR,USA\Trump,the two leaders,,5,M,2,2,7,9,M
+5_M_0020,ACTOR,USA\Trump,Trump,,5,M,3,3,14,14,M
+5_M_0021,COUNTRY,USA,U.S. Embassy in London,,5,M,3,4,10,13,M
+5_M_0022,EVENT,Visit Trump UK,"a ""warm welcome.""",,5,M,3,3,30,35,M
+5_M_0023,PROPERTY,Victim,bad deal,USA,5,M,3,4,22,23,M
+5_M_0024,ACTION,Break UK visits,declined to attend the opening of a new U.S. Embassy in London,,5,M,3,4,2,13,M
+5_M_0025,PROPERTY,Difficulty,months of drama,Visit Trump UK,5,M,3,3,3,5,M
+5_M_0026,PROPERTY,Unsafety,months of drama,Visit Trump UK,5,M,3,3,3,5,M
+5_M_0027,ACTION,Break UK visits,"months of drama about the on-again, off-again visit,",,5,M,3,3,3,11,M
+5_M_0028,PROPERTY,Importance,multi-billion-dollar,USA,5,M,3,4,17,17,M
+5_M_0029,EVENT,Visit Trump UK,opportunities for a formal state visit,,5,M,3,3,17,22,M
+5_M_0030,COUNTRY,USA,the multi-billion-dollar building,,5,M,3,4,16,18,M
+5_M_0031,EVENT,Visit Trump UK,"the on-again, off-again visit,",,5,M,3,3,7,11,M
+5_M_0032,ACTION,Break UK visits,turning down opportunities for a formal state visit,,5,M,3,3,15,22,M
+5_M_0033,COUNTRY,GBR,Britain,,5,M,4,5,4,4,M
+5_M_0034,ACTOR,GBR\GBR-Misc\Khan,London Mayor Sadiq Khan,,5,M,4,5,7,10,M
+5_M_0035,ACTOR,USA\Trump,Trump,,5,M,4,5,0,0,M
+5_M_0036,ACTOR,USA\Trump,Trump,,5,M,4,5,24,24,M
+5_M_0037,PROPERTY,Aggressor,anti-Muslim policies,Trump,5,M,4,5,26,27,M
+5_M_0038,PROPERTY,Aggressor,has emerged as an unlikely foil,GBR-Misc,5,M,4,5,11,16,M
+5_M_0039,PROPERTY,Refusal,is unpopular,Trump,5,M,4,5,1,2,M
+5_M_0040,ACTOR,USA\Trump,president,,5,M,4,5,19,19,M
+5_M_0041,PROPERTY,Weakness,pushing back against,GBR-Misc,5,M,4,5,21,23,M
+5_M_0042,EVENT,Protest,A petition,,5,M,5,7,0,1,M
+5_M_0043,OBJECT,GBR\London,London,,5,M,5,6,8,8,M
+5_M_0044,COUNTRY,GBR,Parliament,,5,M,5,7,24,24,M
+5_M_0045,ACTOR,USA\Trump,Trump,,5,M,5,6,0,0,M
+5_M_0046,PROPERTY,Negative,been banned from parts of London,Trump,5,M,5,6,3,8,M
+5_M_0047,PROPERTY,Importance,large-scale,Protest,5,M,5,6,15,15,M
+5_M_0048,EVENT,Protest,large-scale protests,,5,M,5,6,15,16,M
+5_M_0049,PROPERTY,Power,signed by more than 1.8 million people,Protest,5,M,5,7,2,8,M
+5_M_0050,EVENT,State Visit,state visit,,5,M,5,7,18,19,M
+5_M_0051,COUNTRY,GBR,the British government,,5,M,5,7,12,14,M
+5_M_0052,PROPERTY,Power,triggered a debate,Protest,5,M,5,7,20,22,M
+5_M_0053,PROPERTY,Power,urging the British government to cancel any state visit,Protest,5,M,5,7,11,19,M
+5_M_0054,ACTOR,USA\Trump,Donald Trump,,5,M,6,8,2,3,M
+5_M_0055,ACTOR-I,GBR\GBR-Misc,Kate Allen,,5,M,6,8,26,27,M
+5_M_0056,ACTOR-I,GBR\GBR-Misc,a London-headquartered humanitarian organization,,5,M,6,8,36,39,M
+5_M_0057,EVENT,Visit Trump UK,arrives on these shores,,5,M,6,8,4,7,M
+5_M_0058,EVENT,Protest,making our voices heard,,5,M,6,8,19,22,M
+5_M_0059,ACTOR-I,GBR\GBR-Misc,the U.K. director of Amnesty International,,5,M,6,8,29,34,M
+5_M_0060,COUNTRY,GBR,these shores,,5,M,6,8,6,7,M
+5_M_0061,ACTOR-I,GBR\GBR-Misc,thousands of our supporters,,5,M,6,8,11,14,M
+5_M_0062,PROPERTY,Confidence,very definitely be making our voices heard,GBR-Misc,5,M,6,8,16,22,M
+5_M_0063,PROPERTY,Power,very definitely be making our voices heard,GBR-Misc,5,M,6,8,16,22,M
+5_M_0064,ACTOR-I,GBR\GBR-Misc,David Lammy,,5,M,7,9,0,1,M
+5_M_0065,ACTOR-I,GBR\GBR-Misc,a British politician from the opposition Labour Party,,5,M,7,9,3,10,M
+5_M_0066,EVENT,Protest,demonstrations,,5,M,7,9,34,34,M
+5_M_0067,PROPERTY,Power,good at making placards,GBR-Misc,5,M,7,9,23,26,M
+5_M_0068,PROPERTY,Other,tongue firmly in cheek,GBR-Misc,5,M,7,10,10,13,M
+5_M_0069,ACTOR-I,GBR\GBR-I,Queen Elizabeth II,,5,M,8,11,18,20,M
+5_M_0070,EVENT,Visit Trump UK,Trump's visit,,5,M,8,11,1,3,M
+5_M_0071,EVENT,State Visit,a state one,,5,M,8,11,7,9,M
+5_M_0072,EVENT,Visit Trump UK,unlikely to meet Queen Elizabeth II,,5,M,8,11,15,20,M
+5_M_0073,PROPERTY,Poor quality,will not be a state one,Visit Trump UK,5,M,8,11,4,9,M
+5_M_0074,COUNTRY,USA,Sarah Huckabee Sanders,,5,M,9,12,7,9,M
+5_M_0075,COUNTRY,USA,Washington,,5,M,9,12,1,1,M
+5_M_0076,COUNTRY,USA,White House,,5,M,9,12,3,4,M
+5_M_0077,COUNTRY,USA,White House,,5,M,9,12,16,17,M
+5_M_0078,ACTOR-I,USA\USA-I,White House correspondents,,5,M,9,12,16,18,M
+5_M_0079,COUNTRY,USA,White House press secretary,,5,M,9,12,3,6,M
+5_M_0080,COUNTRY,GBR,the royal family,,5,M,9,12,36,38,M
+5_M_0081,COUNTRY,USA,The Trump family,,5,M,10,14,0,2,M
+5_M_0082,ACTOR,USA\Trump,Trump,,5,M,10,14,1,1,M
+5_M_0083,ACTOR,USA\Trump,Trump,,5,M,10,15,1,1,M
+5_M_0084,COUNTRY,GBR,U.K.,,5,M,10,15,10,10,M
+5_M_0085,PROPERTY,Aggressor,accused him,Trump,5,M,10,15,26,27,M
+5_M_0086,PROPERTY,Difficulty,face off with residents,Trump,5,M,10,15,13,16,M
+5_M_0087,PROPERTY,No trustworthiness,making grandiose claims,Trump,5,M,10,15,29,31,M
+5_M_0088,ACTOR-I,GBR\GBR-Misc,residents of a small coastal community,,5,M,10,15,16,21,M
+5_M_0089,PROPERTY,Aggressor,resorting to bullying and other unsavory tactics,Trump,5,M,10,15,33,39,M
+5_M_0090,EVENT,Visit Trump UK,visiting the U.K.,,5,M,10,15,8,10,M
+5_M_0091,EVENT,Visit Trump UK,The visit,,5,M,11,16,0,1,M
+5_M_0092,ACTOR,USA\Trump,Trump,,5,M,11,16,14,14,M

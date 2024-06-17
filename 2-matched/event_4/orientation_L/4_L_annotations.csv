@@ -1,0 +1,292 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+4_L_0000,PROPERTY,Power,Constrain,Trump,4,L,0,0,10,10,L
+4_L_0001,COUNTRY,IRN,Iran,,4,L,0,0,11,11,L
+4_L_0002,OBJECT,IRN new deal,New Deal,,4,L,0,0,6,7,L
+4_L_0003,PROPERTY,Affection,Signals Openness,IRN new deal,4,L,0,0,1,2,L
+4_L_0004,ACTOR,USA\Trump,Trump,,4,L,0,0,0,0,L
+4_L_0005,ACTOR,FRA\Macron,President Emmanuel Macron of France,,4,L,1,1,11,15,L
+4_L_0006,ACTOR,USA\Trump,President Trump,,4,L,1,1,0,1,L
+4_L_0007,PROPERTY,Affection,welcomed,Macron,4,L,1,1,10,10,L
+4_L_0008,ACTOR,USA\Trump,President Trump,,4,L,2,2,2,3,L
+4_L_0009,COUNTRY,IRN,Tehran,,4,L,2,2,33,33,L
+4_L_0010,PROPERTY,Power,expanding and extending its terms to constrain,IRN new deal,4,L,2,2,26,32,L
+4_L_0011,OBJECT,IRN new deal,new arrangement,,4,L,2,2,13,14,L
+4_L_0012,OBJECT,IRN nuclear deal,the Iran nuclear agreement,,4,L,2,2,21,24,L
+4_L_0013,PROPERTY,Affection,was open to,IRn new deal,4,L,2,2,9,11,L
+4_L_0014,MISC,Reactions on deal,was open to a new arrangement,,4,L,2,2,9,14,L
+4_L_0015,PROPERTY,Power,would preserve the Iran nuclear agreement,IRN new deal,4,L,2,2,19,24,L
+4_L_0016,COUNTRY,USA,American and European officials,,4,L,3,3,44,47,L
+4_L_0017,ACTOR,USA\Trump,Mr. Trump,,4,L,3,3,11,12,L
+4_L_0018,ACTOR,FRA\Macron,President Emmanuel Macron of France,,4,L,3,3,1,5,L
+4_L_0019,OBJECT,IRN new deal,a new deal,,4,L,3,3,38,40,L
+4_L_0020,PROPERTY,Aggressor,assailed,Trump,4,L,3,3,14,14,L
+4_L_0021,PROPERTY,Victim,assailed,IRN nuclear deal,4,L,3,3,14,14,L
+4_L_0022,PROPERTY,Affection,could agree to,IRN new deal,4,L,3,3,34,36,L
+4_L_0023,PROPERTY,Unreason,insane,IRN nuclear deal,4,L,3,3,24,24,L
+4_L_0024,PROPERTY,Unsafety,leaving it unclear,IRN nuclear deal,4,L,3,4,7,9,L
+4_L_0025,PROPERTY,Unsafety,made no commitment,Trump,4,L,3,4,1,3,L
+4_L_0026,PROPERTY,Unreason,ridiculous,IRN nuclear deal,4,L,3,3,28,28,L
+4_L_0027,OBJECT,IRN nuclear deal,the Iran agreement,,4,L,3,4,31,33,L
+4_L_0028,ACTOR,USA\Obama,the Obama administration,,4,L,3,3,19,21,L
+4_L_0029,OBJECT,IRN nuclear deal,the agreement,,4,L,3,3,15,16,L
+4_L_0030,OBJECT,IRN nuclear deal,the agreement,,4,L,3,4,16,17,L
+4_L_0031,PROPERTY,Refusal,walk away from it,IRN nuclear deal,4,L,3,4,35,38,L
+4_L_0032,PROPERTY,Power,"""fix"" the Iran agreement",Trump,4,L,3,4,28,33,L
+4_L_0033,PROPERTY,Affection,Dispensing with harsh criticism,Kim,4,L,4,6,0,3,L
+4_L_0034,PROPERTY,Positive,Dispensing with harsh criticism,Trump,4,L,4,6,0,3,L
+4_L_0035,ACTOR,PRK\Kim,Kim Jong-un,,4,L,4,5,29,30,L
+4_L_0036,ACTOR,PRK\Kim,Mr. Kim,,4,L,4,6,12,13,L
+4_L_0037,ACTOR,USA\Trump,Mr. Trump,,4,L,4,5,5,6,L
+4_L_0038,ACTOR,USA\Trump,Mr. Trump,,4,L,4,6,8,9,L
+4_L_0039,COUNTRY,PRK,North Korea,,4,L,4,5,16,17,L
+4_L_0040,PROPERTY,Power,brokering a nuclear accord,Trump,4,L,4,5,11,14,L
+4_L_0041,ACTOR,PRK\Kim,its leader,,4,L,4,5,26,27,L
+4_L_0042,COUNTRY,PRK,one of the world's most authoritarian governments,,4,L,4,6,23,30,L
+4_L_0043,PROPERTY,Affection,praised,Kim,4,L,4,6,11,11,L
+4_L_0044,PROPERTY,Power,prepares for a summit meeting,Trump,4,L,4,5,20,24,L
+4_L_0045,PROPERTY,Confidence,signaled more optimism,Trump,4,L,4,5,7,9,L
+4_L_0046,PROPERTY,Affection,strikingly positive terms,Kim,4,L,4,6,15,17,L
+4_L_0047,ACTOR,PRK\Kim,the head of one of the world's most authoritarian governments,,4,L,4,6,20,30,L
+4_L_0048,PROPERTY,Affection,very honorable,PRK,4,L,4,6,35,36,L
+4_L_0049,PROPERTY,Honor,very honorable,PRK,4,L,4,6,35,36,L
+4_L_0050,PROPERTY,Affection,very open,PRK,4,L,4,6,32,33,L
+4_L_0051,COUNTRY,USA,American foreign policy,,4,L,5,7,24,26,L
+4_L_0052,COUNTRY,IRN,Iran,,4,L,5,7,12,12,L
+4_L_0053,COUNTRY,IRN,Iran,,4,L,5,8,11,11,L
+4_L_0054,ACTOR,PRK\Kim,Mr. Kim,,4,L,5,8,29,30,L
+4_L_0055,ACTOR,USA\Trump,Mr. Kim,,4,L,5,8,29,30,L
+4_L_0056,ACTOR,FRA\Macron,Mr. Macron,,4,L,5,7,3,4,L
+4_L_0057,ACTOR,USA\Trump,Mr. Trump,,4,L,5,8,0,1,L
+4_L_0058,COUNTRY,PRK,North Korea,,4,L,5,7,14,15,L
+4_L_0059,COUNTRY,PRK,North Korea,,4,L,5,8,21,22,L
+4_L_0060,PROPERTY,Importance,anticipated talks,PRK; USA,4,L,5,8,18,19,L
+4_L_0061,PROPERTY,Importance,far-reaching consequences,IRN; PRK,4,L,5,7,21,22,L
+4_L_0062,PROPERTY,Other,have increasingly intersected,IRN; PRK,4,L,5,7,16,18,L
+4_L_0063,PROPERTY,Importance,inevitably influence,Trump,4,L,5,8,15,16,L
+4_L_0064,MISC,Reactions on deal,keep or dump,,4,L,5,8,7,9,L
+4_L_0065,ACTOR,USA\Trump,the American president,,4,L,5,8,39,41,L
+4_L_0066,OBJECT,IRN nuclear deal,the Iran nuclear agreement,,4,L,5,8,10,13,L
+4_L_0067,COUNTRY,USA,American and European negotiators,,4,L,6,9,22,25,L
+4_L_0068,COUNTRY,IRN,Iran,,4,L,6,9,19,19,L
+4_L_0069,COUNTRY,IRN,Iran,,4,L,6,10,0,0,L
+4_L_0070,ACTOR,FRA\Macron,Mr. Macron,,4,L,6,9,0,1,L
+4_L_0071,ACTOR,USA\Trump,Mr. Trump,,4,L,6,9,14,15,L
+4_L_0072,COUNTRY,IRN,Tehran,,4,L,6,9,35,35,L
+4_L_0073,PROPERTY,Power,anxious to persuade Mr. Trump,Macron,4,L,6,9,11,15,L
+4_L_0074,PROPERTY,Power,further restrain,USA,4,L,6,9,33,34,L
+4_L_0075,PROPERTY,Importance,"if violated, would prompt the West to reimpose sanctions",IRN new deal,4,L,6,10,20,29,L
+4_L_0076,PROPERTY,Importance,outline standards for its behavior,IRN new deal,4,L,6,10,13,17,L
+4_L_0077,MISC,Reactions on deal,persuade Mr. Trump to preserve,,4,L,6,9,13,17,L
+4_L_0078,OBJECT,IRN new deal,seek to create side deals,,4,L,6,9,26,30,L
+4_L_0079,PROPERTY,Power,seek to create side deals,USA,4,L,6,9,26,30,L
+4_L_0080,MISC,Reactions on deal,seek to create side deals,,4,L,6,9,26,30,L
+4_L_0081,OBJECT,IRN nuclear deal,the Iran agreement,,4,L,6,9,18,20,L
+4_L_0082,ACTOR,FRA\Macron,the emissary from European allies,,4,L,6,9,6,10,L
+4_L_0083,OBJECT,IRN new deal,these agreements,,4,L,6,10,7,8,L
+4_L_0084,ACTOR,FRA\Macron,Mr. Macron,,4,L,7,11,7,8,L
+4_L_0085,ACTOR-I,USA\USA-I,Aides,,4,L,8,13,0,0,L
+4_L_0086,ACTOR,FRA\Macron,Mr. Macron,,4,L,8,13,8,9,L
+4_L_0087,ACTOR,USA\Trump,Mr. Trump,,4,L,8,12,0,1,L
+4_L_0088,COUNTRY,IRN,Tehran,,4,L,8,13,27,27,L
+4_L_0089,PROPERTY,Weakness,coy about,Trump,4,L,8,12,20,21,L
+4_L_0090,PROPERTY,Weakness,entreaties,Macron,4,L,8,13,11,11,L
+4_L_0091,PROPERTY,Weakness,hoped to push back against,Trump,4,L,8,13,3,7,L
+4_L_0092,PROPERTY,Other,likes to leave his options open,Trump,4,L,8,12,4,9,L
+4_L_0093,PROPERTY,Other,make his decisions at the last moment,Trump,4,L,8,12,11,17,L
+4_L_0094,OBJECT,IRN nuclear deal,the Iran agreement,,4,L,8,12,33,35,L
+4_L_0095,PROPERTY,Aggressor,threat to tear up,Trump,4,L,8,12,29,32,L
+4_L_0096,PROPERTY,Victim,threat to tear up,IRN nuclear deal,4,L,8,12,29,32,L
+4_L_0097,MISC,Reactions on deal,threat to tear up,,4,L,8,12,29,32,L
+4_L_0098,ACTOR,FRA\Macron,Mr. Macron,,4,L,9,14,31,32,L
+4_L_0099,ACTOR,FRA\Macron,Mr. President,,4,L,9,14,14,15,L
+4_L_0100,ACTOR,USA\Trump,Mr. President,,4,L,9,14,14,15,L
+4_L_0101,PROPERTY,Other,Nobody knows what I'm going to do,Trump,4,L,9,14,1,8,L
+4_L_0102,OBJECT,IRN nuclear deal,a bad deal,,4,L,9,18,2,4,L
+4_L_0103,PROPERTY,Poor quality,a bad deal,IRN nuclear deal,4,L,9,18,2,4,L
+4_L_0104,OBJECT,IRN nuclear deal,a bad structure,,4,L,9,19,2,4,L
+4_L_0105,PROPERTY,Poor quality,a bad structure,IRN nuclear deal,4,L,9,19,2,4,L
+4_L_0106,OBJECT,IRN nuclear deal,a deal with decayed foundations,,4,L,9,17,3,7,L
+4_L_0107,OBJECT,IRN new deal,a new deal,,4,L,9,16,22,24,L
+4_L_0108,PROPERTY,Poor quality,decayed foundations,IRN nuclear deal,4,L,9,17,6,7,L
+4_L_0109,PROPERTY,Poor quality,falling down,IRN nuclear deal,4,L,9,20,2,3,L
+4_L_0110,PROPERTY,Reason,have a pretty good idea,Macron,4,L,9,14,18,22,L
+4_L_0111,PROPERTY,Poor quality,"should have never, ever been made",IRN nuclear deal,4,L,9,21,1,7,L
+4_L_0112,PROPERTY,Unsafety,we'll see also if I do what some people expect,Trump,4,L,9,16,1,11,L
+4_L_0113,PROPERTY,Unsafety,whether or not it will be possible,IRN new deal,4,L,9,16,13,19,L
+4_L_0114,PROPERTY,Reason,winked at him in silent reply,Macron,4,L,9,14,35,40,L
+4_L_0115,PROPERTY,Good quality,with solid foundations,IRN new deal,4,L,9,16,25,27,L
+4_L_0116,COUNTRY,IRN,Iran,,4,L,10,22,1,1,L
+4_L_0117,ACTOR,USA\Trump,Mr. Trump,,4,L,10,22,20,21,L
+4_L_0118,PROPERTY,Aggressor,bigger problems than they have ever had before,Trump,4,L,10,24,11,18,L
+4_L_0119,EVENT,IRN restart nuclear,restart their nuclear program,,4,L,10,24,3,6,L
+4_L_0120,EVENT,IRN restart nuclear,resume its nuclear activities,,4,L,10,22,8,11,L
+4_L_0121,COUNTRY,USA,the United States,,4,L,10,22,13,15,L
+4_L_0122,PROPERTY,Aggressor,threatened it with unspecified retaliation,Trump,4,L,10,22,22,26,L
+4_L_0123,PROPERTY,Victim,threatened it with unspecified retaliation,IRN,4,L,10,22,22,26,L
+4_L_0124,PROPERTY,Aggressor,warned,IRN,4,L,10,22,2,2,L
+4_L_0125,ACTOR,PRK\Kim,Kim Jong-un,,4,L,11,27,1,2,L
+4_L_0126,ACTOR,USA\Trump,Mr. Trump,,4,L,11,25,5,6,L
+4_L_0127,COUNTRY,PRK,North Korea,,4,L,11,25,2,3,L
+4_L_0128,PROPERTY,Reason,has been very open,Kim,4,L,11,27,6,9,L
+4_L_0129,PROPERTY,Difficulty,has eluded his three most recent predecessors,USA-I,4,L,11,25,15,21,L
+4_L_0130,ACTOR-I,USA\USA-I,his three most recent predecessors,,4,L,11,25,17,21,L
+4_L_0131,PROPERTY,Confidence,hope for an enduring deal,Trump,4,L,11,25,9,13,L
+4_L_0132,PROPERTY,Affection,very good discussions,PRK,4,L,11,26,6,8,L
+4_L_0133,PROPERTY,Confidence,very good discussions,Trump,4,L,11,26,6,8,L
+4_L_0134,PROPERTY,Honor,very honorable,Kim,4,L,11,27,13,14,L
+4_L_0135,PROPERTY,Unreason,Little Rocket Man,KIM,4,L,12,28,16,18,L
+4_L_0136,PROPERTY,Weakness,Little Rocket Man,KIM,4,L,12,28,16,18,L
+4_L_0137,ACTOR,PRK\Kim,Mr. Kim,,4,L,12,28,5,6,L
+4_L_0138,ACTOR,USA\Trump,The president,,4,L,12,28,0,1,L
+4_L_0139,PROPERTY,Aggressor,denounced,Trump,4,L,12,28,4,4,L
+4_L_0140,PROPERTY,Victim,denounced,Kim,4,L,12,28,4,4,L
+4_L_0141,PROPERTY,Aggressor,derided him,Trump,4,L,12,28,21,22,L
+4_L_0142,PROPERTY,Victim,derided him,KMI,4,L,12,28,21,22,L
+4_L_0143,PROPERTY,Unreason,madman,KIM,4,L,12,28,10,10,L
+4_L_0144,PROPERTY,Aggressor,"rain down ""fire and fury""",Trump,4,L,12,28,32,38,L
+4_L_0145,PROPERTY,Negative,short and fat,KIM,4,L,12,28,25,27,L
+4_L_0146,COUNTRY,USA,the United States,,4,L,12,28,42,44,L
+4_L_0147,PROPERTY,Aggressor,threatened,Kim,4,L,12,28,30,30,L
+4_L_0148,PROPERTY,Aggressor,threatened,Kim,4,L,12,28,41,41,L
+4_L_0149,PROPERTY,Aggressor,threatened,Trump,4,L,12,28,30,30,L
+4_L_0150,PROPERTY,Aggressor,threatened,Trump,4,L,12,28,41,41,L
+4_L_0151,PROPERTY,Victim,threatened,KIM,4,L,12,28,30,30,L
+4_L_0152,PROPERTY,Victim,threatened,KIM,4,L,12,28,41,41,L
+4_L_0153,ACTOR,FRA\Macron,Mr. Macron,,4,L,13,29,7,8,L
+4_L_0154,ACTOR,USA\Trump,Mr. Trump,,4,L,13,29,0,1,L
+4_L_0155,PROPERTY,Affection,praised,Macron,4,L,13,29,2,2,L
+4_L_0156,PROPERTY,Affection,warm relationship,Macron,4,L,13,29,4,5,L
+4_L_0157,ACTOR-I,USA\USA-I,An American college student,,4,L,14,31,0,3,L
+4_L_0158,ACTOR,PRK\Kim,Mr. Kim,,4,L,14,32,0,1,L
+4_L_0159,ACTOR,USA\Trump,Mr. Trump,,4,L,14,30,0,1,L
+4_L_0160,COUNTRY,PRK,North Korean custody,,4,L,14,31,10,12,L
+4_L_0161,PROPERTY,Aggressor,are still being held,PRK,4,L,14,31,17,20,L
+4_L_0162,PROPERTY,Victim,are still being held,USA-I,4,L,14,31,17,20,L
+4_L_0163,PROPERTY,Unlawfulness,assassination,Kim,4,L,14,32,15,15,L
+4_L_0164,PROPERTY,Victim,has been accused,KIM,4,L,14,32,2,4,L
+4_L_0165,PROPERTY,Unlawfulness,most repressive,PRK,4,L,14,30,23,24,L
+4_L_0166,COUNTRY,PRK,one of the most repressive systems in the world,,4,L,14,30,20,28,L
+4_L_0167,PROPERTY,Aggressor,ordering the killing,Kim,4,L,14,32,6,8,L
+4_L_0168,PROPERTY,Affection,praise,Kim,4,L,14,30,3,3,L
+4_L_0169,PROPERTY,Importance,rankled critics,Trump,4,L,14,30,9,10,L
+4_L_0170,ACTOR,PRK\Kim,the North Korean leader,,4,L,14,30,5,8,L
+4_L_0171,COUNTRY,PRK,the country,,4,L,14,30,17,18,L
+4_L_0172,ACTOR,PRK\Kim,Mr. Kim,,4,L,15,33,11,12,L
+4_L_0173,ACTOR,USA\Trump,Mr. Trump,,4,L,15,33,14,15,L
+4_L_0174,COUNTRY,PRK,North Korea,,4,L,15,35,16,17,L
+4_L_0175,PROPERTY,Confidence,"Unlike past administrations, I will leave the table",Trump,4,L,15,34,1,9,L
+4_L_0176,PROPERTY,Power,"Unlike past administrations, I will leave the table",Trump,4,L,15,34,1,9,L
+4_L_0177,PROPERTY,Importance,doing something very special,USA; PRK,4,L,15,35,9,12,L
+4_L_0178,PROPERTY,Other,held out the prospect,Trump,4,L,15,33,2,5,L
+4_L_0179,PROPERTY,Confidence,walk away from the talks if they did not prove fruitful,Trump,4,L,15,33,20,30,L
+4_L_0180,ACTOR,USA\Trump,Mr. Trump,,4,L,16,37,0,1,L
+4_L_0181,PROPERTY,Confidence,denying that he had given up,Trump,4,L,16,37,30,35,L
+4_L_0182,PROPERTY,Unsafety,have made no concessions,USA; PRK,4,L,16,38,2,5,L
+4_L_0183,PROPERTY,Other,haven't even discussed a concession,Trump,4,L,16,39,2,7,L
+4_L_0184,PROPERTY,Confidence,repeated his hopes,Trump,4,L,16,37,23,25,L
+4_L_0185,PROPERTY,Affection,very honorable,Kim,4,L,16,37,11,12,L
+4_L_0186,PROPERTY,Honor,very honorable,Kim,4,L,16,37,11,12,L
+4_L_0187,OBJECT,IRN nuclear deal,J.C.P.O.A.,,4,L,17,40,29,29,L
+4_L_0188,ACTOR,FRA\Macron,Mr. Macron,,4,L,17,40,7,8,L
+4_L_0189,ACTOR,USA\Trump,Mr. Trump,,4,L,17,40,4,5,L
+4_L_0190,OBJECT,IRN new deal,a broader agreement,,4,L,17,40,42,44,L
+4_L_0191,PROPERTY,Importance,become one pillar of a broader agreement,IRN nuclear deal,4,L,17,40,38,44,L
+4_L_0192,PROPERTY,Negative,imperfect,IRN nuclear deal,4,L,17,40,13,13,L
+4_L_0193,PROPERTY,Importance,should not be tossed aside,IRN nuclear deal,4,L,17,40,31,35,L
+4_L_0194,MISC,Reactions on deal,should not be tossed aside,,4,L,17,40,31,35,L
+4_L_0195,OBJECT,IRN nuclear deal,the Iran nuclear,,4,L,17,40,15,17,L
+4_L_0196,OBJECT,IRN nuclear deal,the Joint Comprehensive Plan of Action,,4,L,17,40,21,26,L
+4_L_0197,COUNTRY,IRN,Iran,,4,L,18,41,4,4,L
+4_L_0198,COUNTRY,IRN,Iran,,4,L,18,42,5,5,L
+4_L_0199,ACTOR,USA\Obama,President Barack Obama,,4,L,18,41,19,21,L
+4_L_0200,PROPERTY,Power,curb,IRN new deal,4,L,18,41,3,3,L
+4_L_0201,EVENT,IRN restart nuclear,developing ballistic missiles,,4,L,18,42,7,9,L
+4_L_0202,PROPERTY,Power,discourage,IRN new deal,4,L,18,42,14,14,L
+4_L_0203,PROPERTY,Power,extend those limits,IRN new deal,4,L,18,41,28,30,L
+4_L_0204,PROPERTY,Aggressor,interfering in neighboring countries,IRN,4,L,18,42,17,20,L
+4_L_0205,PROPERTY,Power,prevent Iran,IRN new deal,4,L,18,42,4,5,L
+4_L_0206,OBJECT,IRN nuclear deal,the 2015 agreement,,4,L,18,41,14,16,L
+4_L_0207,OBJECT,IRN new deal,the second,,4,L,18,41,25,26,L
+4_L_0208,ACTOR,USA\Trump,Mr. Trump,,4,L,19,43,10,11,L
+4_L_0209,ACTOR,FRA\Macron,Mr. Macron,,4,L,20,44,25,26,L
+4_L_0210,ACTOR,USA\Trump,President Trump,,4,L,20,44,11,12,L
+4_L_0211,ACTOR,USA\Trump,President Trump,,4,L,20,45,6,7,L
+4_L_0212,PROPERTY,Power,has already been accomplished,IRN nuclear deal,4,L,20,45,24,27,L
+4_L_0213,PROPERTY,Refusal,never been as critical of the J.C.P.O.A. as President Trump has,IRN nuclear deal,4,L,20,44,3,13,L
+4_L_0214,PROPERTY,Reason,never been as critical of the J.C.P.O.A. as President Trump has,Macron,4,L,20,44,3,13,L
+4_L_0215,PROPERTY,Unsafety,not knowing the decision President Trump will take,IRN nuclear dealTrump,4,L,20,45,2,9,L
+4_L_0216,OBJECT,IRN nuclear deal,the J.C.P.O.A.,,4,L,20,44,8,9,L
+4_L_0217,OBJECT,IRN nuclear deal,the J.C.P.O.A.,,4,L,20,45,29,30,L
+4_L_0218,PROPERTY,Power,would like us to work on a deal,Macron; Trump,4,L,20,45,12,19,L
+4_L_0219,ACTOR,FRA\Macron,Iran,,4,L,21,46,10,10,L
+4_L_0220,ACTOR,FRA\Macron,Iran,,4,L,21,46,34,34,L
+4_L_0221,COUNTRY,IRN,Iran,,4,L,21,46,10,10,L
+4_L_0222,COUNTRY,IRN,Iran,,4,L,21,46,34,34,L
+4_L_0223,ACTOR,FRA\Macron,Mr. Macron,,4,L,21,46,0,1,L
+4_L_0224,ACTOR,FRA\Macron,Mr. Macron,,4,L,21,47,7,8,L
+4_L_0225,ACTOR,USA\Trump,Mr. Trump,,4,L,21,46,23,24,L
+4_L_0226,COUNTRY,SYR,Syria,,4,L,21,46,43,43,L
+4_L_0227,PROPERTY,Importance,an argument that seemed to resonate,IRN new deal,4,L,21,46,16,21,L
+4_L_0228,PROPERTY,Unsafety,announced no agreement,IRN new deal,4,L,21,47,3,5,L
+4_L_0229,PROPERTY,Power,block Iran from gaining access,Trump,4,L,21,46,33,37,L
+4_L_0230,PROPERTY,Positive,"sensed a ""convergence of views""",IRN new deal,4,L,21,47,11,17,L
+4_L_0231,ACTOR,FRA\Macron,the two,,4,L,21,47,1,2,L
+4_L_0232,ACTOR,USA\Trump,the two,,4,L,21,47,1,2,L
+4_L_0233,ACTOR-I,IRN\IRN-I,Ali Shamkhani,,4,L,22,49,3,4,L
+4_L_0234,COUNTRY,IRN,Iran,,4,L,22,48,0,0,L
+4_L_0235,ACTOR-I,IRN\IRN-I,Iran's security chief,,4,L,22,48,0,3,L
+4_L_0236,ACTOR,USA\Trump,Mr. Trump,,4,L,22,48,19,20,L
+4_L_0237,ACTOR-I,IRN\IRN-I,The official,,4,L,22,49,0,1,L
+4_L_0238,COUNTRY,IRN,his country,,4,L,22,48,8,9,L
+4_L_0239,EVENT,IRN restart nuclear,leaving the Nuclear Nonproliferation Treaty,,4,L,22,48,12,16,L
+4_L_0240,OBJECT,IRN nuclear deal,the 2015 agreement,,4,L,22,48,24,26,L
+4_L_0241,OBJECT,IRN nuclear deal,the Nuclear Nonproliferation Treaty,,4,L,22,48,13,16,L
+4_L_0242,OBJECT,IRN nuclear deal,the accord,,4,L,22,49,30,31,L
+4_L_0243,PROPERTY,Unsafety,the right to leave,IRN nuclear deal,4,L,22,49,13,16,L
+4_L_0244,PROPERTY,Aggressor,warned,IRN-I,4,L,22,48,4,4,L
+4_L_0245,ACTOR-I,ISR\ISR-I,Avigdor Liberman,,4,L,23,52,0,1,L
+4_L_0246,ACTOR-I,USA\USA-I,Defense Secretary Jim Mattis,,4,L,23,52,26,29,L
+4_L_0247,COUNTRY,IRN,Iran,,4,L,23,52,48,48,L
+4_L_0248,COUNTRY,IRN,Iran,,4,L,23,53,12,12,L
+4_L_0249,ACTOR-I,ISR\ISR-I,Israeli officials,,4,L,23,51,4,5,L
+4_L_0250,ACTOR-I,USA\USA-I,John R. Bolton,,4,L,23,52,31,33,L
+4_L_0251,ACTOR,USA\Trump,Mr. Trump,,4,L,23,51,9,10,L
+4_L_0252,COUNTRY,SYR,Syria,,4,L,23,53,20,20,L
+4_L_0253,PROPERTY,Importance,"discuss ""Iran's expansion",IRN,4,L,23,53,10,14,L
+4_L_0254,PROPERTY,Refusal,longtime opponent,IRN nuclear deal,4,L,23,52,44,45,L
+4_L_0255,PROPERTY,Importance,moved to shape Mr. Trump's thinking,Trump,4,L,23,51,6,12,L
+4_L_0256,PROPERTY,Power,moved to shape Mr. Trump's thinking,ISR-I,4,L,23,51,6,12,L
+4_L_0257,PROPERTY,Power,planned to leave for the United States,ISR-I,4,L,23,52,10,16,L
+4_L_0258,OBJECT,IRN nuclear deal,the Iran nuclear agreement,,4,L,23,52,47,50,L
+4_L_0259,ACTOR-I,ISR\ISR-I,"the Israeli defense minister,",,4,L,23,52,3,6,L
+4_L_0260,COUNTRY,USA,the United States,,4,L,23,52,14,16,L
+4_L_0261,ACTOR-I,USA\USA-I,the president's new national security adviser,,4,L,23,52,35,41,L
+4_L_0262,PROPERTY,Affection,He is perfect,Macron,4,L,24,57,16,18,L
+4_L_0263,PROPERTY,Reason,He is perfect,Macron,4,L,24,57,16,18,L
+4_L_0264,ACTOR,FRA\Macron,Mr. Macron,,4,L,24,54,20,21,L
+4_L_0265,ACTOR,FRA\Macron,Mr. Macron,,4,L,24,56,19,20,L
+4_L_0266,ACTOR,USA\Trump,Mr. Trump,,4,L,24,54,12,13,L
+4_L_0267,ACTOR,USA\Trump,Mr. Trump,,4,L,24,56,9,10,L
+4_L_0268,ACTOR,USA\Trump,Mr. Trump,,4,L,24,57,9,10,L
+4_L_0269,ACTOR,FRA\Macron,The two,,4,L,24,55,0,1,L
+4_L_0270,ACTOR,USA\Trump,The two,,4,L,24,55,0,1,L
+4_L_0271,PROPERTY,Affection,brushed what he said was dandruff off,Macron,4,L,24,56,12,18,L
+4_L_0272,PROPERTY,Importance,day of pomp and ceremony,Macron,4,L,24,54,5,9,L
+4_L_0273,PROPERTY,Affection,embraced warmly,Macron; Trump,4,L,24,55,2,3,L
+4_L_0274,PROPERTY,Affection,have to make him perfect,Macron,4,L,24,57,2,6,L
+4_L_0275,PROPERTY,Affection,kissed each other,Macron; Trump,4,L,24,55,5,7,L
+4_L_0276,PROPERTY,Affection,praised,Macron,4,L,24,54,23,23,L
+4_L_0277,PROPERTY,Affection,rolled out the red carpet,Macron,4,L,24,54,14,18,L
+4_L_0278,ACTOR,USA\Trump,Mr. Trump,,4,L,25,58,10,11,L
+4_L_0279,PROPERTY,Importance,"complete with military bands, color guards, a fife-and-drum corps and a 21-gun salute",Macron,4,L,25,58,22,36,L
+4_L_0280,PROPERTY,Power,hosted a traditional arrival ceremony,Trump,4,L,25,58,12,16,L
+4_L_0281,PROPERTY,Power,hosted an opulent state dinner,Trump,4,L,25,59,5,9,L
+4_L_0282,PROPERTY,Importance,opulent state dinner,Macron,4,L,25,59,7,9,L
+4_L_0283,PROPERTY,Importance,traditional arrival ceremony,Macron,4,L,25,58,14,16,L
+4_L_0284,ACTOR,FRA\Macron,Mr. President,,4,L,26,61,4,5,L
+4_L_0285,ACTOR,USA\Trump,Mr. Trump,,4,L,26,60,25,26,L
+4_L_0286,PROPERTY,Importance,a critical time,Macron,4,L,26,61,9,11,L
+4_L_0287,PROPERTY,Affection,enduring friendship,USA; FRA,4,L,26,60,16,17,L
+4_L_0288,COUNTRY,FRA,our two nations,,4,L,26,60,20,22,L
+4_L_0289,COUNTRY,USA,our two nations,,4,L,26,60,20,22,L
+4_L_0290,PROPERTY,Affection,wonderful friendship,Macron; Trump,4,L,26,60,2,3,L

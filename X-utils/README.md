@@ -1,0 +1,1 @@
+If reusing these util functions to process raw article data, you will need to adjust the respective directories of the files that are trying to be accessed.

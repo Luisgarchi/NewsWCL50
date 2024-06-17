@@ -1,0 +1,82 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+5_R_0000,ACTOR,USA\Trump,Trump,,5,R,0,0,0,0,R
+5_R_0001,COUNTRY,GBR,United Kingdom,,5,R,0,0,3,4,R
+5_R_0002,EVENT,Visit Trump UK,meet with PM Theresa May,,5,R,0,0,8,12,R
+5_R_0003,EVENT,Visit Trump UK,visit,,5,R,0,0,2,2,R
+5_R_0004,ACTOR,GBR\May,May,,5,R,1,1,2,2,R
+5_R_0005,ACTOR,USA\Trump,Trump,,5,R,1,1,0,0,R
+5_R_0006,ACTOR,USA\Trump,President Trump,,5,R,2,2,0,1,R
+5_R_0007,ACTOR,GBR\May,Prime Minister Theresa May,,5,R,2,2,22,25,R
+5_R_0008,EVENT,Visit Trump UK,Trump will travel to the United Kingdom,,5,R,2,2,1,7,R
+5_R_0009,EVENT,Visit Trump UK,meet with Prime Minister Theresa May for bilateral talks,,5,R,2,2,20,28,R
+5_R_0010,COUNTRY,GBR,the United Kingdom,,5,R,2,2,5,7,R
+5_R_0011,COUNTRY,USA,the White House,,5,R,2,2,11,13,R
+5_R_0012,PROPERTY,Power,will meet with Prime Minister Theresa May for bilateral talks,Trump,5,R,2,2,19,28,R
+5_R_0013,PROPERTY,Power,will travel to,Trump,5,R,2,2,2,4,R
+5_R_0014,COUNTRY,GBR,10 Downing Street,,5,R,3,4,14,16,R
+5_R_0015,ACTOR,USA\Trump,The President of the United States,,5,R,3,3,1,6,R
+5_R_0016,EVENT,Visit Trump UK,hold bilateral talks,,5,R,3,4,2,4,R
+5_R_0017,ACTOR,GBR\May,the Prime Minister,,5,R,3,4,6,8,R
+5_R_0018,COUNTRY,GBR,the UK,,5,R,3,3,9,10,R
+5_R_0019,COUNTRY,USA,the United States,,5,R,3,3,4,6,R
+5_R_0020,PROPERTY,Power,will hold bilateral talks,Trump,5,R,3,4,1,4,R
+5_R_0021,EVENT,Visit Trump UK,will visit the UK,,5,R,3,3,7,10,R
+5_R_0022,ACTOR,USA\Trump,Trump's working visit,,5,R,4,7,31,34,R
+5_R_0023,COUNTRY,GBR,U.K.,,5,R,4,7,17,18,R
+5_R_0024,COUNTRY,USA,U.S.-,,5,R,4,7,17,18,R
+5_R_0025,COUNTRY,USA,White House Press Secretary Sarah Sanders,,5,R,4,6,0,5,R
+5_R_0026,ACTOR,GBR\May,the two leaders,,5,R,4,7,27,29,R
+5_R_0027,ACTOR,USA\Trump,the two leaders,,5,R,4,7,27,29,R
+5_R_0028,EVENT,Visit Trump UK,the visit,,5,R,4,6,7,8,R
+5_R_0029,EVENT,State Visit,A state visit,,5,R,5,8,0,2,R
+5_R_0030,ACTOR,GBR\May,May,,5,R,5,8,12,12,R
+5_R_0031,ACTOR-I,GBR\GBR-Misc,left-wing activists,,5,R,5,8,28,29,R
+5_R_0032,EVENT,Protest,mass protests,,5,R,5,8,25,26,R
+5_R_0033,ACTION,Break UK visits,put such a visit on ice,,5,R,5,8,32,37,R
+5_R_0034,COUNTRY,GBR,the U.K.,,5,R,5,8,4,5,R
+5_R_0035,COUNTRY,USA,the White House,,5,R,5,8,14,16,R
+5_R_0036,PROPERTY,Difficulty,the resulting controversy,Trump; May,5,R,5,8,19,21,R
+5_R_0037,PROPERTY,Aggressor,threat of mass protests,GBR-Misc,5,R,5,8,23,26,R
+5_R_0038,ACTOR,USA\Trump,Trump,,5,R,6,9,5,5,R
+5_R_0039,ACTION,Break UK visits,Trump nixed a February visit to the U.K.,,5,R,6,9,5,12,R
+5_R_0040,COUNTRY,GBR,the U.K.,,5,R,6,9,11,12,R
+5_R_0041,COUNTRY,USA,the U.S. Embassy,,5,R,6,9,15,17,R
+5_R_0042,ACTOR,GBR\May,May,,5,R,7,10,2,2,R
+5_R_0043,ACTOR,USA\Trump,Trump,,5,R,7,10,0,0,R
+5_R_0044,ACTOR,USA\Trump,Trump,,5,R,7,11,4,4,R
+5_R_0045,ACTOR,USA\Trump,Trump,,5,R,7,11,22,22,R
+5_R_0046,PROPERTY,Difficulty,a controversy erupted,Trump,5,R,7,11,18,20,R
+5_R_0047,PROPERTY,Affection,dismissed concerns of strained ties,GBR,5,R,7,11,5,9,R
+5_R_0048,ACTOR-I,GBR\GBR-Misc,far-right British group,,5,R,7,11,29,31,R
+5_R_0049,COUNTRY,GBR,the two countries,,5,R,7,11,11,13,R
+5_R_0050,COUNTRY,USA,the two countries,,5,R,7,11,11,13,R
+5_R_0051,ACTOR,GBR\May,May,,5,R,8,12,2,2,R
+5_R_0052,ACTOR,USA\Trump,Trump,,5,R,8,12,23,23,R
+5_R_0053,PROPERTY,Affection,liking each other a lot,Trump; May,5,R,8,15,11,15,R
+5_R_0054,PROPERTY,Affection,really great relationship,May,5,R,8,12,9,11,R
+5_R_0055,ACTOR,GBR\May,the prime minister,,5,R,8,14,6,8,R
+5_R_0056,PROPERTY,Affection,tremendous respect,May,5,R,8,14,3,4,R
+5_R_0057,ACTOR,GBR\May,May,,5,R,9,17,18,18,R
+5_R_0058,PROPERTY,Affection,We have the same ideas,May,5,R,9,17,0,4,R
+5_R_0059,PROPERTY,Affection,joined at the hip,May,5,R,9,16,5,8,R
+5_R_0060,PROPERTY,Affection,nothing that would happen to you that we won't be there to fight for you,May,5,R,9,18,3,18,R
+5_R_0061,PROPERTY,Confidence,that we won't be there to fight for you,Trump,5,R,9,18,9,18,R
+5_R_0062,ACTOR,GBR\May,May,,5,R,10,19,0,0,R
+5_R_0063,PROPERTY,Confidence,glowing in her praise,May,5,R,10,19,3,6,R
+5_R_0064,PROPERTY,Affection,really special relationship,USA,5,R,10,19,13,15,R
+5_R_0065,PROPERTY,Positive,really special relationship,GBR; USA,5,R,10,19,13,15,R
+5_R_0066,COUNTRY,GBR,the U.K.,,5,R,10,19,17,18,R
+5_R_0067,COUNTRY,USA,the United States,,5,R,10,19,20,22,R
+5_R_0068,ACTOR-I,GBR\GBR-Misc,Jeremy Corbyn,,5,R,11,21,19,20,R
+5_R_0069,ACTOR,GBR\May,May,,5,R,11,20,0,0,R
+5_R_0070,ACTOR,GBR\May,May,,5,R,11,21,22,22,R
+5_R_0071,COUNTRY,GBR,U.K.,,5,R,11,21,4,4,R
+5_R_0072,ACTOR,USA\Trump,a U.S. President,,5,R,11,21,30,32,R
+5_R_0073,PROPERTY,Aggressor,accused,GBR-Misc,5,R,11,21,21,21,R
+5_R_0074,PROPERTY,Weakness,bowing to,May,5,R,11,21,24,25,R
+5_R_0075,ACTOR-I,GBR\GBR-Misc,hard-left Labour Party leader,,5,R,11,21,15,18,R
+5_R_0076,PROPERTY,Power,joined forces,GBR; USA,5,R,11,21,7,8,R
+5_R_0077,PROPERTY,Affection,outreach,Trump,5,R,11,20,8,8,R
+5_R_0078,PROPERTY,Victim,repeatedly come under fire,May,5,R,11,20,2,5,R
+5_R_0079,COUNTRY,USA,the U.S.,,5,R,11,21,1,2,R
+5_R_0080,PROPERTY,Unreason,the whims of,Trump,5,R,11,21,27,29,R

@@ -1,0 +1,139 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+0_R_0000,COUNTRY,PRK,Kim Jong Un,,0,R,0,0,6,8,R
+0_R_0001,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,R,0,0,2,3,R
+0_R_0002,COUNTRY,USA,CIA director,,0,R,1,1,5,6,R
+0_R_0003,ACTOR,PRK\Jong Un,North Korean leader,,0,R,1,1,10,12,R
+0_R_0004,COUNTRY,USA,chief White House correspondent,,0,R,1,1,17,20,R
+0_R_0005,ACTION,Trip to PRK,met with the North Korean leader,,0,R,1,1,7,12,R
+0_R_0006,ACTOR,USA\Mike Pompeo,CIA Director,,0,R,2,2,0,1,R
+0_R_0007,ACTOR,PRK\Jong Un,Kim,,0,R,2,2,9,9,R
+0_R_0008,ACTOR,PRK\Jong Un,Kim,,0,R,2,2,26,26,R
+0_R_0009,ACTOR,PRK\Jong Un,Kim Jong Un,,0,R,2,2,9,11,R
+0_R_0010,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,R,2,2,2,3,R
+0_R_0011,ACTOR,PRK\Jong Un,North Korean dictator,,0,R,2,2,6,8,R
+0_R_0012,ACTOR,USA\Trump,President Trump,,0,R,2,2,28,29,R
+0_R_0013,EVENT,PRK USA Summit,a summit between Kim and President Trump,,0,R,2,2,23,29,R
+0_R_0014,ACTION,Trip to PRK,an effort to lay the groundwork for a summit,,0,R,2,2,16,24,R
+0_R_0015,PROPERTY,Power,lay the groundwork,Mike Pompeo,0,R,2,2,19,21,R
+0_R_0016,ACTION,Trip to PRK,met with North Korean dictator,,0,R,2,2,4,8,R
+0_R_0017,COUNTRY,PRK,North Korea,,0,R,3,3,25,26,R
+0_R_0018,ACTOR,USA\Mike Pompeo,Pompeo,,0,R,3,3,0,0,R
+0_R_0019,COUNTRY,PRK,Pyongyang,,0,R,3,3,52,52,R
+0_R_0020,ACTOR,USA\Trump,Trump,,0,R,3,3,18,18,R
+0_R_0021,COUNTRY,USA,U.S.,,0,R,3,3,23,23,R
+0_R_0022,EVENT,PRK USA Summit,an extraordinary meeting,,0,R,3,3,43,45,R
+0_R_0023,PROPERTY,Importance,extremely high levels,Trip to PRK,0,R,3,3,33,35,R
+0_R_0024,ACTION,Trip to PRK,"holding direct talks at ""extremely high levels""",,0,R,3,3,28,36,R
+0_R_0025,PROPERTY,Aggressor,months of heated rhetoric,Trump,0,R,3,3,47,50,R
+0_R_0026,MISC,Denuclearization,months of heated rhetoric over Pyongyang's nuclear weapons program,,0,R,3,3,47,56,R
+0_R_0027,ACTOR,USA\Trump,Trump,,0,R,4,4,12,12,R
+0_R_0028,COUNTRY,USA,White House,,0,R,4,4,2,3,R
+0_R_0029,ACTION,Trip to PRK,meeting,,0,R,4,4,15,15,R
+0_R_0030,PROPERTY,Good quality,went well,Trip to PRK,0,R,4,4,24,25,R
+0_R_0031,MISC,Denuclearization,Denuclearization,,0,R,5,8,0,0,R
+0_R_0032,ACTOR,PRK\Jong Un,Kim Jong Un,,0,R,5,5,5,7,R
+0_R_0033,ACTION,Trip to PRK,Meeting,,0,R,5,6,0,0,R
+0_R_0034,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,R,5,5,1,2,R
+0_R_0035,COUNTRY,PRK,North Korea,,0,R,5,5,9,10,R
+0_R_0036,COUNTRY,PRK,North Korea,,0,R,5,8,12,13,R
+0_R_0037,EVENT,PRK USA Summit,Summit,,0,R,5,7,2,2,R
+0_R_0038,PROPERTY,Good quality,good relationship was formed,Trip to PRK,0,R,5,6,6,9,R
+0_R_0039,PROPERTY,Importance,great thing for World,PRK USA Summit,0,R,5,8,4,7,R
+0_R_0040,ACTION,Trip to PRK,met with Kim Jong Un,,0,R,5,5,3,7,R
+0_R_0041,PROPERTY,Good quality,very smoothly,Trip to PRK,0,R,5,6,2,3,R
+0_R_0042,MISC,Denuclearization,Denuclearization,,0,R,6,13,0,0,R
+0_R_0043,ACTOR,PRK\Jong Un,Kim Jong Un,,0,R,6,10,4,6,R
+0_R_0044,ACTION,Trip to PRK,Meeting,,0,R,6,11,0,0,R
+0_R_0045,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,R,6,10,0,1,R
+0_R_0046,COUNTRY,PRK,North Korea,,0,R,6,10,8,9,R
+0_R_0047,COUNTRY,PRK,North Korea,,0,R,6,13,12,13,R
+0_R_0048,EVENT,PRK USA Summit,Summit,,0,R,6,12,2,2,R
+0_R_0049,PROPERTY,Good quality,good relationship was formed,Trip to PRK,0,R,6,11,6,9,R
+0_R_0050,PROPERTY,Importance,great thing for World,PRK USA Summit,0,R,6,13,4,7,R
+0_R_0051,ACTION,Trip to PRK,met with Kim Jong Un,,0,R,6,10,2,6,R
+0_R_0052,PROPERTY,Good quality,very smoothly,Trip to PRK,0,R,6,11,2,3,R
+0_R_0053,ACTOR,JPN\Abe,Japanese Prime Minister,,0,R,7,14,4,6,R
+0_R_0054,ACTOR,JPN\Abe,Shinzo Abe,,0,R,7,14,7,8,R
+0_R_0055,ACTOR,USA\Trump,Trump,,0,R,7,14,0,0,R
+0_R_0056,EVENT,PRK USA Summit,potential summit,,0,R,7,14,20,21,R
+0_R_0057,ACTOR,USA\Trump,president,,0,R,7,15,1,1,R
+0_R_0058,ACTOR,JPN\Abe,Japanese Prime Minister,,0,R,8,16,9,11,R
+0_R_0059,ACTOR,USA\Trump,President Trump,,0,R,8,16,0,1,R
+0_R_0060,ACTOR,JPN\Abe,Shinzo Abe,,0,R,8,16,12,13,R
+0_R_0061,EVENT,JPN USA Meeting,met with Japanese Prime Minister,,0,R,8,16,7,11,R
+0_R_0062,ACTOR,USA\Trump,Trump,,0,R,9,17,19,19,R
+0_R_0063,EVENT,PRK USA Summit,a great chance to solve a world problem,,0,R,9,19,6,13,R
+0_R_0064,EVENT,PRK USA Summit,a very good meeting,,0,R,9,17,5,8,R
+0_R_0065,PROPERTY,Other,have a very good meeting or we won't,PRK USA Summit,0,R,9,17,4,12,R
+0_R_0066,EVENT,PRK USA Summit,won't even have a meeting at all,,0,R,9,18,4,11,R
+0_R_0067,EVENT,PRK USA Summit,won't have a good meeting,,0,R,9,17,11,16,R
+0_R_0068,PROPERTY,Importance,world problem,Denuclearization,0,R,9,19,12,13,R
+0_R_0069,ACTOR,PRK\Jong Un,Kim,,0,R,10,20,13,13,R
+0_R_0070,ACTOR,USA\Trump,president,,0,R,10,20,1,1,R
+0_R_0071,ACTOR,PRK\Jong Un,Kim,,0,R,11,21,0,0,R
+0_R_0072,EVENT,PRK USA Summit,Kim's offer for a summit,,0,R,11,21,0,5,R
+0_R_0073,COUNTRY,PRK,North Korea's government,,0,R,11,22,10,13,R
+0_R_0074,COUNTRY,PRK,South Korea,,0,R,11,21,12,13,R
+0_R_0075,ACTOR,USA\Trump,Trump,,0,R,11,21,10,10,R
+0_R_0076,COUNTRY,USA,U.S. officials,,0,R,11,22,0,1,R
+0_R_0077,COUNTRY,USA,Washington,,0,R,11,22,18,18,R
+0_R_0078,ACTION,Trip to PRK,communicated directly with Washington,,0,R,11,22,15,18,R
+0_R_0079,EVENT,PRK USA Summit,discuss its nuclear weapons program,,0,R,11,22,24,28,R
+0_R_0080,PROPERTY,Other,shocked many,Trump,0,R,11,21,20,21,R
+0_R_0081,ACTOR,USA\Trump,the president,,0,R,11,21,18,19,R
+0_R_0082,COUNTRY,PRK,Pyongyang,,0,R,12,23,2,2,R
+0_R_0083,COUNTRY,KOR,Seoul,,0,R,12,23,0,0,R
+0_R_0084,COUNTRY,USA,chief White House correspondent,,0,R,12,23,15,18,R
+0_R_0085,ACTOR,JPN\Abe,Abe,,0,R,13,24,0,0,R
+0_R_0086,COUNTRY,JPN,Japan,,0,R,13,24,17,17,R
+0_R_0087,ACTOR,PRK\Jong Un,North Korean dictator,,0,R,13,24,40,42,R
+0_R_0088,ACTOR,USA\Trump,Trump,,0,R,13,24,28,28,R
+0_R_0089,COUNTRY,USA,U.S.,,0,R,13,24,24,24,R
+0_R_0090,PROPERTY,Confidence,bravery,Trump,0,R,13,24,33,33,R
+0_R_0091,EVENT,PRK USA Summit,meet with the North Korean dictator,,0,R,13,24,37,42,R
+0_R_0092,PROPERTY,Aggressor,pose a threat,PRK,0,R,13,24,13,15,R
+0_R_0093,PROPERTY,Victim,pose a threat,JPN,0,R,13,24,13,15,R
+0_R_0094,EVENT,PRK USA Summit,the U.S. negotiations,,0,R,13,24,23,25,R
+0_R_0095,PROPERTY,Weakness,voiced fears,Abe,0,R,13,24,4,5,R
+0_R_0096,ACTOR,JPN\Abe,Abe,,0,R,14,25,25,25,R
+0_R_0097,ACTOR,USA\Trump,Donald,,0,R,14,25,6,6,R
+0_R_0098,ACTOR,PRK\Jong Un,North Korean leader,,0,R,14,25,20,22,R
+0_R_0099,PROPERTY,Confidence,courage,Trump,0,R,14,25,8,8,R
+0_R_0100,EVENT,PRK USA Summit,the upcoming summit meeting,,0,R,14,25,14,17,R
+0_R_0101,ACTOR,PRK\Jong Un,Kim,,0,R,15,26,22,22,R
+0_R_0102,ACTOR,KOR\Moon Jae,Moon Jae,,0,R,15,26,27,28,R
+0_R_0103,COUNTRY,KOR,North and South Korea,,0,R,15,26,4,7,R
+0_R_0104,COUNTRY,PRK,North and South Korea,,0,R,15,26,4,7,R
+0_R_0105,ACTOR,KOR\Moon Jae,South Korean President,,0,R,15,26,24,26,R
+0_R_0106,ACTOR,USA\Trump,Trump,,0,R,15,26,0,0,R
+0_R_0107,EVENT,PRK USA Summit,meeting,,0,R,15,26,20,20,R
+0_R_0108,EVENT,PRK USA Summit,meeting,,0,R,15,27,1,1,R
+0_R_0109,ACTION,Negotiate about the peace,negotiate an end to hostilities,,0,R,15,26,11,15,R
+0_R_0110,EVENT,PRK KOR Meeting,next week's meeting between Kim and South Korean President Moon Jae In,,0,R,15,26,17,29,R
+0_R_0111,COUNTRY,KOR,the Koreas,,0,R,15,27,9,10,R
+0_R_0112,COUNTRY,PRK,the Koreas,,0,R,15,27,9,10,R
+0_R_0113,EVENT,PRK KOR Meeting,the third inter-Korean summit,,0,R,15,27,4,7,R
+0_R_0114,EVENT,PRK USA Summit,the third inter-Korean summit,,0,R,15,27,4,7,R
+0_R_0115,COUNTRY,CHN,China,,0,R,16,30,24,24,R
+0_R_0116,COUNTRY,PRK,North,,0,R,16,28,0,0,R
+0_R_0117,COUNTRY,PRK,North,,0,R,16,29,6,6,R
+0_R_0118,COUNTRY,PRK,North,,0,R,16,30,21,21,R
+0_R_0119,COUNTRY,PRK,North Korea,,0,R,16,28,0,1,R
+0_R_0120,COUNTRY,PRK,North Korea,,0,R,16,30,21,22,R
+0_R_0121,COUNTRY,KOR,South Korea,,0,R,16,29,15,16,R
+0_R_0122,COUNTRY,KOR,South Korea,,0,R,16,31,0,1,R
+0_R_0123,COUNTRY,USA,U.S.,,0,R,16,28,10,10,R
+0_R_0124,COUNTRY,USA,U.S.,,0,R,16,30,15,16,R
+0_R_0125,COUNTRY,USA,U.S.-led forces,,0,R,16,30,15,16,R
+0_R_0126,PROPERTY,Power,U.S.-led forces in the conflict,USA,0,R,16,30,15,19,R
+0_R_0127,COUNTRY,USA,United Nations Command,,0,R,16,30,10,12,R
+0_R_0128,COUNTRY,USA,Washington,,0,R,16,29,20,20,R
+0_R_0129,PROPERTY,Difficulty,has long sought a peace treaty,Negotiate about the peace,0,R,16,28,2,7,R
+0_R_0130,ACTION,Negotiate about the peace,long sought a peace treaty,,0,R,16,28,3,7,R
+0_R_0131,PROPERTY,Power,seek to broach the issue,PRK,0,R,16,29,8,12,R
+0_R_0132,ACTION,Negotiate about the peace,to seek to broach the issue directly,,0,R,16,29,7,13,R
+0_R_0133,ACTOR,USA\Trump,Trump,,0,R,17,32,0,0,R
+0_R_0134,PROPERTY,Power,have my blessing,Trump,0,R,17,32,8,10,R
+0_R_0135,ACTION,Negotiate about the peace,to discuss the end of the war,,0,R,17,32,11,17,R
+0_R_0136,COUNTRY,KOR,two Koreas,,0,R,17,32,5,6,R
+0_R_0137,COUNTRY,PRK,two Koreas,,0,R,17,32,5,6,R

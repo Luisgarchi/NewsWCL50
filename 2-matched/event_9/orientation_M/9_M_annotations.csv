@@ -1,0 +1,159 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+9_M_0000,OBJECT,IRN files,Evidence,,9,M,0,0,2,2,M
+9_M_0001,OBJECT,Nuclear deal,Iran deal,,9,M,0,0,4,5,M
+9_M_0002,COUNTRY,IRN,Iranian deception,,9,M,0,0,11,12,M
+9_M_0003,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,0,0,0,0,M
+9_M_0004,PROPERTY,Unreason,based on lies,Nuclear deal,9,M,0,0,7,9,M
+9_M_0005,PROPERTY,Poor quality,based on lies,Nuclear deal,9,M,0,0,7,9,M
+9_M_0006,PROPERTY,No trustworthiness,deception,IRN,9,M,0,0,12,12,M
+9_M_0007,ACTOR,ISR\Netanyahu,Israel's prime minister,,9,M,1,1,0,3,M
+9_M_0008,MISC,IRN nuclear activity,a nuclear weapons program,,9,M,1,1,24,27,M
+9_M_0009,COUNTRY,IRN,his government,,9,M,1,1,5,6,M
+9_M_0010,PROPERTY,Power,proving,IRN files,9,M,1,1,18,18,M
+9_M_0011,OBJECT,IRN files,secret Iranian documents,,9,M,1,1,15,17,M
+9_M_0012,COUNTRY,IRN,the Tehran government,,9,M,1,1,19,21,M
+9_M_0013,ACTOR,ISR\Netanyahu,Benjamin Netanyahu,,9,M,2,2,32,33,M
+9_M_0014,COUNTRY,IRN,Iranian deception,,9,M,2,2,20,21,M
+9_M_0015,ACTOR,ISR\Netanyahu,Israeli Prime Minister,,9,M,2,2,29,31,M
+9_M_0016,PROPERTY,Unreason,based on lies,Nuclear deal,9,M,2,2,16,18,M
+9_M_0017,PROPERTY,Poor quality,based on lies,Nuclear deal,9,M,2,2,16,18,M
+9_M_0018,PROPERTY,No trustworthiness,deception,IRN,9,M,2,2,21,21,M
+9_M_0019,OBJECT,IRN files,secret files,,9,M,2,2,4,5,M
+9_M_0020,PROPERTY,Refusal,should be thrown out,Nuclear deal,9,M,2,2,24,27,M
+9_M_0021,MISC,Reaction to IRN deal,should be thrown out,,9,M,2,2,24,27,M
+9_M_0022,OBJECT,Nuclear deal,the 2015 nuclear deal,,9,M,2,2,10,13,M
+9_M_0023,COUNTRY,IRN,Iran,,9,M,3,3,10,10,M
+9_M_0024,COUNTRY,ISR,Israel,,9,M,3,3,7,7,M
+9_M_0025,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,3,3,0,0,M
+9_M_0026,PROPERTY,No trustworthiness,cheated,IRN,9,M,3,3,24,24,M
+9_M_0027,PROPERTY,Unreason,failing to reveal,IRN,9,M,3,3,26,28,M
+9_M_0028,PROPERTY,No trustworthiness,lied,IRN,9,M,3,3,11,11,M
+9_M_0029,MISC,IRN nuclear activity,nuclear weapons,,9,M,3,3,20,21,M
+9_M_0030,OBJECT,Nuclear deal,the deal,,9,M,3,3,42,43,M
+9_M_0031,MISC,IRN nuclear activity,weapons program information,,9,M,3,3,31,33,M
+9_M_0032,COUNTRY,IRN,Iran,,9,M,4,4,8,8,M
+9_M_0033,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,4,4,25,25,M
+9_M_0034,PROPERTY,Power,continued to preserve and expand its nuclear know-how,IRN,9,M,4,4,9,16,M
+9_M_0035,MISC,IRN nuclear activity,preserve and expand its nuclear know-how,,9,M,4,4,11,16,M
+9_M_0036,OBJECT,Nuclear deal,the deal,,9,M,4,4,3,4,M
+9_M_0037,COUNTRY,IRN,Iran,,9,M,5,6,16,16,M
+9_M_0038,ACTOR,USA\Trump,President Trump,,9,M,5,5,0,1,M
+9_M_0039,PROPERTY,Power,demanding,Trump,9,M,5,6,7,7,M
+9_M_0040,PROPERTY,Aggressor,repeatedly blasted,Trump,9,M,5,6,2,3,M
+9_M_0041,PROPERTY,Victim,repeatedly blasted,Nuclear deal,9,M,5,6,2,3,M
+9_M_0042,MISC,Reaction to IRN deal,repeatedly blasted the pact,,9,M,5,6,2,5,M
+9_M_0043,OBJECT,Nuclear deal,the deal,,9,M,5,5,15,16,M
+9_M_0044,OBJECT,Nuclear deal,the pact,,9,M,5,6,4,5,M
+9_M_0045,MISC,Reaction to IRN deal,will announce within the next two weeks the fate of the deal,,9,M,5,5,5,16,M
+9_M_0046,COUNTRY,IRN,Iran,,9,M,6,8,15,15,M
+9_M_0047,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,6,7,11,11,M
+9_M_0048,ACTOR,USA\Trump,Trump,,9,M,6,7,0,0,M
+9_M_0049,OBJECT,Nuclear deal,a new deal,,9,M,6,8,9,11,M
+9_M_0050,PROPERTY,Affection,expressed solidarity,Netanyahu,9,M,6,7,14,15,M
+9_M_0051,MISC,Reaction to IRN deal,not dismiss the possibility of negotiating a new deal,,9,M,6,8,3,11,M
+9_M_0052,ACTOR,ISR\Netanyahu,the Israeli leader,,9,M,6,7,17,19,M
+9_M_0053,COUNTRY,IRN,Iran,,9,M,7,9,10,10,M
+9_M_0054,ACTOR,USA\Trump,Trump,,9,M,7,10,6,6,M
+9_M_0055,OBJECT,Nuclear deal,a horrible agreement,,9,M,7,11,15,17,M
+9_M_0056,MISC,Reaction to IRN deal,a horrible agreement,,9,M,7,11,15,17,M
+9_M_0057,MISC,IRN nuclear activity,develop nuclear weapons,,9,M,7,9,17,19,M
+9_M_0058,PROPERTY,Power,free to go ahead and develop nuclear weapons,IRN,9,M,7,9,12,19,M
+9_M_0059,PROPERTY,Unreason,horrible,Nuclear deal,9,M,7,11,16,16,M
+9_M_0060,OBJECT,Nuclear deal,that deal,,9,M,7,9,4,5,M
+9_M_0061,COUNTRY,IRN,Iran,,9,M,8,12,19,19,M
+9_M_0062,COUNTRY,USA,The White House,,9,M,8,12,0,2,M
+9_M_0063,PROPERTY,Power,develop missile-deliverable nuclear weapons,IRN,9,M,8,12,23,26,M
+9_M_0064,MISC,IRN nuclear activity,efforts to develop missile-deliverable nuclear weapons,,9,M,8,12,21,26,M
+9_M_0065,PROPERTY,Importance,provides new and compelling details,IRN files,9,M,8,12,13,17,M
+9_M_0066,PROPERTY,Power,provides new and compelling details,IRN files,9,M,8,12,13,17,M
+9_M_0067,OBJECT,IRN files,this information,,9,M,8,12,11,12,M
+9_M_0068,COUNTRY,IRN,"""The Iranian regime",,9,M,9,14,0,3,M
+9_M_0069,OBJECT,IRN files,"""These facts",,9,M,9,13,0,2,M
+9_M_0070,COUNTRY,IRN,Iran,,9,M,9,13,14,14,M
+9_M_0071,COUNTRY,IRN,Iran,,9,M,9,15,0,0,M
+9_M_0072,MISC,IRN nuclear activity,"a robust, clandestine nuclear weapons program",,9,M,9,13,16,22,M
+9_M_0073,PROPERTY,Power,"a robust, clandestine nuclear weapons program",IRN,9,M,9,13,16,22,M
+9_M_0074,MISC,Reaction to IRN deal,must never have nuclear weapons,,9,M,9,15,1,5,M
+9_M_0075,MISC,IRN nuclear activity,nuclear weapons,,9,M,9,13,20,21,M
+9_M_0076,MISC,IRN nuclear activity,nuclear weapons,,9,M,9,15,4,5,M
+9_M_0077,COUNTRY,USA,the United States,,9,M,9,13,7,9,M
+9_M_0078,PROPERTY,No trustworthiness,tried and failed to hide,IRN,9,M,9,13,26,30,M
+9_M_0079,PROPERTY,Unreason,tried and failed to hide,IRN,9,M,9,13,26,30,M
+9_M_0080,MISC,IRN nuclear activity,will use destructive weapons,,9,M,9,14,7,10,M
+9_M_0081,PROPERTY,Aggressor,will use destructive weapons,IRN,9,M,9,14,7,10,M
+9_M_0082,PROPERTY,Victim,will use destructive weapons,IRS,9,M,9,14,7,10,M
+9_M_0083,COUNTRY,IRN,Iran,,9,M,10,16,5,5,M
+9_M_0084,OBJECT,Nuclear deal,The deal,,9,M,10,16,0,1,M
+9_M_0085,OBJECT,Nuclear deal,The deal,,9,M,10,17,0,1,M
+9_M_0086,PROPERTY,Economy negative,broad range of economic sanctions,IRN,9,M,10,17,7,11,M
+9_M_0087,PROPERTY,Power,led to easing,Nuclear deal,9,M,10,17,2,4,M
+9_M_0088,COUNTRY,IRN,the Shiite nation,,9,M,10,17,14,16,M
+9_M_0089,OBJECT,IRN files,"""half a ton"" of evidence",,9,M,11,19,2,8,M
+9_M_0090,COUNTRY,IRN,Iran,,9,M,11,19,10,10,M
+9_M_0091,COUNTRY,IRN,Iran,,9,M,11,20,5,5,M
+9_M_0092,COUNTRY,IRN,Iran,,9,M,11,21,2,2,M
+9_M_0093,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,11,18,0,0,M
+9_M_0094,PROPERTY,Aggressor,bitterly opposed,Netanyahu,9,M,11,18,3,4,M
+9_M_0095,PROPERTY,Victim,bitterly opposed,Nuclear deal,9,M,11,18,3,4,M
+9_M_0096,MISC,IRN nuclear activity,building a nuclear arsenal,,9,M,11,20,11,14,M
+9_M_0097,MISC,IRN nuclear activity,continue to work on the program,,9,M,11,21,13,18,M
+9_M_0098,PROPERTY,No trustworthiness,has not been faithful,IRN,9,M,11,19,11,14,M
+9_M_0099,PROPERTY,Importance,"planned ""at the highest levels""",IRN nuclear activity,9,M,11,21,5,11,M
+9_M_0100,PROPERTY,Power,"planned ""at the highest levels"" to continue to work on the program",IRN,9,M,11,21,5,18,M
+9_M_0101,EVENT,Presentation,present his case to an international audience,,9,M,11,18,18,24,M
+9_M_0102,PROPERTY,Power,present his case to an international audience,Netanyahu,9,M,11,18,18,24,M
+9_M_0103,PROPERTY,Power,provides Iran with a clear path to building a nuclear arsenal,Nuclear deal,9,M,11,20,4,14,M
+9_M_0104,PROPERTY,Reason,spoke in English,Netanyahu,9,M,11,18,8,10,M
+9_M_0105,OBJECT,Nuclear deal,the deal,,9,M,11,18,5,6,M
+9_M_0106,OBJECT,Nuclear deal,the deal,,9,M,11,20,2,3,M
+9_M_0107,COUNTRY,ISR,Israel,,9,M,12,24,23,23,M
+9_M_0108,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,12,22,8,8,M
+9_M_0109,ACTOR,USA\Trump,President Trump,,9,M,12,23,7,8,M
+9_M_0110,MISC,Reaction to IRN deal,a terrible deal,,9,M,12,22,3,5,M
+9_M_0111,PROPERTY,Reason,do the right thing,Trump,9,M,12,24,6,9,M
+9_M_0112,MISC,Reaction to IRN deal,make his decision,,9,M,12,23,10,12,M
+9_M_0113,PROPERTY,Unreason,terrible,Nuclear deal,9,M,12,22,4,4,M
+9_M_0114,PROPERTY,Poor quality,terrible,Nuclear deal,9,M,12,22,4,4,M
+9_M_0115,COUNTRY,USA,the United States,,9,M,12,24,15,17,M
+9_M_0116,PROPERTY,Reason,the right thing for,Trump,9,M,12,24,11,14,M
+9_M_0117,PROPERTY,Reason,the right thing for,Trump,9,M,12,24,19,22,M
+9_M_0118,PROPERTY,Reason,the right thing for,Trump,9,M,12,24,25,28,M
+9_M_0119,ACTOR-I,IRN\IRN-I,Abbas Araghchi,,9,M,13,25,10,11,M
+9_M_0120,COUNTRY,IRN,Iran,,9,M,13,25,0,0,M
+9_M_0121,ACTOR-I,IRN\IRN-I,Iran's deputy foreign minister,,9,M,13,25,0,4,M
+9_M_0122,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,13,25,14,14,M
+9_M_0123,EVENT,Presentation,Netanyahu's presentation,,9,M,13,25,14,16,M
+9_M_0124,PROPERTY,Unreason,childish,Presentation,9,M,13,25,18,18,M
+9_M_0125,PROPERTY,No trustworthiness,fabricated,IRN files,9,M,13,25,32,32,M
+9_M_0126,PROPERTY,No trustworthiness,fake,IRN files,9,M,13,25,30,30,M
+9_M_0127,PROPERTY,Unreason,ridiculous,Presentation,9,M,13,25,20,20,M
+9_M_0128,ACTOR-I,IRN\IRN-I,senior nuclear negotiator,,9,M,13,25,6,8,M
+9_M_0129,OBJECT,IRN files,the purported evidence,,9,M,13,25,25,27,M
+9_M_0130,COUNTRY,IRN,Iran,,9,M,14,26,0,0,M
+9_M_0131,MISC,IRN nuclear activity,seeking nuclear weapons,,9,M,14,26,4,6,M
+9_M_0132,COUNTRY,IRN,Iran,,9,M,15,27,16,16,M
+9_M_0133,COUNTRY,ISR,Israel,,9,M,15,27,11,11,M
+9_M_0134,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,15,27,9,9,M
+9_M_0135,ACTOR-I,USA\USA-I,Secretary of State Mike Pompeo,,9,M,15,27,0,4,M
+9_M_0136,PROPERTY,Aggressor,accused,USA-I,9,M,15,27,15,15,M
+9_M_0137,PROPERTY,Victim,accused,IRN,9,M,15,27,15,15,M
+9_M_0138,PROPERTY,Unreason,behaving worse,IRN,9,M,15,27,19,20,M
+9_M_0139,OBJECT,Nuclear deal,the deal,,9,M,15,27,23,24,M
+9_M_0140,COUNTRY,IRN,Iran,,9,M,16,28,2,2,M
+9_M_0141,ACTOR-I,USA\USA-I,Pompeo,,9,M,16,28,0,0,M
+9_M_0142,PROPERTY,Aggressor,accused,USA-I,9,M,16,28,1,1,M
+9_M_0143,PROPERTY,Victim,accused,IRN,9,M,16,28,1,1,M
+9_M_0144,PROPERTY,Aggressor,destabilizing the Middle East by supporting terrorist groups,IRN,9,M,16,28,4,11,M
+9_M_0145,COUNTRY,IRN,Iran,,9,M,17,29,6,6,M
+9_M_0146,COUNTRY,IRN,Iran,,9,M,17,29,19,19,M
+9_M_0147,COUNTRY,ISR,Israel,,9,M,17,29,13,13,M
+9_M_0148,COUNTRY,ISR,Israel,,9,M,17,30,6,6,M
+9_M_0149,ACTOR,ISR\Netanyahu,Netanyahu,,9,M,17,29,34,34,M
+9_M_0150,ACTOR-I,USA\USA-I,Pompeo,,9,M,17,29,29,29,M
+9_M_0151,COUNTRY,USA,The United States,,9,M,17,30,1,3,M
+9_M_0152,PROPERTY,Power,ambition to dominate,IRN,9,M,17,29,21,23,M
+9_M_0153,PROPERTY,Importance,dangerous,IRN,9,M,17,29,8,8,M
+9_M_0154,PROPERTY,Affection,is with Israel in this fight,ISR,9,M,17,30,4,9,M
+9_M_0155,PROPERTY,Weakness,remain deeply concerned,USA-I,9,M,17,29,2,4,M
+9_M_0156,PROPERTY,Aggressor,threats,IRN,9,M,17,29,11,11,M
+9_M_0157,PROPERTY,Victim,threats,ISR,9,M,17,29,11,11,M

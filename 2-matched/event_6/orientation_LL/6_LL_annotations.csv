@@ -1,0 +1,288 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+6_LL_0000,GROUP,Migrant caravan,Migrant Caravan,,6,LL,0,0,0,1,LL
+6_LL_0001,PROPERTY,Aggressor,Threats,Trump,6,LL,0,0,10,10,LL
+6_LL_0002,PROPERTY,Victim,Threats,Migrant caravan,6,LL,0,0,10,10,LL
+6_LL_0003,ACTOR,USA\Trump,Trump,,6,LL,0,0,8,8,LL
+6_LL_0004,OBJECT,USA-MEX Border,U.S. Border,,6,LL,0,0,4,5,LL
+6_LL_0005,COUNTRY,USA,The White House,,6,LL,1,1,0,2,LL
+6_LL_0006,PROPERTY,Power,mobilized,USA,6,LL,1,1,3,3,LL
+6_LL_0007,PROPERTY,Importance,national security threat,Migrant caravan,6,LL,1,1,16,18,LL
+6_LL_0008,COUNTRY,USA,the National Guard,,6,LL,1,1,4,6,LL
+6_LL_0009,GROUP,Migrant caravan,the asylum-seekers,,6,LL,1,1,12,13,LL
+6_LL_0010,PROPERTY,Aggressor,threatened prosecution,USA,6,LL,1,1,8,9,LL
+6_LL_0011,PROPERTY,Victim,threatened prosecution,Migrant caravan,6,LL,1,1,8,9,LL
+6_LL_0012,ACTOR,USA\Trump,President Donald Trump,,6,LL,2,3,3,5,LL
+6_LL_0013,ACTOR-I,USA\USA-I,The secretary of homeland security,,6,LL,2,6,0,4,LL
+6_LL_0014,GROUP,Migrant caravan,a caravan of hundreds of Central Americans,,6,LL,2,3,17,23,LL
+6_LL_0015,MISC,Migration to the USA,"a ""crisis"" at the border",,6,LL,2,5,7,13,LL
+6_LL_0016,OBJECT,USA-MEX Border,border,,6,LL,2,5,13,13,LL
+6_LL_0017,PROPERTY,Importance,crisis,Migration to the USA,6,LL,2,5,9,9,LL
+6_LL_0018,OBJECT,USA-MEX Border,illegal entries,,6,LL,2,5,19,20,LL
+6_LL_0019,PROPERTY,Power,issued a statement,USA-I,6,LL,2,6,5,7,LL
+6_LL_0020,PROPERTY,Aggressor,mobilized,Trump,6,LL,2,4,7,7,LL
+6_LL_0021,PROPERTY,Unimportance,plummeted to their lowest,Migration to the USA,6,LL,2,5,22,25,LL
+6_LL_0022,PROPERTY,Aggressor,railed against,Trump,6,LL,2,5,1,2,LL
+6_LL_0023,PROPERTY,Weakness,seek asylum,Migrant caravan,6,LL,2,3,31,32,LL
+6_LL_0024,GROUP,Migrant caravan\People without borders,smugglers,,6,LL,2,6,15,15,LL
+6_LL_0025,PROPERTY,Unlawfulness,smugglers,Migrant caravan,6,LL,2,6,15,15,LL
+6_LL_0026,COUNTRY,USA,the National Guard,,6,LL,2,4,8,10,LL
+6_LL_0027,COUNTRY,USA,the United States,,6,LL,2,3,34,36,LL
+6_LL_0028,ACTOR-I,USA\USA-I,the attorney general,,6,LL,2,6,18,20,LL
+6_LL_0029,GROUP,Migrant caravan,the caravan,,6,LL,2,6,9,10,LL
+6_LL_0030,GROUP,Migrant caravan\People without borders,the caravan's organizers,,6,LL,2,6,9,12,LL
+6_LL_0031,PROPERTY,Aggressor,threatened,USA-I,6,LL,2,6,21,21,LL
+6_LL_0032,PROPERTY,Victim,threatened,Migrant caravan,6,LL,2,6,21,21,LL
+6_LL_0033,MISC,Migration to the USA,traveling through Mexico,,6,LL,2,3,25,27,LL
+6_LL_0034,PROPERTY,Aggressor,whipped himself into a fury,Trump,6,LL,2,3,6,10,LL
+6_LL_0035,ACTOR,USA\Trump,Trump,,6,LL,3,8,2,2,LL
+6_LL_0036,MISC,Migration to the USA,crossing,,6,LL,3,8,22,22,LL
+6_LL_0037,PROPERTY,Aggressor,fulminations against,Trump,6,LL,3,8,4,5,LL
+6_LL_0038,PROPERTY,Victim,fulminations against,Migrant caravan,6,LL,3,8,4,5,LL
+6_LL_0039,COUNTRY,USA,his administration,,6,LL,3,8,12,13,LL
+6_LL_0040,PROPERTY,Aggressor,made their way to,Migrant caravan,6,LL,3,7,7,10,LL
+6_LL_0041,MISC,Migration to the USA,made their way to the U.S.-Mexico border,,6,LL,3,7,7,13,LL
+6_LL_0042,OBJECT,USA-MEX Border,the U.S.-Mexico border,,6,LL,3,7,11,13,LL
+6_LL_0043,GROUP,Migrant caravan,the caravan,,6,LL,3,7,5,6,LL
+6_LL_0044,PROPERTY,Unsafety,unclear whether his administration has any practical way,Migration to the USA,6,LL,3,8,10,17,LL
+6_LL_0045,GROUP,Migrant caravan,The caravan,,6,LL,4,9,0,1,LL
+6_LL_0046,GROUP,Migrant caravan\People without borders,The caravan's organizers,,6,LL,4,9,0,3,LL
+6_LL_0047,GROUP,Supporters,immigrant rights activists,,6,LL,4,9,5,7,LL
+6_LL_0048,GROUP,Supporters,legal observers,,6,LL,4,9,9,10,LL
+6_LL_0049,PROPERTY,Power,marched,Migrant caravan,6,LL,4,9,11,11,LL
+6_LL_0050,PROPERTY,Power,marched,Migrant caravan,6,LL,4,9,28,28,LL
+6_LL_0051,PROPERTY,Power,marched toward,Migrant caravan; Supporters,6,LL,4,9,11,12,LL
+6_LL_0052,OBJECT,USA-MEX Border,the U.S.-Mexico border,,6,LL,4,9,19,21,LL
+6_LL_0053,GROUP,Migrant caravan,the caravan's participants,,6,LL,4,9,24,27,LL
+6_LL_0054,GROUP,Supporters,200 of their counterparts,,6,LL,5,14,1,4,LL
+6_LL_0055,PROPERTY,Affection,No borders,Migration to the USA,6,LL,5,10,17,18,LL
+6_LL_0056,PROPERTY,Affection,No wall,Migration to the USA,6,LL,5,11,0,1,LL
+6_LL_0057,PROPERTY,Affection,Sanctuary for all,Migration to the USA,6,LL,5,12,0,2,LL
+6_LL_0058,PROPERTY,Power,gathered in front of,Supporters,6,LL,5,14,7,10,LL
+6_LL_0059,GROUP,Supporters,group of about 100 people,,6,LL,5,10,9,13,LL
+6_LL_0060,PROPERTY,Power,marched along,Supporters,6,LL,5,13,2,3,LL
+6_LL_0061,COUNTRY,USA,the U.S. side of the border,,6,LL,5,10,1,6,LL
+6_LL_0062,OBJECT,USA-MEX Border,the border,,6,LL,5,10,5,6,LL
+6_LL_0063,OBJECT,USA-MEX Border,the port of entry,,6,LL,5,13,7,10,LL
+6_LL_0064,COUNTRY,MEX,the two countries,,6,LL,5,14,16,18,LL
+6_LL_0065,COUNTRY,USA,the two countries,,6,LL,5,14,16,18,LL
+6_LL_0066,COUNTRY,USA,The administration,,6,LL,6,17,0,1,LL
+6_LL_0067,PROPERTY,Unreason,bigotry,USA,6,LL,6,16,6,6,LL
+6_LL_0068,ACTOR-I,Supporters\Supporters-I,borderlands campaigner for the nonprofit Center for Biological Diversity,,6,LL,6,15,16,24,LL
+6_LL_0069,PROPERTY,Power,come out and march,Supporters,6,LL,6,17,12,15,LL
+6_LL_0070,PROPERTY,Aggressor,culture of hate,USA,6,LL,6,16,2,4,LL
+6_LL_0071,ACTOR-I,Supporters\Supporters-I,demonstrator Laiken Jordahl,,6,LL,6,15,11,13,LL
+6_LL_0072,PROPERTY,Unreason,doesn't even talk to us,USA,6,LL,6,17,2,7,LL
+6_LL_0073,PROPERTY,Unreason,fear cannot be accepted,USA,6,LL,6,16,8,12,LL
+6_LL_0074,PROPERTY,Weakness,push back against,Migrant caravan; Supporters,6,LL,6,15,4,6,LL
+6_LL_0075,COUNTRY,USA,this administration,,6,LL,6,15,7,8,LL
+6_LL_0076,ACTOR-I,Supporters\Supporters-I,Roberto Saravia,,6,LL,7,18,3,4,LL
+6_LL_0077,OBJECT,USA-MEX Border,This border,,6,LL,7,20,0,1,LL
+6_LL_0078,OBJECT,USA-MEX Border,a divide,,6,LL,7,20,4,5,LL
+6_LL_0079,PROPERTY,Aggressor,get criminalized,USA,6,LL,7,19,24,25,LL
+6_LL_0080,PROPERTY,Victim,get criminalized,Migrant caravan,6,LL,7,19,24,25,LL
+6_LL_0081,PROPERTY,Aggressor,get mistreated,USA,6,LL,7,19,20,21,LL
+6_LL_0082,PROPERTY,Victim,get mistreated,Migrant caravan,6,LL,7,19,20,21,LL
+6_LL_0083,PROPERTY,Aggressor,get scapegoated,USA,6,LL,7,19,16,17,LL
+6_LL_0084,PROPERTY,Victim,get scapegoated,Migrant caravan,6,LL,7,19,16,17,LL
+6_LL_0085,GROUP,Migrant caravan,immigrants,,6,LL,7,19,15,15,LL
+6_LL_0086,PROPERTY,Unreason,ridiculous,Migrant caravan,6,LL,7,19,3,3,LL
+6_LL_0087,PROPERTY,Refusal,shouldn't divide us,USA-MEX Border,6,LL,7,20,20,23,LL
+6_LL_0088,PROPERTY,Refusal,that shouldn't be here,USA-MEX Border,6,LL,7,20,6,10,LL
+6_LL_0089,COUNTRY,USA,the Trump administration,,6,LL,7,18,17,19,LL
+6_LL_0090,COUNTRY,USA,the U.S.,,6,LL,7,19,12,13,LL
+6_LL_0091,PROPERTY,Refusal,want to see it gone,USA-MEX Border,6,LL,7,20,13,17,LL
+6_LL_0092,GROUP,Migrant caravan,a group of about 150 of the caravan's members,,6,LL,8,21,4,13,LL
+6_LL_0093,MISC,Migration to the USA,begun crossing into the U.S.,,6,LL,8,21,15,19,LL
+6_LL_0094,PROPERTY,Power,crossing,Migrant caravan; Supporters,6,LL,8,21,16,16,LL
+6_LL_0095,GROUP,Supporters,legal advisers,,6,LL,8,21,23,24,LL
+6_LL_0096,GROUP,Migrant caravan\People without borders,organizers,,6,LL,8,21,26,26,LL
+6_LL_0097,ACTOR-I,USA\USA-I,CBP Commissioner Kevin McAleenan,,6,LL,9,23,32,35,LL
+6_LL_0098,COUNTRY,USA,CBP officers,,6,LL,9,23,20,21,LL
+6_LL_0099,COUNTRY,USA,U.S. Customs and Border Protection,,6,LL,9,22,1,5,LL
+6_LL_0100,PROPERTY,Negative,limit the number of asylum-seekers,Migrant caravan,6,LL,9,22,9,13,LL
+6_LL_0101,PROPERTY,Weakness,need to wait,Migrant caravan,6,LL,9,23,14,16,LL
+6_LL_0102,OBJECT,USA-MEX Border,the San Ysidro port of entry,,6,LL,9,22,17,22,LL
+6_LL_0103,GROUP,Migrant caravan,those individuals,,6,LL,9,23,11,12,LL
+6_LL_0104,PROPERTY,Other,warned,USA,6,LL,9,22,6,6,LL
+6_LL_0105,COUNTRY,USA,U.S. immigration officials,,6,LL,10,24,25,27,LL
+6_LL_0106,PROPERTY,Weakness,had yet to speak to,Migrant caravan,6,LL,10,25,5,9,LL
+6_LL_0107,COUNTRY,USA,immigration officials,,6,LL,10,24,26,27,LL
+6_LL_0108,COUNTRY,USA,immigration officials,,6,LL,10,25,10,11,LL
+6_LL_0109,PROPERTY,Weakness,many of whom were children,Migrant caravan,6,LL,10,24,4,8,LL
+6_LL_0110,GROUP,Migrant caravan,migrants,,6,LL,10,24,2,2,LL
+6_LL_0111,GROUP,Migrant caravan\People without borders,organizers,,6,LL,10,25,22,22,LL
+6_LL_0112,PROPERTY,Weakness,sleeping on the ground outside,Migrant caravan,6,LL,10,24,13,17,LL
+6_LL_0113,COUNTRY,MEX,the Mexican side of the border,,6,LL,10,25,15,20,LL
+6_LL_0114,OBJECT,USA-MEX Border,the Mexican side of the border,,6,LL,10,25,15,20,LL
+6_LL_0115,PROPERTY,Weakness,waiting to present their claims,Migrant caravan,6,LL,10,24,19,23,LL
+6_LL_0116,ACTOR-I,Supporters\Supporters-I,Nicole Ramos,,6,LL,11,26,16,17,LL
+6_LL_0117,GROUP,Migrant caravan,asylum seekers,,6,LL,11,27,36,37,LL
+6_LL_0118,ACTOR-I,Supporters\Supporters-I,attorney with the nonprofit group Al Otro Lado,,6,LL,11,26,20,27,LL
+6_LL_0119,PROPERTY,Weakness,"children, infants, a disabled woman who relies on her mother",Migrant caravan,6,LL,11,27,8,19,LL
+6_LL_0120,PROPERTY,Reason,creating a humanitarian crisis that doesn't need to be created,USA,6,LL,11,28,6,16,LL
+6_LL_0121,PROPERTY,Importance,humanitarian crisis,Migration to the USA,6,LL,11,28,8,9,LL
+6_LL_0122,PROPERTY,Weakness,most vulnerable asylum seekers,Migrant caravan-I,6,LL,11,27,34,37,LL
+6_LL_0123,PROPERTY,Power,provided legal services,Supporters-I,6,LL,11,26,31,33,LL
+6_LL_0124,COUNTRY,USA,the U.S.,,6,LL,11,28,1,2,LL
+6_LL_0125,GROUP,Migrant caravan,the migrants traveling with the caravan,,6,LL,11,26,35,40,LL
+6_LL_0126,ACTOR-I,Migrant caravan\Migrant caravan-I,trans women,,6,LL,11,27,28,29,LL
+6_LL_0127,PROPERTY,No trustworthiness,using the excuse,USA,6,LL,11,26,3,5,LL
+6_LL_0128,GROUP,Migrant caravan,Central American migrants,,6,LL,12,31,4,6,LL
+6_LL_0129,COUNTRY,USA,The Trump administration,,6,LL,12,29,0,2,LL
+6_LL_0130,PROPERTY,Power,dissuading,USA,6,LL,12,30,8,8,LL
+6_LL_0131,PROPERTY,Weakness,have yet to decide,Migrant caravan,6,LL,12,31,24,27,LL
+6_LL_0132,COUNTRY,USA,his administration,,6,LL,12,30,1,2,LL
+6_LL_0133,PROPERTY,Other,hoping that it won't have to,USA,6,LL,12,29,4,10,LL
+6_LL_0134,GROUP,Migrant caravan\People without borders,organizers,,6,LL,12,31,17,17,LL
+6_LL_0135,PROPERTY,Power,plan to present asylum claims,Migrant caravan,6,LL,12,31,7,11,LL
+6_LL_0136,COUNTRY,USA,the U.S.,,6,LL,12,29,15,16,LL
+6_LL_0137,GROUP,Migrant caravan,the migrants,,6,LL,12,29,12,13,LL
+6_LL_0138,PROPERTY,Aggressor,threats,USA,6,LL,12,30,4,4,LL
+6_LL_0139,PROPERTY,Victim,threats,Migrant caravan,6,LL,12,30,4,4,LL
+6_LL_0140,ACTION,Migration to the USA\Seek asylum,make asylum claims,,6,LL,13,32,33,35,LL
+6_LL_0141,PROPERTY,Negative,noise and slow-walking,Migrant caravan,6,LL,13,32,4,6,LL
+6_LL_0142,COUNTRY,USA,the White House,,6,LL,13,32,20,22,LL
+6_LL_0143,GROUP,Migrant caravan,the asylum seekers,,6,LL,13,32,8,10,LL
+6_LL_0144,GROUP,Migrant caravan,those who do make asylum claims,,6,LL,13,32,30,35,LL
+6_LL_0145,PROPERTY,Other,whether the White House's actions do anything,USA,6,LL,13,32,19,26,LL
+6_LL_0146,ACTOR-I,USA\USA-I,Attorney General Jeff Sessions,,6,LL,14,35,0,3,LL
+6_LL_0147,ACTOR,USA\Trump,Trump,,6,LL,14,33,0,0,LL
+6_LL_0148,PROPERTY,Aggressor,Trump's ire,Trump,6,LL,14,33,0,2,LL
+6_LL_0149,PROPERTY,Victim,Trump's ire,Migrant caravan,6,LL,14,33,0,2,LL
+6_LL_0150,PROPERTY,Power,catch and release,Trump,6,LL,14,34,37,39,LL
+6_LL_0151,PROPERTY,Confidence,enthusiastic,USA-I,6,LL,14,35,9,9,LL
+6_LL_0152,COUNTRY,USA,immigration court,,6,LL,14,34,18,19,LL
+6_LL_0153,PROPERTY,Weakness,larger concerns,Trump,6,LL,14,33,8,9,LL
+6_LL_0154,COUNTRY,USA,the U.S.,,6,LL,14,34,2,3,LL
+6_LL_0155,OBJECT,USA-MEX Border,the border,,6,LL,14,34,11,12,LL
+6_LL_0156,GROUP,Migrant caravan,the caravan,,6,LL,14,33,4,5,LL
+6_LL_0157,GROUP,Migrant caravan,unauthorized immigrants,,6,LL,14,34,7,8,LL
+6_LL_0158,PROPERTY,Aggressor,uniformly detaining or deporting them,USA,6,LL,14,34,22,26,LL
+6_LL_0159,PROPERTY,Victim,uniformly detaining or deporting them,Migrant caravan,6,LL,14,34,22,26,LL
+6_LL_0160,PROPERTY,Power,wants the U.S. to stop releasing unauthorized immigrants,Trump,6,LL,14,34,1,8,LL
+6_LL_0161,COUNTRY,MEX,Mexico,,6,LL,15,38,3,3,LL
+6_LL_0162,GROUP,Migrant caravan,Migrants,,6,LL,15,41,0,0,LL
+6_LL_0163,COUNTRY,USA,U.S. law,,6,LL,15,36,12,13,LL
+6_LL_0164,PROPERTY,Difficulty,aren't as easy to deport,Migrant caravan,6,LL,15,39,18,23,LL
+6_LL_0165,PROPERTY,Easiness,can be deported quickly,Migrant caravan,6,LL,15,38,4,7,LL
+6_LL_0166,PROPERTY,Difficulty,cannot usually be locked up,Migrant caravan,6,LL,15,40,15,20,LL
+6_LL_0167,PROPERTY,Difficulty,can't be detained for long,Migrant caravan,6,LL,15,39,27,32,LL
+6_LL_0168,COUNTRY,USA,detention centers,,6,LL,15,37,3,4,LL
+6_LL_0169,GROUP,Migrant caravan,immigrants,,6,LL,15,38,1,1,LL
+6_LL_0170,GROUP,Migrant caravan,immigrants,,6,LL,15,42,1,1,LL
+6_LL_0171,PROPERTY,Positive,often qualify,Migrant caravan,6,LL,15,42,12,13,LL
+6_LL_0172,PROPERTY,Power,right to apply for asylum,Migrant caravan,6,LL,15,41,3,7,LL
+6_LL_0173,COUNTRY,USA,the Office of Refugee Resettlement,,6,LL,15,40,6,10,LL
+6_LL_0174,OBJECT,USA-MEX Border,the border,,6,LL,15,39,6,7,LL
+6_LL_0175,COUNTRY,USA,Trump administration officials,,6,LL,16,44,25,27,LL
+6_LL_0176,GROUP,Migrant caravan,a caravan of Central American migrants,,6,LL,16,44,8,13,LL
+6_LL_0177,GROUP,Supporters,immigrant rights activists,,6,LL,16,43,5,7,LL
+6_LL_0178,GROUP,Supporters,legal observers,,6,LL,16,43,9,10,LL
+6_LL_0179,PROPERTY,Power,march toward,Supporters,6,LL,16,43,11,12,LL
+6_LL_0180,ACTION,Migration to the USA\Seek asylum,plan to request asylum,,6,LL,16,44,15,18,LL
+6_LL_0181,PROPERTY,Power,plan to request asylum,Migrant caravan,6,LL,16,44,15,18,LL
+6_LL_0182,PROPERTY,Aggressor,repeated threats,USA,6,LL,16,44,22,23,LL
+6_LL_0183,PROPERTY,Victim,repeated threats,Migrant caravan,6,LL,16,44,22,23,LL
+6_LL_0184,OBJECT,USA-MEX Border,the U.S.-Mexico border,,6,LL,16,43,13,15,LL
+6_LL_0185,MISC,Migration to the USA,the arrival,,6,LL,16,44,5,6,LL
+6_LL_0186,ACTOR,USA\Trump,Trump,,6,LL,17,45,6,6,LL
+6_LL_0187,ACTOR,USA\Trump,Trump,,6,LL,17,46,7,7,LL
+6_LL_0188,GROUP,Migrant caravan,a few hundred Central Americans seeking asylum,,6,LL,17,45,18,24,LL
+6_LL_0189,PROPERTY,Aggressor,attempt to deter,Trump,6,LL,17,46,2,4,LL
+6_LL_0190,PROPERTY,Victim,attempt to deter,Migrant caravan,6,LL,17,46,2,4,LL
+6_LL_0191,PROPERTY,Weakness,can't make,USA,6,LL,17,46,35,37,LL
+6_LL_0192,PROPERTY,Other,have likened the arrival,USA,6,LL,17,45,13,16,LL
+6_LL_0193,OBJECT,USA-MEX Border,legal ports of entry,,6,LL,17,46,50,53,LL
+6_LL_0194,PROPERTY,Power,mobilized,Trump,6,LL,17,46,8,8,LL
+6_LL_0195,PROPERTY,Importance,national security crisis,Migrant caravan; Migration to the USA,6,LL,17,45,27,29,LL
+6_LL_0196,PROPERTY,Power,plan to travel,Migrant caravan,6,LL,17,46,46,48,LL
+6_LL_0197,PROPERTY,Negative,presence will be purely ornamental,USA,6,LL,17,46,26,30,LL
+6_LL_0198,PROPERTY,Weakness,seeking asylum,Migrant caravan,6,LL,17,45,23,24,LL
+6_LL_0199,COUNTRY,USA,the National Guard,,6,LL,17,46,9,11,LL
+6_LL_0200,COUNTRY,USA,the National Guard,,6,LL,17,46,32,34,LL
+6_LL_0201,COUNTRY,USA,the Trump administration,,6,LL,17,45,5,7,LL
+6_LL_0202,MISC,Migration to the USA,the arrival,,6,LL,17,45,15,16,LL
+6_LL_0203,GROUP,Migrant caravan,the caravan's members,,6,LL,17,46,42,45,LL
+6_LL_0204,OBJECT,USA-MEX Border,the four Southwest border states,,6,LL,17,46,15,19,LL
+6_LL_0205,ACTOR-I,USA\USA-I,Homeland Security Secretary Kirstjen Nielsen,,6,LL,18,47,0,4,LL
+6_LL_0206,COUNTRY,MEX,Mexico,,6,LL,18,48,6,6,LL
+6_LL_0207,PROPERTY,Aggressor,aggressive but toothless statement,USA-I,6,LL,18,47,10,13,LL
+6_LL_0208,PROPERTY,Victim,aggressive but toothless statement,Migrant caravan,6,LL,18,47,10,13,LL
+6_LL_0209,GROUP,Migrant caravan,asylum-seekers,,6,LL,18,48,2,2,LL
+6_LL_0210,PROPERTY,Power,encouraged,USA-I,6,LL,18,48,1,1,LL
+6_LL_0211,PROPERTY,Power,monitoring,USA,6,LL,18,47,22,22,LL
+6_LL_0212,GROUP,Migrant caravan,the caravan,,6,LL,18,47,24,25,LL
+6_LL_0213,COUNTRY,USA,the department,,6,LL,18,47,18,19,LL
+6_LL_0214,COUNTRY,USA,Congress,,6,LL,19,50,11,11,LL
+6_LL_0215,ACTOR-I,USA\USA-I,Nielsen,,6,LL,19,49,7,7,LL
+6_LL_0216,PROPERTY,Unlawfulness,assist or coach an individual in making a false immigration claim,Supporters,6,LL,19,53,2,12,LL
+6_LL_0217,PROPERTY,Unlawfulness,broken the law,Migrant caravan,6,LL,19,51,9,11,LL
+6_LL_0218,PROPERTY,Unlawfulness,broken the law,Migrant caravan,6,LL,19,52,10,12,LL
+6_LL_0219,PROPERTY,Unlawfulness,broken the law,Migrant caravan,6,LL,19,53,16,18,LL
+6_LL_0220,PROPERTY,Unlawfulness,broken the law,Supporters; Migrant caravan,6,LL,19,51,9,11,LL
+6_LL_0221,PROPERTY,Unlawfulness,broken the law,Supporters; Migrant caravan,6,LL,19,52,10,12,LL
+6_LL_0222,PROPERTY,Unlawfulness,broken the law,Supporters; Migrant caravan,6,LL,19,53,16,18,LL
+6_LL_0223,MISC,Migration to the USA,enter our country illegally,,6,LL,19,51,2,5,LL
+6_LL_0224,PROPERTY,Unlawfulness,illegally,Migration to the USA,6,LL,19,51,5,5,LL
+6_LL_0225,PROPERTY,No trustworthiness,make a false immigration claim,Migrant caravan,6,LL,19,52,2,6,LL
+6_LL_0226,PROPERTY,No trustworthiness,making a false immigration claim,Migrant caravan,6,LL,19,53,8,12,LL
+6_LL_0227,PROPERTY,Unlawfulness,referred for prosecution,Migrant caravan,6,LL,19,51,15,17,LL
+6_LL_0228,PROPERTY,Unlawfulness,referred for prosecution,Migrant caravan,6,LL,19,52,16,18,LL
+6_LL_0229,PROPERTY,Unlawfulness,referred for prosecution,Migrant caravan,6,LL,19,53,22,24,LL
+6_LL_0230,PROPERTY,Unlawfulness,referred for prosecution,Migrant caravan; Supporters,6,LL,19,51,15,17,LL
+6_LL_0231,PROPERTY,Unlawfulness,referred for prosecution,Migrant caravan; Supporters,6,LL,19,52,16,18,LL
+6_LL_0232,PROPERTY,Unlawfulness,referred for prosecution,Migrant caravan; Supporters,6,LL,19,53,22,24,LL
+6_LL_0233,PROPERTY,Confidence,will enforce the immigration laws,USA,6,LL,19,50,2,6,LL
+6_LL_0234,PROPERTY,Power,will enforce the immigration laws,USA,6,LL,19,50,2,6,LL
+6_LL_0235,ACTOR-I,USA\USA-I,Nielsen,,6,LL,20,54,0,0,LL
+6_LL_0236,ACTOR-I,USA\USA-I,Rep. Bennie Thompson,,6,LL,20,54,11,13,LL
+6_LL_0237,PROPERTY,Refusal,met with criticism,USA-I,6,LL,20,54,7,9,LL
+6_LL_0238,PROPERTY,Aggressor,targeting,USA-I,6,LL,20,54,4,4,LL
+6_LL_0239,PROPERTY,Victim,targeting,Migrant caravan,6,LL,20,54,4,4,LL
+6_LL_0240,COUNTRY,USA,the House Committee on Homeland Security,,6,LL,20,54,5,10,LL
+6_LL_0241,GROUP,Migrant caravan,the caravan,,6,LL,20,54,5,6,LL
+6_LL_0242,ACTOR-I,USA\USA-I,the ranking member of the House Committee on Homeland Security,,6,LL,20,54,1,10,LL
+6_LL_0243,ACTOR-I,USA\USA-I,Thompson,,6,LL,21,55,6,6,LL
+6_LL_0244,ACTOR,USA\Trump,Trump,,6,LL,21,56,6,6,LL
+6_LL_0245,PROPERTY,Aggressor,elevate this into some heightened sense of threat,USA-I,6,LL,21,60,4,11,LL
+6_LL_0246,COUNTRY,USA,intelligence officials,,6,LL,21,56,13,14,LL
+6_LL_0247,PROPERTY,Unreason,just didn't measure up,USA-I,6,LL,21,60,14,18,LL
+6_LL_0248,PROPERTY,Unreason,overkill,USA-I,6,LL,21,55,3,3,LL
+6_LL_0249,PROPERTY,Unreason,would have expected [Trump] to have been briefed,Trump,6,LL,21,56,2,11,LL
+6_LL_0250,ACTOR-I,USA\USA-I,Sessions,,6,LL,22,61,0,0,LL
+6_LL_0251,COUNTRY,USA,U.S. Attorneys,,6,LL,22,61,19,20,LL
+6_LL_0252,PROPERTY,Power,directed,USA-I,6,LL,22,61,17,17,LL
+6_LL_0253,PROPERTY,Power,ensure that we have sufficient prosecutors available,USA,6,LL,22,61,30,36,LL
+6_LL_0254,PROPERTY,Power,take whatever immediate action,USA,6,LL,22,61,25,28,LL
+6_LL_0255,OBJECT,USA-MEX Border,the border,,6,LL,22,61,22,23,LL
+6_LL_0256,GROUP,Migrant caravan,the caravan,,6,LL,22,61,6,7,LL
+6_LL_0257,ACTOR-I,USA\USA-I,Nielsen,,6,LL,23,63,3,3,LL
+6_LL_0258,ACTOR-I,USA\USA-I,Sessions,,6,LL,23,64,30,30,LL
+6_LL_0259,GROUP,Supporters,"The people whom Nielsen accuses of ""coaching"" the caravan's members",,6,LL,23,63,0,12,LL
+6_LL_0260,OBJECT,USA-MEX Border,a legal port of entry,,6,LL,23,64,3,7,LL
+6_LL_0261,PROPERTY,Aggressor,accuses,USA-I,6,LL,23,63,4,4,LL
+6_LL_0262,PROPERTY,Victim,accuses,Supporters,6,LL,23,63,4,4,LL
+6_LL_0263,ACTION,Migration to the USA\Seek asylum,claiming asylum,,6,LL,23,63,25,26,LL
+6_LL_0264,PROPERTY,Power,counseling,Supporters,6,LL,23,63,19,19,LL
+6_LL_0265,PROPERTY,Weakness,counseling,Migrant caravan,6,LL,23,63,19,19,LL
+6_LL_0266,MISC,Migration to the USA,crossing through a legal port of entry,,6,LL,23,64,1,7,LL
+6_LL_0267,ACTION,Migration to the USA\Seek asylum,crossing through a legal port of entry to ask for asylum,,6,LL,23,64,1,11,LL
+6_LL_0268,PROPERTY,Safety,doesn't expose them to prosecution,Migration to the USA,6,LL,23,64,22,27,LL
+6_LL_0269,GROUP,Supporters,lawyers and immigrant rights advocates,,6,LL,23,63,14,18,LL
+6_LL_0270,GROUP,Migrant caravan,migrants,,6,LL,23,63,20,20,LL
+6_LL_0271,GROUP,Migrant caravan,the caravan's members,,6,LL,23,63,9,12,LL
+6_LL_0272,GROUP,Migrant caravan,the caravan's members,,6,LL,23,64,14,17,LL
+6_LL_0273,PROPERTY,Aggressor,threats,USA,6,LL,23,62,9,9,LL
+6_LL_0274,PROPERTY,Other,unclear,USA,6,LL,23,62,2,2,LL
+6_LL_0275,PROPERTY,Power,"""coaching""",Supporters,6,LL,23,63,6,8,LL
+6_LL_0276,PROPERTY,Weakness,"""coaching""",Migrant caravan,6,LL,23,63,6,8,LL
+6_LL_0277,ACTOR-I,Supporters\Supporters-I,Alex Mensing,,6,LL,24,65,9,10,LL
+6_LL_0278,GROUP,Supporters,Pueblos Sin Fronteras,,6,LL,24,65,23,25,LL
+6_LL_0279,GROUP,Migrant caravan\People without borders,a project coordinator for the caravan's main organizing group,,6,LL,24,65,12,21,LL
+6_LL_0280,ACTOR-I,Supporters\Supporters-I,a project coordinator for the caravan's main organizing group,,6,LL,24,65,12,21,LL
+6_LL_0281,PROPERTY,Refusal,anti-immigrant,Migrant caravan,6,LL,24,65,4,4,LL
+6_LL_0282,PROPERTY,Unlawfulness,no legitimate,Migrant caravan,6,LL,24,66,19,20,LL
+6_LL_0283,GROUP,Migrant caravan,no legitimate asylum-seekers,,6,LL,24,66,19,21,LL
+6_LL_0284,PROPERTY,Unreason,not for them to decide,USA,6,LL,24,67,3,7,LL
+6_LL_0285,PROPERTY,No trustworthiness,not true,USA,6,LL,24,66,27,28,LL
+6_LL_0286,COUNTRY,USA,the administration,,6,LL,24,66,5,6,LL

@@ -1,0 +1,266 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+9_L_0000,PROPERTY,Other,Claims on,ISR,9,L,0,0,2,3,L
+9_L_0001,PROPERTY,Power,Divide,ISR,9,L,0,0,5,5,L
+9_L_0002,COUNTRY,IRN,Iran,,9,L,0,0,4,4,L
+9_L_0003,COUNTRY,ISR,Israel,,9,L,0,0,0,0,L
+9_L_0004,OBJECT,Nuclear deal,Nuclear Deal,,9,L,0,0,12,13,L
+9_L_0005,COUNTRY,USA,U.S.,,9,L,0,0,8,8,L
+9_L_0006,COUNTRY,ISR,Israel,,9,L,1,1,5,5,L
+9_L_0007,COUNTRY,USA,Mike Pompeo,,9,L,1,1,13,14,L
+9_L_0008,COUNTRY,USA,Mr. Pompeo,,9,L,1,2,4,5,L
+9_L_0009,ACTOR,ISR\Netanyahu,Prime Minister Benjamin Netanyahu,,9,L,1,1,0,3,L
+9_L_0010,COUNTRY,USA,Secretary of State,,9,L,1,1,10,12,L
+9_L_0011,ACTOR,ISR\Netanyahu,The prime minister,,9,L,1,2,0,2,L
+9_L_0012,PROPERTY,Power,briefed,Netanyahu,9,L,1,2,3,3,L
+9_L_0013,EVENT,Presentation,presentation,,9,L,1,2,11,11,L
+9_L_0014,COUNTRY,IRN,Iran,,9,L,2,3,12,12,L
+9_L_0015,COUNTRY,ISR,Israel,,9,L,2,3,8,8,L
+9_L_0016,COUNTRY,USA,The Trump administration,,9,L,2,3,2,4,L
+9_L_0017,OBJECT,Nuclear deal,a nuclear deal,,9,L,2,3,14,16,L
+9_L_0018,PROPERTY,Affection,embraced,ISR,9,L,2,3,7,7,L
+9_L_0019,PROPERTY,Other,stark divergence,USA,9,L,2,3,28,29,L
+9_L_0020,OBJECT,Nuclear deal,the 2015 deal,,9,L,2,3,53,55,L
+9_L_0021,OBJECT,IRN files,the disclosures,,9,L,2,3,37,38,L
+9_L_0022,PROPERTY,No trustworthiness,under false pretenses,IRN,9,L,2,3,23,25,L
+9_L_0023,ACTOR,USA\Trump,President Trump,,9,L,3,4,33,34,L
+9_L_0024,MISC,Reaction to IRN deal,President Trump's decision,,9,L,3,4,33,36,L
+9_L_0025,ACTOR,ISR\Netanyahu,Prime Minister Benjamin Netanyahu,,9,L,3,4,7,10,L
+9_L_0026,COUNTRY,USA,The administration,,9,L,3,4,0,1,L
+9_L_0027,EVENT,Presentation,a dramatic PowerPoint presentation,,9,L,3,4,14,17,L
+9_L_0028,PROPERTY,Importance,dramatic,Presentation,9,L,3,4,15,15,L
+9_L_0029,PROPERTY,Affection,echoed the claims,Netanyahu,9,L,3,4,2,4,L
+9_L_0030,PROPERTY,Aggressor,rip up,Trump,9,L,3,4,40,41,L
+9_L_0031,MISC,Reaction to IRN deal,rip up the agreement,,9,L,3,4,40,43,L
+9_L_0032,PROPERTY,Power,set the stage for,Netanyahu; USA,9,L,3,4,29,32,L
+9_L_0033,COUNTRY,USA,the White House,,9,L,3,4,25,27,L
+9_L_0034,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,4,6,4,5,L
+9_L_0035,EVENT,Presentation,Mr. Netanyahu's theatrical presentation,,9,L,4,6,4,8,L
+9_L_0036,ACTOR,USA\Trump,Mr. Trump,,9,L,4,5,0,1,L
+9_L_0037,COUNTRY,USA,The White House,,9,L,4,6,0,2,L
+9_L_0038,OBJECT,IRN files,documents,,9,L,4,6,12,12,L
+9_L_0039,PROPERTY,Poor quality,flaws,Nuclear deal,9,L,4,6,32,32,L
+9_L_0040,PROPERTY,Power,nighttime raid,IRN,9,L,4,6,20,21,L
+9_L_0041,MISC,Reaction to IRN deal,scrap the deal,,9,L,4,5,5,7,L
+9_L_0042,OBJECT,Nuclear deal,the agreement,,9,L,4,6,29,30,L
+9_L_0043,OBJECT,Nuclear deal,the deal,,9,L,4,5,6,7,L
+9_L_0044,PROPERTY,Importance,theatrical,Presentation,9,L,4,6,7,7,L
+9_L_0045,PROPERTY,Aggressor,threatened to scrap,Trump,9,L,4,5,3,5,L
+9_L_0046,PROPERTY,Victim,threatened to scrap,Nuclear deal,9,L,4,5,3,5,L
+9_L_0047,ACTOR-I,USA\USA-I,Sarah Huckabee Sanders,,9,L,5,7,18,20,L
+9_L_0048,OBJECT,Nuclear deal,The deal,,9,L,5,7,1,2,L
+9_L_0049,PROPERTY,No trustworthiness,dishonest,IRN,9,L,5,9,2,2,L
+9_L_0050,COUNTRY,IRN,dishonest actors,,9,L,5,9,2,3,L
+9_L_0051,PROPERTY,Refusal,have a big problem with that,Nuclear deal,9,L,5,10,17,22,L
+9_L_0052,PROPERTY,No trustworthiness,lied,IRN,9,L,5,8,2,2,L
+9_L_0053,PROPERTY,Unreason,made on a completely false pretense,Nuclear deal,9,L,5,7,4,9,L
+9_L_0054,PROPERTY,Poor quality,made on a completely false pretense,Nuclear deal,9,L,5,7,4,9,L
+9_L_0055,PROPERTY,Unreason,made on things that weren't accurate,Nuclear deal,9,L,5,10,7,13,L
+9_L_0056,PROPERTY,Poor quality,made on things that weren't accurate,Nuclear deal,9,L,5,10,7,13,L
+9_L_0057,ACTOR-I,USA\USA-I,the White House press secretary,,9,L,5,7,12,16,L
+9_L_0058,OBJECT,Nuclear deal,the deal,,9,L,5,10,1,2,L
+9_L_0059,COUNTRY,ISR,A senior Israeli official,,9,L,6,12,0,3,L
+9_L_0060,COUNTRY,ISR,Israel's intelligence agency,,9,L,6,12,11,14,L
+9_L_0061,COUNTRY,USA,Mike Pompeo,,9,L,6,13,7,8,L
+9_L_0062,ACTOR-I,ISR\ISR-I,Mossad,,9,L,6,12,16,16,L
+9_L_0063,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,6,13,1,2,L
+9_L_0064,ACTOR,USA\Trump,Mr. Trump,,9,L,6,12,20,21,L
+9_L_0065,ACTOR-I,USA\USA-I,Ms. Sanders,,9,L,6,11,0,1,L
+9_L_0066,COUNTRY,USA,Secretary of State,,9,L,6,13,4,6,L
+9_L_0067,ACTOR-I,ISR\ISR-I,Yossi Cohen,,9,L,6,12,5,6,L
+9_L_0068,PROPERTY,Power,briefed,Netanyahu,9,L,6,13,3,3,L
+9_L_0069,PROPERTY,Power,discussed the rollout of the new information,USA,9,L,6,11,7,13,L
+9_L_0070,PROPERTY,Power,informed Mr. Trump of the operation,ISR; ISR-I,9,L,6,12,19,24,L
+9_L_0071,COUNTRY,ISR,the Israelis,,9,L,6,11,15,16,L
+9_L_0072,COUNTRY,USA,the White House,,9,L,6,11,3,5,L
+9_L_0073,ACTOR-I,ISR\ISR-I,the chief of Israel's intelligence agency,,9,L,6,12,8,14,L
+9_L_0074,OBJECT,IRN files,Iranian files,,9,L,7,14,19,20,L
+9_L_0075,ACTOR,ISR\Netanyahu,Mr. Netanyahu's,,9,L,7,14,27,29,L
+9_L_0076,EVENT,Presentation,Mr. Netanyahu's presentation,,9,L,7,14,27,30,L
+9_L_0077,ACTOR,USA\Trump,Mr. Trump,,9,L,7,14,51,52,L
+9_L_0078,COUNTRY,IRN,Tehran,,9,L,7,14,58,58,L
+9_L_0079,COUNTRY,USA,United States intelligence agencies,,9,L,7,14,1,4,L
+9_L_0080,PROPERTY,Economy negative,decide to reimpose sanctions,IRN,9,L,7,14,53,56,L
+9_L_0081,PROPERTY,Power,decide to reimpose sanctions,Trump,9,L,7,14,53,56,L
+9_L_0082,MISC,Reaction to IRN deal,decide to reimpose sanctions,,9,L,7,14,53,56,L
+9_L_0083,PROPERTY,Other,starkly divergent reactions,USA,9,L,7,14,23,25,L
+9_L_0084,OBJECT,Nuclear deal,the Iran deal,,9,L,7,14,42,44,L
+9_L_0085,COUNTRY,IRN,Iran,,9,L,8,15,11,11,L
+9_L_0086,COUNTRY,IRN,Iran,,9,L,8,16,14,14,L
+9_L_0087,ACTOR-I,USA\USA-I,Ms. Sanders,,9,L,8,16,1,2,L
+9_L_0088,COUNTRY,USA,The White House,,9,L,8,15,0,2,L
+9_L_0089,PROPERTY,Unlawfulness,deceit,IRN,9,L,8,16,16,16,L
+9_L_0090,PROPERTY,Power,demonstrated that Iran was in violation of the 2015 agreement,IRN files,9,L,8,15,9,18,L
+9_L_0091,PROPERTY,Power,further undermining,USA-I,9,L,8,16,18,19,L
+9_L_0092,PROPERTY,Unlawfulness,in violation of,IRN,9,L,8,15,13,15,L
+9_L_0093,OBJECT,Nuclear deal,the 2015 agreement,,9,L,8,15,16,18,L
+9_L_0094,OBJECT,Nuclear deal,the deal,,9,L,8,16,26,27,L
+9_L_0095,OBJECT,IRN files,the disclosures,,9,L,8,16,5,6,L
+9_L_0096,OBJECT,IRN files,the files,,9,L,8,15,7,8,L
+9_L_0097,COUNTRY,IRN,Iran,,9,L,9,17,10,10,L
+9_L_0098,COUNTRY,IRN,Iran,,9,L,9,18,5,5,L
+9_L_0099,ACTOR-I,USA\USA-I,Ms. Sanders,,9,L,9,17,12,13,L
+9_L_0100,MISC,IRN nuclear activity,"a robust, clandestine nuclear weapons program",,9,L,9,18,7,13,L
+9_L_0101,PROPERTY,Poor quality,potentially dangerous typo,USA,9,L,9,17,17,19,L
+9_L_0102,PROPERTY,Power,"robust, clandestine",IRN nuclear activity,9,L,9,18,8,10,L
+9_L_0103,OBJECT,IRN files,the Israeli disclosures,,9,L,9,17,28,30,L
+9_L_0104,COUNTRY,USA,the administration,,9,L,9,17,4,5,L
+9_L_0105,PROPERTY,Aggressor,tough line on,USA,9,L,9,17,7,9,L
+9_L_0106,PROPERTY,Victim,tough line on,IRN,9,L,9,17,7,9,L
+9_L_0107,PROPERTY,No trustworthiness,tried and failed to hide,IRN,9,L,9,18,17,21,L
+9_L_0108,PROPERTY,Unreason,tried and failed to hide,IRN,9,L,9,18,17,21,L
+9_L_0109,COUNTRY,IRN,Iran,,9,L,10,19,17,17,L
+9_L_0110,ACTOR-I,USA\USA-I,Ms. Sanders,,9,L,10,20,1,2,L
+9_L_0111,COUNTRY,USA,White House officials,,9,L,10,19,0,2,L
+9_L_0112,PROPERTY,Unreason,a clerical error,USA,9,L,10,19,7,9,L
+9_L_0113,PROPERTY,Power,"a robust"" program",IRN,9,L,10,19,19,22,L
+9_L_0114,PROPERTY,Poor quality,biggest mistake,Nuclear deal,9,L,10,20,9,10,L
+9_L_0115,OBJECT,Nuclear deal,the deal,,9,L,10,20,22,23,L
+9_L_0116,COUNTRY,IRN,Iran,,9,L,11,22,34,34,L
+9_L_0117,COUNTRY,ISR,Israel,,9,L,11,21,1,1,L
+9_L_0118,COUNTRY,ISR,Officials,,9,L,11,22,0,0,L
+9_L_0119,PROPERTY,Power,not finished with its lobbying campaign,ISR,9,L,11,21,3,8,L
+9_L_0120,PROPERTY,Power,planned to share much of the data,ISR,9,L,11,22,4,10,L
+9_L_0121,PROPERTY,Importance,previously unknown,IRN files,9,L,11,22,29,30,L
+9_L_0122,MISC,IRN nuclear activity,previously unknown nuclear sites,,9,L,11,22,29,32,L
+9_L_0123,OBJECT,IRN files,the data,,9,L,11,22,9,10,L
+9_L_0124,COUNTRY,IRN,Iran,,9,L,12,24,1,1,L
+9_L_0125,COUNTRY,ISR,Israel,,9,L,12,23,0,0,L
+9_L_0126,PROPERTY,Weakness,allow inspections,IRN,9,L,12,23,21,22,L
+9_L_0127,PROPERTY,Difficulty,another crisis,Nuclear deal,9,L,12,24,27,28,L
+9_L_0128,PROPERTY,Weakness,balk at the demand,IRN,9,L,12,24,21,24,L
+9_L_0129,PROPERTY,Aggressor,force,ISR,9,L,12,23,7,7,L
+9_L_0130,COUNTRY,USA,some American officials,,9,L,12,24,13,15,L
+9_L_0131,COUNTRY,IRN,the Iranians,,9,L,12,23,19,20,L
+9_L_0132,COUNTRY,IRN,the Iranians,,9,L,12,24,18,19,L
+9_L_0133,COUNTRY,ISR,the Israelis,,9,L,12,24,9,10,L
+9_L_0134,OBJECT,Nuclear deal,the deal,,9,L,12,24,30,31,L
+9_L_0135,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,13,25,6,7,L
+9_L_0136,EVENT,Presentation,Mr. Netanyahu's presentation,,9,L,13,25,6,9,L
+9_L_0137,PROPERTY,Importance,lobbied Mr. Trump not to scuttle the deal,Trump,9,L,13,25,41,48,L
+9_L_0138,MISC,Reaction to IRN deal,lobbied Mr. Trump not to scuttle the deal,,9,L,13,25,41,48,L
+9_L_0139,PROPERTY,Unimportance,no signs that Mr. Netanyahu's presentation on Monday swayed,Netanyahu,9,L,13,25,3,12,L
+9_L_0140,COUNTRY,IRN,Iran,,9,L,14,26,8,8,L
+9_L_0141,COUNTRY,IRN,Iran,,9,L,14,26,22,22,L
+9_L_0142,COUNTRY,IRN,Iran,,9,L,14,27,2,2,L
+9_L_0143,COUNTRY,IRN,Iran,,9,L,14,27,11,11,L
+9_L_0144,COUNTRY,IRN,Tehran,,9,L,14,26,28,28,L
+9_L_0145,MISC,IRN nuclear activity,Tehran's nuclear ambitions,,9,L,14,26,28,31,L
+9_L_0146,OBJECT,Nuclear deal,The Iran nuclear deal,,9,L,14,27,1,4,L
+9_L_0147,ACTOR,ISR\Netanyahu,The Israeli prime minister,,9,L,14,26,1,4,L
+9_L_0148,EVENT,Presentation,The Israeli prime minister's presentation,,9,L,14,26,1,6,L
+9_L_0149,PROPERTY,Importance,based on tough verification,Nuclear deal,9,L,14,27,18,21,L
+9_L_0150,PROPERTY,Importance,importance,Nuclear deal,9,L,14,26,18,18,L
+9_L_0151,PROPERTY,Unsafety,not based on trust,Nuclear deal,9,L,14,27,6,9,L
+9_L_0152,PROPERTY,No trustworthiness,not based on trust about Iran's intentions,IRN,9,L,14,27,6,13,L
+9_L_0153,MISC,IRN nuclear activity,research into nuclear weapons technology,,9,L,14,26,11,15,L
+9_L_0154,OBJECT,Nuclear deal,the Iran nuclear deal,,9,L,14,26,21,24,L
+9_L_0155,COUNTRY,ISR,Israel,,9,L,15,29,10,10,L
+9_L_0156,PROPERTY,Power,most exhaustive and robust,IRN,9,L,15,28,16,19,L
+9_L_0157,PROPERTY,Importance,need for longer-term assurances,Nuclear deal,9,L,15,29,15,18,L
+9_L_0158,MISC,IRN nuclear activity,nuclear nonproliferation,,9,L,15,28,25,26,L
+9_L_0159,COUNTRY,IRN,one of the most exhaustive and robust regimes,,9,L,15,28,13,20,L
+9_L_0160,OBJECT,Nuclear deal,the Iranian program,,9,L,15,29,20,22,L
+9_L_0161,COUNTRY,IRN,the inspection regime,,9,L,15,28,5,7,L
+9_L_0162,COUNTRY,IRN,Iran,,9,L,16,30,26,26,L
+9_L_0163,ACTOR,USA\Trump,Mr. Trump,,9,L,16,30,5,6,L
+9_L_0164,OBJECT,Nuclear deal,the deal,,9,L,16,30,10,11,L
+9_L_0165,OBJECT,Nuclear deal,the deal,,9,L,16,31,23,24,L
+9_L_0166,COUNTRY,IRN,Iran,,9,L,17,32,8,8,L
+9_L_0167,COUNTRY,IRN,Iranian deceptions,,9,L,17,33,5,6,L
+9_L_0168,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,17,34,28,29,L
+9_L_0169,COUNTRY,IRN,Tehran,,9,L,17,32,16,16,L
+9_L_0170,PROPERTY,Refusal,dismissed,USA,9,L,17,32,15,15,L
+9_L_0171,MISC,IRN nuclear activity,hidden facilities,,9,L,17,33,9,10,L
+9_L_0172,PROPERTY,Trustworthiness,peaceful in nature,IRN nuclear activity; IRN,9,L,17,32,26,28,L
+9_L_0173,COUNTRY,USA,the Bush and Obama administrations,,9,L,17,32,10,14,L
+9_L_0174,MISC,IRN nuclear activity,the country's nuclear program,,9,L,17,32,20,24,L
+9_L_0175,MISC,IRN nuclear activity,work on nuclear weapons designs,,9,L,17,34,11,15,L
+9_L_0176,PROPERTY,Difficulty,years of accusations and negotiations,IRN; USA,9,L,17,32,2,6,L
+9_L_0177,MISC,IRN nuclear activity,activities in Iran relevant to the development of a nuclear explosive device,,9,L,18,35,16,27,L
+9_L_0178,COUNTRY,IRN,Iranian deception,,9,L,19,36,8,9,L
+9_L_0179,OBJECT,IRN files,nuclear files,,9,L,19,36,13,14,L
+9_L_0180,OBJECT,Nuclear deal,the deal,,9,L,19,36,19,20,L
+9_L_0181,PROPERTY,No trustworthiness,the legacy of Iranian deception,IRN,9,L,19,36,5,9,L
+9_L_0182,COUNTRY,IRN,Iran,,9,L,20,37,46,46,L
+9_L_0183,MISC,IRN nuclear activity,Iran's program,,9,L,20,37,46,48,L
+9_L_0184,ACTOR-I,USA\USA-I,John Kerry,,9,L,20,37,0,1,L
+9_L_0185,ACTOR-I,USA\USA-I,Mr. Obama's secretary of state,,9,L,20,37,5,10,L
+9_L_0186,PROPERTY,Other,no visibility into,IRN nuclear activity; IRN,9,L,20,37,43,45,L
+9_L_0187,OBJECT,Nuclear deal,the agreement,,9,L,20,37,12,13,L
+9_L_0188,COUNTRY,USA,Former and current intelligence officials,,9,L,21,39,0,4,L
+9_L_0189,COUNTRY,IRN,Iran,,9,L,21,39,9,9,L
+9_L_0190,COUNTRY,IRN,Iran,,9,L,21,39,21,21,L
+9_L_0191,MISC,IRN nuclear activity,Iran's programs,,9,L,21,39,9,11,L
+9_L_0192,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,21,39,15,16,L
+9_L_0193,MISC,IRN nuclear activity,active program to manufacture a nuclear weapon,,9,L,21,39,25,31,L
+9_L_0194,PROPERTY,Power,closely monitored,USA,9,L,21,39,7,8,L
+9_L_0195,PROPERTY,Poor quality,nothing that Mr. Netanyahu made public indicated,Presentation; Netanyahu,9,L,21,39,13,19,L
+9_L_0196,COUNTRY,IRN,Iran,,9,L,23,41,4,4,L
+9_L_0197,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,23,41,31,32,L
+9_L_0198,MISC,IRN nuclear activity,continued to build other facilities,,9,L,23,41,15,19,L
+9_L_0199,MISC,IRN nuclear activity,giant underground enrichment center,,9,L,23,41,23,26,L
+9_L_0200,EVENT,Presentation,his presentation,,9,L,23,41,37,38,L
+9_L_0201,PROPERTY,Economy negative,sanctions,IRN,9,L,23,42,21,21,L
+9_L_0202,PROPERTY,Power,suspended its nuclear program,IRN,9,L,23,41,5,8,L
+9_L_0203,MISC,IRN nuclear activity,that site,,9,L,23,42,6,7,L
+9_L_0204,COUNTRY,IRN,Iran,,9,L,24,43,3,3,L
+9_L_0205,COUNTRY,IRN,The Iranians,,9,L,24,44,0,1,L
+9_L_0206,PROPERTY,Difficulty,inspection crisis,IRN,9,L,24,43,22,23,L
+9_L_0207,MISC,IRN nuclear activity,military sites,,9,L,24,44,5,6,L
+9_L_0208,PROPERTY,Power,refuses to allow,IRN,9,L,24,43,4,6,L
+9_L_0209,MISC,IRN nuclear activity,sites identified by the stolen archive,,9,L,24,43,9,14,L
+9_L_0210,MISC,IRN nuclear activity,such sites,,9,L,24,45,8,9,L
+9_L_0211,OBJECT,IRN files,the stolen archive,,9,L,24,43,12,14,L
+9_L_0212,PROPERTY,Aggressor,force,ISR; USA,9,L,25,47,19,19,L
+9_L_0213,PROPERTY,Victim,force,IRN,9,L,25,47,19,19,L
+9_L_0214,PROPERTY,Lawfulness,force the Iranians into the first violations,IRN,9,L,25,47,19,25,L
+9_L_0215,ACTOR-I,ISR\ISR-I,one former Israeli official,,9,L,25,48,5,8,L
+9_L_0216,PROPERTY,Power,resolve the disputes,Nuclear deal,9,L,25,46,14,16,L
+9_L_0217,COUNTRY,IRN,the Iranians,,9,L,25,47,20,21,L
+9_L_0218,COUNTRY,IRN,the Iranians,,9,L,25,48,18,19,L
+9_L_0219,COUNTRY,ISR,the Israeli strategy,,9,L,25,47,4,6,L
+9_L_0220,COUNTRY,USA,the United States,,9,L,25,47,11,13,L
+9_L_0221,OBJECT,Nuclear deal,the agreement,,9,L,25,46,11,12,L
+9_L_0222,PROPERTY,No trustworthiness,trying to deceive,IRN,9,L,25,48,21,23,L
+9_L_0223,COUNTRY,ISR,Israel,,9,L,26,49,2,2,L
+9_L_0224,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,26,49,6,7,L
+9_L_0225,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,26,50,29,30,L
+9_L_0226,COUNTRY,ISR,Mr. Netanyahu's government,,9,L,26,50,29,32,L
+9_L_0227,EVENT,Presentation,Mr. Netanyahu's presentation,,9,L,26,49,6,9,L
+9_L_0228,ACTOR,USA\Trump,Mr. Trump,,9,L,26,49,15,16,L
+9_L_0229,ACTOR,USA\Trump,Mr. Trump,,9,L,26,50,19,20,L
+9_L_0230,MISC,Reaction to IRN deal,Mr. Trump's decision,,9,L,26,49,15,18,L
+9_L_0231,PROPERTY,Other,are said to have concluded,ISR-I,9,L,26,50,33,37,L
+9_L_0232,MISC,Reaction to IRN deal,justify his decision,,9,L,26,50,22,24,L
+9_L_0233,ACTOR-I,ISR\ISR-I,officials in Mr. Netanyahu's government,,9,L,26,50,27,32,L
+9_L_0234,PROPERTY,Power,provide additional cover or supporting evidence,ISR,9,L,26,50,11,16,L
+9_L_0235,ACTOR-I,ISR\ISR-I,several analysts,,9,L,26,50,2,3,L
+9_L_0236,COUNTRY,ISR,the Israeli discovery,,9,L,26,50,7,9,L
+9_L_0237,PROPERTY,Unimportance,would do much,Presentation,9,L,26,49,10,12,L
+9_L_0238,PROPERTY,Poor quality,would do much,Netanyahu; Presentation,9,L,26,49,10,12,L
+9_L_0239,ACTOR-I,ISR\ISR-I,Amos Yadlin,,9,L,27,52,1,2,L
+9_L_0240,COUNTRY,IRN,Iranian public opinion,,9,L,27,54,3,5,L
+9_L_0241,COUNTRY,ISR,Israel,,9,L,27,53,9,9,L
+9_L_0242,ACTOR,USA\Trump,Trump,,9,L,27,55,2,2,L
+9_L_0243,EVENT,Presentation,last night's presentation,,9,L,27,51,13,16,L
+9_L_0244,MISC,Reaction to IRN deal,not to walk away,,9,L,27,55,17,20,L
+9_L_0245,PROPERTY,Aggressor,penetrated,ISR,9,L,27,53,11,11,L
+9_L_0246,PROPERTY,Victim,penetrated,IRN,9,L,27,53,11,11,L
+9_L_0247,COUNTRY,IRN,the Iranians,,9,L,27,53,3,4,L
+9_L_0248,COUNTRY,ISR,the Israeli Defense Forces,,9,L,27,52,11,14,L
+9_L_0249,ACTOR-I,ISR\ISR-I,the former chief of military intelligence for the Israeli Defense Forces,,9,L,27,52,4,14,L
+9_L_0250,ACTOR-I,IRN\IRN-Misc,the opposition,,9,L,27,54,8,9,L
+9_L_0251,ACTOR,ISR\Netanyahu,the prime minister,,9,L,27,55,8,10,L
+9_L_0252,PROPERTY,Victim,the target,Trump,9,L,27,55,4,5,L
+9_L_0253,ACTOR,ISR\Netanyahu,Mr. Netanyahu,,9,L,28,56,5,6,L
+9_L_0254,EVENT,Presentation,Mr. Netanyahu's presentation,,9,L,28,56,5,8,L
+9_L_0255,ACTOR,USA\Trump,Mr. Trump,,9,L,28,56,39,40,L
+9_L_0256,PROPERTY,Unimportance,an audience of one,Netanyahu; Presentation,9,L,28,56,34,37,L
+9_L_0257,PROPERTY,Refusal,skeptical reaction,Netanyahu; Presentation,9,L,28,56,2,3,L
+9_L_0258,ACTOR,ISR\Netanyahu,the Israeli leader,,9,L,28,56,28,30,L
+9_L_0259,ACTOR-I,USA\USA-I,Daniel B. Shapiro,,9,L,29,57,22,24,L
+9_L_0260,COUNTRY,ISR,Israel,,9,L,29,57,31,31,L
+9_L_0261,ACTOR,ISR\Netanyahu,Netanyahu,,9,L,29,57,7,7,L
+9_L_0262,ACTOR-I,USA\USA-I,a former American ambassador to Israel,,9,L,29,57,26,31,L
+9_L_0263,PROPERTY,Importance,a real opportunity,Netanyahu,9,L,29,57,3,5,L
+9_L_0264,PROPERTY,Aggressor,achieve things,Netanyahu,9,L,29,57,9,10,L

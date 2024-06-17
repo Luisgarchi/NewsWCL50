@@ -1,0 +1,93 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+1_LL_0000,OBJECT,Comey Memos,The Comey Memos,,1,LL,0,0,6,8,LL
+1_LL_0001,ACTOR,USA\Comey,Comey,,1,LL,1,1,27,27,LL
+1_LL_0002,ACTOR,USA\Trump,Trump,,1,LL,1,1,32,32,LL
+1_LL_0003,PROPERTY,Affection,grateful for the conversation,Comey,1,LL,1,1,5,8,LL
+1_LL_0004,PROPERTY,Affection,looks forward to working with,Comey,1,LL,1,1,19,23,LL
+1_LL_0005,MISC,Comey Memos\Interactions with Trump,meeting with Trump,,1,LL,1,1,30,32,LL
+1_LL_0006,PROPERTY,Affection,said more nice things,Comey,1,LL,1,1,10,13,LL
+1_LL_0007,MISC,Comey Memos\Interactions with Trump,the conversation,,1,LL,1,1,7,8,LL
+1_LL_0008,COUNTRY,GBR,Steele,,1,LL,2,3,28,28,LL
+1_LL_0009,COUNTRY,USA,The Department of Justice,,1,LL,2,2,0,3,LL
+1_LL_0010,ACTOR,USA\Trump,Trump,,1,LL,2,3,16,16,LL
+1_LL_0011,ACTOR,USA\Trump,Trump,,1,LL,2,3,19,19,LL
+1_LL_0012,COUNTRY,USA,congressional leaders,,1,LL,2,2,12,13,LL
+1_LL_0013,PROPERTY,Weakness,demands for aides' loyalty,Trump,1,LL,2,3,32,36,LL
+1_LL_0014,MISC,Comey Memos\Interactions with Trump,his early encounters with newly-minted President Donald Trump,,1,LL,2,3,9,16,LL
+1_LL_0015,PROPERTY,Negative,infamous,Steele dossier,1,LL,2,3,27,27,LL
+1_LL_0016,OBJECT,Comey Memos\Steele dossier,infamous Steele dossier,,1,LL,2,3,27,29,LL
+1_LL_0017,ACTOR,USA\Trump,newly-minted President Donald Trump,,1,LL,2,3,13,16,LL
+1_LL_0018,PROPERTY,Importance,obsession with disproving allegations,Steele dossier,1,LL,2,3,21,24,LL
+1_LL_0019,ACTOR,USA\Comey,so-called Comey memos,,1,LL,2,2,8,10,LL
+1_LL_0020,OBJECT,Comey Memos,the documents,,1,LL,2,3,1,2,LL
+1_LL_0021,ACTOR,USA\Comey,the former FBI director,,1,LL,2,3,4,7,LL
+1_LL_0022,OBJECT,Comey Memos,the so-called Comey memos,,1,LL,2,2,7,10,LL
+1_LL_0023,ACTOR,USA\Comey,Comey,,1,LL,3,4,9,9,LL
+1_LL_0024,OBJECT,Comey Memos,The memos,,1,LL,3,4,0,1,LL
+1_LL_0025,PROPERTY,Unimportance,contain no notable information that Comey hasn't already discussed,Comey Memos,1,LL,3,4,4,13,LL
+1_LL_0026,OBJECT,Comey Memos,the seven documents,,1,LL,3,5,3,5,LL
+1_LL_0027,ACTOR,USA\Comey,Comey,,1,LL,4,7,4,4,LL
+1_LL_0028,ACTOR,USA\Comey,Comey,,1,LL,4,7,22,22,LL
+1_LL_0029,ACTOR,USA\Flynn,Michael Flynn,,1,LL,4,7,14,15,LL
+1_LL_0030,ACTOR,USA\Trump,Trump,,1,LL,4,6,9,9,LL
+1_LL_0031,ACTOR,USA\Trump,Trump,,1,LL,4,7,6,6,LL
+1_LL_0032,PROPERTY,Unreason,lack of familiarity with established channels of communication,Trump,1,LL,4,6,11,18,LL
+1_LL_0033,COUNTRY,USA,the Justice Department,,1,LL,4,6,24,26,LL
+1_LL_0034,COUNTRY,USA,the White House,,1,LL,4,6,20,22,LL
+1_LL_0035,ACTOR,USA\Comey,the former FBI chief,,1,LL,4,6,4,7,LL
+1_LL_0036,OBJECT,Comey Memos,the memos,,1,LL,4,6,1,2,LL
+1_LL_0037,ACTOR,USA\Flynn,then-national security adviser,,1,LL,4,7,11,13,LL
+1_LL_0038,PROPERTY,Other,to protect us and to protect the WH,USA,1,LL,4,7,40,47,LL
+1_LL_0039,OBJECT,Comey Memos,A memo,,1,LL,5,8,0,1,LL
+1_LL_0040,ACTOR,USA\Trump,Trump,,1,LL,5,8,11,11,LL
+1_LL_0041,ACTOR,USA\Trump,the president,,1,LL,5,8,17,18,LL
+1_LL_0042,PROPERTY,Confidence,widely-reported demand for loyalty,Trump,1,LL,5,8,20,23,LL
+1_LL_0043,PROPERTY,Weakness,I need loyalty,Trump,1,LL,6,9,9,11,LL
+1_LL_0044,PROPERTY,Trustworthiness,he would always get honesty from me,Comey,1,LL,6,10,3,9,LL
+1_LL_0045,PROPERTY,Honor,"loyalty to the office, the country, and the truth",Comey,1,LL,6,13,33,43,LL
+1_LL_0046,PROPERTY,Trustworthiness,serve the president with loyalty,Comey,1,LL,6,13,29,33,LL
+1_LL_0047,MISC,Comey Memos\Interactions with Trump,the conversation,,1,LL,6,13,24,25,LL
+1_LL_0048,ACTOR,USA\Trump,the president,,1,LL,6,13,30,31,LL
+1_LL_0049,ACTOR,USA\Comey,Comey,,1,LL,7,15,0,0,LL
+1_LL_0050,ACTOR,USA\Comey,Comey,,1,LL,7,15,7,7,LL
+1_LL_0051,ACTOR,USA\Trump,Trump,,1,LL,7,15,4,4,LL
+1_LL_0052,PROPERTY,Affection,doing great,Comey,1,LL,7,15,43,44,LL
+1_LL_0053,COUNTRY,USA,his administration,,1,LL,7,15,19,20,LL
+1_LL_0054,COUNTRY,USA,the FBI,,1,LL,7,15,12,13,LL
+1_LL_0055,ACTOR,USA\Trump,the president,,1,LL,7,15,24,25,LL
+1_LL_0056,PROPERTY,Affection,thought very highly of,Comey,1,LL,7,15,31,34,LL
+1_LL_0057,ACTOR,USA\Comey,Comey,,1,LL,8,16,4,4,LL
+1_LL_0058,ACTOR,USA\Comey,Comey,,1,LL,8,17,28,28,LL
+1_LL_0059,ACTOR,USA\Flynn,Flynn,,1,LL,8,16,16,16,LL
+1_LL_0060,ACTOR,USA\Trump,Trump,,1,LL,8,16,7,7,LL
+1_LL_0061,EVENT,Comey Memos\Flynn investigation,serious judgment issues,,1,LL,8,17,22,24,LL
+1_LL_0062,PROPERTY,Unreason,serious judgment issues,USA,1,LL,8,17,22,24,LL
+1_LL_0063,PROPERTY,Refusal,serious reservations,USA,1,LL,8,16,12,13,LL
+1_LL_0064,ACTOR,USA\Trump,the President,,1,LL,8,17,6,7,LL
+1_LL_0065,ACTOR,USA\Comey,Comey,,1,LL,9,18,3,3,LL
+1_LL_0066,ACTOR,USA\Comey,Comey,,1,LL,9,18,28,28,LL
+1_LL_0067,OBJECT,Comey Memos,Comey's memo,,1,LL,9,18,3,5,LL
+1_LL_0068,ACTOR,USA\Trump,Trump,,1,LL,9,18,26,26,LL
+1_LL_0069,OBJECT,Comey Memos\Steele dossier,allegations about Russian prostitutes,,1,LL,9,18,30,33,LL
+1_LL_0070,PROPERTY,Other,allegations about Russian prostitutes,Steele dossier,1,LL,9,18,30,33,LL
+1_LL_0071,OBJECT,Comey Memos\Steele dossier,the Steele dossier,,1,LL,9,18,35,37,LL
+1_LL_0072,OBJECT,Comey Memos\Steele dossier,'the hookers thing',,1,LL,10,20,4,7,LL
+1_LL_0073,ACTOR,USA\Comey,Comey,,1,LL,10,19,29,29,LL
+1_LL_0074,ACTOR,RUS\Putin,Putin,,1,LL,10,20,13,13,LL
+1_LL_0075,ACTOR,USA\Trump,The President,,1,LL,10,19,1,2,LL
+1_LL_0076,ACTOR,USA\Trump,The President,,1,LL,10,20,1,2,LL
+1_LL_0077,PROPERTY,No trustworthiness,nonsense,Steele dossier,1,LL,10,20,10,10,LL
+1_LL_0078,OBJECT,Comey Memos,one memo,,1,LL,10,19,32,33,LL
+1_LL_0079,PROPERTY,Difficulty,really bothered [him],Trump,1,LL,10,19,14,18,LL
+1_LL_0080,OBJECT,Comey Memos\Steele dossier,the 'Golden Showers thing',,1,LL,10,19,5,9,LL
+1_LL_0081,ACTOR,USA\Comey,Comey,,1,LL,11,21,0,0,LL
+1_LL_0082,ACTOR,USA\Flynn,Flynn,,1,LL,11,21,14,14,LL
+1_LL_0083,ACTOR,USA\Trump,Trump,,1,LL,11,21,5,5,LL
+1_LL_0084,PROPERTY,Other,allegedly,Comey Memos,1,LL,11,21,6,6,LL
+1_LL_0085,EVENT,Comey Memos\Flynn investigation,any investigation into Flynn,,1,LL,11,21,11,14,LL
+1_LL_0086,COUNTRY,USA,Deputy Attorney General,,1,LL,12,23,0,2,LL
+1_LL_0087,ACTOR-I,USA\USA-I,House Judiciary Chairman Bob Goodlatte,,1,LL,12,22,7,11,LL
+1_LL_0088,COUNTRY,USA,Rod Rosenstein,,1,LL,12,23,3,4,LL
+1_LL_0089,OBJECT,Comey Memos,The memos,,1,LL,12,22,0,1,LL
+1_LL_0090,COUNTRY,USA,the DOJ,,1,LL,12,22,15,16,LL
+1_LL_0091,PROPERTY,Aggressor,threatened,USA-I,1,LL,12,22,12,12,LL

@@ -1,0 +1,94 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+6_RR_0000,GROUP,Migrant caravan,Members of migrant caravan,,6,RR,0,0,0,3,RR
+6_RR_0001,OBJECT,USA-MEX Border,U.S.-Mexico border,,6,RR,0,0,7,8,RR
+6_RR_0002,PROPERTY,Power,prepare to reach,Migrant caravan,6,RR,0,0,4,6,RR
+6_RR_0003,MISC,Migration to the USA,to reach U.S.-Mexico border,,6,RR,0,0,5,8,RR
+6_RR_0004,GROUP,Migrant caravan,A caravan of hundreds of migrants,,6,RR,1,1,6,11,RR
+6_RR_0005,COUNTRY,MEX,Mexico,,6,RR,1,1,23,23,RR
+6_RR_0006,COUNTRY,USA,United States,,6,RR,1,1,20,21,RR
+6_RR_0007,GROUP,Migrant caravan,many in search of asylum,,6,RR,1,1,28,32,RR
+6_RR_0008,PROPERTY,Power,reach the border,Migrant caravan,6,RR,1,1,15,17,RR
+6_RR_0009,OBJECT,USA-MEX Border,the border between the United States and Mexico,,6,RR,1,1,16,23,RR
+6_RR_0010,GROUP,Migrant caravan,Members of the caravan,,6,RR,2,2,0,3,RR
+6_RR_0011,COUNTRY,USA,U.S. Customs and Border Protection,,6,RR,2,2,36,40,RR
+6_RR_0012,COUNTRY,USA,U.S. authorities,,6,RR,2,2,24,25,RR
+6_RR_0013,PROPERTY,Other,according to,USA,6,RR,2,2,34,35,RR
+6_RR_0014,PROPERTY,Power,gathered at,Migrant caravan,6,RR,2,2,4,5,RR
+6_RR_0015,OBJECT,USA-MEX Border,the San Ysidro Port of Entry,,6,RR,2,2,27,32,RR
+6_RR_0016,PROPERTY,Weakness,wait to be processed,Migrant caravan,6,RR,2,2,19,22,RR
+6_RR_0017,MISC,Migration to the USA,wait to be processed by U.S. authorities,,6,RR,2,2,19,25,RR
+6_RR_0018,PROPERTY,Weakness,will have to remain,Migrant caravan,6,RR,2,2,13,16,RR
+6_RR_0019,COUNTRY,USA,CBP officers,,6,RR,3,3,19,20,RR
+6_RR_0020,COUNTRY,MEX,Mexico,,6,RR,3,3,17,17,RR
+6_RR_0021,ACTOR-I,USA\USA-I,Pete Flores,,6,RR,3,3,32,33,RR
+6_RR_0022,ACTOR-I,USA\USA-I,director of field operations for CBP,,6,RR,3,3,35,40,RR
+6_RR_0023,GROUP,Migrant caravan,individuals,,6,RR,3,3,11,11,RR
+6_RR_0024,PROPERTY,Weakness,may need to wait,Migrant caravan,6,RR,3,3,12,15,RR
+6_RR_0025,COUNTRY,USA,our facilities,,6,RR,3,3,27,28,RR
+6_RR_0026,PROPERTY,Power,work to process,USA,6,RR,3,3,21,23,RR
+6_RR_0027,GROUP,Migrant caravan\People without borders,People Without Borders,,6,RR,4,4,13,15,RR
+6_RR_0028,GROUP,Migrant caravan\People without borders,Pueblos Sin Fronteras,,6,RR,4,4,5,7,RR
+6_RR_0029,GROUP,Migrant caravan,The effort,,6,RR,4,4,0,1,RR
+6_RR_0030,PROPERTY,Power,was organized,People without boarders,6,RR,4,4,2,3,RR
+6_RR_0031,PROPERTY,Weakness,ask for,Migrant caravan,6,RR,5,5,19,20,RR
+6_RR_0032,ACTION,Migration to the USA\Seek asylum,ask for asylum,,6,RR,5,5,19,21,RR
+6_RR_0033,GROUP,Migrant caravan,migrants,,6,RR,5,5,5,5,RR
+6_RR_0034,MISC,Migration to the USA,reaching the border,,6,RR,5,5,1,3,RR
+6_RR_0035,PROPERTY,Power,reaching the border,Migrant caravan,6,RR,5,5,1,3,RR
+6_RR_0036,OBJECT,USA-MEX Border,the border,,6,RR,5,5,2,3,RR
+6_RR_0037,OBJECT,USA-MEX Border,the port of entry,,6,RR,5,5,14,17,RR
+6_RR_0038,MISC,Migration to the USA,to turn themselves in,,6,RR,5,5,8,11,RR
+6_RR_0039,PROPERTY,Weakness,turn themselves in peacefully,Migrant caravan,6,RR,5,5,9,12,RR
+6_RR_0040,ACTOR-I,USA\USA-I,Rep. Zoe Lofgren,,6,RR,6,6,22,24,RR
+6_RR_0041,ACTOR-I,USA\USA-Misc,Rep. Zoe Lofgren,,6,RR,6,6,22,24,RR
+6_RR_0042,COUNTRY,USA,US law,,6,RR,6,6,10,11,RR
+6_RR_0043,PROPERTY,Power,a part of immigration law,Migrant caravan,6,RR,6,8,2,6,RR
+6_RR_0044,PROPERTY,Weakness,legitimate fear of persecution,Migrant caravan,6,RR,6,6,5,8,RR
+6_RR_0045,PROPERTY,Victim,legitimate fear of persecution,Migrant caravan,6,RR,6,6,5,8,RR
+6_RR_0046,PROPERTY,Lawfulness,not a violation of immigration law,Migrant caravan,6,RR,6,7,3,8,RR
+6_RR_0047,PROPERTY,Power,right to present their case,Migrant caravan,6,RR,6,6,14,18,RR
+6_RR_0048,COUNTRY,USA,the House subcommittee on immigration,,6,RR,6,6,29,33,RR
+6_RR_0049,ACTOR-I,USA\USA-I,top Democrat on the House subcommittee on immigration,,6,RR,6,6,26,33,RR
+6_RR_0050,GROUP,Migrant caravan,The group marching toward the border,,6,RR,7,9,0,5,RR
+6_RR_0051,COUNTRY,USA,border officials,,6,RR,7,9,15,16,RR
+6_RR_0052,GROUP,Supporters,demonstrators,,6,RR,7,9,18,18,RR
+6_RR_0053,PROPERTY,Affection,in support of,Migrant caravan,6,RR,7,9,28,30,RR
+6_RR_0054,MISC,Migration to the USA,marching toward the border,,6,RR,7,9,2,5,RR
+6_RR_0055,PROPERTY,Power,marching toward the border,Migrant caravan,6,RR,7,9,2,5,RR
+6_RR_0056,OBJECT,USA-MEX Border,the border,,6,RR,7,9,4,5,RR
+6_RR_0057,OBJECT,USA-MEX Border,the border,,6,RR,7,9,24,25,RR
+6_RR_0058,OBJECT,USA-MEX Border,the border fence,,6,RR,7,9,24,26,RR
+6_RR_0059,GROUP,Migrant caravan,the caravan,,6,RR,7,9,31,32,RR
+6_RR_0060,PROPERTY,Importance,the largest to approach,Migrant caravan,6,RR,7,9,11,14,RR
+6_RR_0061,ACTOR-I,USA\USA-I,CBP Chief Patrol Agent,,6,RR,8,10,0,3,RR
+6_RR_0062,ACTOR-I,USA\USA-I,Rodney S. Scott,,6,RR,8,10,4,6,RR
+6_RR_0063,PROPERTY,Power,climbing over a metal fence,Migrant caravan,6,RR,8,10,22,26,RR
+6_RR_0064,PROPERTY,Unlawfulness,illegally entered,Migrant caravan,6,RR,8,10,16,17,RR
+6_RR_0065,GROUP,Migrant caravan,several groups of people associated with the caravan,,6,RR,8,10,8,15,RR
+6_RR_0066,COUNTRY,USA,the United States,,6,RR,8,10,18,20,RR
+6_RR_0067,ACTOR-I,USA\USA-I,Scott,,6,RR,9,11,30,30,RR
+6_RR_0068,PROPERTY,Honor,a very welcoming country,USA,6,RR,9,11,3,6,RR
+6_RR_0069,COUNTRY,USA,a very welcoming country,,6,RR,9,11,3,6,RR
+6_RR_0070,PROPERTY,Trustworthiness,answer questions honestly,Migrant caravan,6,RR,9,11,25,27,RR
+6_RR_0071,PROPERTY,Lawfulness,expect everyone to enter through our front door,Migrant caravan,6,RR,9,11,15,22,RR
+6_RR_0072,PROPERTY,Affection,very welcoming,Migrant caravan,6,RR,9,11,4,5,RR
+6_RR_0073,ACTOR,USA\Trump,President Donald Trump,,6,RR,10,12,23,25,RR
+6_RR_0074,GROUP,Migrant caravan,Similar migrant groups,,6,RR,10,12,0,2,RR
+6_RR_0075,PROPERTY,Power,arrived at the border,Migrant caravan,6,RR,10,12,36,39,RR
+6_RR_0076,PROPERTY,Aggressor,faced vocal opposition,Trump,6,RR,10,12,19,21,RR
+6_RR_0077,PROPERTY,Victim,faced vocal opposition,Migrant caravan,6,RR,10,12,19,21,RR
+6_RR_0078,GROUP,Migrant caravan,immigrants,,6,RR,10,12,35,35,RR
+6_RR_0079,PROPERTY,Power,made their way,Migrant caravan,6,RR,10,12,4,6,RR
+6_RR_0080,MISC,Migration to the USA,made their way toward the border,,6,RR,10,12,4,9,RR
+6_RR_0081,OBJECT,USA-MEX Border,the border,,6,RR,10,12,8,9,RR
+6_RR_0082,OBJECT,USA-MEX Border,the border,,6,RR,10,12,38,39,RR
+6_RR_0083,GROUP,Migrant caravan,this group,,6,RR,10,12,16,17,RR
+6_RR_0084,PROPERTY,Aggressor,warned of arrests,USA,6,RR,10,12,29,31,RR
+6_RR_0085,COUNTRY,USA,whose administration,,6,RR,10,12,27,28,RR
+6_RR_0086,GROUP,Migrant caravan\People without borders,leader of the Pueblo Sin Fronteras caravan Irineo Mujica,,6,RR,11,13,18,26,RR
+6_RR_0087,PROPERTY,Importance,much publicity,People without boarders,6,RR,11,13,14,15,RR
+6_RR_0088,ACTOR-I,Supporters\Supporters-I,Mujica,,6,RR,12,14,0,0,RR
+6_RR_0089,PROPERTY,Power,able to see what is the problem,People without boarders,6,RR,12,14,12,18,RR
+6_RR_0090,PROPERTY,Power,highlighting the violence,People without boarders,6,RR,12,14,21,23,RR
+6_RR_0091,GROUP,Migrant caravan,members of the caravan,,6,RR,12,14,26,29,RR
+6_RR_0092,PROPERTY,Weakness,prompted members of the caravan to seek asylum,Migrant caravan,6,RR,12,14,25,32,RR

@@ -1,0 +1,212 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+7_R_0000,COUNTRY,CAN,Canada,,7,R,0,0,7,7,R
+7_R_0001,COUNTRY,CHN,China,,7,R,0,0,13,13,R
+7_R_0002,COUNTRY,EU,EU,,7,R,0,0,5,5,R
+7_R_0003,COUNTRY,MEX,Mexico,,7,R,0,0,9,9,R
+7_R_0004,COUNTRY,USA,White House,,7,R,0,0,0,1,R
+7_R_0005,PROPERTY,Power,delays tariffs,USA,7,R,0,0,2,3,R
+7_R_0006,OBJECT,Tariffs,tariffs,,7,R,0,0,3,3,R
+7_R_0007,PROPERTY,Difficulty,tense,USA; CHN,7,R,0,0,12,12,R
+7_R_0008,COUNTRY,EU,EU,,7,R,1,1,6,6,R
+7_R_0009,PROPERTY,Power,postpones imposing tariffs,Trump,7,R,1,1,2,4,R
+7_R_0010,OBJECT,Tariffs,tariffs,,7,R,1,1,4,4,R
+7_R_0011,COUNTRY,CAN,Canada,,7,R,2,2,31,31,R
+7_R_0012,COUNTRY,MEX,Mexico,,7,R,2,2,33,33,R
+7_R_0013,PROPERTY,Power,delay a decision about whether to impose steel and aluminum tariffs,USA,7,R,2,2,15,25,R
+7_R_0014,OBJECT,Tariffs,steel and aluminum tariffs,,7,R,2,2,22,25,R
+7_R_0015,COUNTRY,EU,the European Union,,7,R,2,2,27,29,R
+7_R_0016,COUNTRY,USA,the White House,,7,R,2,2,9,11,R
+7_R_0017,COUNTRY,CAN,Canada,,7,R,3,3,28,28,R
+7_R_0018,COUNTRY,CHN,China,,7,R,3,3,48,48,R
+7_R_0019,COUNTRY,MEX,Mexico,,7,R,3,3,30,30,R
+7_R_0020,COUNTRY,USA,The Trump administration,,7,R,3,3,0,2,R
+7_R_0021,PROPERTY,Weakness,avoiding a potential trade war wth the 28-member bloc,USA,7,R,3,3,33,41,R
+7_R_0022,PROPERTY,Importance,crucial trade talks,CHN,7,R,3,3,44,46,R
+7_R_0023,PROPERTY,Power,deciding whether to impose tariffs on steel and aluminum imports,USA,7,R,3,3,13,22,R
+7_R_0024,OBJECT,Tariffs,tariffs on steel and aluminum imports,,7,R,3,3,17,22,R
+7_R_0025,COUNTRY,EU,the European Union,,7,R,3,3,24,26,R
+7_R_0026,COUNTRY,KOR,South Korea,,7,R,4,4,11,12,R
+7_R_0027,COUNTRY,KOR,South Korean officials,,7,R,4,4,34,36,R
+7_R_0028,COUNTRY,USA,The White House,,7,R,4,4,0,2,R
+7_R_0029,COUNTRY,USA,The administration,,7,R,4,5,0,1,R
+7_R_0030,COUNTRY,USA,U.S. and South Korean officials,,7,R,4,4,32,36,R
+7_R_0031,OBJECT,New import quotas,a revised trade agreement,,7,R,4,4,19,22,R
+7_R_0032,PROPERTY,Power,had reached agreements,USA,7,R,4,5,6,8,R
+7_R_0033,PROPERTY,Power,had reached an agreement,USA,7,R,4,4,6,9,R
+7_R_0034,COUNTRY,USA,White House,,7,R,5,6,9,10,R
+7_R_0035,PROPERTY,Economy negative,prevent transshipment,Tariffs,7,R,5,6,26,27,R
+7_R_0036,MISC,Tariff imposition consequences,prevent transshipment,,7,R,5,6,26,27,R
+7_R_0037,PROPERTY,Power,protect the national security,Tariffs,7,R,5,6,30,33,R
+7_R_0038,PROPERTY,Safety,protect the national security,USA,7,R,5,6,30,33,R
+7_R_0039,MISC,Tariff imposition consequences,protect the national security,,7,R,5,6,30,33,R
+7_R_0040,OBJECT,Tariffs,quotas,,7,R,5,6,20,20,R
+7_R_0041,COUNTRY,USA,the Administration,,7,R,5,6,15,16,R
+7_R_0042,PROPERTY,Economy negative,will restrain imports,Tariffs,7,R,5,6,22,24,R
+7_R_0043,MISC,Tariff imposition consequences,will restrain imports,,7,R,5,6,22,24,R
+7_R_0044,COUNTRY,CAN,Canada,,7,R,6,7,13,13,R
+7_R_0045,COUNTRY,MEX,Mexico,,7,R,6,7,11,11,R
+7_R_0046,ACTOR,USA\Trump,President Trump,,7,R,6,7,0,1,R
+7_R_0047,COUNTRY,USA,The White House,,7,R,6,8,0,2,R
+7_R_0048,COUNTRY,USA,his administration,,7,R,6,7,26,27,R
+7_R_0049,PROPERTY,Power,imposed,USA,7,R,6,7,28,28,R
+7_R_0050,PROPERTY,Power,provided temporary exemptions,USA,7,R,6,8,3,5,R
+7_R_0051,OBJECT,Tariffs,steel and aluminum tariffs,,7,R,6,7,21,24,R
+7_R_0052,COUNTRY,EU,the EU,,7,R,6,7,8,9,R
+7_R_0053,OBJECT,Permanent exemptions,to permanently exempt,,7,R,6,7,5,7,R
+7_R_0054,COUNTRY,EU,The EU,,7,R,7,9,0,1,R
+7_R_0055,PROPERTY,Weakness,retaliate with,EU,7,R,7,9,11,12,R
+7_R_0056,OBJECT,Tariffs,tariffs on U.S. goods,,7,R,7,9,15,18,R
+7_R_0057,MISC,Reactions to the permanent exemption,will retaliate with its own tariffs,,7,R,7,9,10,15,R
+7_R_0058,MISC,Tariff imposition consequences,will retaliate with its own tariffs,,7,R,7,9,10,15,R
+7_R_0059,GROUP,USA\Steel producers,American metal producers,,7,R,8,11,11,13,R
+7_R_0060,ACTOR-I,USA\USA-Misc,Democrats,,7,R,8,12,17,17,R
+7_R_0061,ACTOR-I,USA\USA-I,Republicans,,7,R,8,12,20,20,R
+7_R_0062,ACTOR,USA\Trump,Trump,,7,R,8,11,0,0,R
+7_R_0063,PROPERTY,Power,bolster national security,USA,7,R,8,11,18,20,R
+7_R_0064,PROPERTY,Safety,bolster national security,USA,7,R,8,11,18,20,R
+7_R_0065,PROPERTY,Refusal,harsh criticism,USA-I; USA-Misc,7,R,8,12,14,15,R
+7_R_0066,PROPERTY,Difficulty,intense internal White House debate,USA,7,R,8,12,7,11,R
+7_R_0067,PROPERTY,Affection,justified,Tariffs,7,R,8,11,1,1,R
+7_R_0068,PROPERTY,Economy positive,protect American metal producers from unfair competition,USA,7,R,8,11,10,16,R
+7_R_0069,PROPERTY,Power,roiled financial markets,Tariffs,7,R,8,12,22,24,R
+7_R_0070,PROPERTY,Aggressor,slap,Trump,7,R,8,10,11,11,R
+7_R_0071,OBJECT,Tariffs,tariffs of 25 percent on imported steel and 10 percent on imported aluminum,,7,R,8,10,12,24,R
+7_R_0072,OBJECT,Tariffs,the action,,7,R,8,11,2,3,R
+7_R_0073,ACTOR,USA\Trump,the president,,7,R,8,10,4,5,R
+7_R_0074,PROPERTY,Power,triggered harsh criticism,Tariffs,7,R,8,12,13,15,R
+7_R_0075,MISC,Tariff imposition consequences,triggered harsh criticism from Democrats and some Republicans and roiled financial markets,,7,R,8,12,13,24,R
+7_R_0076,PROPERTY,Importance,was needed,Tariffs,7,R,8,11,7,8,R
+7_R_0077,COUNTRY,CAN,Canada,,7,R,9,13,12,12,R
+7_R_0078,COUNTRY,MEX,Mexico,,7,R,9,13,10,10,R
+7_R_0079,ACTOR,USA\Trump,Trump,,7,R,9,13,4,4,R
+7_R_0080,PROPERTY,Power,excluded,Trump,7,R,9,13,5,5,R
+7_R_0081,COUNTRY,EU,the European Union,,7,R,9,13,6,8,R
+7_R_0082,OBJECT,Tariffs,the tariffs,,7,R,9,13,20,21,R
+7_R_0083,GROUP,USA\Steel producers,American companies,,7,R,10,15,17,18,R
+7_R_0084,PROPERTY,Power,Stock prices fell nearly 2 percent,Tariffs,7,R,10,16,0,5,R
+7_R_0085,MISC,Tariff imposition consequences,Stock prices fell nearly 2 percent when the tariffs were announced,,7,R,10,16,0,10,R
+7_R_0086,PROPERTY,Negative,covered just 30 percent of all imports,Tariffs,7,R,10,14,5,11,R
+7_R_0087,OBJECT,Tariffs,the steel tariff,,7,R,10,14,2,4,R
+7_R_0088,OBJECT,Tariffs,the tariffs,,7,R,10,15,14,15,R
+7_R_0089,OBJECT,Tariffs,the tariffs,,7,R,10,16,7,8,R
+7_R_0090,PROPERTY,Power,efforts to secure,CAN; EU; MEX,7,R,11,17,32,34,R
+7_R_0091,OBJECT,Permanent exemptions,permanent exemptions,,7,R,11,17,35,36,R
+7_R_0092,COUNTRY,USA,the Trump administration,,7,R,11,17,7,9,R
+7_R_0093,COUNTRY,CAN,the countries,,7,R,11,17,29,30,R
+7_R_0094,COUNTRY,EU,the countries,,7,R,11,17,29,30,R
+7_R_0095,COUNTRY,MEX,the countries,,7,R,11,17,29,30,R
+7_R_0096,ACTOR-I,USA\USA-I,One of the officials,,7,R,12,18,0,3,R
+7_R_0097,PROPERTY,Power,has been overseeing the process,USA,7,R,12,18,9,13,R
+7_R_0098,OBJECT,Tariffs,tariffs,,7,R,12,18,26,26,R
+7_R_0099,COUNTRY,USA,the Commerce Department,,7,R,12,18,31,33,R
+7_R_0100,COUNTRY,EU,the European Union,,7,R,12,18,21,23,R
+7_R_0101,COUNTRY,USA,the U.S. trade representative,,7,R,12,18,5,8,R
+7_R_0102,COUNTRY,USA,The officials,,7,R,13,19,0,1,R
+7_R_0103,PROPERTY,Other,condition of anonymity,USA,7,R,13,19,4,6,R
+7_R_0104,COUNTRY,EU,The EU,,7,R,14,20,0,1,R
+7_R_0105,PROPERTY,Power,had been asked to spell out what limits they could accept,USA,7,R,14,20,4,14,R
+7_R_0106,COUNTRY,USA,the U.S.,,7,R,14,20,45,46,R
+7_R_0107,COUNTRY,USA,the U.S.,,7,R,14,21,3,4,R
+7_R_0108,COUNTRY,USA,the United States,,7,R,14,20,23,25,R
+7_R_0109,OBJECT,New import quotas,what limits they could accept on the amount of steel they export,,7,R,14,20,10,21,R
+7_R_0110,COUNTRY,KOR,South Korea,,7,R,15,22,0,1,R
+7_R_0111,PROPERTY,Affection,agreed to,New import quotas,7,R,15,22,2,3,R
+7_R_0112,OBJECT,New import quotas,limit its exports,,7,R,15,22,4,6,R
+7_R_0113,OBJECT,Permanent exemptions,permanent exemption,,7,R,15,22,30,31,R
+7_R_0114,COUNTRY,USA,the U.S.,,7,R,15,22,24,25,R
+7_R_0115,COUNTRY,USA,the United States,,7,R,15,22,8,10,R
+7_R_0116,PROPERTY,Power,updating its bilateral trade agreement,KOR,7,R,15,22,18,22,R
+7_R_0117,PROPERTY,Power,was granted,USA,7,R,15,22,27,28,R
+7_R_0118,PROPERTY,Weakness,was granted,KOR,7,R,15,22,27,28,R
+7_R_0119,COUNTRY,CHN,China,,7,R,16,23,0,0,R
+7_R_0120,COUNTRY,CHN,Chinese imports,,7,R,16,25,27,28,R
+7_R_0121,COUNTRY,USA,Commerce Secretary,,7,R,16,25,0,1,R
+7_R_0122,COUNTRY,EU,Europe,,7,R,16,25,12,12,R
+7_R_0123,COUNTRY,JPN,Japan,,7,R,16,23,2,2,R
+7_R_0124,COUNTRY,USA,Wilbur Ross,,7,R,16,25,2,3,R
+7_R_0125,PROPERTY,Economy positive,boost U.S. production,USA,7,R,16,26,12,14,R
+7_R_0126,OBJECT,New import quotas,quotas on imports,,7,R,16,25,8,10,R
+7_R_0127,PROPERTY,Economy negative,reduce total steel imports,Tariffs,7,R,16,26,7,10,R
+7_R_0128,OBJECT,Tariffs,the tariffs,,7,R,16,26,3,4,R
+7_R_0129,COUNTRY,CHN,those countries,,7,R,16,24,7,8,R
+7_R_0130,COUNTRY,CHN,those countries,,7,R,16,25,21,22,R
+7_R_0131,COUNTRY,EU,those countries,,7,R,16,24,7,8,R
+7_R_0132,COUNTRY,EU,those countries,,7,R,16,25,21,22,R
+7_R_0133,COUNTRY,JPN,those countries,,7,R,16,24,7,8,R
+7_R_0134,COUNTRY,JPN,those countries,,7,R,16,25,21,22,R
+7_R_0135,COUNTRY,EU,Cecilia Malmstrom,,7,R,17,29,12,13,R
+7_R_0136,COUNTRY,EU,EU Trade Commissioner,,7,R,17,29,9,11,R
+7_R_0137,COUNTRY,USA,Ross,,7,R,17,28,0,0,R
+7_R_0138,COUNTRY,USA,Ross,,7,R,17,29,0,0,R
+7_R_0139,OBJECT,New import quotas,any kind of quota,,7,R,17,27,17,20,R
+7_R_0140,PROPERTY,Power,is set to discuss the issue,USA,7,R,17,29,1,6,R
+7_R_0141,OBJECT,Tariffs,the tariff,,7,R,17,27,8,9,R
+7_R_0142,COUNTRY,USA,American Iron and Steel Institute,,7,R,18,31,19,23,R
+7_R_0143,COUNTRY,KOR,South Korea,,7,R,18,31,0,1,R
+7_R_0144,COUNTRY,USA,U.S. imports,,7,R,18,31,13,14,R
+7_R_0145,PROPERTY,Importance,made up the largest share,KOR,7,R,18,31,2,6,R
+7_R_0146,COUNTRY,EU,the EU,,7,R,18,30,2,3,R
+7_R_0147,COUNTRY,USA,the U.S.,,7,R,18,30,9,10,R
+7_R_0148,COUNTRY,EU,The EU,,7,R,19,32,0,1,R
+7_R_0149,MISC,Reactions to the permanent exemption,compiled a list of retaliatory tariffs,,7,R,19,32,3,8,R
+7_R_0150,PROPERTY,Weakness,has compiled a list of retaliatory tariffs,EU,7,R,19,32,2,8,R
+7_R_0151,PROPERTY,Power,it will impose,EU,7,R,19,32,14,16,R
+7_R_0152,MISC,Reactions to the permanent exemption,will impose if its steel and aluminum isn't exempted,,7,R,19,32,15,24,R
+7_R_0153,ACTOR-I,EU\EU-I,British Prime Minister Theresa May,,7,R,20,34,20,24,R
+7_R_0154,COUNTRY,EU,European leaders,,7,R,20,33,0,1,R
+7_R_0155,ACTOR-I,EU\EU-I,French President Emmanuel Macron,,7,R,20,34,15,18,R
+7_R_0156,ACTOR-I,EU\EU-I,German Chancellor Angela Merkel,,7,R,20,34,0,3,R
+7_R_0157,OBJECT,New import quotas,a quota,,7,R,20,33,7,8,R
+7_R_0158,PROPERTY,Power,discussed the issue,EU-I,7,R,20,34,11,13,R
+7_R_0159,PROPERTY,Refusal,have resisted,New import quotas,7,R,20,33,2,3,R
+7_R_0160,ACTOR-I,EU\EU-I,Merkel,,7,R,21,35,37,37,R
+7_R_0161,ACTOR-I,EU\EU-I,The three European leaders,,7,R,21,35,0,3,R
+7_R_0162,MISC,Reactions to the permanent exemption,ought not to take any trade measures against the European Union,,7,R,21,35,9,19,R
+7_R_0163,PROPERTY,Confidence,resolved to defend its interests,EU,7,R,21,35,25,29,R
+7_R_0164,COUNTRY,EU,the European Union,,7,R,21,35,17,19,R
+7_R_0165,COUNTRY,USA,the U.S.,,7,R,21,35,7,8,R
+7_R_0166,ACTOR-I,EU\EU-I,Merkel,,7,R,22,36,6,6,R
+7_R_0167,ACTOR,USA\Trump,Trump,,7,R,22,36,4,4,R
+7_R_0168,PROPERTY,Difficulty,little progress,Permanent exemptions,7,R,22,36,11,12,R
+7_R_0169,OBJECT,Permanent exemptions,permanent exemptions,,7,R,22,36,15,16,R
+7_R_0170,MISC,Reactions to the permanent exemption,saw little progress in obtaining permanent exemptions,,7,R,22,36,10,16,R
+7_R_0171,ACTOR,USA\Trump,the president,,7,R,22,37,5,6,R
+7_R_0172,COUNTRY,CHN,Beijing,,7,R,23,38,30,30,R
+7_R_0173,COUNTRY,CHN,China,,7,R,23,38,6,6,R
+7_R_0174,COUNTRY,CHN,China,,7,R,23,39,5,5,R
+7_R_0175,COUNTRY,CHN,Chinese goods,,7,R,23,38,21,22,R
+7_R_0176,COUNTRY,USA,The White House,,7,R,23,39,0,2,R
+7_R_0177,COUNTRY,USA,U.S. companies,,7,R,23,38,39,40,R
+7_R_0178,PROPERTY,Aggressor,has threatened to impose tariffs,USA,7,R,23,38,11,15,R
+7_R_0179,PROPERTY,Weakness,in retaliation,USA,7,R,23,38,23,24,R
+7_R_0180,OBJECT,Tariffs,tariffs,,7,R,23,38,15,15,R
+7_R_0181,COUNTRY,USA,the U.S.,,7,R,23,39,18,19,R
+7_R_0182,COUNTRY,USA,the United States,,7,R,23,38,8,10,R
+7_R_0183,PROPERTY,Aggressor,unfair trade practices,CHN,7,R,23,38,32,34,R
+7_R_0184,PROPERTY,Power,wants China to agree to reduce its $375 billion goods trade surplus,USA,7,R,23,39,4,16,R
+7_R_0185,COUNTRY,CHN,Beijing,,7,R,24,41,26,26,R
+7_R_0186,COUNTRY,CHN,China,,7,R,24,40,0,0,R
+7_R_0187,ACTOR-I,USA\USA-I,Robert Lighthizer,,7,R,24,41,17,18,R
+7_R_0188,ACTOR-I,USA\USA-I,Steven Mnuchin,,7,R,24,41,11,12,R
+7_R_0189,COUNTRY,USA,Treasury Secretary,,7,R,24,41,9,10,R
+7_R_0190,ACTOR,USA\Trump,Trump,,7,R,24,41,0,0,R
+7_R_0191,COUNTRY,USA,U.S. Trade Representative,,7,R,24,41,14,16,R
+7_R_0192,COUNTRY,USA,U.S. goods,,7,R,24,40,10,11,R
+7_R_0193,COUNTRY,USA,an administration delegation,,7,R,24,41,4,6,R
+7_R_0194,OBJECT,Tariffs,tariffs,,7,R,24,40,13,13,R
+7_R_0195,COUNTRY,USA,the U.S.,,7,R,24,40,15,16,R
+7_R_0196,ACTOR-I,USA\USA-I,trade adviser Peter Navarro,,7,R,24,41,20,23,R
+7_R_0197,PROPERTY,Power,will visit Beijing for negotiations,USA; USA-I,7,R,24,41,24,28,R
+7_R_0198,COUNTRY,CHN,China,,7,R,25,42,23,23,R
+7_R_0199,ACTOR-I,USA\USA-I,Everett Eissenstat,,7,R,25,42,27,28,R
+7_R_0200,ACTOR-I,USA\USA-I,Lighthizer,,7,R,25,42,5,5,R
+7_R_0201,ACTOR-I,USA\USA-I,Mnuchin,,7,R,25,42,3,3,R
+7_R_0202,ACTOR-I,USA\USA-I,Navarro,,7,R,25,42,9,9,R
+7_R_0203,ACTOR-I,USA\USA-I,Ross,,7,R,25,42,7,7,R
+7_R_0204,ACTOR-I,USA\USA-I,Terry Branstad,,7,R,25,42,24,25,R
+7_R_0205,COUNTRY,USA,U.S. Ambassador to China,,7,R,25,42,20,23,R
+7_R_0206,COUNTRY,USA,deputy assistant to the president for International Economic Affairs,,7,R,25,42,30,38,R
+7_R_0207,ACTOR-I,USA\USA-I,economic adviser Larry Kudlow,,7,R,25,42,15,18,R
+7_R_0208,ACTOR,USA\Trump,the president,,7,R,25,42,33,34,R
+7_R_0209,ACTOR-I,USA\USA-I,Mnuchin,,7,R,26,43,10,10,R
+7_R_0210,PROPERTY,Difficulty,very frank discussions,USA; USA-I,7,R,26,43,5,7,R

@@ -1,0 +1,216 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+0_M_0000,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,M,0,0,0,1,M
+0_M_0001,COUNTRY,PRK,North Korea,,0,M,0,0,14,15,M
+0_M_0002,ACTOR,USA\Trump,Trump,,0,M,0,0,3,3,M
+0_M_0003,ACTION,Trip to PRK,made top-secret visit to North Korea,,0,M,0,0,10,15,M
+0_M_0004,ACTOR,USA\Mike Pompeo,secretary of State pick,,0,M,0,0,5,8,M
+0_M_0005,PROPERTY,Importance,top-secret,Trip to PRK,0,M,0,0,11,11,M
+0_M_0006,COUNTRY,KOR,North and South Korea,,0,M,1,1,6,9,M
+0_M_0007,COUNTRY,PRK,North and South Korea,,0,M,1,1,6,9,M
+0_M_0008,ACTOR,USA\Trump,President Donald Trump,,0,M,1,1,0,2,M
+0_M_0009,EVENT,PRK KOR Meeting,conversations,,0,M,1,1,4,4,M
+0_M_0010,PROPERTY,Power,have his blessing,Trump,0,M,1,1,15,17,M
+0_M_0011,ACTION,Negotiate about the peace,to end their decades-long war,,0,M,1,1,10,14,M
+0_M_0012,COUNTRY,KOR,North and South Korea,,0,M,2,2,22,25,M
+0_M_0013,COUNTRY,PRK,North and South Korea,,0,M,2,2,22,25,M
+0_M_0014,ACTOR,USA\Trump,President Trump,,0,M,2,2,5,6,M
+0_M_0015,ACTOR,JPN\Abe,leader of Japan,,0,M,2,2,11,13,M
+0_M_0016,EVENT,JPN USA Meeting,meetings with the leader of Japan,,0,M,2,2,8,13,M
+0_M_0017,EVENT,PRK KOR Meeting,talks,,0,M,2,2,20,20,M
+0_M_0018,ACTION,Negotiate about the peace,to formally end a state of war,,0,M,2,2,26,32,M
+0_M_0019,PROPERTY,Difficulty,war that has lasted more than six decades,PRK KOR Meeting,0,M,2,2,32,39,M
+0_M_0020,ACTOR,JPN\Abe,Japanese Prime Minister,,0,M,3,3,19,21,M
+0_M_0021,COUNTRY,PRK,North Korea,,0,M,3,3,40,41,M
+0_M_0022,ACTOR,JPN\Abe,Shinzo Abe,,0,M,3,3,22,23,M
+0_M_0023,ACTOR,USA\Trump,Trump,,0,M,3,3,15,15,M
+0_M_0024,PROPERTY,Power,blessing to discuss,Trump,0,M,3,3,5,7,M
+0_M_0025,PROPERTY,Economy positive,center on trade,JPN USA Meeting,0,M,3,3,31,33,M
+0_M_0026,MISC,Denuclearization,end North Korea's nuclear weapons program,,0,M,3,3,39,45,M
+0_M_0027,EVENT,JPN USA Meeting,talks,,0,M,3,3,29,29,M
+0_M_0028,ACTION,Negotiate about the peace,to discuss the end of the war,,0,M,3,3,6,12,M
+0_M_0029,COUNTRY,USA,CIA director and secretary of State-designate,,0,M,4,5,15,20,M
+0_M_0030,ACTOR,PRK\Jong Un,Kim,,0,M,4,4,16,16,M
+0_M_0031,ACTOR,PRK\Jong Un,Kim,,0,M,4,5,8,8,M
+0_M_0032,ACTOR,PRK\Jong Un,Kim,,0,M,4,5,36,36,M
+0_M_0033,ACTOR,PRK\Jong Un,Kim Jong Un,,0,M,4,4,16,18,M
+0_M_0034,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,M,4,5,21,22,M
+0_M_0035,COUNTRY,PRK,North Korea,,0,M,4,4,13,14,M
+0_M_0036,COUNTRY,PRK,North Korea,,0,M,4,4,36,37,M
+0_M_0037,COUNTRY,PRK,North Korea,,0,M,4,5,28,29,M
+0_M_0038,ACTOR,PRK\Jong Un,North Korea leader,,0,M,4,4,13,15,M
+0_M_0039,ACTOR,USA\Trump,The president,,0,M,4,4,0,1,M
+0_M_0040,ACTOR,USA\Trump,Trump,,0,M,4,5,2,2,M
+0_M_0041,EVENT,PRK USA Summit,a one-on-one meeting,,0,M,4,4,9,11,M
+0_M_0042,PROPERTY,Importance,extremely high levels,PRK USA Summit,0,M,4,4,31,33,M
+0_M_0043,ACTION,Trip to PRK,"had direct talks at very high levels, extremely high levels",,0,M,4,4,23,33,M
+0_M_0044,PROPERTY,Importance,top-secret,Trip to PRK,0,M,4,5,25,25,M
+0_M_0045,ACTION,Trip to PRK,top-secret visit,,0,M,4,5,25,26,M
+0_M_0046,PROPERTY,Importance,very high levels,PRK USA Summit,0,M,4,4,27,29,M
+0_M_0047,ACTOR,JPN\Abe,Abe,,0,M,5,6,1,1,M
+0_M_0048,ACTOR,PRK\Jong Un,Kim,,0,M,5,6,14,14,M
+0_M_0049,ACTOR,USA\Trump,Trump,,0,M,5,6,6,6,M
+0_M_0050,PROPERTY,Difficulty,lack of agreement,PRK USA Summit,0,M,5,6,34,36,M
+0_M_0051,PROPERTY,Difficulty,might be called off,PRK USA Summit,0,M,5,6,27,30,M
+0_M_0052,EVENT,PRK USA Summit,plans to meet with Kim,,0,M,5,6,10,14,M
+0_M_0053,PROPERTY,Importance,repeated that he plans,PRK USA Summit,0,M,5,6,7,10,M
+0_M_0054,EVENT,PRK USA Summit,summit might be called off,,0,M,5,6,26,30,M
+0_M_0055,COUNTRY,CHN,China,,0,M,6,7,39,39,M
+0_M_0056,COUNTRY,PRK,North Korea,,0,M,6,7,49,50,M
+0_M_0057,ACTOR,USA\Trump,Trump,,0,M,6,7,35,35,M
+0_M_0058,PROPERTY,Weakness,cut off economic assistance to North Korea,PRK,0,M,6,7,44,50,M
+0_M_0059,MISC,Denuclearization,gives up nuclear weapons,,0,M,6,7,53,56,M
+0_M_0060,PROPERTY,Power,lobbied China and other countries to cut off economic assistance,Trump,0,M,6,7,38,47,M
+0_M_0061,PROPERTY,Difficulty,possible things won't go well,PRK USA Summit,0,M,6,7,3,8,M
+0_M_0062,EVENT,PRK USA Summit,won't have the meetings,,0,M,6,7,11,15,M
+0_M_0063,ACTOR,USA\Trump,Trump,,0,M,7,8,0,0,M
+0_M_0064,EVENT,PRK USA Summit,possible meeting,,0,M,7,8,10,11,M
+0_M_0065,ACTOR,JPN\Abe,Abe,,0,M,8,9,1,2,M
+0_M_0066,COUNTRY,KOR,North and South Korea,,0,M,8,9,8,11,M
+0_M_0067,COUNTRY,PRK,North and South Korea,,0,M,8,9,8,11,M
+0_M_0068,EVENT,JPN USA Meeting,The Trump-Abe summit,,0,M,8,9,0,2,M
+0_M_0069,ACTOR,USA\Trump,Trump,,0,M,8,9,1,2,M
+0_M_0070,ACTION,Negotiate about the peace,ended that conflict with a truce,,0,M,8,9,29,34,M
+0_M_0071,PROPERTY,Poor quality,have technically been at war in the decades since,Negotiate about the peace,0,M,8,9,39,47,M
+0_M_0072,ACTION,Negotiate about the peace,negotiating a statement,,0,M,8,9,13,15,M
+0_M_0073,ACTION,Negotiate about the peace,to formally end the war,,0,M,8,9,16,20,M
+0_M_0074,COUNTRY,PRK,North Korea,,0,M,9,10,9,10,M
+0_M_0075,COUNTRY,KOR,South Korea,,0,M,9,10,20,21,M
+0_M_0076,ACTOR,USA\Trump,Trump,,0,M,9,10,0,0,M
+0_M_0077,PROPERTY,Confidence,Without us and without me in particular,Trump,0,M,9,10,24,30,M
+0_M_0078,PROPERTY,Weakness,they wouldn't be discussing anything,PRK; KOR,0,M,9,10,35,40,M
+0_M_0079,PROPERTY,Confidence,took credit,Trump,0,M,9,10,2,3,M
+0_M_0080,COUNTRY,PRK,North Korea,,0,M,10,11,0,1,M
+0_M_0081,MISC,Denuclearization,North Korea's nuclear weapons program,,0,M,10,11,0,5,M
+0_M_0082,ACTOR,USA\Trump,Trump,,0,M,10,11,11,11,M
+0_M_0083,EVENT,JPN USA Meeting,Trump's meetings with his Japanese counterpart,,0,M,10,11,11,17,M
+0_M_0084,ACTOR,JPN\Abe,his Japanese counterpart,,0,M,10,11,15,17,M
+0_M_0085,PROPERTY,Importance,prime topic,Denuclearization,0,M,10,11,8,9,M
+0_M_0086,ACTOR,JPN\Abe,Abe,,0,M,11,12,0,0,M
+0_M_0087,ACTOR,JPN\Abe,Abe,,0,M,11,13,0,0,M
+0_M_0088,ACTOR,PRK\Jong Un,Kim,,0,M,11,12,32,32,M
+0_M_0089,COUNTRY,USA,U.S.,,0,M,11,12,8,8,M
+0_M_0090,PROPERTY,Power,assurances that the president will take Japanese security into account,Trump,0,M,11,12,16,25,M
+0_M_0091,PROPERTY,Weakness,assurances that the president will take Japanese security into account,Abe,0,M,11,12,16,25,M
+0_M_0092,PROPERTY,Weakness,losing political support,Abe,0,M,11,13,3,5,M
+0_M_0093,ACTOR,USA\Trump,president,,0,M,11,12,19,19,M
+0_M_0094,PROPERTY,Negative,questionable land sales,Abe,0,M,11,13,12,14,M
+0_M_0095,PROPERTY,Weakness,seeking an exemption,Abe,0,M,11,12,4,6,M
+0_M_0096,ACTOR,JPN\Abe,Abe,,0,M,12,14,13,13,M
+0_M_0097,ACTOR,USA\Trump,Donald,,0,M,12,14,10,10,M
+0_M_0098,EVENT,JPN USA Meeting,an in-depth discussion with Donald,,0,M,12,14,6,10,M
+0_M_0099,PROPERTY,Importance,in-depth,JPN USA Meeting,0,M,12,14,7,7,M
+0_M_0100,EVENT,JPN USA Meeting,initial meeting,,0,M,12,14,17,18,M
+0_M_0101,ACTOR,JPN\Abe,Abe,,0,M,13,15,2,2,M
+0_M_0102,ACTOR,USA\Trump,Trump,,0,M,13,15,16,16,M
+0_M_0103,PROPERTY,Reason,gets along well with,Trump,0,M,13,15,19,22,M
+0_M_0104,ACTOR,JPN\Abe,prime minister,,0,M,13,15,24,25,M
+0_M_0105,COUNTRY,USA,southern White House,,0,M,13,15,9,11,M
+0_M_0106,EVENT,JPN USA Meeting,the two-day summit,,0,M,13,15,29,31,M
+0_M_0107,COUNTRY,JPN,Japan,,0,M,14,17,15,15,M
+0_M_0108,COUNTRY,JPN,Japanese officials,,0,M,14,16,0,1,M
+0_M_0109,ACTOR,PRK\Jong Un,Kim,,0,M,14,16,11,11,M
+0_M_0110,COUNTRY,PRK,North Korea,,0,M,14,17,0,1,M
+0_M_0111,ACTOR,USA\Trump,Trump,,0,M,14,16,5,5,M
+0_M_0112,COUNTRY,USA,United States,,0,M,14,16,25,26,M
+0_M_0113,MISC,Denuclearization,a deal to destroy only inter-continental missiles,,0,M,14,16,14,20,M
+0_M_0114,PROPERTY,No trustworthiness,destroy only inter-continental missiles that could reach the United States,Trump,0,M,14,16,17,26,M
+0_M_0115,EVENT,PRK USA Summit,meeting with Kim,,0,M,14,16,9,11,M
+0_M_0116,PROPERTY,Aggressor,strike a deal to destroy,Trump,0,M,14,16,13,17,M
+0_M_0117,PROPERTY,Aggressor,threaten,PRK,0,M,14,17,8,8,M
+0_M_0118,PROPERTY,Victim,threaten countries in the region,JPN; KOR; CHN,0,M,14,17,8,12,M
+0_M_0119,PROPERTY,Aggressor,wants them destroyed,JPN,0,M,14,17,16,18,M
+0_M_0120,PROPERTY,Weakness,worried,JPN,0,M,14,16,3,3,M
+0_M_0121,ACTOR,JPN\Abe,Abe,,0,M,15,18,0,0,M
+0_M_0122,ACTOR-I,JPN\JPN-I,Japanese kidnap victims,,0,M,15,18,17,19,M
+0_M_0123,PROPERTY,Victim,Japanese kidnap victims,JPN-I,0,M,15,18,17,19,M
+0_M_0124,COUNTRY,PRK,North Korea,,0,M,15,18,25,26,M
+0_M_0125,COUNTRY,USA,U.S.,,0,M,15,18,6,6,M
+0_M_0126,PROPERTY,Other,believed to be held,PRK,0,M,15,18,20,23,M
+0_M_0127,PROPERTY,Aggressor,believed to be held,PRK,0,M,15,18,20,23,M
+0_M_0128,COUNTRY,JPN,his government,,0,M,15,18,9,10,M
+0_M_0129,PROPERTY,Weakness,looking for more U.S. support,Abe; JPN,0,M,15,18,3,7,M
+0_M_0130,ACTOR,PRK\Jong Un,Kim,,0,M,16,19,34,34,M
+0_M_0131,COUNTRY,USA,Matthew Pottinger,,0,M,16,19,0,1,M
+0_M_0132,COUNTRY,USA,National Security Council,,0,M,16,19,11,13,M
+0_M_0133,COUNTRY,PRK,North Korea,,0,M,16,19,26,27,M
+0_M_0134,COUNTRY,PRK,North Korea,,0,M,16,20,12,13,M
+0_M_0135,ACTOR,USA\Trump,Trump,,0,M,16,19,9,9,M
+0_M_0136,ACTOR,USA\Trump,Trump,,0,M,16,19,16,16,M
+0_M_0137,EVENT,PRK USA Summit,any meeting with Kim,,0,M,16,19,31,34,M
+0_M_0138,PROPERTY,Power,"challenge ""the full range of threats",Trump,0,M,16,19,18,24,M
+0_M_0139,PROPERTY,Importance,permanent,Denuclearization,0,M,16,20,9,9,M
+0_M_0140,MISC,Denuclearization,the permanent denuclearization,,0,M,16,20,8,10,M
+0_M_0141,PROPERTY,Aggressor,threats that North Korea poses,PRK,0,M,16,19,24,28,M
+0_M_0142,COUNTRY,JPN,Abe's government,,0,M,17,21,6,8,M
+0_M_0143,ACTOR,USA\Trump,Trump,,0,M,17,21,11,11,M
+0_M_0144,PROPERTY,Weakness,fears,JPN,0,M,17,21,9,9,M
+0_M_0145,PROPERTY,Economy negative,make it more costly,USA; JPN,0,M,17,21,29,32,M
+0_M_0146,PROPERTY,Economy negative,reduce trade between the two nations,USA; JPN,0,M,17,21,19,24,M
+0_M_0147,COUNTRY,JPN,Japan,,0,M,18,22,25,25,M
+0_M_0148,ACTOR,USA\Trump,Trump,,0,M,18,22,1,1,M
+0_M_0149,PROPERTY,Power,granted exceptions to a number of allies,USA,0,M,18,22,15,21,M
+0_M_0150,COUNTRY,USA,his administration,,0,M,18,22,13,14,M
+0_M_0151,ACTOR,JPN\Abe,Abe,,0,M,19,23,2,2,M
+0_M_0152,COUNTRY,USA,Larry Kudlow,,0,M,19,23,14,15,M
+0_M_0153,ACTOR,USA\Trump,Trump,,0,M,19,23,0,0,M
+0_M_0154,ACTOR,USA\Trump,Trump,,0,M,19,23,19,19,M
+0_M_0155,ACTOR,USA\Trump,Trump,,0,M,19,24,5,5,M
+0_M_0156,COUNTRY,USA,director of Trump's National Economic Council,,0,M,19,23,17,23,M
+0_M_0157,PROPERTY,Confidence,expects Abe to ask for an exemption,Trump,0,M,19,23,1,7,M
+0_M_0158,EVENT,JPN USA Meeting,the Mar-a-Lago summit,,0,M,19,23,9,11,M
+0_M_0159,COUNTRY,JPN,Japan,,0,M,20,25,0,0,M
+0_M_0160,COUNTRY,JPN,Japan,,0,M,20,25,33,33,M
+0_M_0161,ACTOR,USA\Trump,Trump,,0,M,20,25,6,6,M
+0_M_0162,COUNTRY,USA,Americans,,0,M,21,26,27,27,M
+0_M_0163,ACTOR,USA\Trump,Trump,,0,M,21,26,1,1,M
+0_M_0164,COUNTRY,USA,United States,,0,M,21,26,12,13,M
+0_M_0165,COUNTRY,JPN,Japan,,0,M,22,27,29,29,M
+0_M_0166,ACTOR,USA\Trump,Trump,,0,M,22,28,0,0,M
+0_M_0167,PROPERTY,Aggressor,has hit us,JPN,0,M,22,27,32,34,M
+0_M_0168,PROPERTY,Victim,has hit us,USA,0,M,22,27,32,34,M
+0_M_0169,COUNTRY,USA,Kudlow,,0,M,23,29,0,0,M
+0_M_0170,COUNTRY,USA,U.S.,,0,M,23,29,3,3,M
+0_M_0171,COUNTRY,CHN,China,,0,M,24,30,19,19,M
+0_M_0172,COUNTRY,JPN,Japan,,0,M,24,30,0,0,M
+0_M_0173,COUNTRY,USA,United States,,0,M,24,30,16,17,M
+0_M_0174,PROPERTY,Economy negative,affecting trading arrangements,USA; CHN,0,M,24,30,38,40,M
+0_M_0175,PROPERTY,Victim,caught in the middle of a trade war,JPN,0,M,24,30,6,13,M
+0_M_0176,PROPERTY,Aggressor,each has threatened the other,USA; CHN,0,M,24,30,21,25,M
+0_M_0177,PROPERTY,Economy negative,raise prices,USA; CHN,0,M,24,30,35,36,M
+0_M_0178,PROPERTY,Aggressor,trade war between the United States and China,USA; CHN,0,M,24,30,12,19,M
+0_M_0179,PROPERTY,Weakness,worried,JPN,0,M,24,30,2,2,M
+0_M_0180,ACTOR,JPN\Abe,Abe,,0,M,25,31,0,0,M
+0_M_0181,ACTOR,JPN\Abe,Abe,,0,M,25,32,9,9,M
+0_M_0182,COUNTRY,JPN,Tokyo,,0,M,25,32,3,3,M
+0_M_0183,PROPERTY,No trustworthiness,destruction of evidence,JPN,0,M,25,31,25,27,M
+0_M_0184,COUNTRY,JPN,his government,,0,M,25,31,8,9,M
+0_M_0185,PROPERTY,Weakness,personal worries,JPN,0,M,25,31,3,4,M
+0_M_0186,ACTOR,JPN\Abe,prime minister,,0,M,25,32,19,20,M
+0_M_0187,PROPERTY,Victim,under investigation,JPN,0,M,25,31,11,12,M
+0_M_0188,ACTOR,JPN\Abe,Abe,,0,M,26,33,5,5,M
+0_M_0189,COUNTRY,JPN,His administration,,0,M,26,34,0,1,M
+0_M_0190,COUNTRY,USA,Robert Mueller,,0,M,26,35,2,3,M
+0_M_0191,COUNTRY,RUS,Russians,,0,M,26,34,10,10,M
+0_M_0192,COUNTRY,USA,Special Counsel,,0,M,26,35,0,1,M
+0_M_0193,ACTOR,USA\Trump,Trump,,0,M,26,33,0,0,M
+0_M_0194,ACTOR,USA\Trump,Trump,,0,M,26,35,8,8,M
+0_M_0195,PROPERTY,No trustworthiness,sought to influence the 2016 election,RUS,0,M,26,34,12,17,M
+0_M_0196,PROPERTY,No trustworthiness,sought to obstruct justice,Trump,0,M,26,35,9,12,M
+0_M_0197,ACTOR,JPN\Abe,Abe,,0,M,27,36,20,20,M
+0_M_0198,COUNTRY,JPN,Japan,,0,M,27,36,30,30,M
+0_M_0199,ACTOR-I,USA\USA-I,Kristi Govella,,0,M,27,36,0,1,M
+0_M_0200,COUNTRY,USA,United States,,0,M,27,36,47,48,M
+0_M_0201,ACTOR-I,USA\USA-I,assistant professor with the Asian Studies Program at the University of Hawaii at Manoa,,0,M,27,36,4,17,M
+0_M_0202,PROPERTY,Power,combat perceptions,Abe,0,M,27,36,27,28,M
+0_M_0203,PROPERTY,Importance,important,JPN,0,M,27,36,43,43,M
+0_M_0204,COUNTRY,JPN,important partner,,0,M,27,36,43,44,M
+0_M_0205,ACTOR,JPN\Abe,Abe,,0,M,28,37,4,5,M
+0_M_0206,EVENT,JPN USA Meeting,Both of those summits,,0,M,28,39,0,3,M
+0_M_0207,ACTOR,USA\Trump,Trump,,0,M,28,37,4,5,M
+0_M_0208,ACTOR,USA\Trump,Trump,,0,M,28,38,0,0,M
+0_M_0209,EVENT,JPN USA Meeting,the third Trump-Abe summit,,0,M,28,37,2,5,M
+0_M_0210,ACTOR,USA\Trump,Trump,,0,M,29,40,19,19,M
+0_M_0211,ACTOR,JPN\Abe,Abe,,0,M,30,41,29,29,M
+0_M_0212,ACTOR,JPN\Abe,Abe,,0,M,30,42,5,5,M
+0_M_0213,COUNTRY,USA,Center for Strategic & International Studies,,0,M,30,41,9,14,M
+0_M_0214,PROPERTY,Importance,stakes are high,Abe,0,M,30,42,1,3,M

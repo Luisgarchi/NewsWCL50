@@ -1,0 +1,143 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+2_LL_0000,COUNTRY,PRK,North Korea,,2,LL,0,0,0,1,LL
+2_LL_0001,ACTION,PRK nuclear missile test suspension,suspends nuclear and missile tests,,2,LL,0,0,2,6,LL
+2_LL_0002,COUNTRY,PRK,Pyongyang,,2,LL,1,1,0,0,LL
+2_LL_0003,MISC,PRK plans to close down test site,plans to close down a former test site,,2,LL,1,1,4,11,LL
+2_LL_0004,ACTOR,PRK\Kim,North Korean dictator Kim Jong Un,,2,LL,2,2,0,5,LL
+2_LL_0005,COUNTRY,PRK,the country,,2,LL,2,2,7,8,LL
+2_LL_0006,ACTION,PRK nuclear missile test suspension,"to halt ""the nuclear test altogether",,2,LL,2,2,15,21,LL
+2_LL_0007,PROPERTY,Power,will join international efforts,PRK,2,LL,2,2,10,13,LL
+2_LL_0012,COUNTRY,PRK,North Korea,,2,LL,4,3,0,1,LL
+2_LL_0013,COUNTRY,PRK,North Korean state media,,2,LL,4,3,10,13,LL
+2_LL_0014,ACTION,PRK nuclear missile test suspension,suspend its nuclear and missile tests,,2,LL,4,3,3,8,LL
+2_LL_0015,ACTOR-I,USA\USA-Misc,The Associated Press,,2,LL,5,4,25,27,LL
+2_LL_0016,COUNTRY,PRK,The Korean Central News Agency,,2,LL,5,4,0,4,LL
+2_LL_0017,ACTION,PRK nuclear missile test suspension,halting nuclear tests and intercontinental ballistic missile launches,,2,LL,5,4,10,17,LL
+2_LL_0018,MISC,PRK plans to close down test site,plans to close down a nuclear test site,,2,LL,5,5,2,9,LL
+2_LL_0019,ACTOR,PRK\Kim,North Korean dictator Kim Jong Un,,2,LL,6,6,12,17,LL
+2_LL_0020,EVENT,Kim's announcement,a statement,,2,LL,6,6,1,2,LL
+2_LL_0021,PROPERTY,Other,promised,Kim,2,LL,6,6,18,18,LL
+2_LL_0022,COUNTRY,PRK,the country,,2,LL,6,6,37,38,LL
+2_LL_0023,COUNTRY,PRK,the state-run Korean Central News Agency,,2,LL,6,6,5,10,LL
+2_LL_0024,ACTION,PRK nuclear missile test suspension,"""never use nuclear weapons"" unless there is a nuclear ""threat or provocation"" to the country",,2,LL,6,6,20,38,LL
+2_LL_0025,COUNTRY,PRK,North Korea's nuclear test center,,2,LL,7,7,1,6,LL
+2_LL_0026,MISC,PRK plans to close down test site,North Korea's nuclear test center will be discarded,,2,LL,7,7,1,9,LL
+2_LL_0027,PROPERTY,Trustworthiness,ensure the transparency,PRK nuclear missile test suspension,2,LL,7,7,13,15,LL
+2_LL_0028,EVENT,Kim's announcement,the statement,,2,LL,7,7,25,26,LL
+2_LL_0029,ACTION,PRK nuclear missile test suspension,the suspension of the nuclear test,,2,LL,7,7,17,22,LL
+2_LL_0030,COUNTRY,PRK,DPRK,,2,LL,8,8,17,17,LL
+2_LL_0031,ACTION,PRK nuclear missile test suspension,The suspension of nuclear testing,,2,LL,8,8,1,5,LL
+2_LL_0032,ACTION,PRK nuclear missile test suspension,an important process for global nuclear disarmament,,2,LL,8,8,7,13,LL
+2_LL_0033,PROPERTY,Importance,important,PRK nuclear missile test suspension,2,LL,8,8,8,8,LL
+2_LL_0034,ACTION,PRK nuclear missile test suspension,to halt the nuclear test altogether,,2,LL,8,8,24,29,LL
+2_LL_0035,COUNTRY,PRK,North Korea,,2,LL,9,9,4,5,LL
+2_LL_0036,ACTOR,USA\Trump,President Donald Trump,,2,LL,9,9,0,2,LL
+2_LL_0037,PROPERTY,Affection,commended,PRK nuclear missile test suspension,2,LL,9,9,3,3,LL
+2_LL_0038,ACTION,PRK nuclear missile test suspension,suspension of the tests,,2,LL,9,9,7,10,LL
+2_LL_0039,PROPERTY,Affection,very good news,PRK nuclear missile test suspension,2,LL,9,9,23,25,LL
+2_LL_0040,ACTION,PRK nuclear missile test suspension,"""very good news.""",,2,LL,9,9,22,27,LL
+2_LL_0041,COUNTRY,PRK,North Korea,,2,LL,10,10,1,2,LL
+2_LL_0042,ACTOR,USA\Trump,Trump,,2,LL,10,10,19,19,LL
+2_LL_0043,MISC,PRK plans to close down test site,close up a major test site,,2,LL,10,10,11,16,LL
+2_LL_0044,ACTION,PRK nuclear missile test suspension,suspend all Nuclear Tests,,2,LL,10,10,6,9,LL
+2_LL_0045,ACTOR,PRK\Kim,Kim,,2,LL,11,12,2,2,LL
+2_LL_0046,ACTOR,PRK\Kim,Kim,,2,LL,11,13,7,7,LL
+2_LL_0047,COUNTRY,PRK,North Korea,,2,LL,11,11,11,12,LL
+2_LL_0048,COUNTRY,PRK,North Korea,,2,LL,11,12,15,16,LL
+2_LL_0049,ACTOR,PRK\Kim,Rocket Man,,2,LL,11,13,10,11,LL
+2_LL_0050,PROPERTY,Refusal,Rocket Man,Kim,2,LL,11,13,10,11,LL
+2_LL_0051,EVENT,Kim's announcement,The decision,,2,LL,11,11,0,1,LL
+2_LL_0052,ACTION,PRK nuclear missile test suspension,The decision,,2,LL,11,11,0,1,LL
+2_LL_0053,MISC,PRK plans to close down test site,The decision,,2,LL,11,11,0,1,LL
+2_LL_0054,ACTOR,USA\Trump,Trump,,2,LL,11,11,8,8,LL
+2_LL_0055,ACTOR,USA\Trump,Trump,,2,LL,11,12,0,0,LL
+2_LL_0056,ACTOR,USA\Trump,Trump,,2,LL,11,13,3,3,LL
+2_LL_0057,ACTOR,USA\Trump,Trump,,2,LL,11,13,18,18,LL
+2_LL_0058,ACTOR,USA\Trump,"a ""mentally deranged U.S. dotard.""",,2,LL,11,13,20,27,LL
+2_LL_0059,PROPERTY,Unreason,mentally deranged,Trump,2,LL,11,13,22,23,LL
+2_LL_0060,PROPERTY,Aggressor,taunted,Trump; Kim,2,LL,11,12,3,3,LL
+2_LL_0061,PROPERTY,Difficulty,tensions,USA; PRK,2,LL,11,11,5,5,LL
+2_LL_0062,MISC,PRK nuclear tests/capabilities,test-launched several intercontinental ballistic missiles (ICBM),,2,LL,11,12,17,24,LL
+2_LL_0063,COUNTRY,USA,the Trump administration,,2,LL,11,11,7,9,LL
+2_LL_0064,ACTOR,PRK\Kim,the dictator,,2,LL,11,13,15,16,LL
+2_LL_0065,COUNTRY,GUM,Guam,,2,LL,12,15,24,24,LL
+2_LL_0066,COUNTRY,PRK,North Korea,,2,LL,12,14,3,4,LL
+2_LL_0067,COUNTRY,PRK,North Korea,,2,LL,12,15,5,6,LL
+2_LL_0068,COUNTRY,PRK,North Korea,,2,LL,12,15,20,21,LL
+2_LL_0069,ACTOR,USA\Trump,Trump,,2,LL,12,15,3,3,LL
+2_LL_0070,COUNTRY,USA,U.S.,,2,LL,12,14,10,10,LL
+2_LL_0071,COUNTRY,USA,U.S.,,2,LL,12,15,28,28,LL
+2_LL_0072,PROPERTY,Aggressor,fire and fury like the world has never seen,Trump,2,LL,12,15,8,16,LL
+2_LL_0073,PROPERTY,Power,major military presence,USA,2,LL,12,15,31,33,LL
+2_LL_0074,PROPERTY,Weakness,retaliate against,PRK,2,LL,12,14,7,8,LL
+2_LL_0075,COUNTRY,USA,the U.S.,,2,LL,12,14,9,10,LL
+2_LL_0076,COUNTRY,USA,the U.S.,,2,LL,12,15,27,28,LL
+2_LL_0077,PROPERTY,Aggressor,threaten,PRK,2,LL,12,15,23,23,LL
+2_LL_0078,PROPERTY,Victim,threaten,GUM,2,LL,12,15,23,23,LL
+2_LL_0079,ACTOR,PRK\Kim,Kim,,2,LL,13,16,9,9,LL
+2_LL_0080,PROPERTY,Aggressor,The threats,USA; PRK,2,LL,13,16,0,1,LL
+2_LL_0081,ACTOR,USA\Trump,Trump,,2,LL,13,16,7,7,LL
+2_LL_0082,PROPERTY,Difficulty,argued over,Trump; Kim,2,LL,13,16,10,11,LL
+2_LL_0083,COUNTRY,KOR,Both countries,,2,LL,14,19,0,1,LL
+2_LL_0084,COUNTRY,PRK,Both countries,,2,LL,14,19,0,1,LL
+2_LL_0085,COUNTRY,PRK,North Korea,,2,LL,14,17,2,3,LL
+2_LL_0086,COUNTRY,KOR,North Korean and South Korean athletes,,2,LL,14,18,0,5,LL
+2_LL_0087,COUNTRY,PRK,North Korean and South Korean athletes,,2,LL,14,18,0,5,LL
+2_LL_0088,COUNTRY,KOR,South Korea,,2,LL,14,17,20,21,LL
+2_LL_0089,PROPERTY,Power,engaged,KOR; PRK,2,LL,14,19,3,3,LL
+2_LL_0090,PROPERTY,Easiness,have eased,PRK; USA,2,LL,14,17,7,8,LL
+2_LL_0091,PROPERTY,Confidence,holding a unified flag,KOR; PRK,2,LL,14,18,8,11,LL
+2_LL_0092,PROPERTY,Honor,holding a unified flag,KOR; PRK,2,LL,14,18,8,11,LL
+2_LL_0093,PROPERTY,Honor,marched together,PRK; KOR,2,LL,14,18,6,7,LL
+2_LL_0094,MISC,PRK KOR end of military conflict,re-establish dialogue,,2,LL,14,19,19,20,LL
+2_LL_0095,PROPERTY,Affection,re-establish dialogue,PRK; KOR,2,LL,14,19,19,20,LL
+2_LL_0096,PROPERTY,Honor,re-establish dialogue,PRK; KOR,2,LL,14,19,19,20,LL
+2_LL_0097,COUNTRY,USA,the U.S.,,2,LL,14,17,5,6,LL
+2_LL_0098,ACTOR,PRK\Kim,Kim,,2,LL,15,20,1,1,LL
+2_LL_0099,ACTOR,KOR\Moon,Moon Jae-in,,2,LL,15,20,10,11,LL
+2_LL_0100,ACTOR,KOR\Moon,South Korean President,,2,LL,15,20,7,9,LL
+2_LL_0101,EVENT,PRK KOR summit,This summit,,2,LL,15,21,0,1,LL
+2_LL_0102,EVENT,PRK KOR summit,a summit,,2,LL,15,20,13,14,LL
+2_LL_0103,PROPERTY,Importance,only the third meeting of its kind,PRK KOR end of military conflict,2,LL,15,21,4,10,LL
+2_LL_0104,EVENT,PRK KOR summit,the third meeting of its kind,,2,LL,15,21,5,10,LL
+2_LL_0105,COUNTRY,KOR,the two Koreas,,2,LL,15,21,14,16,LL
+2_LL_0106,COUNTRY,PRK,the two Koreas,,2,LL,15,21,14,16,LL
+2_LL_0107,ACTOR,PRK\Kim,Kim,,2,LL,16,22,7,7,LL
+2_LL_0108,ACTOR,PRK\Kim,Kim,,2,LL,16,23,12,12,LL
+2_LL_0109,COUNTRY,PRK,North Korea,,2,LL,16,23,9,10,LL
+2_LL_0110,ACTOR,USA\Trump,Trump,,2,LL,16,22,0,0,LL
+2_LL_0111,EVENT,USA PRK summit,Trump is also expected to meet with Kim,,2,LL,16,22,0,7,LL
+2_LL_0112,MISC,Denuclearization,discuss denuclearizing,,2,LL,16,23,7,8,LL
+2_LL_0113,PROPERTY,Reason,respectfully,Trump,2,LL,16,23,18,18,LL
+2_LL_0114,EVENT,USA PRK summit,the meeting,,2,LL,16,23,23,24,LL
+2_LL_0115,COUNTRY,PRK,North Korea,,2,LL,17,24,8,9,LL
+2_LL_0116,ACTOR,USA\Trump,Trump,,2,LL,17,24,24,24,LL
+2_LL_0117,PROPERTY,Positive,a bright path,Denuclearization,2,LL,17,24,3,5,LL
+2_LL_0118,MISC,Denuclearization,achieves denuclearization,,2,LL,17,24,12,13,LL
+2_LL_0119,PROPERTY,Importance,complete,Denuclearization,2,LL,17,24,16,16,LL
+2_LL_0120,PROPERTY,Importance,irreversible way,Denuclearization,2,LL,17,24,20,21,LL
+2_LL_0121,PROPERTY,Importance,verifiable,Denuclearization,2,LL,17,24,18,18,LL
+2_LL_0122,MISC,PRK nuclear tests/capabilities,16 tests,,2,LL,18,29,9,10,LL
+2_LL_0123,COUNTRY,PRK,North Korea,,2,LL,18,28,3,4,LL
+2_LL_0124,COUNTRY,PRK,Pyongyang,,2,LL,18,27,0,0,LL
+2_LL_0125,ACTOR,USA\Trump,Trump,,2,LL,18,27,13,13,LL
+2_LL_0126,MISC,PRK nuclear tests/capabilities,fired 23 missiles,,2,LL,18,29,5,7,LL
+2_LL_0127,PROPERTY,Importance,significant advancements,PRK nuclear tests/capabilities,2,LL,18,27,3,4,LL
+2_LL_0128,MISC,PRK nuclear tests/capabilities,significant advancements in its nuclear and missile development programs,,2,LL,18,27,3,11,LL
+2_LL_0129,MISC,PRK nuclear tests/capabilities,test-launched its first ICBM,,2,LL,18,28,5,8,LL
+2_LL_0130,MISC,PRK nuclear tests/capabilities,tested a second one,,2,LL,18,28,11,14,LL
+2_LL_0131,COUNTRY,USA,the entire continental U.S.,,2,LL,19,30,4,7,LL
+2_LL_0132,MISC,PRK nuclear tests/capabilities,within those ICBM's striking range,,2,LL,19,30,10,15,LL
+2_LL_0133,ACTOR,PRK\Kim,Kim,,2,LL,20,31,13,13,LL
+2_LL_0134,COUNTRY,PRK,North Korea,,2,LL,20,31,3,4,LL
+2_LL_0135,COUNTRY,KOR,South Korean officials,,2,LL,20,31,8,10,LL
+2_LL_0136,MISC,Denuclearization,denuclearization,,2,LL,20,31,23,23,LL
+2_LL_0137,ACTION,PRK nuclear missile test suspension,suspend testing,,2,LL,20,31,26,27,LL
+2_LL_0138,COUNTRY,USA,the U.S.,,2,LL,20,31,20,21,LL
+2_LL_0139,PROPERTY,Positive,willing to hold talks,Kim,2,LL,20,31,15,18,LL
+2_LL_0140,COUNTRY,PRK,North Korea,,2,LL,21,32,6,7,LL
+2_LL_0141,ACTOR,KOR\Moon,President Moon,,2,LL,21,32,3,4,LL
+2_LL_0142,COUNTRY,KOR,South Korea,,2,LL,21,32,24,25,LL
+2_LL_0143,COUNTRY,USA,U.S. troops,,2,LL,21,32,20,21,LL
+2_LL_0144,MISC,Denuclearization,denuclearization,,2,LL,21,32,30,30,LL
+2_LL_0145,COUNTRY,USA,the U.S.,,2,LL,21,32,16,17,LL

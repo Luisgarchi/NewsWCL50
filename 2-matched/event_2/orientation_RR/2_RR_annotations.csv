@@ -1,0 +1,77 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+2_RR_0000,COUNTRY,PRK,North Korean State Media,,2,RR,0,0,2,5,RR
+2_RR_0001,MISC,Denuclearization,Nuclear Program Shutdown,,2,RR,0,0,7,9,RR
+2_RR_0002,COUNTRY,KOR,American and South Korean state media,,2,RR,1,1,3,8,RR
+2_RR_0003,COUNTRY,USA,American and South Korean state media,,2,RR,1,1,3,8,RR
+2_RR_0004,ACTOR,PRK\Kim,North Korean dictator Kim Jong-un,,2,RR,1,1,13,17,RR
+2_RR_0005,ACTION,PRK nuclear missile test suspension,the halt of nuclear and missile tests,,2,RR,1,1,19,25,RR
+2_RR_0006,COUNTRY,PRK,KCNA,,2,RR,2,3,14,14,RR
+2_RR_0007,ACTOR,PRK\Kim,Kim,,2,RR,2,3,20,20,RR
+2_RR_0008,COUNTRY,PRK,Korean Central News Agency,,2,RR,2,3,9,12,RR
+2_RR_0009,COUNTRY,PRK,North Korea,,2,RR,2,3,30,31,RR
+2_RR_0010,COUNTRY,KOR,South Korean newswire service Yonhap,,2,RR,2,3,1,5,RR
+2_RR_0011,MISC,PRK nuclear tests/capabilities,intercontinental ballistic missiles,,2,RR,2,3,39,41,RR
+2_RR_0012,ACTION,PRK nuclear missile test suspension,stop nuclear tests and launches of intercontinental ballistic missiles,,2,RR,2,3,33,41,RR
+2_RR_0013,EVENT,Kim's announcement,the announcement from Kim,,2,RR,2,3,17,20,RR
+2_RR_0014,COUNTRY,PRK,The North,,2,RR,3,4,1,2,RR
+2_RR_0015,PROPERTY,Trustworthiness,prove the vow,PRK,2,RR,3,4,17,19,RR
+2_RR_0016,MISC,PRK plans to close down test site,shut down a nuclear test site,,2,RR,3,4,4,9,RR
+2_RR_0017,ACTION,PRK nuclear missile test suspension,suspend nuclear test,,2,RR,3,4,21,23,RR
+2_RR_0018,EVENT,Kim's announcement,the announcement,,2,RR,3,4,26,27,RR
+2_RR_0019,ACTOR,PRK\Kim,Kim,,2,RR,4,5,15,15,RR
+2_RR_0020,COUNTRY,PRK,WPK,,2,RR,4,5,24,24,RR
+2_RR_0021,COUNTRY,PRK,Workers' Party of Korea,,2,RR,4,5,18,22,RR
+2_RR_0022,MISC,Denuclearization,"""no need"" for such a nuclear program anymore",,2,RR,4,5,30,39,RR
+2_RR_0023,ACTOR,PRK\Kim,Kim,,2,RR,5,7,26,26,RR
+2_RR_0024,COUNTRY,PRK,North Korea,,2,RR,5,7,10,11,RR
+2_RR_0025,COUNTRY,RUS,Sputnik,,2,RR,5,7,0,0,RR
+2_RR_0026,COUNTRY,RUS,a Russian state site,,2,RR,5,7,2,5,RR
+2_RR_0027,ACTION,PRK nuclear missile test suspension,"""join international efforts to halt nuclear tests altogether,""",,2,RR,5,7,13,23,RR
+2_RR_0028,COUNTRY,USA,United States,,2,RR,6,8,31,32,RR
+2_RR_0029,ACTOR,PRK\Kim,Kim,,2,RR,7,9,11,11,RR
+2_RR_0030,ACTOR,PRK\Kim,Kim,,2,RR,7,9,22,22,RR
+2_RR_0031,ACTOR,PRK\Kim,Kim,,2,RR,7,9,32,32,RR
+2_RR_0032,ACTOR,PRK\Kim,Kim,,2,RR,7,11,0,0,RR
+2_RR_0033,ACTOR,PRK\Kim,Kim,,2,RR,7,11,14,14,RR
+2_RR_0034,COUNTRY,PRK,North Korea,,2,RR,7,10,53,54,RR
+2_RR_0035,COUNTRY,KOR,South Korea,,2,RR,7,9,37,38,RR
+2_RR_0036,ACTOR,KOR\Moon,South Korean President Moon Jae-in,,2,RR,7,9,13,17,RR
+2_RR_0037,COUNTRY,KOR,South Korean officials,,2,RR,7,11,3,5,RR
+2_RR_0038,EVENT,Kim's announcement,The announcement,,2,RR,7,9,0,1,RR
+2_RR_0039,COUNTRY,KOR,The two nations,,2,RR,7,10,0,2,RR
+2_RR_0040,COUNTRY,PRK,The two nations,,2,RR,7,10,0,2,RR
+2_RR_0041,COUNTRY,USA,U.S.,,2,RR,7,10,61,61,RR
+2_RR_0042,OBJECT,KOR PRK hotline,a historic direct hotline,,2,RR,7,9,6,9,RR
+2_RR_0043,PROPERTY,Unsafety,being at a stalemate,PRK KOR end of military conflict,2,RR,7,10,32,35,RR
+2_RR_0044,MISC,Denuclearization,denuclearization,,2,RR,7,10,40,40,RR
+2_RR_0045,MISC,Denuclearization,denuclearization,,2,RR,7,11,11,11,RR
+2_RR_0046,PROPERTY,Weakness,diminished U.S. presence,USA,2,RR,7,10,60,62,RR
+2_RR_0047,PROPERTY,Affection,dying wish,Denuclearization,2,RR,7,11,18,19,RR
+2_RR_0048,COUNTRY,KOR,the Korean peninsula,,2,RR,7,10,42,44,RR
+2_RR_0049,COUNTRY,PRK,the Korean peninsula,,2,RR,7,10,42,44,RR
+2_RR_0050,MISC,PRK KOR end of military conflict,the possibility of ending the Korean War,,2,RR,7,10,19,25,RR
+2_RR_0051,EVENT,PRK KOR summit,the summit,,2,RR,7,10,9,10,RR
+2_RR_0052,MISC,Denuclearization,"""denuclearization of the Korean peninsula,""",,2,RR,7,10,39,46,RR
+2_RR_0053,ACTOR-I,PRK\PRK-Misc,Christian North Koreans,,2,RR,8,13,0,2,RR
+2_RR_0054,COUNTRY,PRK,North Korea,,2,RR,8,12,0,1,RR
+2_RR_0055,COUNTRY,PRK,North Koreans,,2,RR,8,13,1,2,RR
+2_RR_0056,COUNTRY,PRK,North Koreans,,2,RR,8,14,0,1,RR
+2_RR_0057,PROPERTY,Aggressor,forced into a strict caste system,PRK,2,RR,8,14,3,8,RR
+2_RR_0058,PROPERTY,Victim,forced into a strict caste system,PRK,2,RR,8,14,3,8,RR
+2_RR_0059,PROPERTY,Aggressor,punished with poverty,PRK,2,RR,8,14,21,23,RR
+2_RR_0060,PROPERTY,Victim,punished with poverty,PRK,2,RR,8,14,21,23,RR
+2_RR_0061,PROPERTY,Aggressor,routinely imprisoned and tortured,PRK,2,RR,8,13,14,17,RR
+2_RR_0062,PROPERTY,Victim,routinely imprisoned and tortured,PRK-Misc,2,RR,8,13,14,17,RR
+2_RR_0063,PROPERTY,Aggressor,strictly punishing,PRK,2,RR,8,12,12,13,RR
+2_RR_0064,COUNTRY,PRK,the Kim regime,,2,RR,8,14,32,34,RR
+2_RR_0065,COUNTRY,PRK,the world's most prolific human rights abuser,,2,RR,8,12,3,10,RR
+2_RR_0066,PROPERTY,Aggressor,the world's most prolific human rights abuser,PRK,2,RR,8,12,3,10,RR
+2_RR_0067,ACTOR,PRK\Kim,Kim,,2,RR,9,15,7,7,RR
+2_RR_0068,ACTOR,PRK\Kim,Kim,,2,RR,9,16,8,8,RR
+2_RR_0069,ACTOR,PRK\Kim,Kim,,2,RR,9,16,14,14,RR
+2_RR_0070,ACTOR,USA\Trump,President Donald Trump,,2,RR,9,15,0,2,RR
+2_RR_0071,COUNTRY,PRK,a Kim dynasty dictator,,2,RR,9,16,7,10,RR
+2_RR_0072,COUNTRY,USA,a U.S. leader,,2,RR,9,16,3,5,RR
+2_RR_0073,EVENT,USA PRK summit,a summit,,2,RR,9,15,11,12,RR
+2_RR_0074,EVENT,USA PRK summit,preparing to meet Kim,,2,RR,9,15,4,7,RR
+2_RR_0075,COUNTRY,USA,the White House,,2,RR,9,15,21,23,RR

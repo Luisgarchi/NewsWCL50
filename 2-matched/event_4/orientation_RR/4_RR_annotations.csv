@@ -1,0 +1,99 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+4_RR_0000,ACTOR,USA\Trump,Donald Trump,,4,RR,0,0,0,1,RR
+4_RR_0001,PROPERTY,Difficulty,Going to Have Big Problems,IRN,4,RR,0,0,16,20,RR
+4_RR_0002,PROPERTY,Aggressor,Going to Have Big Problems,Trump,4,RR,0,0,16,20,RR
+4_RR_0003,COUNTRY,IRN,Iran,,4,RR,0,0,3,3,RR
+4_RR_0004,EVENT,IRN restart nuclear,Restarting Nuclear Program,,4,RR,0,0,5,7,RR
+4_RR_0005,EVENT,IRN restart nuclear,They Restart it,,4,RR,0,0,10,12,RR
+4_RR_0006,PROPERTY,Aggressor,Warns,Trump,4,RR,0,0,2,2,RR
+4_RR_0007,PROPERTY,Victim,Warns,IRN,4,RR,0,0,2,2,RR
+4_RR_0008,COUNTRY,IRN,Iran,,4,RR,1,1,17,17,RR
+4_RR_0009,ACTOR,IRN\Rouhani,Iranian President Hassan Rouhani,,4,RR,1,1,0,3,RR
+4_RR_0010,COUNTRY,SAU,Saudi Arabia,,4,RR,1,1,5,6,RR
+4_RR_0011,PROPERTY,Power,the might of,IRN,4,RR,1,1,14,16,RR
+4_RR_0012,COUNTRY,IRN,the regional heavyweights,,4,RR,1,1,25,27,RR
+4_RR_0013,COUNTRY,SAU,the regional heavyweights,,4,RR,1,1,25,27,RR
+4_RR_0014,PROPERTY,Aggressor,threatening,SAU,4,RR,1,1,13,13,RR
+4_RR_0015,PROPERTY,Difficulty,war of words between the regional heavyweights intensifies,SAU; IRN,4,RR,1,1,21,28,RR
+4_RR_0016,PROPERTY,Aggressor,war of words between the regional heavyweights intensifies,SAU; IRN,4,RR,1,1,21,28,RR
+4_RR_0017,PROPERTY,Aggressor,warns,Rouhani,4,RR,1,1,4,4,RR
+4_RR_0018,PROPERTY,Victim,warns,SAU,4,RR,1,1,4,4,RR
+4_RR_0019,PROPERTY,Weakness,will achieve nothing,SAU,4,RR,1,1,9,11,RR
+4_RR_0020,COUNTRY,FRA,French President Emmanuel Macron,,4,RR,2,2,23,26,RR
+4_RR_0021,COUNTRY,IRN,Iran,,4,RR,2,2,14,14,RR
+4_RR_0022,COUNTRY,IRN,Iran,,4,RR,2,2,29,29,RR
+4_RR_0023,ACTOR,USA\Trump,President Donald Trump,,4,RR,2,2,0,2,RR
+4_RR_0024,PROPERTY,Confidence,did not restrain,Trump,4,RR,2,2,3,5,RR
+4_RR_0025,MISC,Reactions on deal,did not restrain giving his opinion,,4,RR,2,2,3,8,RR
+4_RR_0026,EVENT,IRN restart nuclear,restarting its nuclear program,,4,RR,2,2,31,34,RR
+4_RR_0027,PROPERTY,Poor quality,terrible,IRN nuclear deal,4,RR,2,2,12,12,RR
+4_RR_0028,OBJECT,IRN nuclear deal,"the ""terrible"" Iran nuclear deal",,4,RR,2,2,10,16,RR
+4_RR_0029,PROPERTY,Aggressor,warning,Trump,4,RR,2,2,28,28,RR
+4_RR_0030,PROPERTY,Victim,warning,IRN,4,RR,2,2,28,28,RR
+4_RR_0031,MISC,Reactions on deal,"""terrible""",,4,RR,2,2,11,13,RR
+4_RR_0032,ACTOR,FRA\Macron,Macron,,4,RR,3,6,27,27,RR
+4_RR_0033,EVENT,IRN restart nuclear,They restart it,,4,RR,3,6,0,2,RR
+4_RR_0034,ACTOR,USA\Trump,Trump,,4,RR,3,6,21,21,RR
+4_RR_0035,PROPERTY,Difficulty,bigger than they've ever had before,IRN,4,RR,3,6,12,18,RR
+4_RR_0036,PROPERTY,Importance,bigger than they've ever had before,IRN,4,RR,3,6,12,18,RR
+4_RR_0037,PROPERTY,Difficulty,going to have big problems,IRN,4,RR,3,6,6,10,RR
+4_RR_0038,PROPERTY,Aggressor,going to have big problems,Trump,4,RR,3,6,6,10,RR
+4_RR_0039,PROPERTY,Weakness,not going to be restarting anything,ISN,4,RR,3,5,2,7,RR
+4_RR_0040,EVENT,IRN restart nuclear,restart,,4,RR,3,4,9,9,RR
+4_RR_0041,EVENT,IRN restart nuclear,restart,,4,RR,3,6,1,1,RR
+4_RR_0042,EVENT,IRN restart nuclear,restarting,,4,RR,3,5,6,6,RR
+4_RR_0043,PROPERTY,Difficulty,won't be so easy for them to restart,IRN restart nuclear,4,RR,3,4,1,9,RR
+4_RR_0044,COUNTRY,IRN,The Iranians,,4,RR,4,7,0,1,RR
+4_RR_0045,EVENT,IRN restart nuclear,restart their efforts to develop nuclear weapons,,4,RR,4,7,15,21,RR
+4_RR_0046,COUNTRY,USA,the United States,,4,RR,4,7,5,7,RR
+4_RR_0047,OBJECT,IRN nuclear deal,the deal,,4,RR,4,7,10,11,RR
+4_RR_0048,PROPERTY,Aggressor,warned,IRN,4,RR,4,7,2,2,RR
+4_RR_0049,PROPERTY,Victim,warned,USA,4,RR,4,7,2,2,RR
+4_RR_0050,ACTOR,USA\Trump,Trump,,4,RR,5,8,0,0,RR
+4_RR_0051,PROPERTY,Poor quality,terrible,IRN nuclear deal,4,RR,5,8,13,13,RR
+4_RR_0052,OBJECT,IRN nuclear deal,terrible deal,,4,RR,5,8,13,14,RR
+4_RR_0053,ACTOR,USA\Obama,the Obama administration,,4,RR,5,8,7,9,RR
+4_RR_0054,OBJECT,IRN nuclear deal,the deal,,4,RR,5,8,3,4,RR
+4_RR_0055,MISC,Reactions on deal,"""terrible deal.""",,4,RR,5,8,12,16,RR
+4_RR_0056,MISC,Reactions on deal,It's insane,,4,RR,6,9,1,3,RR
+4_RR_0057,MISC,Reactions on deal,It's ridiculous,,4,RR,6,10,0,2,RR
+4_RR_0058,ACTOR,USA\Trump,Trump,,4,RR,6,10,5,5,RR
+4_RR_0059,PROPERTY,Poor quality,insane,IRN nuclear deal,4,RR,6,9,3,3,RR
+4_RR_0060,PROPERTY,Poor quality,ridiculous,IRN nuclear deal,4,RR,6,10,2,2,RR
+4_RR_0061,PROPERTY,Poor quality,should never have been made,IRN nuclear deal,4,RR,6,11,2,6,RR
+4_RR_0062,MISC,Reactions on deal,should never have been made,,4,RR,6,11,2,6,RR
+4_RR_0063,OBJECT,IRN nuclear deal,the deal,,4,RR,6,10,12,13,RR
+4_RR_0064,PROPERTY,Power,will be talking about it,Trump,4,RR,6,11,10,14,RR
+4_RR_0065,OBJECT,IRN nuclear deal,Iran deal,,4,RR,7,12,3,4,RR
+4_RR_0066,COUNTRY,IRN,Iranian influence,,4,RR,7,12,22,23,RR
+4_RR_0067,ACTOR,FRA\Macron,Macron,,4,RR,7,12,0,0,RR
+4_RR_0068,PROPERTY,Importance,important part,IRN nuclear deal,4,RR,7,12,7,8,RR
+4_RR_0069,PROPERTY,Importance,important to contain,IRN nuclear deal,4,RR,7,12,19,21,RR
+4_RR_0070,PROPERTY,Power,stabilizing the region,IRN nuclear deal,4,RR,7,12,10,12,RR
+4_RR_0071,COUNTRY,IRN,Iran,,4,RR,8,13,3,3,RR
+4_RR_0072,ACTOR,USA\Trump,Trump,,4,RR,8,13,0,0,RR
+4_RR_0073,PROPERTY,Difficulty,was a problem,IRN,4,RR,8,13,4,6,RR
+4_RR_0074,COUNTRY,IRN,Iran,,4,RR,9,14,17,17,RR
+4_RR_0075,COUNTRY,IRN,Iran,,4,RR,9,15,16,16,RR
+4_RR_0076,COUNTRY,SYR,Syria,,4,RR,9,15,7,7,RR
+4_RR_0077,PROPERTY,Aggressor,Wherever there's trouble,IRN,4,RR,9,15,0,3,RR
+4_RR_0078,PROPERTY,No trustworthiness,is behind it,IRN,4,RR,9,14,18,20,RR
+4_RR_0079,PROPERTY,No trustworthiness,is behind it,IRN,4,RR,9,15,17,19,RR
+4_RR_0080,PROPERTY,Aggressor,is behind it,IRN,4,RR,9,14,18,20,RR
+4_RR_0081,PROPERTY,Aggressor,is behind it,IRN,4,RR,9,15,17,19,RR
+4_RR_0082,ACTOR-I,USA\USA-I,John Kerry,,4,RR,11,17,6,7,RR
+4_RR_0083,ACTOR,USA\Trump,Trump,,4,RR,11,17,0,0,RR
+4_RR_0084,ACTOR-I,USA\USA-I,former Secretary of State,,4,RR,11,17,2,5,RR
+4_RR_0085,PROPERTY,Negative,not addressing other important issues,USA-I,4,RR,11,17,9,13,RR
+4_RR_0086,PROPERTY,Aggressor,ridiculed,Trump,4,RR,11,17,1,1,RR
+4_RR_0087,PROPERTY,Victim,ridiculed,USA-I,4,RR,11,17,1,1,RR
+4_RR_0088,OBJECT,IRN nuclear deal,the Iran deal,,4,RR,11,17,15,17,RR
+4_RR_0089,OBJECT,IRN nuclear deal,the agreement,,4,RR,11,17,22,23,RR
+4_RR_0090,COUNTRY,IRN,Iran,,4,RR,12,18,2,2,RR
+4_RR_0091,COUNTRY,IRN,Iran,,4,RR,12,18,15,15,RR
+4_RR_0092,OBJECT,IRN nuclear deal,The Iran deal,,4,RR,12,18,1,3,RR
+4_RR_0093,OBJECT,IRN nuclear deal,a disaster,,4,RR,12,18,5,6,RR
+4_RR_0094,EVENT,IRN restart nuclear,continuing to test ballistic missiles,,4,RR,12,18,17,21,RR
+4_RR_0095,PROPERTY,Aggressor,fund terrorism,IRN,4,RR,12,18,23,24,RR
+4_RR_0096,PROPERTY,Poor quality,is a disaster,IRN nuclear deal,4,RR,12,18,4,6,RR
+4_RR_0097,MISC,Reactions on deal,is a disaster,,4,RR,12,18,4,6,RR

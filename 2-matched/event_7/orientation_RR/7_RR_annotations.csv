@@ -1,0 +1,52 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+7_RR_0000,COUNTRY,USA,US,,7,RR,0,0,0,0,RR
+7_RR_0001,PROPERTY,Power,delay EU tariff,USA,7,RR,0,0,2,4,RR
+7_RR_0002,OBJECT,Tariffs,tariff decision,,7,RR,0,0,4,5,RR
+7_RR_0003,ACTOR,USA\Trump,US President Donald Trump,,7,RR,1,1,5,8,RR
+7_RR_0004,OBJECT,Tariffs,controversial tariffs on steel and aluminum,,7,RR,1,1,20,25,RR
+7_RR_0005,PROPERTY,Power,push back his decision on whether to impose controversial tariffs,Trump,7,RR,1,1,12,21,RR
+7_RR_0006,COUNTRY,USA,senior administration official,,7,RR,1,1,43,45,RR
+7_RR_0007,COUNTRY,EU,the European Union,,7,RR,1,1,27,29,RR
+7_RR_0008,COUNTRY,CAN,Canada,,7,RR,2,2,18,18,RR
+7_RR_0009,COUNTRY,MEX,Mexico,,7,RR,2,2,20,20,RR
+7_RR_0010,OBJECT,Tariffs,punishing import duties,,7,RR,2,2,31,33,RR
+7_RR_0011,COUNTRY,EU,the EU,,7,RR,2,2,15,16,RR
+7_RR_0012,PROPERTY,Victim,would face punishing import duties,EU; CAN; MEX,7,RR,2,2,29,33,RR
+7_RR_0013,ACTOR,USA\Trump,Trump,,7,RR,4,4,0,0,RR
+7_RR_0014,PROPERTY,Power,announced,Trump,7,RR,4,4,1,1,RR
+7_RR_0015,PROPERTY,Power,exempted the European Union,Trump,7,RR,4,4,9,12,RR
+7_RR_0016,COUNTRY,EU,the European Union,,7,RR,4,4,10,12,RR
+7_RR_0017,OBJECT,Tariffs,the tariffs,,7,RR,4,4,2,3,RR
+7_RR_0018,COUNTRY,CHN,Chinese overproduction,,7,RR,5,5,11,12,RR
+7_RR_0019,COUNTRY,USA,The Trump administration,,7,RR,5,5,0,2,RR
+7_RR_0020,OBJECT,New import quotas,concessions to win permanent exemptions,,7,RR,5,5,25,29,RR
+7_RR_0021,PROPERTY,Affection,has justified,Tariffs,7,RR,5,5,3,4,RR
+7_RR_0022,MISC,Reactions to the permanent exemption,must make concessions to win permanent exemptions,,7,RR,5,5,23,29,RR
+7_RR_0023,OBJECT,Permanent exemptions,permanent exemptions,,7,RR,5,5,28,29,RR
+7_RR_0024,OBJECT,Tariffs,the tariffs,,7,RR,5,5,5,6,RR
+7_RR_0025,COUNTRY,EU,The EU,,7,RR,6,6,0,1,RR
+7_RR_0026,PROPERTY,Power,insisted it will not negotiate without first obtaining a permanent exemption,EU,7,RR,6,6,3,13,RR
+7_RR_0027,MISC,Reactions to the permanent exemption,insisted it will not negotiate without first obtaining a permanent exemption,,7,RR,6,6,3,13,RR
+7_RR_0028,OBJECT,Permanent exemptions,permanent exemption,,7,RR,6,6,12,13,RR
+7_RR_0029,COUNTRY,KOR,South Korea,,7,RR,7,7,30,31,RR
+7_RR_0030,COUNTRY,USA,The US official,,7,RR,7,7,0,2,RR
+7_RR_0031,OBJECT,Permanent exemptions,exempt South Korea from the tariffs,,7,RR,7,7,29,34,RR
+7_RR_0032,PROPERTY,Power,had reached a deal,USA,7,RR,7,7,24,27,RR
+7_RR_0033,PROPERTY,Other,on condition of anonymity,USA,7,RR,7,7,8,11,RR
+7_RR_0034,COUNTRY,USA,the Trump administration,,7,RR,7,7,16,18,RR
+7_RR_0035,OBJECT,Tariffs,the tariffs,,7,RR,7,7,33,34,RR
+7_RR_0036,ACTOR,KOR\Moon,Moon Jae-in,,7,RR,8,8,7,8,RR
+7_RR_0037,ACTOR,KOR\Moon,South Korean President,,7,RR,8,8,4,6,RR
+7_RR_0038,ACTOR,USA\Trump,Trump,,7,RR,8,8,0,0,RR
+7_RR_0039,ACTOR,USA\Trump,the US leader,,7,RR,8,8,11,13,RR
+7_RR_0040,COUNTRY,USA,Washington,,7,RR,9,9,19,19,RR
+7_RR_0041,PROPERTY,Power,had made concessions to secure a revised trade deal,KOR,7,RR,9,9,9,17,RR
+7_RR_0042,MISC,Reactions to the permanent exemption,had made concessions to secure a revised trade deal with Washington and escape its steel duties,,7,RR,9,9,9,24,RR
+7_RR_0043,COUNTRY,KOR,the government in Seoul,,7,RR,9,9,3,6,RR
+7_RR_0044,COUNTRY,CAN,Canada,,7,RR,10,10,2,2,RR
+7_RR_0045,COUNTRY,MEX,Mexico,,7,RR,10,10,4,4,RR
+7_RR_0046,COUNTRY,MEX,Mexico,,7,RR,10,10,12,12,RR
+7_RR_0047,COUNTRY,MEX,Mexico City,,7,RR,10,10,12,13,RR
+7_RR_0048,COUNTRY,CAN,Ottawa,,7,RR,10,10,15,15,RR
+7_RR_0049,COUNTRY,USA,Washington,,7,RR,10,10,10,10,RR
+7_RR_0050,PROPERTY,Power,work on revamping the North American Free Trade Agreement,USA; CAN; MEX,7,RR,10,10,16,24,RR

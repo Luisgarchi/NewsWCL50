@@ -1,0 +1,187 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+5_L_0000,COUNTRY,GBR,Britain,,5,L,0,0,5,5,L
+5_L_0001,EVENT,Visit Trump UK,Is Coming to Britain,,5,L,0,0,2,5,L
+5_L_0002,ACTOR,USA\Trump,President Trump,,5,L,0,0,0,1,L
+5_L_0003,OBJECT,GBR\London,London,,5,L,1,2,18,18,L
+5_L_0004,ACTOR-I,GBR\GBR-I,Prince Philip,,5,L,1,2,15,16,L
+5_L_0005,ACTOR-I,GBR\GBR-I,Queen Elizabeth II,,5,L,1,2,11,13,L
+5_L_0006,EVENT,State Visit,a state visit,,5,L,1,2,20,22,L
+5_L_0007,ACTOR,USA\Trump,Mr. Trump,,5,L,2,3,1,2,L
+5_L_0008,EVENT,State Visit,a traditional state visit,,5,L,2,3,11,14,L
+5_L_0009,PROPERTY,Importance,highly ceremonial,State Visit,5,L,2,3,17,18,L
+5_L_0010,PROPERTY,Other,very British affair,State Visit,5,L,2,3,20,22,L
+5_L_0011,PROPERTY,Weakness,will not get the honors,Trump,5,L,2,3,5,9,L
+5_L_0012,EVENT,Visit Trump UK,will not get the honors of a traditional state visit,,5,L,2,3,5,14,L
+5_L_0013,COUNTRY,GBR,Britain,,5,L,5,6,27,27,L
+5_L_0014,EVENT,State Visit,Invitations for state visits,,5,L,5,6,0,3,L
+5_L_0015,ACTOR-I,GBR\GBR-I,Queen Elizabeth II,,5,L,5,6,7,9,L
+5_L_0016,PROPERTY,Importance,convey a strong relationship,State Visit,5,L,5,6,22,25,L
+5_L_0017,PROPERTY,Honor,honorific,State Visit,5,L,5,6,20,20,L
+5_L_0018,PROPERTY,Importance,rare,State Visit,5,L,5,6,18,18,L
+5_L_0019,COUNTRY,GBR,the government,,5,L,5,6,14,15,L
+5_L_0020,EVENT,State Visit,such visits,,5,L,6,7,6,7,L
+5_L_0021,EVENT,State Visit,A state visit,,5,L,7,8,0,2,L
+5_L_0022,OBJECT,GBR\London,London,,5,L,7,8,23,23,L
+5_L_0023,EVENT,State Visit,a firmly structured event over four days,,5,L,7,8,4,10,L
+5_L_0024,EVENT,State Visit,a state visit,,5,L,7,10,4,6,L
+5_L_0025,PROPERTY,Difficulty,difficult,State Visit,5,L,7,10,10,10,L
+5_L_0026,PROPERTY,Importance,firmly structured,State Visit,5,L,7,8,5,6,L
+5_L_0027,EVENT,State Visit,"including talks, pageants, a banquet and a visit outside London",,5,L,7,8,12,23,L
+5_L_0028,PROPERTY,Importance,the pomp,State Visit,5,L,7,9,6,7,L
+5_L_0029,EVENT,State Visit,the pomp,,5,L,7,9,6,7,L
+5_L_0030,COUNTRY,GBR,Peter Westmacott,,5,L,8,11,22,23,L
+5_L_0031,EVENT,State Visit,a state visit,,5,L,8,11,8,10,L
+5_L_0032,PROPERTY,Other,ceremonial aspects,State Visit,5,L,8,11,18,19,L
+5_L_0033,COUNTRY,GBR,former British ambassador to the United States,,5,L,8,11,25,31,L
+5_L_0034,OBJECT,GBR\London,London,,5,L,9,13,13,13,L
+5_L_0035,ACTOR,USA\Trump,Mr. Trump,,5,L,9,12,0,1,L
+5_L_0036,ACTOR,GBR\May,Prime Minister Theresa May,,5,L,9,13,36,39,L
+5_L_0037,EVENT,Visit Trump UK,is expected to shake hands with Prime Minister Theresa May and to meet the queen,,5,L,9,13,30,44,L
+5_L_0038,PROPERTY,Importance,the full pageantry,State Visit,5,L,9,13,6,8,L
+5_L_0039,EVENT,State Visit,the full pageantry,,5,L,9,13,6,8,L
+5_L_0040,ACTOR-I,GBR\GBR-I,the queen,,5,L,9,13,43,44,L
+5_L_0041,PROPERTY,Unimportance,will most likely not miss out on much,State Visit,5,L,9,12,2,9,L
+5_L_0042,ACTOR-I,GBR\GBR-I,Queen Elizabeth II,,5,L,10,14,0,2,L
+5_L_0043,EVENT,State Visit,state visit,,5,L,10,14,14,15,L
+5_L_0044,EVENT,State Visit,a state visit,,5,L,11,15,3,5,L
+5_L_0045,COUNTRY,GBR,Britain,,5,L,12,16,28,28,L
+5_L_0046,ACTOR,USA\Trump,Mr. Trump,,5,L,12,16,5,6,L
+5_L_0047,ACTOR,GBR\May,Mrs. May,,5,L,12,16,0,1,L
+5_L_0048,PROPERTY,Weakness,fading world power,GBR,5,L,12,16,31,33,L
+5_L_0049,EVENT,State Visit,pomp and ceremony,,5,L,12,16,35,37,L
+5_L_0050,PROPERTY,Negative,wielded its fading world power through pomp and ceremony,GBR,5,L,12,16,29,37,L
+5_L_0051,OBJECT,GBR\London,London,,5,L,13,18,40,40,L
+5_L_0052,ACTOR-I,GBR\GBR-I,The queen,,5,L,13,17,0,1,L
+5_L_0053,EVENT,State Visit,a state visit,,5,L,13,18,36,38,L
+5_L_0054,PROPERTY,Power,has hosted more than 100 heads of state,GBR-I,5,L,13,17,2,9,L
+5_L_0055,COUNTRY,GBR,Mr. Westmacott,,5,L,14,19,29,30,L
+5_L_0056,COUNTRY,GBR,U.K.,,5,L,14,19,7,7,L
+5_L_0057,COUNTRY,GBR,U.K.,,5,L,14,20,6,6,L
+5_L_0058,PROPERTY,Power,We got Nicolas Sarkozy to,GBR,5,L,14,19,1,5,L
+5_L_0059,EVENT,State Visit,a state visit,,5,L,14,19,9,11,L
+5_L_0060,EVENT,State Visit,a state visit,,5,L,14,20,34,36,L
+5_L_0061,PROPERTY,Importance,as soon as possible,State Visit,5,L,14,20,45,48,L
+5_L_0062,EVENT,State Visit,State visits,,5,L,15,21,1,2,L
+5_L_0063,PROPERTY,Other,quite personal,State Visit,5,L,15,21,4,5,L
+5_L_0064,COUNTRY,GBR,Britain,,5,L,16,22,8,8,L
+5_L_0065,OBJECT,GBR\London,London,,5,L,16,23,17,17,L
+5_L_0066,EVENT,State Visit,a state visit,,5,L,16,22,10,12,L
+5_L_0067,EVENT,State Visit,a state visit,,5,L,16,23,26,28,L
+5_L_0068,PROPERTY,Importance,the pomp of,State Visit,5,L,16,23,23,25,L
+5_L_0069,EVENT,State Visit,the pomp of a state visit,,5,L,16,23,23,28,L
+5_L_0070,ACTOR-I,GBR\GBR-I,the queen,,5,L,16,24,13,14,L
+5_L_0071,COUNTRY,GBR,Mr. Westmacott,,5,L,17,25,55,56,L
+5_L_0072,EVENT,State Visit,a full-blown state visit,,5,L,17,25,9,12,L
+5_L_0073,PROPERTY,Importance,full-blown,State Visit,5,L,17,25,10,10,L
+5_L_0074,COUNTRY,USA,the United States,,5,L,17,25,17,19,L
+5_L_0075,EVENT,Protest,A protest,,5,L,18,26,0,1,L
+5_L_0076,OBJECT,GBR\London,London,,5,L,18,26,3,3,L
+5_L_0077,EVENT,Visit Trump UK,proposed state visit to Britain of President Trump,,5,L,18,26,8,15,L
+5_L_0078,ACTOR-I,GBR\GBR-Misc,Some Britons,,5,L,19,27,0,1,L
+5_L_0079,PROPERTY,Power,plan to protest,GBR-Misc,5,L,19,27,2,4,L
+5_L_0080,EVENT,Protest,protest in the streets,,5,L,19,27,4,7,L
+5_L_0081,COUNTRY,GBR,Boris Johnson,,5,L,20,29,5,6,L
+5_L_0082,COUNTRY,GBR,Britain's foreign secretary,,5,L,20,29,0,3,L
+5_L_0083,COUNTRY,GBR,British politicians and the public,,5,L,20,28,11,15,L
+5_L_0084,ACTOR,USA\Trump,Mr. Trump,,5,L,20,28,3,4,L
+5_L_0085,ACTOR,USA\Trump,Mr. Trump,,5,L,20,29,9,10,L
+5_L_0086,EVENT,Visit Trump UK,Mr. Trump's visit,,5,L,20,28,3,6,L
+5_L_0087,PROPERTY,Unreason,erratically capitalized,Trump,5,L,20,29,12,13,L
+5_L_0088,PROPERTY,Affection,excitement over welcoming,Trump; Visit Trump UK,5,L,20,29,19,21,L
+5_L_0089,PROPERTY,Other,received mixed reactions,Visit Trump UK,5,L,20,28,7,9,L
+5_L_0090,ACTOR,USA\Trump,the American president,,5,L,20,29,22,24,L
+5_L_0091,PROPERTY,Affection,GREATest,Visit Trump UK,5,L,21,30,12,12,L
+5_L_0092,PROPERTY,Affection,Looking forward to,Visit Trump UK,5,L,21,30,1,3,L
+5_L_0093,PROPERTY,Affection,closest ally and friend,Trump,5,L,21,30,6,9,L
+5_L_0094,ACTOR,USA\Trump,our closest ally and friend,,5,L,21,30,5,9,L
+5_L_0095,EVENT,Visit Trump UK,the GREATest visit,,5,L,21,30,11,13,L
+5_L_0096,COUNTRY,GBR,Britain,,5,L,22,31,26,26,L
+5_L_0097,ACTOR-I,GBR\GBR-I,Nigel Evans,,5,L,22,31,0,1,L
+5_L_0098,ACTOR-I,GBR\GBR-I,a Conservative member of Parliament,,5,L,22,31,3,7,L
+5_L_0099,PROPERTY,Affection,superb news,Visit Trump UK,5,L,22,31,17,18,L
+5_L_0100,COUNTRY,USA,the United States,,5,L,22,31,28,30,L
+5_L_0101,EVENT,Visit Trump UK,the visit,,5,L,22,31,11,12,L
+5_L_0102,PROPERTY,Power,will strengthen the relationship,Visit Trump UK,5,L,22,31,21,24,L
+5_L_0103,ACTOR,GBR\GBR-Misc\Khan,Sadiq Khan,,5,L,23,32,5,6,L
+5_L_0104,ACTOR,GBR\GBR-Misc\Khan,The mayor of London,,5,L,23,32,0,3,L
+5_L_0105,EVENT,Visit Trump UK,could face protests if he visited the capital,,5,L,23,32,12,19,L
+5_L_0106,ACTOR,USA\Trump,the American president,,5,L,23,32,9,11,L
+5_L_0107,ACTOR,USA\Trump,Mr. Trump,,5,L,24,33,14,15,L
+5_L_0108,EVENT,Visit Trump UK,Mr. Trump's planned visit,,5,L,24,33,14,18,L
+5_L_0109,ACTOR-I,GBR\GBR-Misc,Politicians and anti-Trump campaigners across Britain,,5,L,24,33,0,5,L
+5_L_0110,PROPERTY,Importance,"amassed more than 100,000 supporters",Protest,5,L,24,34,8,12,L
+5_L_0111,PROPERTY,Power,are mobilizing,GBR-Misc,5,L,24,33,6,7,L
+5_L_0112,EVENT,Protest,mass protests,,5,L,24,33,11,12,L
+5_L_0113,PROPERTY,Power,stage mass protests,GBR-Misc,5,L,24,33,10,12,L
+5_L_0114,EVENT,Protest,the protest,,5,L,24,34,4,5,L
+5_L_0115,ACTOR-I,GBR\GBR-Misc,Amnesty International U.K.'s director,,5,L,25,35,28,32,L
+5_L_0116,ACTOR,USA\Trump,Donald Trump,,5,L,25,35,2,3,L
+5_L_0117,EVENT,Visit Trump UK,Donald Trump arrives on these shores,,5,L,25,35,2,7,L
+5_L_0118,ACTOR-I,GBR\GBR-Misc,Kate Allen,,5,L,25,35,25,26,L
+5_L_0119,COUNTRY,GBR,these shores,,5,L,25,35,6,7,L
+5_L_0120,PROPERTY,Confidence,very definitely be making our voices heard,GBR-Misc,5,L,25,35,16,22,L
+5_L_0121,PROPERTY,Power,very definitely be making our voices heard,GBR-Misc,5,L,25,35,16,22,L
+5_L_0122,ACTOR-I,GBR\GBR-Misc,we and thousands of our supporters,,5,L,25,35,9,14,L
+5_L_0123,ACTOR,USA\Trump,Mr. Trump,,5,L,26,36,2,3,L
+5_L_0124,ACTOR,USA\Trump,Mr. Trump,,5,L,26,37,4,5,L
+5_L_0125,ACTOR-I,GBR\GBR-Misc,Mr. Trump's critics,,5,L,26,36,2,5,L
+5_L_0126,PROPERTY,Victim,bad deal,USA,5,L,26,37,33,34,L
+5_L_0127,ACTION,Break UK visits,canceled a previous working visit,,5,L,26,36,11,15,L
+5_L_0128,ACTION,Break UK visits,canceled the trip,,5,L,26,37,8,10,L
+5_L_0129,PROPERTY,Unsafety,concerns over,Trump,5,L,26,36,24,25,L
+5_L_0130,PROPERTY,Difficulty,concerns over protests,Trump,5,L,26,36,24,26,L
+5_L_0131,ACTOR-I,USA\USA-Misc,the Obama administration,,5,L,26,37,38,40,L
+5_L_0132,COUNTRY,USA,the new United States Embassy,,5,L,26,37,18,22,L
+5_L_0133,ACTOR,USA\Trump,the president,,5,L,26,36,9,10,L
+5_L_0134,COUNTRY,GBR,Britain,,5,L,27,38,8,8,L
+5_L_0135,ACTOR,USA\Trump,President Trump,,5,L,27,38,0,1,L
+5_L_0136,ACTOR,GBR\May,Prime Minister Theresa May of Britain,,5,L,27,38,3,8,L
+5_L_0137,COUNTRY,USA,the White House,,5,L,27,38,10,12,L
+5_L_0138,ACTOR,GBR\May,the first foreign leader to make an official visit after his inauguration,,5,L,27,39,2,13,L
+5_L_0139,COUNTRY,GBR,Britain,,5,L,28,40,5,5,L
+5_L_0140,COUNTRY,GBR,Britain,,5,L,29,42,14,14,L
+5_L_0141,ACTOR,USA\Trump,Mr. Trump,,5,L,29,41,13,14,L
+5_L_0142,ACTOR,GBR\May,Mrs. May,,5,L,29,41,0,1,L
+5_L_0143,COUNTRY,USA,Washington,,5,L,29,42,8,8,L
+5_L_0144,PROPERTY,Power,leave the European Union,GBR,5,L,29,42,18,21,L
+5_L_0145,PROPERTY,Importance,particularly important,USA,5,L,29,42,10,11,L
+5_L_0146,ACTOR,GBR\May,the British prime minister,,5,L,29,42,1,4,L
+5_L_0147,COUNTRY,USA,the White House,,5,L,29,41,9,11,L
+5_L_0148,ACTOR,GBR\May,the first foreign leader to visit the White House,,5,L,29,41,3,11,L
+5_L_0149,ACTOR,GBR\May,Mrs. May,,5,L,30,43,0,1,L
+5_L_0150,PROPERTY,Power,hopes to strike,May,5,L,30,43,2,4,L
+5_L_0151,PROPERTY,Power,quit Europe's tariff-free trading area,GBR,5,L,30,43,15,20,L
+5_L_0152,COUNTRY,USA,the United States,,5,L,30,43,9,11,L
+5_L_0153,COUNTRY,USA,America,,5,L,31,44,24,24,L
+5_L_0154,COUNTRY,GBR,America's closest security and intelligence partner,,5,L,31,44,24,30,L
+5_L_0155,COUNTRY,GBR,British officials,,5,L,31,44,18,19,L
+5_L_0156,COUNTRY,GBR,Britons,,5,L,31,44,5,5,L
+5_L_0157,COUNTRY,USA,Washington,,5,L,31,44,15,15,L
+5_L_0158,PROPERTY,Reason,closest security and intelligence partner,GBR,5,L,31,44,26,30,L
+5_L_0159,PROPERTY,Importance,closest security and intelligence partner,GBR,5,L,31,44,26,30,L
+5_L_0160,PROPERTY,Confidence,pride themselves,GBR,5,L,31,44,6,7,L
+5_L_0161,PROPERTY,Positive,special relationship,GBR; USA,5,L,31,44,11,12,L
+5_L_0162,COUNTRY,GBR,their country,,5,L,31,44,21,22,L
+5_L_0163,ACTOR,USA\Trump,Mr. Trump,,5,L,32,45,10,11,L
+5_L_0164,ACTOR,USA\Trump,Mr. Trump,,5,L,32,46,21,22,L
+5_L_0165,ACTOR,GBR\May,Mrs. May,,5,L,32,45,13,14,L
+5_L_0166,EVENT,Protest,Online petitions,,5,L,32,46,0,1,L
+5_L_0167,EVENT,State Visit,a state visit,,5,L,32,45,6,8,L
+5_L_0168,PROPERTY,Power,promoted the idea of a state visit,May,5,L,32,45,2,8,L
+5_L_0169,PROPERTY,Power,prompted a lively debate in Parliament,Protest,5,L,32,46,12,17,L
+5_L_0170,ACTION,Break UK visits,put that idea on ice,,5,L,32,45,16,20,L
+5_L_0171,PROPERTY,Power,received hundreds of thousands of signatures,Protest,5,L,32,46,5,10,L
+5_L_0172,EVENT,State Visit,the visit,,5,L,32,46,3,4,L
+5_L_0173,PROPERTY,Refusal,widespread public and political opposition,Trump; Visit Trump UK,5,L,32,45,25,29,L
+5_L_0174,ACTOR,USA\Trump,Mr. Trump,,5,L,33,47,23,24,L
+5_L_0175,ACTOR,GBR\May,Mrs. May,,5,L,33,47,0,1,L
+5_L_0176,PROPERTY,Weakness,has had to watch,May,5,L,33,47,5,8,L
+5_L_0177,PROPERTY,Refusal,unexpectedly warm ties,Trump,5,L,33,47,19,21,L
+5_L_0178,COUNTRY,GBR,Britain,,5,L,34,48,6,6,L
+5_L_0179,ACTOR,USA\Trump,Mr. Trump,,5,L,34,48,1,2,L
+5_L_0180,EVENT,Visit Trump UK,Mr. Trump's visit to Britain,,5,L,34,48,1,6,L
+5_L_0181,ACTOR,GBR\May,Mrs. May,,5,L,34,48,11,12,L
+5_L_0182,PROPERTY,Affection,healthy and close-working relationship,Trump,5,L,34,48,19,22,L
+5_L_0183,PROPERTY,Importance,provides an opportunity,Visit Trump UK,5,L,34,48,7,9,L
+5_L_0184,PROPERTY,Difficulty,recent tensions,Trump; May,5,L,34,48,28,29,L
+5_L_0185,ACTOR,USA\Trump,the president,,5,L,34,48,24,25,L

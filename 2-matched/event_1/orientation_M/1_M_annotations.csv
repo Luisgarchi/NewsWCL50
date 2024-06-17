@@ -1,0 +1,215 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+1_M_0000,ACTOR,USA\Comey,Comey,,1,M,0,0,0,0,M
+1_M_0001,OBJECT,Comey Memos,Comey memos,,1,M,0,0,0,1,M
+1_M_0002,COUNTRY,USA,Congress,,1,M,0,0,4,4,M
+1_M_0003,ACTOR,USA\Comey,Comey,,1,M,1,1,13,13,M
+1_M_0004,ACTOR,USA\Comey,Comey,,1,M,1,1,27,27,M
+1_M_0005,ACTOR,USA\Comey,Comey,,1,M,1,1,40,40,M
+1_M_0006,ACTOR,USA\Trump,President Trump,,1,M,1,1,19,20,M
+1_M_0007,PROPERTY,Good quality,closely tracked,Comey Memos,1,M,1,1,25,26,M
+1_M_0008,PROPERTY,Power,explosive,Comey Memos,1,M,1,1,5,5,M
+1_M_0009,OBJECT,Comey Memos,explosive memos,,1,M,1,1,5,6,M
+1_M_0010,ACTOR,USA\Comey,former FBI director James Comey,,1,M,1,1,9,13,M
+1_M_0011,MISC,Comey Memos\Interactions with Trump,his troubling encounters with President Trump,,1,M,1,1,15,20,M
+1_M_0012,PROPERTY,Negative,troubling encounters,Trump,1,M,1,1,16,17,M
+1_M_0013,ACTOR,USA\Comey,Comey,,1,M,2,3,17,17,M
+1_M_0014,COUNTRY,USA,Congress,,1,M,2,2,5,5,M
+1_M_0015,ACTOR-I,USA\USA-I,Justice special counsel Robert Mueller,,1,M,2,2,15,19,M
+1_M_0016,ACTOR,USA\Flynn,Michael Flynn,,1,M,2,3,28,29,M
+1_M_0017,COUNTRY,RUS,Russia,,1,M,2,2,34,34,M
+1_M_0018,PROPERTY,No trustworthiness,Russia's interference,RUS,1,M,2,2,34,36,M
+1_M_0019,EVENT,RUS interference,Russia's interference in the 2016 elections,,1,M,2,2,34,40,M
+1_M_0020,OBJECT,Comey Memos,The memos,,1,M,2,2,0,1,M
+1_M_0021,ACTOR,USA\Trump,Trump,,1,M,2,2,25,25,M
+1_M_0022,PROPERTY,Other,alleged demands for loyalty,Trump,1,M,2,3,5,8,M
+1_M_0023,ACTOR,USA\Comey,former director,,1,M,2,3,11,12,M
+1_M_0024,ACTOR,USA\Flynn,former national security adviser,,1,M,2,3,24,27,M
+1_M_0025,EVENT,Comey Memos\Russian Investigation,his investigation,,1,M,2,2,22,23,M
+1_M_0026,EVENT,Comey Memos\Flynn investigation,investigation into former national security adviser Michael Flynn,,1,M,2,3,22,29,M
+1_M_0027,PROPERTY,Other,possible attempts to obstruct,Trump,1,M,2,2,27,30,M
+1_M_0028,ACTOR,USA\Trump,the president,,1,M,2,3,2,3,M
+1_M_0029,EVENT,Comey Memos\Russian Investigation,the probe of Russia's interference in the 2016 elections,,1,M,2,2,31,40,M
+1_M_0030,ACTOR,USA\Flynn,Flynn,,1,M,3,4,0,0,M
+1_M_0031,ACTOR,USA\Flynn,Flynn,,1,M,3,5,0,0,M
+1_M_0032,ACTOR-I,USA\USA-I,Mueller,,1,M,3,5,5,5,M
+1_M_0033,COUNTRY,RUS,Russia ambassador Sergey Kislyak,,1,M,3,4,14,17,M
+1_M_0034,COUNTRY,USA,the FBI,,1,M,3,4,7,8,M
+1_M_0035,ACTOR,USA\Comey,Comey,,1,M,4,6,18,18,M
+1_M_0036,ACTOR,USA\Trump,Trump,,1,M,4,6,16,16,M
+1_M_0037,ACTOR,USA\Trump,Trump,,1,M,4,6,34,34,M
+1_M_0038,OBJECT,Comey Memos\Steele dossier,Trump's involvement with prostitutes during a 2013 visit in Moscow,,1,M,4,6,34,44,M
+1_M_0039,OBJECT,Comey Memos\Steele dossier,a dossier,,1,M,4,6,23,24,M
+1_M_0040,COUNTRY,GBR,a former British intelligence agent,,1,M,4,6,27,31,M
+1_M_0041,PROPERTY,Aggressor,confronted,Trump,1,M,4,6,17,17,M
+1_M_0042,PROPERTY,Victim,confronted,Comey,1,M,4,6,17,17,M
+1_M_0043,MISC,Comey Memos\Interactions with Trump,encounter,,1,M,4,6,13,13,M
+1_M_0044,PROPERTY,Other,purportedly describing,Trump,1,M,4,6,32,33,M
+1_M_0045,OBJECT,Comey Memos,the disclosures,,1,M,4,6,1,2,M
+1_M_0046,OBJECT,Comey Memos,the memos,,1,M,4,6,4,5,M
+1_M_0047,ACTOR,USA\Comey,Comey,,1,M,5,7,27,27,M
+1_M_0048,ACTOR,RUS\Putin,Putin,,1,M,5,8,19,19,M
+1_M_0049,ACTOR,RUS\Putin,Russian President Vladimir,,1,M,5,8,15,17,M
+1_M_0050,ACTOR,USA\Trump,The president,,1,M,5,7,1,2,M
+1_M_0051,ACTOR,USA\Trump,The president,,1,M,5,8,1,2,M
+1_M_0052,ACTOR,USA\Trump,The president brought,,1,M,5,7,1,3,M
+1_M_0053,PROPERTY,Difficulty,bothered him,Trump,1,M,5,7,15,16,M
+1_M_0054,OBJECT,Comey Memos\Steele dossier,that 'the hookers thing',,1,M,5,8,4,8,M
+1_M_0055,OBJECT,Comey Memos\Steele dossier,the 'Golden Shower Thing',,1,M,5,7,5,9,M
+1_M_0056,MISC,Comey Memos\Interactions with Trump,the conversation,,1,M,5,7,31,32,M
+1_M_0057,ACTOR,USA\Comey,Comey,,1,M,6,9,0,0,M
+1_M_0058,ACTOR,RUS\Putin,Putin,,1,M,6,9,12,12,M
+1_M_0059,ACTOR,USA\Trump,Trump,,1,M,6,9,8,8,M
+1_M_0060,ACTOR,USA\Trump,Trump,,1,M,6,9,38,38,M
+1_M_0061,OBJECT,Comey Memos\Steele dossier,the dossier,,1,M,6,9,26,27,M
+1_M_0062,COUNTRY,USA,America,,1,M,7,10,38,38,M
+1_M_0063,ACTOR,USA\Comey,Comey,,1,M,7,10,8,8,M
+1_M_0064,ACTOR,USA\Comey,Comey,,1,M,7,10,18,18,M
+1_M_0065,COUNTRY,RUS,Russia,,1,M,7,10,36,36,M
+1_M_0066,ACTOR,USA\Trump,Trump,,1,M,7,10,24,24,M
+1_M_0067,PROPERTY,Aggressor,"both harbored ""killers.""",RUS; USA,1,M,7,10,43,48,M
+1_M_0068,PROPERTY,Confidence,challenged the president's comments,Comey,1,M,7,10,27,31,M
+1_M_0069,PROPERTY,Aggressor,having seriously crossed,Comey,1,M,7,10,21,23,M
+1_M_0070,ACTOR,USA\Trump,the president,,1,M,7,10,28,29,M
+1_M_0071,ACTOR,USA\Comey,Comey,,1,M,8,11,24,24,M
+1_M_0072,ACTOR,USA\Trump,Trump,,1,M,8,11,13,13,M
+1_M_0073,PROPERTY,Reason,clearly noticed,Trump,1,M,8,11,15,16,M
+1_M_0074,PROPERTY,Confidence,had directly challenged him,Comey,1,M,8,11,18,21,M
+1_M_0075,OBJECT,Comey Memos,the memo,,1,M,8,11,27,28,M
+1_M_0076,ACTOR,USA\Comey,Comey,,1,M,9,12,4,4,M
+1_M_0077,PROPERTY,Unsafety,gone from potential ally to enemy,Comey,1,M,9,12,16,21,M
+1_M_0078,ACTOR,USA\Trump,the president,,1,M,9,12,23,24,M
+1_M_0079,PROPERTY,Lawfulness,NO COLLUSION,Trump,1,M,10,13,12,13,M
+1_M_0080,EVENT,RUS interference,NO COLLUSION,,1,M,10,13,12,13,M
+1_M_0081,PROPERTY,Lawfulness,NO OBSTRUCTION,Trump,1,M,10,13,15,16,M
+1_M_0082,ACTOR,USA\Trump,Trump,,1,M,10,13,0,0,M
+1_M_0083,OBJECT,Comey Memos,the released memos,,1,M,10,13,3,5,M
+1_M_0084,COUNTRY,USA,Assistant Attorney General,,1,M,11,14,0,2,M
+1_M_0085,ACTOR-I,USA\USA-I,Assistant Attorney General Stephen Boyd,,1,M,11,14,0,4,M
+1_M_0086,COUNTRY,USA,Stephen Boyd,,1,M,11,14,3,4,M
+1_M_0087,OBJECT,Comey Memos,documents,,1,M,11,14,25,25,M
+1_M_0088,COUNTRY,USA,six congressional committees,,1,M,11,14,11,13,M
+1_M_0089,COUNTRY,USA,Boyd,Comey,1,M,12,15,41,41,M
+1_M_0090,ACTOR-I,USA\USA-I,Boyd,,1,M,12,15,41,41,M
+1_M_0091,EVENT,Comey Memos\Flynn investigation,any ongoing investigation,,1,M,12,15,28,30,M
+1_M_0092,EVENT,Comey Memos\Russian Investigation,any ongoing investigation,,1,M,12,15,28,30,M
+1_M_0093,PROPERTY,Weakness,not adversely impact,Comey Memos,1,M,12,15,25,27,M
+1_M_0094,COUNTRY,USA,relevant parties,,1,M,12,15,11,12,M
+1_M_0095,COUNTRY,USA,the department,,1,M,12,15,8,9,M
+1_M_0096,OBJECT,Comey Memos,the memoranda,,1,M,12,15,19,20,M
+1_M_0097,PROPERTY,Other,the unusual events,Comey Memos,1,M,12,15,4,6,M
+1_M_0098,ACTOR,USA\Comey,Comey,,1,M,13,16,4,4,M
+1_M_0099,ACTOR,USA\Trump,Trump,,1,M,13,16,11,11,M
+1_M_0100,PROPERTY,Aggressor,abruptly dismissed,Trump,1,M,13,16,8,9,M
+1_M_0101,PROPERTY,Victim,abruptly dismissed,Comey,1,M,13,16,8,9,M
+1_M_0102,MISC,Comey Memos\Interactions with Trump,the encounters,,1,M,13,16,40,41,M
+1_M_0103,OBJECT,Comey Memos,the memos,,1,M,13,16,44,45,M
+1_M_0104,ACTOR,USA\Comey,Comey,,1,M,14,17,0,0,M
+1_M_0105,PROPERTY,Confidence,extensive testimony,Comey,1,M,14,17,2,3,M
+1_M_0106,COUNTRY,USA,the Senate Intelligence Committee,,1,M,14,17,13,16,M
+1_M_0107,OBJECT,Comey Memos,the memos,,1,M,14,17,8,9,M
+1_M_0108,ACTOR,USA\Comey,Comey,,1,M,15,18,14,14,M
+1_M_0109,COUNTRY,USA,Congress,,1,M,15,18,6,6,M
+1_M_0110,PROPERTY,Trustworthiness,"favored ""transparency",Comey,1,M,15,18,17,19,M
+1_M_0111,OBJECT,Comey Memos,the memos,,1,M,15,18,1,2,M
+1_M_0112,ACTOR,USA\Comey,The former FBI director,,1,M,16,19,0,3,M
+1_M_0113,ACTOR,USA\Trump,Trump,,1,M,16,19,23,23,M
+1_M_0114,ACTOR,USA\Trump,the president,,1,M,16,19,14,15,M
+1_M_0115,ACTOR,USA\Comey,Comey,,1,M,17,20,0,0,M
+1_M_0116,ACTOR,USA\Trump,Trump,,1,M,17,20,16,16,M
+1_M_0117,PROPERTY,Weakness,"feared Trump would ""lie""",Comey,1,M,17,20,15,20,M
+1_M_0118,MISC,Comey Memos\Interactions with Trump,their interactions,,1,M,17,20,22,23,M
+1_M_0119,PROPERTY,Importance,unusual action,Comey memos,1,M,17,20,11,12,M
+1_M_0120,ACTOR,USA\Comey,Comey,,1,M,18,21,11,11,M
+1_M_0121,COUNTRY,RUS,Russia,,1,M,18,21,29,29,M
+1_M_0122,ACTOR,USA\Trump,Trump,,1,M,18,21,13,13,M
+1_M_0123,PROPERTY,Power,held compromising information,RUS,1,M,18,21,30,32,M
+1_M_0124,PROPERTY,Unreason,morally unfit,Trump,1,M,18,21,16,17,M
+1_M_0125,PROPERTY,Dishonor,morally unfit,Trump,1,M,18,21,16,17,M
+1_M_0126,ACTOR,USA\Trump,president,,1,M,18,21,21,21,M
+1_M_0127,ACTOR,USA\Trump,president,,1,M,18,21,35,35,M
+1_M_0128,ACTOR,USA\Trump,the president,,1,M,18,21,34,35,M
+1_M_0129,COUNTRY,USA,Comey,,1,M,19,22,24,24,M
+1_M_0130,OBJECT,Comey Memos,Comey's memos,,1,M,19,22,24,26,M
+1_M_0131,ACTOR,USA\Flynn,Michael Flynn,Flynn,1,M,19,22,61,62,M
+1_M_0132,ACTOR,USA\Trump,President Trump,,1,M,19,22,37,38,M
+1_M_0133,COUNTRY,USA,Rep. Elijah E. Cummings of Maryland,,1,M,19,22,0,5,M
+1_M_0134,COUNTRY,RUS,Russia,,1,M,19,22,54,54,M
+1_M_0135,PROPERTY,Power,strong corroborating evidence,Comey Memos,1,M,19,22,29,31,M
+1_M_0136,ACTOR,USA\Trump,the President,,1,M,19,22,41,42,M
+1_M_0137,EVENT,Comey Memos\Russian Investigation,the Russia investigation,,1,M,19,22,53,55,M
+1_M_0138,ACTOR-I,USA\USA-Misc,the senior Democrat,,1,M,19,22,7,9,M
+1_M_0139,COUNTRY,USA,the senior Democrat on the House Committee on Oversight and Government Reform,,1,M,19,22,7,18,M
+1_M_0140,PROPERTY,Aggressor,wanted Michael Flynn to walk,Trump,1,M,19,22,60,64,M
+1_M_0141,PROPERTY,Power,wanted to end the Russia investigation,Trump,1,M,19,22,50,55,M
+1_M_0142,COUNTRY,USA,Cummings,,1,M,20,23,30,30,M
+1_M_0143,ACTOR,USA\Comey,Director Comey,,1,M,20,23,14,15,M
+1_M_0144,ACTOR,USA\Trump,President Trump,,1,M,20,23,1,2,M
+1_M_0145,PROPERTY,Unreason,blatant effort,Trump,1,M,20,23,7,8,M
+1_M_0146,PROPERTY,Unlawfulness,deny justice,Trump,1,M,20,23,10,11,M
+1_M_0147,PROPERTY,Reason,right to document,Comey,1,M,20,23,17,19,M
+1_M_0148,COUNTRY,USA,Boente,,1,M,21,24,20,20,M
+1_M_0149,COUNTRY,USA,Boente,,1,M,21,25,0,0,M
+1_M_0150,COUNTRY,USA,Dana Boente,,1,M,21,24,19,20,M
+1_M_0151,ACTOR-I,USA\USA-I,Justice Department official Dana Boente,,1,M,21,24,16,20,M
+1_M_0152,COUNTRY,USA,The congressman,,1,M,21,24,0,1,M
+1_M_0153,PROPERTY,Trustworthiness,corroborated by contemporaneous handwritten notes,Comey Memos,1,M,21,24,9,13,M
+1_M_0154,COUNTRY,USA,the FBI's general counsel,,1,M,21,25,11,15,M
+1_M_0155,OBJECT,Comey Memos,the memos,,1,M,21,24,4,5,M
+1_M_0156,COUNTRY,USA,top Justice Department official,,1,M,21,24,15,18,M
+1_M_0157,ACTOR,USA\Comey,Comey,,1,M,22,26,7,7,M
+1_M_0158,ACTOR,USA\Comey,Comey,,1,M,22,27,0,0,M
+1_M_0159,COUNTRY,USA,Cummings,,1,M,22,26,0,0,M
+1_M_0160,PROPERTY,Refusal,accused him,Comey,1,M,22,27,4,5,M
+1_M_0161,OBJECT,Comey Memos,classified information,,1,M,22,27,8,9,M
+1_M_0162,PROPERTY,No trustworthiness,leaking classified information,Comey,1,M,22,27,7,9,M
+1_M_0163,OBJECT,Comey Memos,memo,,1,M,22,26,5,5,M
+1_M_0164,OBJECT,Comey Memos,memo,,1,M,22,26,24,24,M
+1_M_0165,OBJECT,Comey Memos,memo,,1,M,22,27,14,14,M
+1_M_0166,OBJECT,Comey Memos,that memo,,1,M,22,27,13,14,M
+1_M_0167,OBJECT,Comey Memos,the memo,,1,M,22,26,4,5,M
+1_M_0168,PROPERTY,Other,unclassified,Comey Memos,1,M,22,26,29,29,M
+1_M_0169,ACTOR,USA\Comey,Comey,,1,M,23,28,21,21,M
+1_M_0170,OBJECT,Comey Memos,Comey's memos,,1,M,23,28,21,23,M
+1_M_0171,ACTOR-I,USA\USA-I,The chairmen of the three House committees,,1,M,23,28,0,6,M
+1_M_0172,OBJECT,Comey Memos,documents,,1,M,23,28,10,10,M
+1_M_0173,COUNTRY,USA,the Justice Department,,1,M,23,28,12,14,M
+1_M_0174,ACTOR-I,USA\USA-I,"Intelligence Chairman Devin Nunes, R-Calif",,1,M,24,29,2,5,M
+1_M_0175,ACTOR-I,USA\USA-I,"Judiciary Chairman Bob Goodlatte, R-Va.,",,1,M,24,29,21,24,M
+1_M_0176,ACTOR-I,USA\USA-I,"Oversight Chairman Trey Gowdy, R-S.C.",,1,M,24,29,26,31,M
+1_M_0177,OBJECT,Comey Memos,These memos,,1,M,24,29,1,2,M
+1_M_0178,PROPERTY,Importance,significant,Comey Memos,1,M,24,29,4,4,M
+1_M_0179,ACTOR,USA\Comey,Former Director Comey,,1,M,28,33,1,3,M
+1_M_0180,OBJECT,Comey Memos,Former Director Comey's memos,,1,M,28,33,1,5,M
+1_M_0181,ACTOR,USA\Trump,President Trump,,1,M,28,34,10,11,M
+1_M_0182,COUNTRY,RUS,Russia,,1,M,28,33,25,25,M
+1_M_0183,OBJECT,Comey Memos,The memos,,1,M,28,34,1,2,M
+1_M_0184,EVENT,RUS interference,"collusion, coordination, and conspiracy between his campaign and Russia",,1,M,28,33,15,25,M
+1_M_0185,PROPERTY,Confidence,made clear,Trump,1,M,28,33,9,10,M
+1_M_0186,PROPERTY,Confidence,made clear,Trump,1,M,28,34,4,5,M
+1_M_0187,PROPERTY,Unreason,"salacious, unsubstantiated allegations",Steele dossier,1,M,28,34,29,32,M
+1_M_0188,OBJECT,Comey Memos\Steele dossier,"salacious, unsubstantiated allegations related to personal conduct",,1,M,28,34,29,36,M
+1_M_0189,ACTOR,USA\Comey,the President,,1,M,28,33,7,8,M
+1_M_0190,EVENT,RUS interference,the Russian interference in the 2016 election,,1,M,28,34,16,22,M
+1_M_0191,ACTOR-I,USA\USA-I,the chairmen,,1,M,28,33,30,31,M
+1_M_0192,OBJECT,Comey Memos\Steele dossier,the dossier,,1,M,28,34,39,40,M
+1_M_0193,ACTOR-I,USA\USA-Misc,Democratic political committees,,1,M,29,35,14,16,M
+1_M_0194,OBJECT,Comey Memos\Steele dossier,The dossier,,1,M,29,35,0,1,M
+1_M_0195,ACTOR,USA\Trump,Trump,,1,M,29,35,22,22,M
+1_M_0196,OBJECT,Comey Memos\Steele dossier,allegations that Trump interacted with prostitutes in a Moscow hotel room,,1,M,29,35,20,30,M
+1_M_0197,COUNTRY,GBR,former British spy Christopher Steele,,1,M,29,35,5,9,M
+1_M_0198,PROPERTY,Other,unsubstantiated allegations,Steele dossier,1,M,29,35,19,20,M
+1_M_0199,ACTOR,USA\Comey,Director Comey,,1,M,30,36,6,7,M
+1_M_0200,OBJECT,Comey Memos,The memos,,1,M,30,36,1,2,M
+1_M_0201,PROPERTY,Safety,never wrote that he felt obstructed or threatened,Comey,1,M,30,36,8,15,M
+1_M_0202,ACTOR-I,USA\USA-I,the Republican congressmen,,1,M,30,36,18,20,M
+1_M_0203,ACTOR,USA\Comey,Comey,,1,M,31,37,7,7,M
+1_M_0204,ACTOR-I,USA\USA-I,The chairmen,,1,M,31,37,0,1,M
+1_M_0205,ACTOR,USA\Trump,Trump,,1,M,31,37,14,14,M
+1_M_0206,PROPERTY,Importance,had different standards in dealing with Trump than he did with others,Trump,1,M,31,37,8,19,M
+1_M_0207,OBJECT,Comey Memos,the memos,,1,M,31,37,3,4,M
+1_M_0208,COUNTRY,USA,Andrew McCabe,,1,M,32,38,17,18,M
+1_M_0209,COUNTRY,USA,Attorney General Lynch,,1,M,32,38,10,12,M
+1_M_0210,ACTOR,USA\Trump,President Trump,,1,M,32,38,31,32,M
+1_M_0211,COUNTRY,USA,Secretary Clinton,,1,M,32,38,14,15,M
+1_M_0212,MISC,Comey Memos\Interactions with Trump,conversations with President Trump,,1,M,32,38,29,32,M
+1_M_0213,PROPERTY,Importance,immediately began to memorialize,Trump,1,M,32,38,25,28,M

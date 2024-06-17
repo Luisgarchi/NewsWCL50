@@ -1,0 +1,188 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+2_R_0000,PROPERTY,No trustworthiness,Beware of,PRK,2,R,0,0,0,1,R
+2_R_0001,ACTOR,PRK\Kim,Kim,,2,R,0,0,10,10,R
+2_R_0002,EVENT,Kim's announcement,Kim's talk,,2,R,0,0,10,12,R
+2_R_0003,COUNTRY,PRK,North Korea,,2,R,0,0,2,3,R
+2_R_0004,ACTION,PRK nuclear missile test suspension,North Korea's nuclear and missile pledge,,2,R,0,0,2,8,R
+2_R_0005,PROPERTY,No trustworthiness,talk is cheap,Kim,2,R,0,0,12,14,R
+2_R_0006,ACTOR,PRK\Kim,Kim Jong Un,,2,R,1,1,3,5,R
+2_R_0007,ACTOR,PRK\Kim,North Korean dictator,,2,R,1,1,0,2,R
+2_R_0008,EVENT,Kim's announcement,North Korean dictator Kim Jong Un's surprise announcement,,2,R,1,1,0,8,R
+2_R_0009,COUNTRY,USA,U.S.,,2,R,1,1,33,33,R
+2_R_0010,PROPERTY,Positive,a momentous victory,USA,2,R,1,1,28,30,R
+2_R_0011,EVENT,Kim's announcement,a momentous victory for the U.S.,,2,R,1,1,28,33,R
+2_R_0012,MISC,PRK plans to close down test site,close its nuclear testing site,,2,R,1,1,21,25,R
+2_R_0013,ACTION,PRK nuclear missile test suspension,suspend tests of nuclear weapons and missiles,,2,R,1,1,13,19,R
+2_R_0014,ACTOR,PRK\Kim,Kim,,2,R,2,2,0,0,R
+2_R_0015,ACTOR,PRK\Kim,Kim,,2,R,2,2,19,19,R
+2_R_0016,EVENT,Kim's announcement,Kim's announcement,,2,R,2,2,0,2,R
+2_R_0017,ACTOR,USA\Trump,President Trump,,2,R,2,2,15,16,R
+2_R_0018,EVENT,USA PRK summit,Trump meets with Kim,,2,R,2,2,16,19,R
+2_R_0019,PROPERTY,Importance,conferring international prestige,Kim,2,R,2,2,25,27,R
+2_R_0020,COUNTRY,PRK,his impoverished nation,,2,R,2,2,43,45,R
+2_R_0021,PROPERTY,Weakness,impoverished,PRK,2,R,2,2,44,44,R
+2_R_0022,PROPERTY,No trustworthiness,ploy,Kim,2,R,2,2,12,12,R
+2_R_0023,ACTOR,PRK\Kim,the dictator,,2,R,2,2,29,30,R
+2_R_0024,PROPERTY,Economy positive,the lifting of international economic sanctions,PRK,2,R,2,2,36,41,R
+2_R_0025,ACTOR,PRK\Kim,Kim,,2,R,3,3,20,20,R
+2_R_0026,ACTOR,PRK\Kim,Kim,,2,R,3,4,2,2,R
+2_R_0027,PROPERTY,No trustworthiness,a long record of lying and breaking promises,Kim,2,R,3,4,11,18,R
+2_R_0028,PROPERTY,Aggressor,forcing,USA,2,R,3,3,19,19,R
+2_R_0029,PROPERTY,Unimportance,simply,Kim,2,R,3,4,3,3,R
+2_R_0030,EVENT,Kim's announcement,simply made a statement,,2,R,3,4,3,6,R
+2_R_0031,COUNTRY,USA,the Trump administration,,2,R,3,3,15,17,R
+2_R_0032,MISC,Denuclearization,the nuclear issue,,2,R,3,4,20,22,R
+2_R_0033,ACTOR,PRK\Kim,Kim,,2,R,4,5,1,1,R
+2_R_0034,EVENT,Kim's announcement,Kim's conciliatory words,,2,R,4,5,1,4,R
+2_R_0035,PROPERTY,Affection,conciliatory words,Denuclearization,2,R,4,5,3,4,R
+2_R_0036,PROPERTY,Unsafety,no way of knowing,PRK nuclear missile test suspension; PRK plans to close down test site; Denuclearization,2,R,4,5,11,14,R
+2_R_0037,MISC,Denuclearization,will actually do what he claims,,2,R,4,5,17,22,R
+2_R_0038,ACTION,PRK nuclear missile test suspension,will actually do what he claims,,2,R,4,5,17,22,R
+2_R_0039,MISC,PRK plans to close down test site,will actually do what he claims,,2,R,4,5,17,22,R
+2_R_0040,ACTOR,PRK\Kim,Kim,,2,R,5,6,20,20,R
+2_R_0041,ACTOR,PRK\Kim,Kim,,2,R,5,7,2,2,R
+2_R_0042,PROPERTY,No trustworthiness,a long record of lying and breaking promises,Kim,2,R,5,7,11,18,R
+2_R_0043,MISC,Denuclearization,a victory by the Trump administration for forcing Kim to back down,,2,R,5,6,12,23,R
+2_R_0044,PROPERTY,Aggressor,forcing,USA,2,R,5,6,19,19,R
+2_R_0045,PROPERTY,Unimportance,simply,Kim,2,R,5,7,3,3,R
+2_R_0046,EVENT,Kim's announcement,simply made a statement,,2,R,5,7,3,6,R
+2_R_0047,COUNTRY,USA,the Trump administration,,2,R,5,6,15,17,R
+2_R_0048,MISC,Denuclearization,the nuclear issue,,2,R,5,7,20,22,R
+2_R_0049,EVENT,Kim's announcement,victory by the Trump administration for forcing Kim to back down,,2,R,5,6,13,23,R
+2_R_0050,PROPERTY,Unsafety,All he has to do is give an order,Denuclearization,2,R,6,9,0,8,R
+2_R_0051,ACTOR,PRK\Kim,Kim,,2,R,6,8,4,4,R
+2_R_0052,COUNTRY,PRK,North Korea,,2,R,6,9,10,11,R
+2_R_0053,ACTION,PRK nuclear missile test suspension,can resume testing nuclear weapons and missiles again,,2,R,6,9,12,19,R
+2_R_0054,PROPERTY,Other,has given away absolutely nothing,Kim,2,R,6,8,5,9,R
+2_R_0055,MISC,PRK nuclear tests/capabilities,resume testing nuclear weapons and missiles,,2,R,6,9,13,18,R
+2_R_0056,ACTOR,PRK\Kim,Kim,,2,R,7,10,5,5,R
+2_R_0057,MISC,PRK nuclear tests/capabilities,his small but devastating nuclear arsenal and missiles,,2,R,7,10,13,20,R
+2_R_0058,PROPERTY,Aggressor,kill millions of people,Kim,2,R,7,11,6,9,R
+2_R_0059,MISC,Denuclearization,plans to destroy his small but devastating nuclear arsenal and missiles,,2,R,7,10,10,20,R
+2_R_0060,PROPERTY,Power,small but devastating,PRK nuclear tests/capabilities,2,R,7,10,14,16,R
+2_R_0061,PROPERTY,Good quality,small but devastating,PRK nuclear tests/capabilities,2,R,7,10,14,16,R
+2_R_0062,PROPERTY,Power,the ability to kill millions of people,Kim,2,R,7,11,3,9,R
+2_R_0063,MISC,PRK nuclear tests/capabilities,the nuclear weapons and missiles,,2,R,7,11,11,15,R
+2_R_0064,COUNTRY,JPN,Japan,,2,R,8,12,28,28,R
+2_R_0065,ACTOR,PRK\Kim,Kim,,2,R,8,12,0,0,R
+2_R_0066,COUNTRY,KOR,South Korea,,2,R,8,12,25,26,R
+2_R_0067,MISC,PRK KOR end of military conflict,a long-term détente,,2,R,8,13,28,30,R
+2_R_0068,PROPERTY,Positive,have better relations,Kim,2,R,8,12,17,19,R
+2_R_0069,PROPERTY,Positive,his best behavior,Kim,2,R,8,13,8,10,R
+2_R_0070,ACTION,PRK nuclear missile test suspension,major concessions to have better relations with the United States,,2,R,8,12,14,23,R
+2_R_0071,PROPERTY,Reason,open to a long-term détente,Kim,2,R,8,13,26,30,R
+2_R_0072,PROPERTY,Reason,rational,Kim,2,R,8,13,24,24,R
+2_R_0073,PROPERTY,Reason,reasonable,Kim,2,R,8,13,22,22,R
+2_R_0074,COUNTRY,USA,the United States,,2,R,8,12,21,23,R
+2_R_0075,COUNTRY,PRK,North Korean leaders,,2,R,9,15,11,13,R
+2_R_0076,ACTOR,KOR\Moon,South Korean President Moon Jae-in,,2,R,9,14,13,17,R
+2_R_0077,ACTOR,PRK\Kim,The North Korean leader,,2,R,9,14,0,3,R
+2_R_0078,COUNTRY,USA,U.S. and North Korean leaders,,2,R,9,15,9,13,R
+2_R_0079,PROPERTY,Importance,first-ever,USA PRK summit,2,R,9,15,6,6,R
+2_R_0080,EVENT,USA PRK summit,the first-ever meeting between U.S. and North Korean leaders,,2,R,9,15,5,13,R
+2_R_0081,ACTOR,PRK\Kim,Kim,,2,R,10,17,0,0,R
+2_R_0082,PROPERTY,Power,can hit targets in the U.S. homeland,PRK nuclear tests/capabilities,2,R,10,17,15,21,R
+2_R_0083,PROPERTY,Aggressor,hit targets,Kim,2,R,10,17,16,17,R
+2_R_0084,ACTION,PRK nuclear missile test suspension,might not need to conduct many more missile or nuclear tests,,2,R,10,17,1,11,R
+2_R_0085,PROPERTY,Power,might not need to conduct many more missile or nuclear tests,Kim,2,R,10,17,1,11,R
+2_R_0086,PROPERTY,Good quality,might not need to conduct many more missile or nuclear tests,PRK nuclear tests/capabilities,2,R,10,17,1,11,R
+2_R_0087,COUNTRY,USA,the U.S. homeland,,2,R,10,17,19,21,R
+2_R_0088,ACTOR,PRK\Kim,Kim,,2,R,11,18,0,0,R
+2_R_0089,COUNTRY,PRK,North Korea,,2,R,11,18,24,25,R
+2_R_0090,MISC,PRK nuclear tests/capabilities,a sprint of over 20 missile tests,,2,R,11,18,12,18,R
+2_R_0091,MISC,PRK nuclear tests/capabilities,tested three intercontinental ballistic missiles (ICBMs),,2,R,11,18,1,8,R
+2_R_0092,MISC,PRK nuclear tests/capabilities,the range and technological prowess to strike as far as New York City,,2,R,11,18,27,39,R
+2_R_0093,ACTOR,PRK\Kim,Kim,,2,R,12,19,3,3,R
+2_R_0094,MISC,PRK nuclear tests/capabilities,One of these bombs,,2,R,12,20,0,3,R
+2_R_0095,MISC,PRK nuclear tests/capabilities,a hydrogen bomb – the most destructive of all nuclear weapons,,2,R,12,19,6,16,R
+2_R_0096,MISC,PRK nuclear tests/capabilities,could wipe any U.S. city off the map,,2,R,12,20,4,11,R
+2_R_0097,PROPERTY,Power,could wipe any U.S. city off the map,PRK nuclear tests/capabilities,2,R,12,20,4,11,R
+2_R_0098,PROPERTY,Importance,horrific casualties,PRK nuclear tests/capabilities,2,R,12,20,14,15,R
+2_R_0099,PROPERTY,Power,most destructive of all nuclear weapons,PRK nuclear tests/capabilities,2,R,12,19,11,16,R
+2_R_0100,ACTOR,PRK\Kim,Kim,,2,R,13,21,1,1,R
+2_R_0101,MISC,PRK nuclear tests/capabilities,"a fully capable, albeit tiny, nuclear force with global reach",,2,R,13,21,8,19,R
+2_R_0102,PROPERTY,Power,having a fully capable,PRK nuclear tests/capabilities,2,R,13,21,7,10,R
+2_R_0103,MISC,PRK nuclear tests/capabilities,his warheads,,2,R,13,22,8,9,R
+2_R_0104,PROPERTY,Other,tiny,PRK nuclear tests/capabilities,2,R,13,21,13,13,R
+2_R_0105,PROPERTY,Power,with global reach,PRK nuclear tests/capabilities,2,R,13,21,17,19,R
+2_R_0106,ACTOR,PRK\Kim,Kim,,2,R,14,23,12,12,R
+2_R_0107,PROPERTY,Power,a crude capability to see his warheads survive,PRK nuclear tests/capabilities,2,R,14,23,16,23,R
+2_R_0108,MISC,PRK nuclear tests/capabilities,his warheads,,2,R,14,23,21,22,R
+2_R_0109,PROPERTY,Aggressor,rain down atomic terror,Kim,2,R,14,23,31,34,R
+2_R_0110,ACTOR,PRK\Kim,Kim,,2,R,16,25,1,1,R
+2_R_0111,MISC,PRK nuclear tests/capabilities,an ICBM,,2,R,16,25,4,5,R
+2_R_0112,MISC,PRK nuclear tests/capabilities,his nuclear weapons arsenal and missiles,,2,R,16,25,27,32,R
+2_R_0113,PROPERTY,Power,perfect even more of his nuclear weapons arsenal and missiles,Kim; PRK nuclear tests/capabilities,2,R,16,25,23,32,R
+2_R_0114,ACTOR,PRK\Kim,Kim,,2,R,17,26,0,0,R
+2_R_0115,MISC,PRK plans to close down test site,a closure of his atomic testing grounds,,2,R,17,26,6,12,R
+2_R_0116,EVENT,USA PRK summit,a meeting with the U.S. president,,2,R,17,26,27,32,R
+2_R_0117,PROPERTY,Positive,losing nothing,Kim,2,R,17,26,38,39,R
+2_R_0118,ACTION,PRK nuclear missile test suspension,suspending missile and nuclear weapons tests,,2,R,17,26,14,19,R
+2_R_0119,PROPERTY,Affection,tremendous international goodwill,Kim,2,R,17,26,23,25,R
+2_R_0120,ACTOR,PRK\Kim,Kim,,2,R,18,27,0,0,R
+2_R_0121,PROPERTY,Power,could easily start,Kim,2,R,18,27,1,3,R
+2_R_0122,PROPERTY,Power,doesn't need missiles flying all throughout Northeast Asia,Kim,2,R,18,28,2,10,R
+2_R_0123,MISC,PRK nuclear tests/capabilities,his nuclear delivery systems,,2,R,18,28,25,28,R
+2_R_0124,MISC,PRK nuclear tests/capabilities,missiles,,2,R,18,27,6,6,R
+2_R_0125,MISC,PRK nuclear tests/capabilities,missiles,,2,R,18,28,5,5,R
+2_R_0126,PROPERTY,Power,"perfect the targeting, guidance, command and control and heatshield technology",Kim; PRK nuclear tests/capabilities,2,R,18,28,12,23,R
+2_R_0127,ACTOR,PRK\Kim,Kim,,2,R,19,29,16,16,R
+2_R_0128,MISC,PRK nuclear tests/capabilities,Perfecting all these things,,2,R,19,29,0,3,R
+2_R_0129,MISC,PRK nuclear tests/capabilities,change his mind and begin missile testing again,,2,R,19,29,19,26,R
+2_R_0130,PROPERTY,Importance,have very big results,PRK nuclear tests/capabilities,2,R,19,29,5,8,R
+2_R_0131,ACTOR,PRK\Kim,Kim,,2,R,20,31,2,2,R
+2_R_0132,MISC,PRK plans to close down test site,The testing site,,2,R,20,32,0,2,R
+2_R_0133,MISC,PRK plans to close down test site,a series of carefully crafted deep underground tunnels that took time to construct,,2,R,20,32,4,16,R
+2_R_0134,PROPERTY,Good quality,carefully crafted,PRK nuclear tests/capabilities,2,R,20,32,7,8,R
+2_R_0135,MISC,PRK plans to close down test site,closes his nuclear testing area,,2,R,20,31,3,7,R
+2_R_0136,PROPERTY,Unimportance,doesn't mean he can't open it back up again,PRK plans to close down test site,2,R,20,31,8,18,R
+2_R_0137,PROPERTY,Poor quality,not a sophisticated,PRK nuclear tests/capabilities,2,R,20,32,19,21,R
+2_R_0138,MISC,PRK plans to close down test site,not a sophisticated lab,,2,R,20,32,19,22,R
+2_R_0139,MISC,PRK nuclear tests/capabilities,nuclear weapons,,2,R,20,30,4,5,R
+2_R_0140,PROPERTY,Importance,took time to construct,PRK nuclear tests/capabilities,2,R,20,32,13,16,R
+2_R_0141,ACTOR,PRK\Kim,Kim,,2,R,21,34,15,15,R
+2_R_0142,PROPERTY,No trustworthiness,setting the craftiest of traps,Kim,2,R,21,34,20,24,R
+2_R_0143,PROPERTY,Reason,setting the craftiest of traps,Kim,2,R,21,34,20,24,R
+2_R_0144,PROPERTY,No trustworthiness,suck the Trump administration into months or years of negotiations,Kim,2,R,21,34,29,38,R
+2_R_0145,PROPERTY,Aggressor,suck the Trump administration into months or years of negotiations,Kim,2,R,21,34,29,38,R
+2_R_0146,PROPERTY,Victim,suck the Trump administration into months or years of negotiations,USA,2,R,21,34,29,38,R
+2_R_0147,COUNTRY,USA,the Trump administration,,2,R,21,34,30,32,R
+2_R_0148,ACTOR,PRK\Kim,Kim,,2,R,22,35,4,4,R
+2_R_0149,COUNTRY,PRK,Kim's scientists,,2,R,22,35,4,6,R
+2_R_0150,MISC,PRK nuclear tests/capabilities,chemical and likely biological weapons as well,,2,R,22,35,27,33,R
+2_R_0151,PROPERTY,Power,deadly,PRK nuclear tests/capabilities,2,R,22,35,12,12,R
+2_R_0152,PROPERTY,Power,mass destruction,PRK nuclear tests/capabilities,2,R,22,35,17,18,R
+2_R_0153,MISC,PRK nuclear tests/capabilities,nuclear weapons,,2,R,22,35,22,23,R
+2_R_0154,MISC,PRK nuclear tests/capabilities,perfect his deadly arsenal of weapons of mass destruction,,2,R,22,35,10,18,R
+2_R_0155,MISC,PRK plans to close down test site,perfect his deadly arsenal of weapons of mass destruction,,2,R,22,35,10,18,R
+2_R_0156,ACTOR,PRK\Kim,Kim,,2,R,23,36,6,6,R
+2_R_0157,EVENT,Kim's announcement,Kim's dramatic announcement,,2,R,23,36,6,9,R
+2_R_0158,COUNTRY,USA,The Trump administration,,2,R,23,36,0,2,R
+2_R_0159,PROPERTY,No trustworthiness,make us hopeful that peace is at hand,PRK nuclear missile test suspension; PRK plans to close down test site; Denuclearization,2,R,23,36,19,26,R
+2_R_0160,PROPERTY,No trustworthiness,pull at our emotions,PRK nuclear missile test suspension; PRK plans to close down test site; Denuclearization,2,R,23,36,14,17,R
+2_R_0161,ACTOR,PRK\Kim,Kim,,2,R,24,38,2,2,R
+2_R_0162,PROPERTY,No trustworthiness,actions speak louder than words,Kim,2,R,24,37,12,16,R
+2_R_0163,ACTOR,PRK\Kim,Kim,,2,R,25,39,12,12,R
+2_R_0164,COUNTRY,PRK,North Korea,,2,R,25,39,29,31,R
+2_R_0165,COUNTRY,USA,U.S.,,2,R,25,39,29,30,R
+2_R_0166,EVENT,USA PRK summit,U.S.-North Korea summit,,2,R,25,39,29,31,R
+2_R_0167,MISC,Denuclearization,get rid of his nuclear weapons for good,,2,R,25,39,18,25,R
+2_R_0168,MISC,PRK nuclear tests/capabilities,his nuclear weapons,,2,R,25,39,21,23,R
+2_R_0169,COUNTRY,USA,the Trump administration,,2,R,25,39,3,5,R
+2_R_0170,PROPERTY,Trustworthiness,24-hour access to all parts,PRK,2,R,26,40,12,16,R
+2_R_0171,COUNTRY,PRK,North Korea,,2,R,26,40,18,19,R
+2_R_0172,COUNTRY,PRK,North Korea,,2,R,26,41,11,12,R
+2_R_0173,PROPERTY,Trustworthiness,no site off limits and no notification of access,PRK,2,R,26,40,22,30,R
+2_R_0174,COUNTRY,PRK,the North,,2,R,26,40,3,4,R
+2_R_0175,ACTOR,PRK\Kim,Kim,,2,R,27,42,17,17,R
+2_R_0176,COUNTRY,PRK,North Korea,,2,R,27,42,11,12,R
+2_R_0177,PROPERTY,Economy positive,economic sanctions lifted,PRK,2,R,27,43,16,18,R
+2_R_0178,MISC,Denuclearization,getting rid of his atomic arsenal,,2,R,27,43,8,13,R
+2_R_0179,MISC,Denuclearization,giving up his nukes,,2,R,27,42,24,27,R
+2_R_0180,PROPERTY,Good quality,measured and definable progress,Kim,2,R,27,42,19,22,R
+2_R_0181,PROPERTY,Trustworthiness,verifiable proof,Kim,2,R,27,43,3,4,R
+2_R_0182,ACTOR,PRK\Kim,Kim,,2,R,28,44,5,5,R
+2_R_0183,PROPERTY,Trustworthiness,be sincere,Kim,2,R,28,44,8,9,R
+2_R_0184,PROPERTY,Unsafety,easily reversed measures,Denuclearization,2,R,28,44,19,21,R
+2_R_0185,MISC,Denuclearization,giving up his nukes,,2,R,28,44,11,14,R
+2_R_0186,COUNTRY,USA,the Trump administration,,2,R,28,45,4,6,R

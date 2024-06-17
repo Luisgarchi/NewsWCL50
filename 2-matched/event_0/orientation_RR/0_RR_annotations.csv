@@ -1,0 +1,50 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+0_RR_0000,ACTOR,PRK\Jong Un,Kim Jong-un,,0,RR,0,0,7,8,RR
+0_RR_0001,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,RR,0,0,2,3,RR
+0_RR_0002,ACTION,Trip to PRK,Secretly Met with Kim Jong-un,,0,RR,0,0,4,8,RR
+0_RR_0003,COUNTRY,USA,CIA Director,,0,RR,1,1,0,1,RR
+0_RR_0004,ACTOR,PRK\Jong Un,Kim Jong-un,,0,RR,1,1,32,33,RR
+0_RR_0005,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,RR,1,1,2,3,RR
+0_RR_0006,COUNTRY,PRK,North Korea,,0,RR,1,1,21,22,RR
+0_RR_0007,ACTOR,PRK\Jong Un,North Korean dictator,,0,RR,1,1,29,31,RR
+0_RR_0008,ACTOR,USA\Trump,President Donald Trump,,0,RR,1,1,6,8,RR
+0_RR_0009,ACTOR,USA\Mike Pompeo,nominee to serve as Secretary of State,,0,RR,1,1,10,16,RR
+0_RR_0010,PROPERTY,Importance,secretly traveled,Trip to PRK,0,RR,1,1,18,19,RR
+0_RR_0011,ACTION,Trip to PRK,secretly traveled to North Korea,,0,RR,1,1,18,22,RR
+0_RR_0012,ACTION,Trip to PRK,to meet with North Korean dictator Kim Jong-un,,0,RR,1,1,26,33,RR
+0_RR_0013,ACTOR,USA\Mike Pompeo,Pompeo,,0,RR,2,2,0,0,RR
+0_RR_0014,ACTOR,USA\Trump,Trump,,0,RR,2,2,14,14,RR
+0_RR_0015,PROPERTY,Importance,high-level,Trip to PRK,0,RR,2,2,5,5,RR
+0_RR_0016,ACTION,Trip to PRK,made the trip for high-level talks,,0,RR,2,2,1,6,RR
+0_RR_0017,EVENT,PRK USA Summit,the planned bilateral meeting with Trump,,0,RR,2,2,9,14,RR
+0_RR_0018,COUNTRY,USA,CIA director,,0,RR,3,4,19,20,RR
+0_RR_0019,ACTOR,USA\Mike Pompeo,Pompeo,,0,RR,3,4,15,15,RR
+0_RR_0020,ACTOR-I,USA\USA-I,Rex Tillerson,,0,RR,3,4,9,10,RR
+0_RR_0021,ACTOR-I,USA\USA-I,Tillerson,,0,RR,3,4,10,10,RR
+0_RR_0022,ACTOR-I,USA\USA-I,Tillerson,,0,RR,3,5,0,0,RR
+0_RR_0023,ACTOR,USA\Trump,Trump,,0,RR,3,4,0,0,RR
+0_RR_0024,ACTOR,USA\Mike Pompeo,Pompeo,,0,RR,4,6,7,7,RR
+0_RR_0025,ACTOR-I,USA\USA-Misc,Senate Foreign Relations Committee,,0,RR,4,6,13,16,RR
+0_RR_0026,ACTOR,USA\Trump,Trump,,0,RR,4,6,28,28,RR
+0_RR_0027,COUNTRY,USA,U.S. Senators,,0,RR,4,6,9,10,RR
+0_RR_0028,PROPERTY,Confidence,optimistic,Mike Pompeo,0,RR,4,6,21,21,RR
+0_RR_0029,ACTOR,JPN\Abe,Japanese Prime Minister,,0,RR,5,7,22,24,RR
+0_RR_0030,COUNTRY,PRK,North Korea,,0,RR,5,7,17,18,RR
+0_RR_0031,ACTOR,JPN\Abe,Shinzo Abe,,0,RR,5,7,25,26,RR
+0_RR_0032,ACTOR,USA\Trump,The president,,0,RR,5,7,0,1,RR
+0_RR_0033,EVENT,JPN USA Meeting,hosting Japanese Prime Minister,,0,RR,5,7,21,24,RR
+0_RR_0034,PROPERTY,Importance,very high levels,Trip to PRK,0,RR,5,7,8,10,RR
+0_RR_0035,ACTION,Trip to PRK,"""direct talks at very high levels""",,0,RR,5,7,4,11,RR
+0_RR_0036,COUNTRY,USA,White House,,0,RR,6,8,8,9,RR
+0_RR_0037,COUNTRY,PRK,North Korea,,0,RR,7,9,9,10,RR
+0_RR_0038,ACTOR,USA\Trump,Trump,,0,RR,7,9,0,0,RR
+0_RR_0039,ACTION,Trip to PRK,a successful negotiation with North Korea,,0,RR,7,9,5,10,RR
+0_RR_0040,PROPERTY,Difficulty,could be canceled at any time,PRK USA Summit,0,RR,7,9,18,23,RR
+0_RR_0041,PROPERTY,Power,eager to conclude,Trump,0,RR,7,9,2,4,RR
+0_RR_0042,EVENT,PRK USA Summit,the meeting could be canceled at any time,,0,RR,7,9,16,23,RR
+0_RR_0043,COUNTRY,JPN,Japan,,0,RR,8,12,6,6,RR
+0_RR_0044,COUNTRY,USA,United States,,0,RR,8,11,8,9,RR
+0_RR_0045,EVENT,PRK USA Summit,a great chance to solve a world problem,,0,RR,8,10,3,10,RR
+0_RR_0046,MISC,Denuclearization,a problem for the world,,0,RR,8,13,2,6,RR
+0_RR_0047,PROPERTY,Importance,a problem for the world,Denuclearization,0,RR,8,13,2,6,RR
+0_RR_0048,PROPERTY,Importance,chance to solve a world problem,PRK USA Summit,0,RR,8,10,5,10,RR

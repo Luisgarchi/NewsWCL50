@@ -1,0 +1,55 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+1_RR_0000,ACTOR,USA\Comey,Comey,,1,RR,0,0,3,3,RR
+1_RR_0001,OBJECT,Comey Memos,Comey memos,,1,RR,0,0,3,4,RR
+1_RR_0002,ACTOR,USA\Trump,Donald Trump,,1,RR,0,0,0,1,RR
+1_RR_0003,OBJECT,Comey Memos,classified information,,1,RR,0,0,9,10,RR
+1_RR_0004,PROPERTY,No trustworthiness,leaked classified information,Comey,1,RR,0,0,8,10,RR
+1_RR_0005,ACTOR,USA\Trump,President Donald Trump,,1,RR,1,1,0,2,RR
+1_RR_0006,OBJECT,Comey Memos,classified information,,1,RR,1,1,25,26,RR
+1_RR_0007,ACTOR,USA\Comey,former FBI director James Comey,,1,RR,1,1,12,16,RR
+1_RR_0008,PROPERTY,No trustworthiness,leaked classified information,Comey,1,RR,1,1,24,26,RR
+1_RR_0009,OBJECT,Comey Memos,the memos,,1,RR,1,1,9,10,RR
+1_RR_0010,ACTOR,USA\Comey,James Comey,,1,RR,2,2,1,2,RR
+1_RR_0011,OBJECT,Comey Memos,James Comey Memos,,1,RR,2,2,1,3,RR
+1_RR_0012,ACTOR,USA\Trump,Trump,,1,RR,2,2,19,19,RR
+1_RR_0013,OBJECT,Comey Memos,Witch Hunt,,1,RR,2,5,2,3,RR
+1_RR_0014,OBJECT,Comey Memos,classified information,,1,RR,2,3,5,6,RR
+1_RR_0015,ACTOR,USA\Comey,Comey,,1,RR,3,6,4,4,RR
+1_RR_0016,OBJECT,Comey Memos,Comey's memos,,1,RR,3,6,4,6,RR
+1_RR_0017,COUNTRY,USA,Republican Congressional intelligence officials,,1,RR,3,6,22,25,RR
+1_RR_0018,ACTOR,USA\Comey,the former FBI director,,1,RR,3,6,12,15,RR
+1_RR_0019,ACTOR,USA\Comey,Former Director Comey,,1,RR,4,7,1,3,RR
+1_RR_0020,ACTOR-I,USA\USA-I,House Intelligence Chairman Devin Nunes,,1,RR,4,7,32,36,RR
+1_RR_0021,ACTOR-I,USA\USA-I,House Judiciary Chairman Bob Goodlatte,,1,RR,4,7,19,23,RR
+1_RR_0022,ACTOR-I,USA\USA-I,House Oversight Chairman Trey Gowdy,,1,RR,4,7,25,29,RR
+1_RR_0023,PROPERTY,Confidence,a joint statement,USA-I,1,RR,4,7,15,17,RR
+1_RR_0024,ACTOR,USA\Comey,former Director Comey,,1,RR,4,8,2,4,RR
+1_RR_0025,PROPERTY,Poor quality,never once mentioned the most relevant fact of all,Comey,1,RR,4,8,34,42,RR
+1_RR_0026,PROPERTY,Safety,never wrote that he felt obstructed or threatened,Comey,1,RR,4,7,4,11,RR
+1_RR_0027,OBJECT,Comey Memos,the memos,,1,RR,4,7,42,43,RR
+1_RR_0028,ACTOR,USA\Comey,Comey,,1,RR,5,9,17,17,RR
+1_RR_0029,ACTOR-I,USA\USA-I,a private citizen,,1,RR,5,9,22,24,RR
+1_RR_0030,OBJECT,Comey Memos,classified information,,1,RR,5,9,19,20,RR
+1_RR_0031,COUNTRY,RUS,special prosecutor of the Russian investigation,,1,RR,5,9,31,36,RR
+1_RR_0032,EVENT,Comey Memos\Russian Investigation,the Russian investigation,,1,RR,5,9,34,36,RR
+1_RR_0033,OBJECT,Comey Memos,the memos,,1,RR,5,9,1,2,RR
+1_RR_0034,ACTOR,USA\Comey,Comey,,1,RR,6,10,5,5,RR
+1_RR_0035,ACTOR-I,USA\USA-Misc,Democrats,,1,RR,6,10,32,32,RR
+1_RR_0036,COUNTRY,USA,Republican officials,,1,RR,6,10,1,2,RR
+1_RR_0037,ACTOR,USA\Trump,Trump,,1,RR,6,10,7,7,RR
+1_RR_0038,ACTOR,USA\Trump,Trump,,1,RR,6,10,21,21,RR
+1_RR_0039,PROPERTY,Good quality,detailed,Comey Memos,1,RR,6,10,15,15,RR
+1_RR_0040,OBJECT,Comey Memos,detailed memos,,1,RR,6,10,15,16,RR
+1_RR_0041,PROPERTY,Poor quality,failing,Comey,1,RR,6,10,24,24,RR
+1_RR_0042,PROPERTY,Importance,held Trump to a different standard,Trump,1,RR,6,10,6,11,RR
+1_RR_0043,MISC,Comey Memos\Interactions with Trump,his conversations with Trump,,1,RR,6,10,18,21,RR
+1_RR_0044,COUNTRY,USA,Attorney General,,1,RR,7,11,49,50,RR
+1_RR_0045,ACTOR-I,USA\USA-I,Attorney General Loretta Lynch,,1,RR,7,11,49,52,RR
+1_RR_0046,COUNTRY,USA,Department of Justice,,1,RR,7,11,45,47,RR
+1_RR_0047,ACTOR,USA\Comey,Former Director Comey,,1,RR,7,11,1,3,RR
+1_RR_0048,COUNTRY,USA,Loretta Lynch,,1,RR,7,11,51,52,RR
+1_RR_0049,COUNTRY,USA,Special Counsel,,1,RR,7,11,20,21,RR
+1_RR_0050,COUNTRY,USA,Special Counsel,,1,RR,7,11,33,34,RR
+1_RR_0051,PROPERTY,Power,spurring the appointment,Comey,1,RR,7,11,16,18,RR
+1_RR_0052,OBJECT,Comey Memos,these memos,,1,RR,7,11,9,10,RR
+1_RR_0053,PROPERTY,Weakness,took no steps,Comey,1,RR,7,11,25,27,RR

@@ -1,0 +1,256 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+8_R_0000,ACTOR,USA\Mueller,Mueller,,8,R,0,0,0,0,R
+8_R_0001,COUNTRY,RUS,Russia,,8,R,0,0,2,2,R
+8_R_0002,EVENT,RUS meddling investigation,Russia investigation,,8,R,0,0,2,3,R
+8_R_0003,EVENT,RUS meddling,Russian involvement,,8,R,1,1,3,4,R
+8_R_0004,ACTOR,USA\Mueller,Special Counsel Robert Mueller,,8,R,1,1,13,16,R
+8_R_0005,EVENT,RUS meddling investigation,The investigation,,8,R,1,1,0,1,R
+8_R_0006,PROPERTY,Power,at its helm,Mueller,8,R,1,1,17,19,R
+8_R_0007,ACTOR,USA\Mueller,Mueller,,8,R,2,2,0,0,R
+8_R_0008,ACTOR,USA\Trump,President Trump,,8,R,2,2,15,16,R
+8_R_0009,COUNTRY,RUS,Russian officials,,8,R,2,2,20,21,R
+8_R_0010,PROPERTY,Other,alleged,RUS meddling,8,R,2,2,12,12,R
+8_R_0011,EVENT,RUS meddling,alleged collusion between President Trump's campaign and Russian officials,,8,R,2,2,12,21,R
+8_R_0012,COUNTRY,USA,four Trump campaign associates,,8,R,2,3,9,12,R
+8_R_0013,PROPERTY,Good quality,has led to charges for four Trump campaign associates,RUS meddling investigation,8,R,2,3,4,12,R
+8_R_0014,EVENT,RUS meddling investigation,his investigation,,8,R,2,3,2,3,R
+8_R_0015,OBJECT,Inquieries for Trump,the charges,,8,R,2,3,17,18,R
+8_R_0016,COUNTRY,USA,the federal government,,8,R,2,2,6,8,R
+8_R_0017,EVENT,RUS meddling investigation,the federal government's probe,,8,R,2,2,6,10,R
+8_R_0018,ACTOR,USA\Trump,the president,,8,R,2,3,26,27,R
+8_R_0019,PROPERTY,Power,took over,Mueller,8,R,2,2,4,5,R
+8_R_0020,ACTOR,USA\Mueller,Mueller,,8,R,3,4,14,14,R
+8_R_0021,EVENT,RUS meddling investigation,Mueller's investigations,,8,R,3,4,14,16,R
+8_R_0022,COUNTRY,RUS,Russians,,8,R,3,4,26,26,R
+8_R_0023,ACTOR,USA\Trump,Trump,,8,R,3,4,0,0,R
+8_R_0024,EVENT,RUS meddling,"collusion"" with Russians",,8,R,3,4,23,26,R
+8_R_0025,PROPERTY,Confidence,expressed willingness to testify under oath,Trump,8,R,3,4,5,10,R
+8_R_0026,PROPERTY,Importance,"has repeatedly denied any ""collusion""",RUS meddling investigation,8,R,3,4,18,24,R
+8_R_0027,ACTOR,USA\Mueller,Mueller,,8,R,4,5,2,2,R
+8_R_0028,PROPERTY,Power,overseeing,Mueller,8,R,4,5,3,3,R
+8_R_0029,EVENT,RUS meddling investigation,the Russia investigation,,8,R,4,5,4,6,R
+8_R_0030,ACTOR,USA\Mueller,Mueller,,8,R,5,6,8,8,R
+8_R_0031,COUNTRY,RUS,Russia,,8,R,5,6,15,15,R
+8_R_0032,EVENT,RUS meddling,Russia's alleged meddling,,8,R,5,6,15,18,R
+8_R_0033,COUNTRY,USA,The Department of Justice,,8,R,5,6,0,3,R
+8_R_0034,PROPERTY,Other,alleged,RUS meddling,8,R,5,6,17,17,R
+8_R_0035,PROPERTY,Power,oversee,Mueller,8,R,5,6,10,10,R
+8_R_0036,EVENT,RUS meddling investigation,the federal investigation,,8,R,5,6,11,13,R
+8_R_0037,COUNTRY,USA,Attorney General Jeff Sessions,,8,R,6,8,0,3,R
+8_R_0038,ACTOR-I,USA\USA-Misc,Democrats,,8,R,6,7,10,10,R
+8_R_0039,PROPERTY,Power,a growing cry,USA-Misc,8,R,6,7,4,6,R
+8_R_0040,COUNTRY,USA,the Justice Department,,8,R,6,7,15,17,R
+8_R_0041,EVENT,RUS meddling investigation,the investigation,,8,R,6,8,9,10,R
+8_R_0042,EVENT,RUS meddling investigation,the probe,,8,R,6,7,20,21,R
+8_R_0043,ACTOR,USA\Mueller,Mueller,,8,R,7,9,0,0,R
+8_R_0044,PROPERTY,Power,led the FBI through,Mueller,8,R,7,9,1,4,R
+8_R_0045,COUNTRY,USA,presidential administrations,,8,R,7,9,16,17,R
+8_R_0046,COUNTRY,USA,the FBI,,8,R,7,9,2,3,R
+8_R_0047,ACTOR,USA\Mueller,Mueller,,8,R,8,10,8,8,R
+8_R_0048,ACTOR,USA\Trump,Trump,,8,R,8,10,30,30,R
+8_R_0049,EVENT,RUS meddling,colluded with the Kremlin,,8,R,8,10,34,37,R
+8_R_0050,PROPERTY,Power,has the authority,Mueller,8,R,8,10,9,11,R
+8_R_0051,COUNTRY,USA,his associates,,8,R,8,10,32,33,R
+8_R_0052,PROPERTY,Power,prosecute any crimes,Mueller,8,R,8,10,13,15,R
+8_R_0053,COUNTRY,RUS,the Kremlin,,8,R,8,10,36,37,R
+8_R_0054,OBJECT,Inquieries for Trump,the inquiry,,8,R,8,10,1,2,R
+8_R_0055,EVENT,RUS meddling investigation,this investigation,,8,R,8,10,18,19,R
+8_R_0056,PROPERTY,Power,was given wide authority to investigate,Mueller,8,R,8,10,23,28,R
+8_R_0057,ACTOR,USA\Mueller,Mueller,,8,R,10,12,5,5,R
+8_R_0058,ACTOR-I,USA\USA-I,Paul Manafort,,8,R,10,12,12,13,R
+8_R_0059,ACTOR-I,USA\USA-I,Gates,,8,R,11,13,10,10,R
+8_R_0060,ACTOR-I,USA\USA-I,Gates,,8,R,11,14,2,2,R
+8_R_0061,ACTOR-I,USA\USA-I,Manafort,,8,R,11,13,0,0,R
+8_R_0062,ACTOR-I,USA\USA-I,Manafort,,8,R,11,14,0,0,R
+8_R_0063,ACTOR-I,USA\USA-I,Richard Gates,,8,R,11,13,9,10,R
+8_R_0064,ACTOR,USA\Trump,Trump,,8,R,11,13,2,2,R
+8_R_0065,ACTOR-I,USA\USA-I,Trump's former campaign chairman,,8,R,11,13,2,6,R
+8_R_0066,PROPERTY,Unlawfulness,conspiracy against the U.S.,USA-I,8,R,11,13,22,25,R
+8_R_0067,PROPERTY,Unlawfulness,conspiracy to launder money,USA-I,8,R,11,13,27,30,R
+8_R_0068,PROPERTY,Unlawfulness,failure to file reports of foreign bank and financial accounts,USA-I,8,R,11,13,35,44,R
+8_R_0069,PROPERTY,No trustworthiness,false statements,USA-I,8,R,11,13,32,33,R
+8_R_0070,PROPERTY,No trustworthiness,initially pleaded not guilty,USA-I,8,R,11,14,3,6,R
+8_R_0071,PROPERTY,Unlawfulness,"were indicted on Oct. 27, 2017 on multiple counts",USA-I,8,R,11,13,11,18,R
+8_R_0072,ACTOR-I,USA\USA-I,Manafort,,8,R,12,15,26,26,R
+8_R_0073,PROPERTY,Unlawfulness,laundering through offshore accounts,USA-I,8,R,12,15,30,33,R
+8_R_0074,ACTOR-I,USA\USA-I,the pair,,8,R,12,15,9,10,R
+8_R_0075,PROPERTY,Victim,was hit with,USA-I,8,R,12,15,11,13,R
+8_R_0076,ACTOR-I,USA\USA-I,Gates,,8,R,13,16,0,0,R
+8_R_0077,ACTOR-I,USA\USA-I,Gates,,8,R,13,17,16,16,R
+8_R_0078,ACTOR,USA\Mueller,Mueller,,8,R,13,17,4,4,R
+8_R_0079,ACTOR,USA\Mueller,Mueller,,8,R,13,17,33,33,R
+8_R_0080,GROUP,USA\Mueller\Investigators,Mueller's team,,8,R,13,17,33,35,R
+8_R_0081,PROPERTY,Trustworthiness,cooperating and providing good information,USA-I,8,R,13,17,27,31,R
+8_R_0082,PROPERTY,No trustworthiness,false-statements,USA-I,8,R,13,16,7,7,R
+8_R_0083,PROPERTY,Unlawfulness,federal conspiracy,USA-I,8,R,13,16,4,5,R
+8_R_0084,PROPERTY,Trustworthiness,pleaded guilty,USA-I,8,R,13,16,1,2,R
+8_R_0085,PROPERTY,Other,possibly suggesting,Mueller,8,R,13,17,18,19,R
+8_R_0086,ACTOR-I,USA\USA-I,the former Trump campaign official,USA-I,8,R,13,17,21,25,R
+8_R_0087,ACTOR-I,USA\USA-I,Manafort,,8,R,14,18,3,3,R
+8_R_0088,ACTOR-I,USA\USA-I,Manafort,,8,R,14,19,0,0,R
+8_R_0089,ACTOR,USA\Mueller,Mueller,,8,R,14,18,0,0,R
+8_R_0090,PROPERTY,Aggressor,accused,Mueller,8,R,14,18,2,2,R
+8_R_0091,PROPERTY,Victim,accused,USA-I,8,R,14,18,2,2,R
+8_R_0092,PROPERTY,No trustworthiness,continued to maintain his innocence,USA-I,8,R,14,19,2,6,R
+8_R_0093,PROPERTY,No trustworthiness,pleading not guilty,USA-I,8,R,14,19,8,10,R
+8_R_0094,PROPERTY,No trustworthiness,secretly paying former European politicians to lobby,USA-I,8,R,14,18,5,11,R
+8_R_0095,COUNTRY,RUS,a Russian ambassador,,8,R,15,20,26,28,R
+8_R_0096,PROPERTY,No trustworthiness,lying to the FBI,USA-I,8,R,15,20,16,19,R
+8_R_0097,PROPERTY,Trustworthiness,pleaded guilty,USA-I,8,R,15,21,1,2,R
+8_R_0098,PROPERTY,Unimportance,short-lived,USA-I,8,R,15,20,6,6,R
+8_R_0099,COUNTRY,USA,the FBI,,8,R,15,20,18,19,R
+8_R_0100,COUNTRY,USA,the administration,,8,R,15,20,3,4,R
+8_R_0101,PROPERTY,Victim,was charged in December,USA-I,8,R,15,20,11,14,R
+8_R_0102,ACTOR-I,USA\USA-I,Papadopoulos,,8,R,16,22,3,3,R
+8_R_0103,ACTOR-I,USA\USA-I,Papadopoulos,,8,R,16,23,0,0,R
+8_R_0104,ACTOR,USA\Trump,Trump,,8,R,16,23,7,7,R
+8_R_0105,ACTOR-I,USA\USA-I,a foreign policy adviser,,8,R,16,23,2,5,R
+8_R_0106,COUNTRY,USA,investigating FBI agents,,8,R,16,22,16,18,R
+8_R_0107,PROPERTY,No trustworthiness,making false statements,USA-I,8,R,16,22,12,14,R
+8_R_0108,PROPERTY,Trustworthiness,pleaded guilty,USA-I,8,R,16,22,4,5,R
+8_R_0109,ACTOR-I,USA\USA-I,Alex van der Zwaan,,8,R,17,24,0,3,R
+8_R_0110,ACTOR-I,USA\USA-I,Gates,,8,R,17,24,15,15,R
+8_R_0111,COUNTRY,RUS,Russia,,8,R,17,24,18,18,R
+8_R_0112,ACTOR-I,USA\USA-I,an attorney,,8,R,17,24,5,6,R
+8_R_0113,GROUP,USA\Mueller\Investigators,investigators,,8,R,17,24,13,13,R
+8_R_0114,PROPERTY,No trustworthiness,lying to investigators,USA-I,8,R,17,24,11,13,R
+8_R_0115,PROPERTY,Trustworthiness,pleaded guilty,USA-I,8,R,17,24,8,9,R
+8_R_0116,OBJECT,Inquieries for Trump,the Russia inquiry,,8,R,17,24,17,19,R
+8_R_0117,EVENT,RUS meddling investigation,the investigation,,8,R,17,25,21,22,R
+8_R_0118,PROPERTY,Victim,was sentenced to 30 days in prison,USA-I,8,R,17,25,5,11,R
+8_R_0119,ACTOR-I,USA\USA-I,Pinedo,,8,R,18,26,1,1,R
+8_R_0120,ACTOR-I,USA\USA-I,Pinedo,,8,R,18,27,4,4,R
+8_R_0121,ACTOR-I,USA\USA-I,Richard Pinedo,,8,R,18,26,0,1,R
+8_R_0122,COUNTRY,RUS,Russians,,8,R,18,26,11,11,R
+8_R_0123,COUNTRY,RUS,Russians,,8,R,18,27,12,12,R
+8_R_0124,COUNTRY,USA,The U.S. government,,8,R,18,27,0,2,R
+8_R_0125,ACTOR-I,USA\USA-I,a California man,,8,R,18,26,3,5,R
+8_R_0126,PROPERTY,Trustworthiness,pleaded guilty,USA-I,8,R,18,26,17,18,R
+8_R_0127,PROPERTY,Unlawfulness,using stolen identities,USA-I,8,R,18,26,23,25,R
+8_R_0128,PROPERTY,Positive,was not aware,USA-I,8,R,18,27,5,7,R
+8_R_0129,ACTOR-I,RUS\RUS-I,13 Russian nationals,,8,R,19,28,4,6,R
+8_R_0130,ACTOR,USA\Mueller,Mueller,,8,R,19,29,0,0,R
+8_R_0131,COUNTRY,RUS,Russian entities,,8,R,19,28,1,2,R
+8_R_0132,PROPERTY,Other,alleged,Mueller; RUS; RUS-I,8,R,19,29,3,3,R
+8_R_0133,PROPERTY,Other,allegedly,RUS; RUS-I,8,R,19,28,18,18,R
+8_R_0134,PROPERTY,No trustworthiness,a sophisticated plot,RUS; RUS-I,8,R,19,29,7,9,R
+8_R_0135,EVENT,RUS meddling,interfering in the election,,8,R,19,28,19,22,R
+8_R_0136,PROPERTY,Reason,sophisticated,RUS; RUS-I,8,R,19,29,8,8,R
+8_R_0137,COUNTRY,USA,the U.S.,,8,R,19,29,17,18,R
+8_R_0138,COUNTRY,RUS,those involved,,8,R,19,29,4,5,R
+8_R_0139,ACTOR-I,RUS\RUS-I,those involved,,8,R,19,29,4,5,R
+8_R_0140,PROPERTY,Aggressor,"wage ""information warfare""",USA; USA-I,8,R,19,29,11,15,R
+8_R_0141,PROPERTY,Victim,were indicted by a federal grand jury,RUS; RUS-I,8,R,19,28,7,13,R
+8_R_0142,ACTOR-I,USA\USA-I,Deputy Attorney Gen.,,8,R,20,31,0,2,R
+8_R_0143,ACTOR-I,USA\USA-I,Rod Rosenstein,,8,R,20,31,3,4,R
+8_R_0144,PROPERTY,Unlawfulness,a knowing participant,USA,8,R,20,31,19,21,R
+8_R_0145,PROPERTY,Aggressor,a knowing participant,USA,8,R,20,31,19,21,R
+8_R_0146,COUNTRY,USA,any American,,8,R,20,31,16,17,R
+8_R_0147,PROPERTY,Other,did not say the actions had an impact,USA,8,R,20,30,5,12,R
+8_R_0148,PROPERTY,Unlawfulness,illegal,RUS meddling,8,R,20,31,24,24,R
+8_R_0149,PROPERTY,Other,no allegation in this indictment,Inquieries for Trump,8,R,20,31,10,14,R
+8_R_0150,COUNTRY,USA,the Justice Department,,8,R,20,30,2,4,R
+8_R_0151,EVENT,RUS meddling,the actions,,8,R,20,30,8,9,R
+8_R_0152,EVENT,RUS meddling,this illegal activity,,8,R,20,31,23,25,R
+8_R_0153,OBJECT,Inquieries for Trump,this indictment,,8,R,20,31,13,14,R
+8_R_0154,ACTOR,USA\Trump,Trump,,8,R,21,32,1,1,R
+8_R_0155,ACTOR,USA\Mueller,Mueller,,8,R,22,33,7,7,R
+8_R_0156,ACTOR,USA\Trump,The president,,8,R,22,33,0,1,R
+8_R_0157,COUNTRY,USA,his team,,8,R,22,33,9,10,R
+8_R_0158,ACTOR-I,USA\USA-I,Andrew McCabe,,8,R,23,35,20,21,R
+8_R_0159,ACTOR-I,USA\USA-I,"Donald Trump, Jr.",,8,R,23,35,39,42,R
+8_R_0160,ACTOR-I,USA\USA-I,Flynn,,8,R,23,35,6,6,R
+8_R_0161,ACTOR-I,USA\USA-I,James Comey,,8,R,23,35,13,14,R
+8_R_0162,ACTOR-I,USA\USA-I,Manafort,,8,R,23,35,37,37,R
+8_R_0163,ACTOR,USA\Mueller,Mueller,,8,R,23,34,9,9,R
+8_R_0164,ACTOR-I,RUS\RUS-I,Natalia Veselnitskaya,,8,R,23,35,52,53,R
+8_R_0165,COUNTRY,RUS,Russia,,8,R,23,35,28,28,R
+8_R_0166,ACTOR-I,RUS\RUS-I,Russian lawyer,,8,R,23,35,50,51,R
+8_R_0167,ACTOR-I,USA\USA-I,Sessions,,8,R,23,35,8,8,R
+8_R_0168,OBJECT,Inquieries for Trump,The questions,,8,R,23,35,0,1,R
+8_R_0169,ACTOR,USA\Trump,Trump,,8,R,23,34,13,13,R
+8_R_0170,ACTOR,USA\Trump,Trump,,8,R,23,35,33,33,R
+8_R_0171,ACTOR,USA\Trump,Trump,,8,R,23,35,40,40,R
+8_R_0172,GROUP,Trumps Lawyers,Trump's lawyers,,8,R,23,34,13,15,R
+8_R_0173,ACTOR-I,USA\USA-I,fired FBI Director,,8,R,23,35,10,12,R
+8_R_0174,ACTOR-I,USA\USA-I,former deputy FBI director,,8,R,23,35,16,19,R
+8_R_0175,PROPERTY,Power,has provided,Mueller,8,R,23,34,10,11,R
+8_R_0176,OBJECT,Inquieries for Trump,questions,,8,R,23,34,8,8,R
+8_R_0177,OBJECT,Inquieries for Trump,questions,,8,R,23,35,1,1,R
+8_R_0178,ACTOR,USA\Trump,the president,,8,R,23,34,19,20,R
+8_R_0179,ACTOR,USA\Trump,the president,,8,R,23,35,44,45,R
+8_R_0180,ACTOR-I,USA\USA-I,the president,,8,R,23,34,19,20,R
+8_R_0181,ACTOR-I,USA\USA-I,the president,,8,R,23,35,44,45,R
+8_R_0182,EVENT,RUS meddling,Collusion,,8,R,24,37,3,3,R
+8_R_0183,EVENT,RUS meddling,Collusion,,8,R,24,38,15,15,R
+8_R_0184,ACTOR,USA\Trump,Trump,,8,R,24,37,6,6,R
+8_R_0185,PROPERTY,Unreason,Witch Hunt,RUS meddling investigation,8,R,24,36,9,10,R
+8_R_0186,PROPERTY,No trustworthiness,a made up,Mueller,8,R,24,38,8,10,R
+8_R_0187,EVENT,RUS meddling,"a made up, phony crime",,8,R,24,38,8,13,R
+8_R_0188,EVENT,RUS meddling investigation,an investigation,,8,R,24,38,22,23,R
+8_R_0189,PROPERTY,Unreason,disgraceful,Mueller,8,R,24,36,2,2,R
+8_R_0190,PROPERTY,Unlawfulness,illegally leaked classified information,RUS meddling investigation,8,R,24,38,26,29,R
+8_R_0191,PROPERTY,No trustworthiness,phony,Mueller,8,R,24,38,12,12,R
+8_R_0192,PROPERTY,Unimportance,that never existed,RUS meddling,8,R,24,38,17,19,R
+8_R_0193,EVENT,RUS meddling investigation,the Russian Witch Hunt,,8,R,24,36,7,10,R
+8_R_0194,OBJECT,Inquieries for Trump,the questions,,8,R,24,36,4,5,R
+8_R_0195,GROUP,USA\Mueller\Investigators,Mueller's staff,,8,R,25,40,10,12,R
+8_R_0196,PROPERTY,Difficulty,controversy with,USA,8,R,25,40,8,9,R
+8_R_0197,ACTOR-I,USA\USA-Misc,Democratic campaigns,,8,R,26,41,19,20,R
+8_R_0198,ACTOR-I,USA\USA-Misc,Hillary Clinton,,8,R,26,41,29,30,R
+8_R_0199,ACTOR,USA\Mueller,Mueller,,8,R,26,41,6,6,R
+8_R_0200,EVENT,RUS meddling investigation,Mueller's investigation,,8,R,26,41,6,8,R
+8_R_0201,COUNTRY,USA,The Trump administration,,8,R,26,41,0,2,R
+8_R_0202,ACTOR,USA\Trump,Trump,,8,R,26,41,1,1,R
+8_R_0203,ACTOR,USA\Trump,Trump,,8,R,26,41,24,24,R
+8_R_0204,ACTOR-I,USA\USA-Misc,Trump's 2016 rival,,8,R,26,41,24,27,R
+8_R_0205,ACTOR-I,USA\USA-I,several of his attorneys,,8,R,26,41,11,14,R
+8_R_0206,PROPERTY,Aggressor,sharply criticized,Mueller; RUS meddling investigation,8,R,26,41,4,5,R
+8_R_0207,ACTOR-I,USA\USA-I,Lisa Page,,8,R,27,42,9,10,R
+8_R_0208,ACTOR-I,USA\USA-I,Mueller,,8,R,27,43,4,4,R
+8_R_0209,GROUP,USA\Mueller\Investigators,Mueller's team,,8,R,27,43,4,6,R
+8_R_0210,ACTOR-I,USA\USA-I,Peter Strzok,,8,R,27,42,6,7,R
+8_R_0211,ACTOR-I,USA\USA-I,Strzok,,8,R,27,42,7,7,R
+8_R_0212,ACTOR-I,USA\USA-I,Strzok,,8,R,27,43,0,0,R
+8_R_0213,PROPERTY,Victim,are under fire,USA-I,8,R,27,42,12,14,R
+8_R_0214,ACTOR-I,USA\USA-I,two FBI officials,,8,R,27,42,2,4,R
+8_R_0215,PROPERTY,Negative,was removed,USA-I,8,R,27,43,8,9,R
+8_R_0216,ACTOR,USA\Mueller,Mueller,,8,R,28,44,5,5,R
+8_R_0217,EVENT,RUS meddling investigation,Mueller's investigation,,8,R,28,44,5,7,R
+8_R_0218,ACTOR,USA\Trump,Trump,,8,R,28,44,2,2,R
+8_R_0219,ACTOR,USA\Mueller,Mueller,,8,R,29,46,15,15,R
+8_R_0220,COUNTRY,RUS,Russia,,8,R,29,45,10,10,R
+8_R_0221,ACTOR,USA\Trump,Trump,,8,R,29,45,0,0,R
+8_R_0222,OBJECT,Inquieries for Trump,being questioned under oath,,8,R,29,46,10,13,R
+8_R_0223,EVENT,RUS meddling,colluded with Russia,,8,R,29,45,8,10,R
+8_R_0224,PROPERTY,Affection,looking forward,Inquieries for Trump,8,R,29,46,5,6,R
+8_R_0225,PROPERTY,Refusal,oftentimes dismissed,RUS meddling investigation,8,R,29,45,2,3,R
+8_R_0226,EVENT,RUS meddling investigation,the allegations,,8,R,29,45,4,5,R
+8_R_0227,PROPERTY,Unreason,demeaning,RUS meddling investigation,8,R,30,47,12,12,R
+8_R_0228,PROPERTY,Unreason,demeaning,RUS meddling investigation,8,R,30,47,21,21,R
+8_R_0229,PROPERTY,Unreason,demeaning,RUS meddling investigation,8,R,30,47,26,26,R
+8_R_0230,PROPERTY,Dishonor,demeaning to our country,RUS meddling investigation,8,R,30,47,21,24,R
+8_R_0231,PROPERTY,No trustworthiness,fake story,RUS meddling investigation,8,R,30,47,8,9,R
+8_R_0232,COUNTRY,USA,our Constitution,,8,R,30,47,28,29,R
+8_R_0233,COUNTRY,USA,our country,,8,R,30,47,23,24,R
+8_R_0234,EVENT,RUS meddling investigation,the allegations,,8,R,30,47,3,4,R
+8_R_0235,ACTOR,USA\Trump,Trump,,8,R,31,48,43,43,R
+8_R_0236,COUNTRY,USA,all Americans,,8,R,31,48,31,32,R
+8_R_0237,PROPERTY,Positive,deserve,USA,8,R,31,48,28,28,R
+8_R_0238,PROPERTY,Positive,deserve,USA,8,R,31,48,40,40,R
+8_R_0239,COUNTRY,USA,millions of people who gave us our big win,,8,R,31,48,17,25,R
+8_R_0240,EVENT,RUS meddling investigation,the final determination,,8,R,31,48,4,6,R
+8_R_0241,PROPERTY,Fairness,truly honest,RUS meddling investigation,8,R,31,48,9,10,R
+8_R_0242,PROPERTY,Power,want a better future,USA,8,R,31,48,34,37,R
+8_R_0243,ACTOR,USA\Mueller,Mueller,,8,R,32,49,4,4,R
+8_R_0244,ACTOR,USA\Trump,The president,,8,R,32,49,0,1,R
+8_R_0245,PROPERTY,Fairness,stay within certain boundaries,Mueller,8,R,32,49,6,9,R
+8_R_0246,ACTOR-I,USA\USA-I,A spokesman,,8,R,33,51,0,1,R
+8_R_0247,ACTOR,USA\Mueller,Mueller,,8,R,33,50,2,2,R
+8_R_0248,ACTOR,USA\Mueller,Mueller,,8,R,33,51,3,3,R
+8_R_0249,ACTOR-I,USA\USA-I,Mueller,,8,R,33,50,2,2,R
+8_R_0250,ACTOR-I,USA\USA-I,Mueller,,8,R,33,51,3,3,R
+8_R_0251,ACTOR,USA\Trump,Trump,,8,R,33,50,0,0,R
+8_R_0252,ACTOR,USA\Trump,Trump,,8,R,33,50,14,14,R
+8_R_0253,COUNTRY,USA,Trump's outside counsel,,8,R,33,50,14,17,R
+8_R_0254,PROPERTY,Reason,very professional,Trump; Mueller,8,R,33,51,13,14,R

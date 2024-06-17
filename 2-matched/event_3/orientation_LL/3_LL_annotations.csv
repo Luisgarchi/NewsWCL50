@@ -1,0 +1,220 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+3_LL_0000,EVENT,USA election 2016,2016 election,,3,LL,0,0,10,11,LL
+3_LL_0001,GROUP,USA\Democrats,Democrats,,3,LL,0,0,0,0,LL
+3_LL_0002,COUNTRY,RUS,Russia,,3,LL,0,0,2,2,LL
+3_LL_0003,ACTOR,USA\Republicans\Trump,Trump,,3,LL,0,0,4,4,LL
+3_LL_0004,EVENT,Trump campaign,Trump campaign,,3,LL,0,0,4,5,LL
+3_LL_0005,PROPERTY,Other,alleging,Democrats,3,LL,0,0,7,7,LL
+3_LL_0006,MISC,RUS interference into USA election,conspiracy,,3,LL,0,0,8,8,LL
+3_LL_0007,PROPERTY,Power,sue,Democrats,3,LL,0,0,1,1,LL
+3_LL_0008,ACTOR,USA\Democrats\Clinton,Hillary Clinton,,3,LL,1,1,15,16,LL
+3_LL_0009,COUNTRY,RUS,Russia,,3,LL,1,1,12,12,LL
+3_LL_0010,GROUP,USA\Democrats,The party,,3,LL,1,1,0,1,LL
+3_LL_0011,ACTOR,USA\Republicans\Trump,Trump,,3,LL,1,1,7,7,LL
+3_LL_0012,EVENT,Trump campaign,Trump's campaign,,3,LL,1,1,7,9,LL
+3_LL_0013,PROPERTY,Other,alleged,Democrats,3,LL,1,1,2,2,LL
+3_LL_0014,MISC,RUS interference into USA election,conspired with Russia,,3,LL,1,1,10,12,LL
+3_LL_0015,PROPERTY,Aggressor,hurt,USA; RUS,3,LL,1,1,14,14,LL
+3_LL_0016,PROPERTY,Victim,hurt,Clinton,3,LL,1,1,14,14,LL
+3_LL_0017,GROUP,USA\Republicans,top officials in Trump's campaign,,3,LL,1,1,4,9,LL
+3_LL_0018,EVENT,USA election 2016,2016 U.S. presidential election,,3,LL,2,2,35,38,LL
+3_LL_0019,COUNTRY,RUS,Russian government,,3,LL,2,2,10,11,LL
+3_LL_0020,GROUP,USA\Democrats,The Democratic Party,,3,LL,2,2,5,7,LL
+3_LL_0021,EVENT,Trump campaign,Trump's campaign,,3,LL,2,2,16,18,LL
+3_LL_0022,ACTOR,USA\Republicans\Trump,U.S. President Donald Trump,,3,LL,2,2,13,16,LL
+3_LL_0023,GROUP,Wikileaks,WikiLeaks,,3,LL,2,2,20,20,LL
+3_LL_0024,PROPERTY,Power,charging,Democrats,3,LL,2,2,24,24,LL
+3_LL_0025,PROPERTY,Power,sued,Democrats,3,LL,2,2,8,8,LL
+3_LL_0026,PROPERTY,Importance,wide-ranging,RUS interference into USA election,3,LL,2,2,30,30,LL
+3_LL_0027,MISC,RUS interference into USA election,wide-ranging conspiracy,,3,LL,2,2,30,31,LL
+3_LL_0028,GROUP,USA\Democrats,Democratic National Committee,,3,LL,3,3,8,10,LL
+3_LL_0029,ACTOR,USA\Democrats\Clinton,Democratic presidential nominee Hillary Clinton,,3,LL,3,3,31,35,LL
+3_LL_0030,COUNTRY,RUS,Russian government,,3,LL,3,3,22,23,LL
+3_LL_0031,ACTOR,USA\Republicans\Trump,Trump,,3,LL,3,3,16,16,LL
+3_LL_0032,ACTOR,USA\Republicans\Trump,Trump,,3,LL,3,3,41,41,LL
+3_LL_0033,EVENT,Trump campaign,Trump's campaign,,3,LL,3,3,16,18,LL
+3_LL_0034,MISC,RUS interference into USA election,conspired with the Russian government,,3,LL,3,3,19,23,LL
+3_LL_0035,MISC,Lawsuit,federal lawsuit,,3,LL,3,3,2,3,LL
+3_LL_0036,MISC,RUS interference into USA election,hacking Democratic Party computers,,3,LL,3,3,43,46,LL
+3_LL_0037,PROPERTY,Aggressor,hurt,USA; RUS,3,LL,3,3,30,30,LL
+3_LL_0038,PROPERTY,Victim,hurt,Clinton,3,LL,3,3,30,30,LL
+3_LL_0039,COUNTRY,RUS,military spy agency,,3,LL,3,3,26,28,LL
+3_LL_0040,EVENT,USA election 2016,the election,,3,LL,3,3,38,39,LL
+3_LL_0041,MISC,RUS interference into USA election,tilt the election to Trump,,3,LL,3,3,37,41,LL
+3_LL_0042,GROUP,USA\Republicans,top officials in Trump's campaign,,3,LL,3,3,13,18,LL
+3_LL_0043,COUNTRY,RUS,Moscow,,3,LL,4,4,33,33,LL
+3_LL_0044,COUNTRY,RUS,Russia,,3,LL,4,4,10,10,LL
+3_LL_0045,MISC,RUS interference into USA election,Russia's help,,3,LL,4,4,10,12,LL
+3_LL_0046,ACTOR,USA\Republicans\Trump,Trump,,3,LL,4,4,4,4,LL
+3_LL_0047,EVENT,Trump campaign,Trump's campaign,,3,LL,4,4,4,6,LL
+3_LL_0048,PROPERTY,Aggressor,accuses,Lawsuit,3,LL,4,4,19,19,LL
+3_LL_0049,PROPERTY,Other,alleged,Lawsuit,3,LL,4,4,2,2,LL
+3_LL_0050,PROPERTY,Affection,gleefully welcomed,RUS,3,LL,4,4,8,9,LL
+3_LL_0051,MISC,Lawsuit,lawsuit,,3,LL,4,4,1,1,LL
+3_LL_0052,PROPERTY,Dishonor,racketeering,Trump campaign,3,LL,4,4,25,25,LL
+3_LL_0053,EVENT,Trump campaign,racketeering enterprise,,3,LL,4,4,25,26,LL
+3_LL_0054,EVENT,USA election 2016,the 2016 election,,3,LL,4,4,15,17,LL
+3_LL_0055,EVENT,Trump campaign,Donald Trump's campaign,,3,LL,5,5,24,27,LL
+3_LL_0056,COUNTRY,RUS,Russia,,3,LL,5,5,7,7,LL
+3_LL_0057,GROUP,USA\Democrats,Tom Perez,,3,LL,5,5,31,32,LL
+3_LL_0058,PROPERTY,Affection,a willing and active partner,RUS,3,LL,5,5,18,22,LL
+3_LL_0059,PROPERTY,Power,active partner,Trump campaign,3,LL,5,5,21,22,LL
+3_LL_0060,PROPERTY,Importance,all-out,RUS interference into USA election,3,LL,5,5,10,10,LL
+3_LL_0061,MISC,RUS interference into USA election,an act of unprecedented treachery,,3,LL,5,6,3,7,LL
+3_LL_0062,MISC,RUS interference into USA election,an all-out assault,,3,LL,5,5,9,11,LL
+3_LL_0063,PROPERTY,Dishonor,assault on our democracy,RUS interference into USA election,3,LL,5,5,11,14,LL
+3_LL_0064,GROUP,USA\Democrats,chair of the DNC,,3,LL,5,5,34,37,LL
+3_LL_0065,PROPERTY,Power,launched,RUS,3,LL,5,5,8,8,LL
+3_LL_0066,COUNTRY,USA,our democracy,,3,LL,5,5,13,14,LL
+3_LL_0067,EVENT,Trump campaign,the 2016 presidential campaign,,3,LL,5,5,2,5,LL
+3_LL_0068,PROPERTY,Dishonor,treachery,RUS interference into USA election,3,LL,5,6,7,7,LL
+3_LL_0069,PROPERTY,Importance,unprecedented,RUS interference into USA election,3,LL,5,6,6,6,LL
+3_LL_0070,ACTOR,USA\Democrats\Clinton,Clinton,,3,LL,6,7,27,27,LL
+3_LL_0071,MISC,Lawsuit,The suit,,3,LL,6,7,0,1,LL
+3_LL_0072,ACTOR,USA\Republicans\Trump,Trump,,3,LL,6,7,3,3,LL
+3_LL_0073,PROPERTY,Unlawfulness,committed a crime,Clinton,3,LL,6,7,28,30,LL
+3_LL_0074,PROPERTY,No trustworthiness,obstructionist,Democrats,3,LL,6,7,15,15,LL
+3_LL_0075,GROUP,USA\Democrats,obstructionist,,3,LL,6,7,15,15,LL
+3_LL_0076,PROPERTY,Aggressor,promised a counterattack,Trump,3,LL,6,7,18,20,LL
+3_LL_0077,GROUP,USA\Democrats,the Democrats,,3,LL,6,7,12,13,LL
+3_LL_0078,ACTOR,USA\Republicans\Trump,Trump,,3,LL,7,8,43,43,LL
+3_LL_0079,GROUP,USA\Democrats,Wendy Wasserman Schultz,,3,LL,7,8,26,28,LL
+3_LL_0080,GROUP,USA\Republicans,a Republican,,3,LL,7,8,45,46,LL
+3_LL_0081,PROPERTY,Other,can be good news,Lawsuit,3,LL,7,8,2,5,LL
+3_LL_0082,PROPERTY,Weakness,counter,Republicans,3,LL,7,8,11,11,LL
+3_LL_0083,PROPERTY,No trustworthiness,mystery man,USA-Misc,3,LL,7,8,36,37,LL
+3_LL_0084,GROUP,USA\Democrats,the DNC Server,,3,LL,7,8,13,15,LL
+3_LL_0085,COUNTRY,USA,the FBI,,3,LL,7,8,22,23,LL
+3_LL_0086,ACTOR-I,USA\USA-Misc,the Pakistani mystery man,,3,LL,7,8,34,37,LL
+3_LL_0087,GROUP,USA\Democrats,Representative Debbie Wasserman Schultz,,3,LL,8,9,5,8,LL
+3_LL_0088,ACTOR,USA\Republicans\Trump,Trump,,3,LL,8,9,0,0,LL
+3_LL_0089,ACTOR-I,USA\USA-Misc,a Pakistan-born information technology worker,,3,LL,8,9,24,28,LL
+3_LL_0090,PROPERTY,Unlawfulness,inappropriately accessed,USA-Misc,3,LL,8,9,39,40,LL
+3_LL_0091,MISC,RUS interference into USA election,servers were hacked,,3,LL,8,9,19,21,LL
+3_LL_0092,GROUP,USA\Democrats,the DNC,,3,LL,8,9,12,13,LL
+3_LL_0093,COUNTRY,USA,the House of Representatives inspector general,,3,LL,8,9,31,36,LL
+3_LL_0094,EVENT,USA election 2016,the election,,3,LL,8,9,15,16,LL
+3_LL_0095,EVENT,Trump campaign,The campaign operation,,3,LL,9,10,0,2,LL
+3_LL_0096,ACTOR,USA\Republicans\Trump,Trump,,3,LL,9,10,3,3,LL
+3_LL_0097,MISC,Lawsuit,a fundraising effort,,3,LL,9,10,22,24,LL
+3_LL_0098,PROPERTY,Unreason,frivolous,Lawsuit,3,LL,9,10,17,17,LL
+3_LL_0099,MISC,Lawsuit,the lawsuit frivolous,,3,LL,9,10,15,17,LL
+3_LL_0100,GROUP,USA\Republicans,Brad Parscale,,3,LL,10,11,31,32,LL
+3_LL_0101,MISC,RUS interference into USA election,a bogus Russian collusion claim,,3,LL,10,11,7,11,LL
+3_LL_0102,GROUP,USA\Democrats,"a desperate, dysfunctional, and nearly insolvent Democratic Party",,3,LL,10,11,14,23,LL
+3_LL_0103,MISC,Lawsuit,a sham lawsuit,,3,LL,10,11,3,5,LL
+3_LL_0104,PROPERTY,Weakness,desperate,Democrats,3,LL,10,11,15,15,LL
+3_LL_0105,PROPERTY,Poor quality,dysfunctional,Democrats,3,LL,10,11,17,17,LL
+3_LL_0106,PROPERTY,Economy negative,nearly insolvent,Democrats,3,LL,10,11,20,21,LL
+3_LL_0107,PROPERTY,No trustworthiness,sham,Lawsuit,3,LL,10,11,4,4,LL
+3_LL_0108,EVENT,Trump campaign,the campaign,,3,LL,10,11,26,27,LL
+3_LL_0109,GROUP,USA\Republicans,the campaign's manager,,3,LL,10,11,26,29,LL
+3_LL_0110,COUNTRY,RUS,Defendants,,3,LL,11,12,0,0,LL
+3_LL_0111,GROUP,USA\Republicans,Defendants,,3,LL,11,12,0,0,LL
+3_LL_0112,GROUP,Wikileaks,Defendants,,3,LL,11,12,0,0,LL
+3_LL_0113,GROUP,USA\Republicans,Manafort associate,,3,LL,11,12,31,32,LL
+3_LL_0114,GROUP,USA\Republicans,Rick Gates,,3,LL,11,12,33,34,LL
+3_LL_0115,MISC,RUS interference into USA election,Russian meddling,,3,LL,11,12,22,23,LL
+3_LL_0116,COUNTRY,USA,Special Counsel Robert Mueller,,3,LL,11,12,15,18,LL
+3_LL_0117,EVENT,RUS investigation,Special Counsel Robert Mueller's investigation of Russian meddling,,3,LL,11,12,15,23,LL
+3_LL_0118,GROUP,USA\Republicans,former campaign aide George Papadopoulos,,3,LL,11,12,36,40,LL
+3_LL_0119,GROUP,USA\Republicans,former campaign chairman Paul Manafort,,3,LL,11,12,25,29,LL
+3_LL_0120,MISC,Lawsuit,the lawsuit,,3,LL,11,12,2,3,LL
+3_LL_0121,GROUP,USA\Republicans,Donald Trump Jr.,,3,LL,12,13,5,7,LL
+3_LL_0122,GROUP,USA\Republicans,Jared Kushner,,3,LL,12,13,18,19,LL
+3_LL_0123,GROUP,USA\Republicans,Trump associate Roger Stone,,3,LL,12,13,9,12,LL
+3_LL_0124,GROUP,USA\Republicans,Trump's son-in-law,,3,LL,12,13,14,16,LL
+3_LL_0125,COUNTRY,RUS,Moscow,,3,LL,13,14,10,10,LL
+3_LL_0126,COUNTRY,RUS,Russia,,3,LL,13,14,8,8,LL
+3_LL_0127,ACTOR,USA\Republicans\Trump,Trump,,3,LL,13,14,0,0,LL
+3_LL_0128,MISC,RUS interference into USA election,colluded with Russia,,3,LL,13,14,6,8,LL
+3_LL_0129,EVENT,Trump campaign,his campaign,,3,LL,13,14,4,5,LL
+3_LL_0130,MISC,RUS interference into USA election,meddling in the election,,3,LL,13,14,13,16,LL
+3_LL_0131,EVENT,USA election 2016,the election,,3,LL,13,14,15,16,LL
+3_LL_0132,ACTOR,USA\Democrats\Clinton,Clinton,,3,LL,14,16,9,9,LL
+3_LL_0133,COUNTRY,RUS,Russia,,3,LL,14,15,8,8,LL
+3_LL_0134,ACTOR,USA\Republicans\Trump,Trump,,3,LL,14,16,7,7,LL
+3_LL_0135,COUNTRY,USA,U.S. intelligence agencies,,3,LL,14,15,1,3,LL
+3_LL_0136,EVENT,Trump campaign,the 2016 campaign,,3,LL,14,15,20,22,LL
+3_LL_0137,COUNTRY,USA,the agencies,,3,LL,14,16,11,12,LL
+3_LL_0138,MISC,RUS interference into USA election,the effort,,3,LL,14,16,2,3,LL
+3_LL_0139,MISC,RUS interference into USA election,the hacking of Democratic Party groups,,3,LL,14,15,10,15,LL
+3_LL_0140,COUNTRY,RUS,Russia,,3,LL,15,17,3,3,LL
+3_LL_0141,GROUP,USA\Democrats,The DNC,,3,LL,15,17,0,1,LL
+3_LL_0142,PROPERTY,Aggressor,blames,Democrats,3,LL,15,17,2,2,LL
+3_LL_0143,MISC,RUS interference into USA election,breaches of its computer systems,,3,LL,15,17,5,9,LL
+3_LL_0144,COUNTRY,RUS,Hackers,,3,LL,16,18,0,0,LL
+3_LL_0145,MISC,RUS interference into USA election,Hackers disseminated internal communications,,3,LL,16,18,0,3,LL
+3_LL_0146,GROUP,Wikileaks,WikiLeaks,,3,LL,16,18,14,14,LL
+3_LL_0147,PROPERTY,Difficulty,embarrassing,Democrats,3,LL,16,18,24,24,LL
+3_LL_0148,GROUP,USA\Democrats,party officials,,3,LL,16,18,5,6,LL
+3_LL_0149,PROPERTY,Power,released thousands of emails,Wikileaks,3,LL,16,18,15,18,LL
+3_LL_0150,PROPERTY,Aggressor,stoke conflicts,Wikileaks,3,LL,16,18,33,34,LL
+3_LL_0151,PROPERTY,Victim,stoke conflicts among,Democrats,3,LL,16,18,33,35,LL
+3_LL_0152,GROUP,USA\Democrats,the Democratic nominating convention,,3,LL,16,18,8,11,LL
+3_LL_0153,GROUP,USA\Democrats,the party's supporters,,3,LL,16,18,36,39,LL
+3_LL_0154,COUNTRY,RUS,Moscow,,3,LL,17,19,25,25,LL
+3_LL_0155,PROPERTY,Other,alleged,RUS interference into USA election,3,LL,17,19,22,22,LL
+3_LL_0156,MISC,RUS interference into USA election,alleged collusion with Moscow.,,3,LL,17,19,22,25,LL
+3_LL_0157,PROPERTY,Poor quality,offered little new information,Lawsuit,3,LL,17,19,17,20,LL
+3_LL_0158,MISC,Lawsuit,the accusations,,3,LL,17,19,2,3,LL
+3_LL_0159,COUNTRY,USA,Congress,,3,LL,18,21,11,11,LL
+3_LL_0160,GROUP,USA\Democrats,Democrats,,3,LL,18,20,0,0,LL
+3_LL_0161,GROUP,USA\Republicans,Republicans,,3,LL,18,21,3,3,LL
+3_LL_0162,COUNTRY,RUS,Russia,,3,LL,18,20,10,10,LL
+3_LL_0163,PROPERTY,Weakness,risk of losing control,Republicans,3,LL,18,21,6,9,LL
+3_LL_0164,PROPERTY,Unsafety,risk of losing control,Republicans,3,LL,18,21,6,9,LL
+3_LL_0165,EVENT,USA election 2016,the 2016 election,,3,LL,18,20,12,14,LL
+3_LL_0166,MISC,RUS interference into USA election,the issue of Russia,,3,LL,18,20,7,10,LL
+3_LL_0167,GROUP,USA\Democrats,Democrats,,3,LL,19,22,4,4,LL
+3_LL_0168,ACTOR-I,USA\USA-I,Leonard Williams,,3,LL,19,22,28,29,LL
+3_LL_0169,GROUP,USA\Republicans,Republicans,,3,LL,19,22,17,17,LL
+3_LL_0170,MISC,Lawsuit,The suit,,3,LL,19,22,1,2,LL
+3_LL_0171,ACTOR-I,USA\USA-I,a political science professor at Manchester University,,3,LL,19,22,31,37,LL
+3_LL_0172,PROPERTY,Importance,compelling,Lawsuit,3,LL,19,22,9,9,LL
+3_LL_0173,PROPERTY,Weakness,counter,Democrats,3,LL,19,22,12,12,LL
+3_LL_0174,PROPERTY,Importance,exactly what their candidates and spokespeople need,Lawsuit,3,LL,19,23,8,14,LL
+3_LL_0175,GROUP,USA\Democrats,spokespeople,,3,LL,19,23,13,13,LL
+3_LL_0176,ACTOR,USA\Republicans\Trump,the president,,3,LL,19,22,13,14,LL
+3_LL_0177,GROUP,USA\Democrats,their candidates,,3,LL,19,23,10,11,LL
+3_LL_0178,PROPERTY,Good quality,useful and perhaps compelling,Lawsuit,3,LL,19,22,6,9,LL
+3_LL_0179,MISC,RUS interference into USA election,"'no collusion,'",,3,LL,19,22,21,24,LL
+3_LL_0180,GROUP,USA\Republicans,Gates,,3,LL,20,24,10,10,LL
+3_LL_0181,GROUP,USA\Republicans,"Jr., Manafort",,3,LL,20,24,6,8,LL
+3_LL_0182,GROUP,USA\Republicans,Papadopoulos,,3,LL,20,24,12,12,LL
+3_LL_0183,GROUP,Wikileaks,WikiLeaks,,3,LL,20,24,0,0,LL
+3_LL_0184,GROUP,USA\Republicans,attorneys for Trump,,3,LL,20,24,3,5,LL
+3_LL_0185,PROPERTY,Other,did not immediately respond,Republicans; Wikileaks,3,LL,20,24,14,17,LL
+3_LL_0186,GROUP,USA\Republicans,Stone,,3,LL,21,25,0,0,LL
+3_LL_0187,PROPERTY,No trustworthiness,conspiracy theory,Lawsuit,3,LL,21,25,10,11,LL
+3_LL_0188,MISC,Lawsuit,the lawsuit,,3,LL,21,25,2,3,LL
+3_LL_0189,MISC,RUS interference into USA election,"""a left-wing conspiracy theory.""",,3,LL,21,25,7,13,LL
+3_LL_0190,PROPERTY,No trustworthiness,NO proof or evidence,Lawsuit,3,LL,22,26,1,4,LL
+3_LL_0191,COUNTRY,USA,Mueller,,3,LL,23,28,5,5,LL
+3_LL_0192,MISC,Lawsuit,The lawsuit,,3,LL,23,27,0,1,LL
+3_LL_0193,PROPERTY,Other,declined to comment,USA,3,LL,23,28,9,11,LL
+3_LL_0194,EVENT,USA election 2016,election,,3,LL,23,27,20,20,LL
+3_LL_0195,PROPERTY,Good quality,help keep the spotlight on the issue,Lawsuit,3,LL,23,27,11,17,LL
+3_LL_0196,PROPERTY,Other,possible collusion,Trump campaign,3,LL,23,27,23,24,LL
+3_LL_0197,MISC,RUS interference into USA election,possible collusion by the Trump campaign,,3,LL,23,27,23,28,LL
+3_LL_0198,MISC,Lawsuit,the Democratic lawsuit,,3,LL,23,28,13,15,LL
+3_LL_0199,EVENT,Trump campaign,the Trump campaign,,3,LL,23,27,26,28,LL
+3_LL_0200,MISC,RUS interference into USA election,the issue of Russian election interference,,3,LL,23,27,16,21,LL
+3_LL_0201,COUNTRY,USA,whose office,,3,LL,23,28,7,8,LL
+3_LL_0202,PROPERTY,Aggressor,force,USA-I,3,LL,24,29,13,13,LL
+3_LL_0203,PROPERTY,Victim,force,Republicans,3,LL,24,29,13,13,LL
+3_LL_0204,GROUP,USA\Democrats,lawyers for the Democratic Party,,3,LL,24,29,7,11,LL
+3_LL_0205,MISC,RUS interference into USA election,the collusion issue,,3,LL,24,29,23,25,LL
+3_LL_0206,COUNTRY,RUS,the defendants,,3,LL,24,29,14,15,LL
+3_LL_0207,GROUP,USA\Republicans,the defendants,,3,LL,24,29,14,15,LL
+3_LL_0208,GROUP,Wikileaks,the defendants,,3,LL,24,29,14,15,LL
+3_LL_0209,MISC,Lawsuit,the process of legal discovery,,3,LL,24,29,1,5,LL
+3_LL_0210,MISC,Lawsuit,The lawsuit,,3,LL,25,30,0,1,LL
+3_LL_0211,ACTOR-I,USA\USA-I,Williams,,3,LL,25,30,17,17,LL
+3_LL_0212,PROPERTY,Other,"might not have any journalistic, judicial, or political staying power",Lawsuit,3,LL,25,30,3,14,LL
+3_LL_0213,PROPERTY,Weakness,"not have any journalistic, judicial, or political staying power",Lawsuit,3,LL,25,30,4,14,LL
+3_LL_0214,PROPERTY,Poor quality,"not have any journalistic, judicial, or political staying power",Lawsuit,3,LL,25,30,4,14,LL
+3_LL_0215,PROPERTY,Other,Whether it amounts to more than a story to tell,Lawsuit,3,LL,26,31,1,10,LL
+3_LL_0216,PROPERTY,Power,lead to additional discovery of events and relationships,Lawsuit,3,LL,26,32,3,10,LL
+3_LL_0217,PROPERTY,Good quality,lead to additional discovery of events and relationships,Lawsuit,3,LL,26,32,3,10,LL
+3_LL_0218,PROPERTY,Other,might lead to additional discovery of events and relationships,Lawsuit,3,LL,26,32,2,10,LL

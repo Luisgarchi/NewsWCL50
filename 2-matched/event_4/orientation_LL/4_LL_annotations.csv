@@ -1,0 +1,320 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+4_LL_0000,PROPERTY,Unreason,Doesn't Understand,Trump,4,LL,0,0,14,16,LL
+4_LL_0001,PROPERTY,Aggressor,Hates,Trump,4,LL,0,0,1,1,LL
+4_LL_0002,MISC,Reactions on deal,Hates The Iran Deal,,4,LL,0,0,1,4,LL
+4_LL_0003,PROPERTY,Aggressor,May Kill It,Trump,4,LL,0,0,6,8,LL
+4_LL_0004,MISC,Reactions on deal,May Kill It,,4,LL,0,0,6,8,LL
+4_LL_0005,MISC,Reactions on deal,Still Doesn't Understand It,,4,LL,0,0,13,17,LL
+4_LL_0006,ACTOR,USA\Trump,Trump,,4,LL,0,0,0,0,LL
+4_LL_0007,ACTOR,USA\Obama,Obama,,4,LL,1,1,11,11,LL
+4_LL_0008,OBJECT,IRN nuclear deal,Obama's Iran deal,,4,LL,1,1,11,14,LL
+4_LL_0009,ACTOR,USA\Trump,Trump,,4,LL,1,1,3,3,LL
+4_LL_0010,ACTOR-I,USA\USA-I,his fellow Republicans,,4,LL,1,1,5,7,LL
+4_LL_0011,PROPERTY,Unreason,literally instead of seriously,Trump,4,LL,1,1,15,18,LL
+4_LL_0012,ACTOR,USA\Trump,Donald Trump,,4,LL,2,2,9,10,LL
+4_LL_0013,ACTOR,FRA\Macron,Emmanuel Macron,,4,LL,2,2,2,3,LL
+4_LL_0014,ACTOR,FRA\Macron,French President,,4,LL,2,2,0,1,LL
+4_LL_0015,ACTOR,USA\Trump,U.S. President,,4,LL,2,2,7,8,LL
+4_LL_0016,OBJECT,IRN nuclear deal,the Iran nuclear agreement,,4,LL,2,2,14,17,LL
+4_LL_0017,PROPERTY,Power,tried to persuade,Macron,4,LL,2,2,4,6,LL
+4_LL_0018,ACTOR-I,USA\USA-I,GOP candidates,,4,LL,3,3,27,28,LL
+4_LL_0019,COUNTRY,IRN,Iran,,4,LL,3,3,14,14,LL
+4_LL_0020,MISC,Reactions on deal,hammered,,4,LL,3,3,6,6,LL
+4_LL_0021,PROPERTY,Poor quality,not ideal,IRN nuclear deal,4,LL,3,3,36,37,LL
+4_LL_0022,ACTOR-I,USA\USA-Misc,party's foreign policy leaders,,4,LL,3,3,17,21,LL
+4_LL_0023,OBJECT,IRN nuclear deal,the deal,,4,LL,3,3,32,33,LL
+4_LL_0024,ACTOR,USA\Obama,then-President Barack Obama,,4,LL,3,3,7,9,LL
+4_LL_0025,OBJECT,IRN nuclear deal,then-President Barack Obama's nuclear agreement with Iran,,4,LL,3,3,7,14,LL
+4_LL_0026,MISC,Reactions on deal,was worth keeping,,4,LL,3,3,39,41,LL
+4_LL_0027,PROPERTY,Good quality,worth keeping,IRN nuclear deal,4,LL,3,3,40,41,LL
+4_LL_0028,ACTOR,USA\Trump,Donald Trump,,4,LL,4,4,9,10,LL
+4_LL_0029,ACTOR,USA\Trump,Trump,,4,LL,5,5,9,9,LL
+4_LL_0030,EVENT,IRN restart nuclear,a resumption of the Iranian nuclear program,,4,LL,5,5,28,34,LL
+4_LL_0031,PROPERTY,Aggressor,bashing,Trump,4,LL,5,5,5,5,LL
+4_LL_0032,PROPERTY,Victim,bashing,IRN nuclear agreement,4,LL,5,5,5,5,LL
+4_LL_0033,MISC,Reactions on deal,bashing the agreement,,4,LL,5,5,5,7,LL
+4_LL_0034,PROPERTY,Power,effectively end,Trump,4,LL,5,5,15,16,LL
+4_LL_0035,MISC,Reactions on deal,effectively end it,,4,LL,5,5,15,17,LL
+4_LL_0036,PROPERTY,Power,on track to,Trump,4,LL,5,5,12,14,LL
+4_LL_0037,OBJECT,IRN nuclear deal,the agreement,,4,LL,5,5,6,7,LL
+4_LL_0038,PROPERTY,Importance,triggering a resumption,Trump,4,LL,5,5,27,29,LL
+4_LL_0039,PROPERTY,Unreason,unintended possible consequence,Trump,4,LL,5,5,23,25,LL
+4_LL_0040,OBJECT,IRN nuclear deal,The Iran deal,,4,LL,6,6,1,3,LL
+4_LL_0041,PROPERTY,Importance,"actual cash, barrels of cash",IRN nuclear deal,4,LL,6,9,2,7,LL
+4_LL_0042,PROPERTY,Unreason,false and misleading claims,Trump,4,LL,6,12,18,21,LL
+4_LL_0043,PROPERTY,Victim,gave $1.8 billion in cash,USA,4,LL,6,8,1,6,LL
+4_LL_0044,PROPERTY,Unreason,insane,IRN nuclear deal,4,LL,6,10,2,2,LL
+4_LL_0045,MISC,Reactions on deal,insane,,4,LL,6,10,2,2,LL
+4_LL_0046,PROPERTY,Victim,paid $150 billion,USA,4,LL,6,7,1,4,LL
+4_LL_0047,PROPERTY,Unreason,ridiculous,IRN nuclear deal,4,LL,6,11,2,2,LL
+4_LL_0048,MISC,Reactions on deal,ridiculous,,4,LL,6,11,2,2,LL
+4_LL_0049,PROPERTY,Poor quality,should have never been made,IRN nuclear deal,4,LL,6,12,1,5,LL
+4_LL_0050,MISC,Reactions on deal,should have never been made,,4,LL,6,12,1,5,LL
+4_LL_0051,PROPERTY,Poor quality,terrible,IRN nuclear deal,4,LL,6,6,6,6,LL
+4_LL_0052,MISC,Reactions on deal,terrible deal,,4,LL,6,6,6,7,LL
+4_LL_0053,ACTOR-I,USA\USA-I,Richard Nephew,,4,LL,7,13,21,22,LL
+4_LL_0054,ACTOR-I,USA\USA-I,a top State Department official,,4,LL,7,13,24,28,LL
+4_LL_0055,PROPERTY,Unreason,doubt he understands or is even aware,Trump,4,LL,7,13,3,9,LL
+4_LL_0056,PROPERTY,Importance,most straightforward parts,IRN nuclear deal,4,LL,7,13,12,14,LL
+4_LL_0057,OBJECT,IRN nuclear deal,the agreement,,4,LL,7,13,16,17,LL
+4_LL_0058,OBJECT,IRN nuclear deal,the agreement,,4,LL,7,13,37,38,LL
+4_LL_0059,COUNTRY,FRA,France,,4,LL,8,15,6,6,LL
+4_LL_0060,COUNTRY,IRN,Iran,,4,LL,8,14,9,9,LL
+4_LL_0061,ACTOR,USA\Obama,Obama,,4,LL,8,14,3,3,LL
+4_LL_0062,COUNTRY,USA,State Department,,4,LL,8,14,5,6,LL
+4_LL_0063,OBJECT,IRN nuclear deal,The 2015 deal,,4,LL,8,14,0,2,LL
+4_LL_0064,OBJECT,IRN nuclear deal,The deal,,4,LL,8,15,0,1,LL
+4_LL_0065,PROPERTY,Aggressor,forced that nation to dismantle its nuclear enrichment program,USA,4,LL,8,14,10,18,LL
+4_LL_0066,PROPERTY,Victim,forced that nation to dismantle its nuclear enrichment program,IRN,4,LL,8,14,10,18,LL
+4_LL_0067,PROPERTY,Economy positive,suspension of some economic sanctions,IRN,4,LL,8,14,28,32,LL
+4_LL_0068,COUNTRY,IRN,that nation,,4,LL,8,14,11,12,LL
+4_LL_0069,ACTOR-I,USA\USA-Misc,Republicans running for president,,4,LL,9,16,2,5,LL
+4_LL_0070,MISC,Reactions on deal,oppose it,,4,LL,9,16,22,23,LL
+4_LL_0071,PROPERTY,Aggressor,"oppose it, the more vociferously, the better",USA-Misc,4,LL,9,16,22,30,LL
+4_LL_0072,OBJECT,IRN nuclear deal,the Iran deal,,4,LL,9,16,16,18,LL
+4_LL_0073,PROPERTY,Importance,vociferously,USA-Misc,4,LL,9,16,27,27,LL
+4_LL_0074,ACTOR,USA\Obama,Obama,,4,LL,10,17,5,5,LL
+4_LL_0075,ACTOR,USA\Obama,Obama,,4,LL,10,18,6,6,LL
+4_LL_0076,ACTOR,USA\Obama,Obama,,4,LL,10,19,1,1,LL
+4_LL_0077,ACTOR-I,USA\USA-Misc,The Republican primary voting base,,4,LL,10,18,0,4,LL
+4_LL_0078,OBJECT,IRN nuclear deal,The deal,,4,LL,10,17,0,1,LL
+4_LL_0079,PROPERTY,Refusal,had to be undone quickly,Obama,4,LL,10,19,11,15,LL
+4_LL_0080,PROPERTY,Aggressor,hated,USA-Misc,4,LL,10,18,5,5,LL
+4_LL_0081,PROPERTY,Victim,hated,Obama,4,LL,10,18,5,5,LL
+4_LL_0082,PROPERTY,Refusal,was by definition bad,Obama,4,LL,10,19,6,9,LL
+4_LL_0083,ACTOR,USA\Trump,Trump,,4,LL,11,20,4,4,LL
+4_LL_0084,PROPERTY,Importance,the most straightforward parts of the agreement,IRN nuclear deal,4,LL,11,20,12,18,LL
+4_LL_0085,PROPERTY,Unreason,understands or is even aware,Trump,4,LL,11,20,6,10,LL
+4_LL_0086,ACTOR-I,USA\USA-I,Richard Nephew,,4,LL,12,21,0,1,LL
+4_LL_0087,ACTOR-I,USA\USA-I,former State Department official,,4,LL,12,21,3,6,LL
+4_LL_0088,ACTOR-I,USA\USA-Misc,GOP presidential candidates,,4,LL,13,22,3,5,LL
+4_LL_0089,ACTOR,USA\Obama,Obama,,4,LL,13,23,6,6,LL
+4_LL_0090,ACTOR-I,USA\USA-Misc,Republican foreign policy leaders,,4,LL,13,22,10,13,LL
+4_LL_0091,ACTOR-I,USA\USA-Misc,Republicans,,4,LL,13,23,19,19,LL
+4_LL_0092,OBJECT,IRN nuclear deal,an international agreement that put the Iranian nuclear program on hold,,4,LL,13,22,19,29,LL
+4_LL_0093,PROPERTY,Weakness,believed they needed it,USA-Misc,4,LL,13,23,21,24,LL
+4_LL_0094,PROPERTY,Positive,better than no deal at all,IRN nuclear deal,4,LL,13,22,35,40,LL
+4_LL_0095,MISC,Reactions on deal,better than no deal at all,,4,LL,13,22,35,40,LL
+4_LL_0096,PROPERTY,Power,go forward with the agreement while also providing political cover,Obama,4,LL,13,23,8,17,LL
+4_LL_0097,PROPERTY,Aggressor,lambasted,USA-Misc,4,LL,13,22,6,6,LL
+4_LL_0098,PROPERTY,Victim,lambasted,IRN nuclear deal,4,LL,13,22,6,6,LL
+4_LL_0099,PROPERTY,Power,passed a law,USA-Misc,4,LL,13,23,1,3,LL
+4_LL_0100,PROPERTY,Power,put the Iranian nuclear program on hold,IRN nuclear deal,4,LL,13,22,23,29,LL
+4_LL_0101,ACTOR-I,USA\USA-I,Colin Kahl,,4,LL,14,24,54,55,LL
+4_LL_0102,ACTOR-I,USA\USA-Misc,The GOP,,4,LL,14,24,1,2,LL
+4_LL_0103,PROPERTY,Refusal,anti-Iran,IRN,4,LL,14,24,24,24,LL
+4_LL_0104,PROPERTY,Refusal,anti-Obama,Obama,4,LL,14,24,22,22,LL
+4_LL_0105,ACTOR-I,USA\USA-I,former Vice President Joe Biden's national security adviser,,4,LL,14,24,57,65,LL
+4_LL_0106,PROPERTY,Unreason,posturing without actually owning the consequences,USA-Misc,4,LL,14,24,27,32,LL
+4_LL_0107,PROPERTY,Affection,pro-Israel,ISR,4,LL,14,24,26,26,LL
+4_LL_0108,PROPERTY,Safety,relatively safe,USA-Misc,4,LL,14,24,13,14,LL
+4_LL_0109,COUNTRY,USA,the Senate,,4,LL,14,24,9,10,LL
+4_LL_0110,OBJECT,IRN nuclear deal,the deal,,4,LL,14,24,34,35,LL
+4_LL_0111,PROPERTY,Importance,very real prospect of another major war,IRN nuclear deal,4,LL,14,24,40,46,LL
+4_LL_0112,PROPERTY,Importance,established,USA-Misc,4,LL,15,25,2,2,LL
+4_LL_0113,ACTOR-I,USA\USA-Misc,established GOP presidential candidates,,4,LL,15,25,2,5,LL
+4_LL_0114,PROPERTY,Safety,little chance of the deal collapsing,IRN nuclear deal,4,LL,15,25,14,19,LL
+4_LL_0115,OBJECT,IRN nuclear deal,the deal,,4,LL,15,25,17,18,LL
+4_LL_0116,ACTOR-I,USA\USA-I,Cruz,,4,LL,16,26,20,20,LL
+4_LL_0117,ACTOR-I,USA\USA-I,Cruz,,4,LL,16,26,52,52,LL
+4_LL_0118,ACTOR-I,USA\USA-I,Florida Sen. Marco Rubio,,4,LL,16,26,0,3,LL
+4_LL_0119,ACTOR-I,USA\USA-I,Ohio Gov. John Kasich,,4,LL,16,26,11,14,LL
+4_LL_0120,ACTOR-I,USA\USA-I,Rick Tyler,,4,LL,16,26,42,43,LL
+4_LL_0121,ACTOR-I,USA\USA-I,Texas Sen. Ted Cruz,,4,LL,16,26,17,20,LL
+4_LL_0122,ACTOR-I,USA\USA-I,a Republican political consultant,,4,LL,16,26,45,48,LL
+4_LL_0123,ACTOR-I,USA\USA-I,former Florida Gov. Jeb Bush,,4,LL,16,26,5,9,LL
+4_LL_0124,OBJECT,IRN nuclear deal,the agreement,,4,LL,16,26,38,39,LL
+4_LL_0125,PROPERTY,Affection,would have stayed,IRN nuclear deal,4,LL,16,26,34,36,LL
+4_LL_0126,PROPERTY,Affection,don't know anybody who would have ripped up,IRN nuclear deal,4,LL,17,29,2,10,LL
+4_LL_0127,OBJECT,IRN nuclear deal,the deal,,4,LL,17,29,11,12,LL
+4_LL_0128,MISC,Reactions on deal,would have ripped up,,4,LL,17,29,7,10,LL
+4_LL_0129,PROPERTY,Refusal,not the public position,IRN nuclear deal,4,LL,18,30,6,9,LL
+4_LL_0130,ACTOR-I,USA\USA-Misc,the candidates,,4,LL,18,30,11,12,LL
+4_LL_0131,ACTOR-I,USA\USA-Misc,Fox News hosts,,4,LL,19,32,29,31,LL
+4_LL_0132,ACTOR,USA\Trump,Trump,,4,LL,19,31,2,2,LL
+4_LL_0133,PROPERTY,Aggressor,amplified by,USA-Misc,4,LL,19,32,15,16,LL
+4_LL_0134,PROPERTY,Aggressor,attacks on,USA-Misc; Trump,4,LL,19,32,7,8,LL
+4_LL_0135,PROPERTY,Victim,attacks on,IRN nuclear deal,4,LL,19,32,7,8,LL
+4_LL_0136,ACTOR-I,USA\USA-Misc,candidates seeking the GOP nomination,,4,LL,19,32,17,21,LL
+4_LL_0137,ACTOR-I,USA\USA-Misc,congressional Republicans,,4,LL,19,32,4,5,LL
+4_LL_0138,PROPERTY,Aggressor,further escalated by,USA-Misc,4,LL,19,32,26,28,LL
+4_LL_0139,ACTOR-I,USA\USA-Misc,others in the right-wing media ecosystem,,4,LL,19,32,33,38,LL
+4_LL_0140,OBJECT,IRN nuclear deal,the Iran deal,,4,LL,19,31,7,9,LL
+4_LL_0141,OBJECT,IRN nuclear deal,the agreement,,4,LL,19,32,9,10,LL
+4_LL_0142,PROPERTY,Unreason,woefully ill-informed,Trump,4,LL,19,31,4,5,LL
+4_LL_0143,COUNTRY,ISR,Israel,,4,LL,20,33,5,5,LL
+4_LL_0144,ACTOR,USA\Trump,Our president,,4,LL,20,33,1,2,LL
+4_LL_0145,ACTOR-I,USA\USA-I,Rubio,,4,LL,20,33,8,8,LL
+4_LL_0146,PROPERTY,Aggressor,betrayed,Trump,4,LL,20,33,4,4,LL
+4_LL_0147,PROPERTY,Victim,betrayed,ISR,4,LL,20,33,4,4,LL
+4_LL_0148,PROPERTY,Refusal,going to cancel,USA-I,4,LL,20,34,10,12,LL
+4_LL_0149,PROPERTY,Power,going to cancel,USA-I,4,LL,20,34,10,12,LL
+4_LL_0150,MISC,Reactions on deal,going to cancel,,4,LL,20,34,10,12,LL
+4_LL_0151,PROPERTY,No trustworthiness,"going to cancel the Iran deal,"" he said two days later",USA-I,4,LL,20,34,10,22,LL
+4_LL_0152,OBJECT,IRN nuclear deal,the Iran deal,,4,LL,20,34,13,15,LL
+4_LL_0153,ACTOR-I,USA\USA-I,South Carolina Sen. Lindsey Graham,,4,LL,21,35,19,23,LL
+4_LL_0154,OBJECT,IRN nuclear deal,This Iran deal,,4,LL,21,36,1,3,LL
+4_LL_0155,MISC,Reactions on deal,the worst deal,,4,LL,21,36,5,7,LL
+4_LL_0156,PROPERTY,Poor quality,worst,IRN nuclear deal,4,LL,21,36,6,6,LL
+4_LL_0157,ACTOR-I,USA\USA-I,Cruz,,4,LL,22,37,0,0,LL
+4_LL_0158,PROPERTY,Aggressor,promised literal violence,USA-I,4,LL,22,37,1,3,LL
+4_LL_0159,PROPERTY,Victim,promised literal violence,IRN nuclear deal,4,LL,22,37,1,3,LL
+4_LL_0160,PROPERTY,Aggressor,rip to shreds,USA-I,4,LL,22,38,6,8,LL
+4_LL_0161,PROPERTY,Victim,rip to shreds,IRN nuclear deal,4,LL,22,38,6,8,LL
+4_LL_0162,OBJECT,IRN nuclear deal,the Iran deal,,4,LL,22,38,9,11,LL
+4_LL_0163,OBJECT,IRN nuclear deal,the agreement,,4,LL,22,37,5,6,LL
+4_LL_0164,ACTOR-I,USA\USA-I,Former Arkansas Gov. Mike Huckabee,,4,LL,23,39,0,4,LL
+4_LL_0165,COUNTRY,ISR,Israelis,,4,LL,23,39,18,18,LL
+4_LL_0166,COUNTRY,ISR,Israelis,,4,LL,23,41,7,7,LL
+4_LL_0167,ACTOR,USA\Obama,Obama,,4,LL,23,39,11,11,LL
+4_LL_0168,PROPERTY,Aggressor,accusing,USA-I,4,LL,23,39,10,10,LL
+4_LL_0169,PROPERTY,Victim,accusing,Obama,4,LL,23,39,10,10,LL
+4_LL_0170,PROPERTY,Aggressor,enabling the eventual genocide,Obama,4,LL,23,39,13,16,LL
+4_LL_0171,PROPERTY,Victim,eventual genocide of,ISR,4,LL,23,39,15,17,LL
+4_LL_0172,PROPERTY,Unreason,march them to the door of the oven,Obama,4,LL,23,41,9,16,LL
+4_LL_0173,PROPERTY,Unreason,naive,Obama,4,LL,23,40,4,4,LL
+4_LL_0174,PROPERTY,No trustworthiness,naive that he would trust,IRN,4,LL,23,40,4,8,LL
+4_LL_0175,COUNTRY,IRN,the Iranians,,4,LL,23,40,9,10,LL
+4_LL_0176,COUNTRY,ISR,the Israelis,,4,LL,23,41,6,7,LL
+4_LL_0177,COUNTRY,IRN,Iran,,4,LL,24,42,11,11,LL
+4_LL_0178,ACTOR-I,USA\USA-Misc,Right-wing media,,4,LL,24,42,0,1,LL
+4_LL_0179,PROPERTY,Unreason,literally giving Iran nuclear weapons as well as billions of dollars of U.S. taxpayer cash,IRN nuclear deal,4,LL,24,42,9,23,LL
+4_LL_0180,OBJECT,IRN nuclear deal,the agreement,,4,LL,24,42,6,7,LL
+4_LL_0181,COUNTRY,IRN,Iran,,4,LL,25,43,7,7,LL
+4_LL_0182,COUNTRY,IRN,Iran,,4,LL,25,44,9,9,LL
+4_LL_0183,COUNTRY,USA,U.S. banks,,4,LL,25,44,15,16,LL
+4_LL_0184,PROPERTY,Aggressor,dismantle the machinery it could use to manufacture more,IRN nuclear deal,4,LL,25,43,19,27,LL
+4_LL_0185,PROPERTY,Victim,dismantle the machinery it could use to manufacture more,IRN,4,LL,25,43,19,27,LL
+4_LL_0186,PROPERTY,Aggressor,forced Iran to give up most of its nuclear material,IRN nuclear deal,4,LL,25,43,6,15,LL
+4_LL_0187,PROPERTY,Victim,forced Iran to give up most of its nuclear material,IRN,4,LL,25,43,6,15,LL
+4_LL_0188,COUNTRY,USA,the United States,,4,LL,25,44,4,6,LL
+4_LL_0189,OBJECT,IRN nuclear deal,the agreement,,4,LL,25,43,3,4,LL
+4_LL_0190,ACTOR,USA\Trump,Trump,,4,LL,26,45,1,1,LL
+4_LL_0191,ACTOR,USA\Trump,Trump,,4,LL,26,46,0,0,LL
+4_LL_0192,ACTOR,USA\Trump,Trump,,4,LL,26,47,4,4,LL
+4_LL_0193,PROPERTY,Unreason,did not study issues like NATO,Trump,4,LL,26,46,8,13,LL
+4_LL_0194,PROPERTY,Confidence,famously bragged,Trump,4,LL,26,46,1,2,LL
+4_LL_0195,PROPERTY,Negative,"if he understands it now, is not clear",Trump,4,LL,26,45,10,18,LL
+4_LL_0196,PROPERTY,Unreason,"learned military policy from ""the shows""",Trump,4,LL,26,47,10,17,LL
+4_LL_0197,PROPERTY,Unreason,strong opinions,Trump,4,LL,26,46,23,24,LL
+4_LL_0198,ACTOR-I,USA\USA-I,One Republican adviser,,4,LL,27,48,0,2,LL
+4_LL_0199,ACTOR,USA\Trump,Trump,,4,LL,27,48,14,14,LL
+4_LL_0200,PROPERTY,Unreason,doesn't care,Trump,4,LL,27,50,3,5,LL
+4_LL_0201,PROPERTY,Unreason,doesn't know,Trump,4,LL,27,49,2,4,LL
+4_LL_0202,MISC,Reactions on deal,has made no effort since taking office to inform himself,,4,LL,27,48,15,24,LL
+4_LL_0203,PROPERTY,Unreason,made no effort since taking office to inform himself,Trump,4,LL,27,48,16,24,LL
+4_LL_0204,OBJECT,IRN nuclear deal,the Iran deal,,4,LL,27,48,28,30,LL
+4_LL_0205,ACTOR-I,USA\USA-I,John Bolton,,4,LL,28,52,12,13,LL
+4_LL_0206,ACTOR-I,USA\USA-I,Mike Pompeo,,4,LL,28,52,15,16,LL
+4_LL_0207,ACTOR,USA\Trump,Trump,,4,LL,28,51,0,0,LL
+4_LL_0208,ACTOR-I,USA\USA-I,Trump's former top foreign policy advisers,,4,LL,28,51,0,6,LL
+4_LL_0209,COUNTRY,USA,administration,,4,LL,28,52,1,1,LL
+4_LL_0210,PROPERTY,Importance,brought interventionists like John Bolton and Mike Pompeo aboard,USA,4,LL,28,52,9,17,LL
+4_LL_0211,ACTOR-I,USA\USA-I,interventionists,,4,LL,28,52,10,10,LL
+4_LL_0212,PROPERTY,Unsafety,shakeups,USA,4,LL,28,52,2,2,LL
+4_LL_0213,OBJECT,IRN nuclear deal,the Iran deal,,4,LL,28,51,11,13,LL
+4_LL_0214,PROPERTY,Affection,unanimously supported,IRN nuclear deal,4,LL,28,51,7,8,LL
+4_LL_0215,MISC,Reactions on deal,unanimously supported,,4,LL,28,51,7,8,LL
+4_LL_0216,OBJECT,IRN nuclear deal,The Iran deal,,4,LL,29,53,0,2,LL
+4_LL_0217,ACTOR,USA\Trump,Trump,,4,LL,29,53,8,8,LL
+4_LL_0218,COUNTRY,USA,his administration,,4,LL,29,53,18,19,LL
+4_LL_0219,PROPERTY,Unreason,not knowing or caring,Trump,4,LL,29,53,10,13,LL
+4_LL_0220,PROPERTY,Importance,put his administration in a bind,USA,4,LL,29,53,17,22,LL
+4_LL_0221,PROPERTY,Unreason,absurd claim,Trump,4,LL,30,54,31,32,LL
+4_LL_0222,PROPERTY,Unreason,acknowledge that the task perhaps wasn't that simple,Trump,4,LL,30,55,8,16,LL
+4_LL_0223,PROPERTY,Difficulty,complicated,Trump,4,LL,30,56,9,9,LL
+4_LL_0224,PROPERTY,Power,promised he would repeal,Trump,4,LL,30,54,7,10,LL
+4_LL_0225,PROPERTY,Difficulty,wasn't that simple,Trump,4,LL,30,55,13,16,LL
+4_LL_0226,ACTOR,USA\Trump,Trump,,4,LL,31,57,0,0,LL
+4_LL_0227,PROPERTY,Difficulty,began causing heartburn,Trump,4,LL,31,57,10,12,LL
+4_LL_0228,PROPERTY,Aggressor,rip up,Trump,4,LL,31,57,4,5,LL
+4_LL_0229,PROPERTY,Victim,rip up,IRN nuclear deal,4,LL,31,57,4,5,LL
+4_LL_0230,MISC,Reactions on deal,rip up,,4,LL,31,57,4,5,LL
+4_LL_0231,OBJECT,IRN nuclear deal,the Iran agreement,,4,LL,31,57,6,8,LL
+4_LL_0232,COUNTRY,IRN,Iran,,4,LL,32,58,1,1,LL
+4_LL_0233,COUNTRY,IRN,Iran,,4,LL,32,59,19,19,LL
+4_LL_0234,PROPERTY,Lawfulness,Iran was still complying with the agreement,IRN,4,LL,32,59,19,25,LL
+4_LL_0235,PROPERTY,Aggressor,bellicose response,USA-I,4,LL,32,58,29,30,LL
+4_LL_0236,PROPERTY,Lawfulness,continue to comply,IRN,4,LL,32,59,33,35,LL
+4_LL_0237,MISC,Reactions on deal,deliver a bellicose response,,4,LL,32,58,27,30,LL
+4_LL_0238,EVENT,IRN restart nuclear,tested a long-range missile,,4,LL,32,58,2,5,LL
+4_LL_0239,COUNTRY,USA,the United States,,4,LL,32,59,29,31,LL
+4_LL_0240,COUNTRY,USA,the White House press corps,,4,LL,32,58,21,25,LL
+4_LL_0241,OBJECT,IRN nuclear deal,the agreement,,4,LL,32,58,11,12,LL
+4_LL_0242,OBJECT,IRN nuclear deal,the agreement,,4,LL,32,59,24,25,LL
+4_LL_0243,ACTOR-I,USA\USA-I,then-national security adviser Michael Flynn,,4,LL,32,58,14,18,LL
+4_LL_0244,COUNTRY,USA,top National Security Council staff,,4,LL,32,59,5,9,LL
+4_LL_0245,COUNTRY,USA,Congress,,4,LL,33,60,7,7,LL
+4_LL_0246,COUNTRY,IRN,Iran,,4,LL,33,60,16,16,LL
+4_LL_0247,COUNTRY,IRN,Iran,,4,LL,33,62,8,8,LL
+4_LL_0248,ACTOR,USA\Trump,Trump,,4,LL,33,60,9,9,LL
+4_LL_0249,ACTOR,USA\Trump,Trump,,4,LL,33,61,0,0,LL
+4_LL_0250,PROPERTY,Lawfulness,in compliance,IRN,4,LL,33,60,18,19,LL
+4_LL_0251,PROPERTY,Lawfulness,in compliance,IRN,4,LL,33,62,10,11,LL
+4_LL_0252,PROPERTY,Weakness,prevent the reapplication of U.S. sanctions,IRN,4,LL,33,60,21,26,LL
+4_LL_0253,PROPERTY,Power,re-impose sanctions,Trump,4,LL,33,62,24,25,LL
+4_LL_0254,PROPERTY,Refusal,refused to certify,IRN nuclear deal,4,LL,33,62,4,6,LL
+4_LL_0255,MISC,Reactions on deal,refused to certify,,4,LL,33,62,4,6,LL
+4_LL_0256,OBJECT,IRN nuclear deal,the lran deal,,4,LL,33,60,1,3,LL
+4_LL_0257,PROPERTY,Refusal,unhappy,IRN nuclear deal,4,LL,33,61,13,13,LL
+4_LL_0258,ACTOR-I,USA\USA-I,Defense Secretary Jim Mattis,,4,LL,34,64,23,26,LL
+4_LL_0259,ACTOR-I,USA\USA-I,Secretary of State Rex Tillerson,,4,LL,34,64,16,20,LL
+4_LL_0260,ACTOR,USA\Trump,Trump,,4,LL,34,63,7,7,LL
+4_LL_0261,ACTOR,USA\Trump,Trump,,4,LL,34,64,7,7,LL
+4_LL_0262,ACTOR-I,USA\USA-I,Trump's top foreign policy advisers,,4,LL,34,63,7,12,LL
+4_LL_0263,PROPERTY,Aggressor,fired,Trump,4,LL,34,64,9,9,LL
+4_LL_0264,PROPERTY,Victim,fired,USA-I,4,LL,34,64,9,9,LL
+4_LL_0265,ACTOR-I,USA\USA-I,national security adviser H.R. McMaster,,4,LL,34,64,10,14,LL
+4_LL_0266,PROPERTY,Importance,sole major voice,USA-I,4,LL,34,64,29,31,LL
+4_LL_0267,OBJECT,IRN nuclear deal,the Iran deal,,4,LL,34,63,17,19,LL
+4_LL_0268,OBJECT,IRN nuclear deal,the deal,,4,LL,34,64,34,35,LL
+4_LL_0269,PROPERTY,Affection,unanimously supported,IRN nuclear deal,4,LL,34,63,13,14,LL
+4_LL_0270,MISC,Reactions on deal,unanimously supported,,4,LL,34,63,13,14,LL
+4_LL_0271,COUNTRY,IRN,Iran,,4,LL,35,65,23,23,LL
+4_LL_0272,COUNTRY,IRN,Iran,,4,LL,35,66,28,28,LL
+4_LL_0273,ACTOR-I,USA\USA-I,John Bolton,,4,LL,35,65,7,8,LL
+4_LL_0274,ACTOR-I,USA\USA-I,Mike Pompeo,,4,LL,35,66,6,7,LL
+4_LL_0275,ACTOR,USA\Trump,Trump,,4,LL,35,65,0,0,LL
+4_LL_0276,ACTOR-I,USA\USA-I,Trump's new national security adviser,,4,LL,35,65,0,5,LL
+4_LL_0277,PROPERTY,Refusal,abolition of the current regime,IRN; Rohani,4,LL,35,66,32,36,LL
+4_LL_0278,MISC,Reactions on deal,abolition of the current regime,,4,LL,35,66,32,36,LL
+4_LL_0279,ACTOR-I,USA\USA-I,newly confirmed Secretary of State,,4,LL,35,66,1,5,LL
+4_LL_0280,PROPERTY,Other,pro-interventionist views,USA-I,4,LL,35,65,20,21,LL
+4_LL_0281,ACTOR,FRA\Macron,French President Emmanuel Macron,,4,LL,36,67,31,34,LL
+4_LL_0282,COUNTRY,IRN,Iran,,4,LL,36,67,11,11,LL
+4_LL_0283,ACTOR,USA\Trump,Trump,,4,LL,36,67,5,5,LL
+4_LL_0284,ACTOR,USA\Trump,Trump,,4,LL,36,67,51,51,LL
+4_LL_0285,PROPERTY,Power,persuade Trump,Macron,4,LL,36,67,50,51,LL
+4_LL_0286,MISC,Reactions on deal,persuade Trump to remain in the agreement,,4,LL,36,67,50,56,LL
+4_LL_0287,EVENT,IRN restart nuclear,resume its nuclear program,,4,LL,36,67,15,18,LL
+4_LL_0288,COUNTRY,USA,the Trump administration's policy-making lineup,,4,LL,36,67,4,9,LL
+4_LL_0289,COUNTRY,USA,the United States,,4,LL,36,67,20,22,LL
+4_LL_0290,OBJECT,IRN nuclear deal,the agreement,,4,LL,36,67,55,56,LL
+4_LL_0291,PROPERTY,Aggressor,threat,IRN,4,LL,36,67,13,13,LL
+4_LL_0292,PROPERTY,Importance,top priority,IRN nuclear deal,4,LL,36,67,27,28,LL
+4_LL_0293,COUNTRY,IRN,Iran,,4,LL,37,68,40,40,LL
+4_LL_0294,ACTOR,FRA\Macron,Macron,,4,LL,37,68,7,7,LL
+4_LL_0295,ACTOR,USA\Trump,Trump,,4,LL,37,68,12,12,LL
+4_LL_0296,OBJECT,IRN new deal,adding on agreements that dealt with missile technology and Iran's role in funding regional conflicts,,4,LL,37,68,31,46,LL
+4_LL_0297,PROPERTY,Good quality,bigger and better,IRN new deal,4,LL,37,68,27,29,LL
+4_LL_0298,PROPERTY,Positive,could be made bigger and better,IRN nuclear deal,4,LL,37,68,24,29,LL
+4_LL_0299,MISC,Reactions on deal,selling the idea that the deal could be made bigger and better,,4,LL,37,68,18,29,LL
+4_LL_0300,OBJECT,IRN nuclear deal,the deal,,4,LL,37,68,22,23,LL
+4_LL_0301,PROPERTY,Power,tried to appeal to Trump's fondness for largeness,Macron,4,LL,37,68,8,16,LL
+4_LL_0302,ACTOR,USA\Trump,Trump,,4,LL,38,71,0,0,LL
+4_LL_0303,ACTOR-I,USA\USA-I,U.S. allies,,4,LL,38,71,4,5,LL
+4_LL_0304,PROPERTY,Other,Whether their words have any effect remains to be seen,Macron,4,LL,38,70,0,9,LL
+4_LL_0305,PROPERTY,Unreason,ignored,Trump,4,LL,38,71,3,3,LL
+4_LL_0306,PROPERTY,Refusal,popularity has plummeted,Trump,4,LL,38,71,28,30,LL
+4_LL_0307,ACTOR-I,USA\USA-I,those close to him,,4,LL,38,71,37,40,LL
+4_LL_0308,ACTOR,USA\Trump,Trump,,4,LL,39,72,11,11,LL
+4_LL_0309,ACTOR-I,USA\USA-I,Tyler,,4,LL,39,72,24,24,LL
+4_LL_0310,PROPERTY,Reason,preserving the deal without losing any support,Trump,4,LL,39,72,15,21,LL
+4_LL_0311,OBJECT,IRN nuclear deal,the deal,,4,LL,39,72,16,17,LL
+4_LL_0312,ACTOR-I,USA\USA-I,the former campaign aide to Cruz,,4,LL,39,72,26,31,LL
+4_LL_0313,OBJECT,IRN nuclear deal,The Iran deal,,4,LL,40,73,1,3,LL
+4_LL_0314,ACTOR,USA\Trump,Trump,,4,LL,40,74,1,1,LL
+4_LL_0315,ACTOR,USA\Trump,Trump,,4,LL,40,75,6,6,LL
+4_LL_0316,ACTOR-I,USA\USA-I,Tyler,,4,LL,40,73,21,21,LL
+4_LL_0317,PROPERTY,Power,Whatever Trump says goes,Trump,4,LL,40,75,5,8,LL
+4_LL_0318,PROPERTY,Importance,important,IRN nuclear deal,4,LL,40,73,7,7,LL

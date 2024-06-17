@@ -1,0 +1,196 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+5_LL_0000,ACTOR,USA\Trump,Donald Trump,,5,LL,0,0,0,1,LL
+5_LL_0001,EVENT,Visit Trump UK,Donald Trump's UK Visit,,5,LL,0,0,0,4,LL
+5_LL_0002,EVENT,Protest,Mass Protests,,5,LL,0,0,10,11,LL
+5_LL_0003,PROPERTY,Refusal,Mass Protests Planned,Trump,5,LL,0,0,10,12,LL
+5_LL_0004,OBJECT,GBR\London,London,,5,LL,1,1,9,9,LL
+5_LL_0005,ACTOR,USA\Trump,The US President,,5,LL,1,1,0,2,LL
+5_LL_0006,PROPERTY,Safety,definitely be coming,Visit Trump UK,5,LL,1,1,5,7,LL
+5_LL_0007,EVENT,Visit Trump UK,definitely be coming to London,,5,LL,1,1,5,9,LL
+5_LL_0008,ACTOR,USA\Trump,Donald Trump,,5,LL,2,2,0,1,LL
+5_LL_0009,OBJECT,GBR\London,London,,5,LL,2,2,4,4,LL
+5_LL_0010,PROPERTY,Power,has insisted,GBR,5,LL,2,2,19,20,LL
+5_LL_0011,EVENT,Protest,protests,,5,LL,2,2,11,11,LL
+5_LL_0012,COUNTRY,GBR,the US ambassador to the UK,,5,LL,2,2,13,18,LL
+5_LL_0013,PROPERTY,Aggressor,the threat of protests,GBR-Misc,5,LL,2,2,8,11,LL
+5_LL_0014,OBJECT,GBR\London,London,,5,LL,3,3,20,20,LL
+5_LL_0015,ACTOR,USA\Trump,Trump,,5,LL,3,3,13,13,LL
+5_LL_0016,PROPERTY,Safety,definitely be coming,Visit Trump UK,5,LL,3,3,16,18,LL
+5_LL_0017,PROPERTY,Confidence,knows what he wants,Trump,5,LL,3,5,1,4,LL
+5_LL_0018,PROPERTY,Power,speaks in a very clear,Trump,5,LL,3,5,9,13,LL
+5_LL_0019,PROPERTY,Other,speaks in a very clear and unusual way,Trump,5,LL,3,5,9,16,LL
+5_LL_0020,COUNTRY,GBR,the US ambassador Woody Johnson,,5,LL,3,3,7,11,LL
+5_LL_0021,PROPERTY,Aggressor,the threat of widespread protests,GBR-Misc,5,LL,3,3,1,5,LL
+5_LL_0022,PROPERTY,Unreason,very thick-skinned,Trump,5,LL,3,4,10,11,LL
+5_LL_0023,EVENT,Protest,widespread protests,,5,LL,3,3,4,5,LL
+5_LL_0024,ACTOR,GBR\GBR-Misc\Khan,London's mayor,,5,LL,4,6,7,9,LL
+5_LL_0025,ACTOR,GBR\GBR-Misc\Khan,Sadiq Khan,,5,LL,4,6,11,12,LL
+5_LL_0026,ACTOR,USA\Trump,The US President,,5,LL,4,6,0,2,LL
+5_LL_0027,ACTOR-I,GBR\GBR-Misc,demonstrators,,5,LL,4,6,20,20,LL
+5_LL_0028,PROPERTY,Victim,had been warned,Trump,5,LL,4,6,3,5,LL
+5_LL_0029,PROPERTY,Aggressor,had been warned by,GBR-Misc,5,LL,4,6,3,6,LL
+5_LL_0030,PROPERTY,Aggressor,should expect to see demonstrators,GBR-Misc,5,LL,4,6,16,20,LL
+5_LL_0031,COUNTRY,GBR,the UK,,5,LL,4,6,28,29,LL
+5_LL_0032,EVENT,Visit Trump UK,"working visit"" to the UK",,5,LL,4,6,24,29,LL
+5_LL_0033,COUNTRY,GBR,Johnson,,5,LL,5,7,0,0,LL
+5_LL_0034,OBJECT,GBR\London,London,,5,LL,5,8,10,10,LL
+5_LL_0035,PROPERTY,Importance,all hands on deck,Visit Trump UK,5,LL,5,7,10,13,LL
+5_LL_0036,PROPERTY,Safety,definitely be coming,Visit Trump UK,5,LL,5,8,6,8,LL
+5_LL_0037,PROPERTY,Importance,preparations are made,Visit Trump UK,5,LL,5,7,16,18,LL
+5_LL_0038,EVENT,Visit Trump UK,the visit,,5,LL,5,7,20,21,LL
+5_LL_0039,ACTOR,USA\Trump,Trump,,5,LL,6,9,2,2,LL
+5_LL_0040,PROPERTY,Other,suggest,Visit Trump UK,5,LL,6,9,1,1,LL
+5_LL_0041,EVENT,Visit Trump UK,will meet the Queen during the visit,,5,LL,6,9,3,9,LL
+5_LL_0042,COUNTRY,GBR,Downing Street,,5,LL,7,10,0,1,LL
+5_LL_0043,ACTOR,GBR\May,Theresa May,,5,LL,7,10,6,7,LL
+5_LL_0044,ACTOR,USA\Trump,Trump,,5,LL,7,10,13,13,LL
+5_LL_0045,PROPERTY,Power,would hold bi-lateral talks,May,5,LL,7,10,8,11,LL
+5_LL_0046,EVENT,Visit Trump UK,Trump's visit,,5,LL,8,11,0,2,LL
+5_LL_0047,PROPERTY,Poor quality,fall short of,Visit Trump UK,5,LL,8,11,4,6,LL
+5_LL_0048,EVENT,Visit Trump UK,"fall short of the full-blown ""state visit""",,5,LL,8,11,4,12,LL
+5_LL_0049,PROPERTY,Importance,full-blown,State Visit,5,LL,8,11,8,8,LL
+5_LL_0050,PROPERTY,Refusal,sparked outrage,Visit Trump UK,5,LL,8,11,15,16,LL
+5_LL_0051,EVENT,State Visit,state visit,,5,LL,8,11,10,11,LL
+5_LL_0052,OBJECT,GBR\London,London,,5,LL,9,12,16,16,LL
+5_LL_0053,OBJECT,GBR\London,London,,5,LL,9,12,26,26,LL
+5_LL_0054,ACTOR,GBR\GBR-Misc\Khan,London mayor Khan,,5,LL,9,12,16,18,LL
+5_LL_0055,ACTOR,USA\Trump,President Trump,,5,LL,9,12,28,29,LL
+5_LL_0056,PROPERTY,Power,began to be organised,GBR-Misc,5,LL,9,12,4,7,LL
+5_LL_0057,EVENT,Visit Trump UK,comes to London,,5,LL,9,12,24,26,LL
+5_LL_0058,PROPERTY,Affection,has always chosen unity over division and hope over fear,London,5,LL,9,12,38,47,LL
+5_LL_0059,PROPERTY,Aggressor,long-threatened mass demonstrations,GBR-Misc,5,LL,9,12,1,3,LL
+5_LL_0060,EVENT,Protest,long-threatened mass demonstrations,,5,LL,9,12,1,3,LL
+5_LL_0061,OBJECT,GBR\London,open and diverse city,,5,LL,9,12,33,36,LL
+5_LL_0062,PROPERTY,Affection,open and diverse city,London,5,LL,9,12,33,36,LL
+5_LL_0063,PROPERTY,Power,stated they would join in,GBR-Misc,5,LL,9,12,10,14,LL
+5_LL_0064,OBJECT,GBR\London,Londoners,,5,LL,10,13,8,8,LL
+5_LL_0065,PROPERTY,Reason,hold their liberal values of freedom of speech very dear,London,5,LL,10,13,9,18,LL
+5_LL_0066,COUNTRY,GBR,Britain,,5,LL,11,14,18,18,LL
+5_LL_0067,EVENT,Visit Trump UK,Trump's trip,,5,LL,11,14,3,5,LL
+5_LL_0068,PROPERTY,Refusal,prompted a huge backlash,Visit Trump UK,5,LL,11,14,25,28,LL
+5_LL_0069,EVENT,State Visit,state visit,,5,LL,11,14,14,15,LL
+5_LL_0070,ACTOR,USA\Trump,the president,,5,LL,11,14,8,9,LL
+5_LL_0071,PROPERTY,Unsafety,whether it would actually happen,State Visit,5,LL,11,14,32,36,LL
+5_LL_0072,COUNTRY,GBR,Britain,,5,LL,12,15,24,24,LL
+5_LL_0073,COUNTRY,USA,US,,5,LL,12,15,13,13,LL
+5_LL_0074,PROPERTY,Refusal,prompted condemnation,Trump,5,LL,12,15,21,22,LL
+5_LL_0075,ACTOR,GBR\GBR-Misc\Khan,Khan,,5,LL,13,16,8,8,LL
+5_LL_0076,ACTOR,GBR\GBR-Misc\Khan,Khan,,5,LL,13,17,0,0,LL
+5_LL_0077,ACTOR,USA\Trump,Trump,,5,LL,13,16,0,0,LL
+5_LL_0078,ACTOR,USA\Trump,Trump,,5,LL,13,17,3,3,LL
+5_LL_0079,PROPERTY,Unreason,"behaving ""like a 12-year-old""",Trump,5,LL,13,17,5,10,LL
+5_LL_0080,PROPERTY,Aggressor,stoked a war of words,Trump,5,LL,13,16,2,6,LL
+5_LL_0081,PROPERTY,Victim,stoked a war of words with,GBR-Misc,5,LL,13,16,2,7,LL
+5_LL_0082,ACTOR,GBR\GBR-Misc\Khan,the Mayor,,5,LL,13,16,11,12,LL
+5_LL_0083,ACTOR,USA\Trump,Trump,,5,LL,14,18,16,16,LL
+5_LL_0084,PROPERTY,Other,changed their attitudes towards,GBR,5,LL,14,18,12,15,LL
+5_LL_0085,COUNTRY,GBR,senior British politicians,,5,LL,14,18,8,10,LL
+5_LL_0086,COUNTRY,GBR,Boris Johnson,,5,LL,15,19,0,1,LL
+5_LL_0087,ACTOR,USA\Trump,Donald Trump,,5,LL,15,19,28,29,LL
+5_LL_0088,PROPERTY,Affection,fantastic,Visit Trump UK,5,LL,15,19,42,42,LL
+5_LL_0089,EVENT,Visit Trump UK,now-president's trip,,5,LL,15,19,37,39,LL
+5_LL_0090,PROPERTY,Unsafety,risk of meeting Donald Trump,Trump,5,LL,15,19,25,29,LL
+5_LL_0091,COUNTRY,GBR,British Ambassador to the US,,5,LL,16,20,0,4,LL
+5_LL_0092,ACTOR,GBR\May,Prime Minister May,,5,LL,16,20,21,23,LL
+5_LL_0093,COUNTRY,GBR,Sir Kim Darroch,,5,LL,16,20,5,7,LL
+5_LL_0094,ACTOR,USA\Trump,Trump,,5,LL,16,20,14,14,LL
+5_LL_0095,PROPERTY,Affection,delighted,Visit Trump UK,5,LL,16,20,12,12,LL
+5_LL_0096,PROPERTY,Power,hold bilateral talks,Trump; May,5,LL,16,20,17,19,LL
+5_LL_0097,EVENT,Visit Trump UK,one-day visit,,5,LL,16,20,27,28,LL
+5_LL_0098,COUNTRY,GBR,Britain,,5,LL,17,21,11,11,LL
+5_LL_0099,EVENT,Visit Trump UK,The trip,,5,LL,17,21,0,1,LL
+5_LL_0100,ACTOR,USA\Trump,billionaire tycoon,,5,LL,17,21,5,6,LL
+5_LL_0101,PROPERTY,Power,the billionaire tycoon,Trump,5,LL,17,21,4,6,LL
+5_LL_0102,EVENT,Visit Trump UK,the billionaire tycoon's first visit to Britain,,5,LL,17,21,4,11,LL
+5_LL_0103,ACTOR-I,GBR\GBR-Misc,"28,000 attendees",,5,LL,18,22,16,17,LL
+5_LL_0104,PROPERTY,Importance,Within an hour,Protest,5,LL,18,22,0,2,LL
+5_LL_0105,PROPERTY,Affection,dedicated to,Protest,5,LL,18,22,10,11,LL
+5_LL_0106,EVENT,Protest,protest,,5,LL,18,22,13,13,LL
+5_LL_0107,EVENT,Visit Trump UK,come to the UK,,5,LL,19,23,17,20,LL
+5_LL_0108,EVENT,Visit Trump UK,"face the biggest rally ""ever seen""",,5,LL,19,23,6,13,LL
+5_LL_0109,COUNTRY,GBR,the UK,,5,LL,19,23,19,20,LL
+5_LL_0110,ACTOR-I,GBR\GBR-I,A Number 10 spokesperson,,5,LL,20,24,0,3,LL
+5_LL_0111,ACTOR,USA\Trump,The President of the United States,,5,LL,20,24,7,12,LL
+5_LL_0112,EVENT,Visit Trump UK,his visit,,5,LL,20,25,10,11,LL
+5_LL_0113,ACTOR,GBR\May,the Prime Minister,,5,LL,20,25,6,8,LL
+5_LL_0114,COUNTRY,GBR,the UK,,5,LL,20,24,15,16,LL
+5_LL_0115,COUNTRY,USA,the United States,,5,LL,20,24,10,12,LL
+5_LL_0116,EVENT,Visit Trump UK,visit the UK,,5,LL,20,24,14,16,LL
+5_LL_0117,PROPERTY,Power,will hold bilateral talks,Trump,5,LL,20,25,1,4,LL
+5_LL_0118,PROPERTY,Safety,will visit the UK,Visit Trump UK,5,LL,20,24,13,16,LL
+5_LL_0119,COUNTRY,GBR,Downing Street,,5,LL,21,27,0,1,LL
+5_LL_0120,ACTOR,USA\Trump,Trump,,5,LL,21,27,9,9,LL
+5_LL_0121,PROPERTY,Other,had previously declined to comment,GBR,5,LL,21,27,2,6,LL
+5_LL_0122,EVENT,Visit Trump UK,make a summer visit to Britain,,5,LL,21,27,11,16,LL
+5_LL_0123,COUNTRY,GBR,to Britain,,5,LL,21,27,15,16,LL
+5_LL_0124,COUNTRY,USA,American embassy,,5,LL,22,28,13,14,LL
+5_LL_0125,ACTOR,USA\Trump,Trump,,5,LL,22,28,3,3,LL
+5_LL_0126,ACTION,Break UK visits,cancelled a visit to London,,5,LL,22,28,4,8,LL
+5_LL_0127,ACTION,Break UK visits,ditched the trip,,5,LL,22,28,18,20,LL
+5_LL_0128,PROPERTY,Victim,"got a ""bad deal""",USA,5,LL,22,28,25,30,LL
+5_LL_0129,COUNTRY,USA,the US,,5,LL,22,28,22,23,LL
+5_LL_0130,ACTOR,GBR\May,Theresa May,,5,LL,23,31,15,16,LL
+5_LL_0131,ACTOR,USA\Trump,Trump,,5,LL,23,31,8,8,LL
+5_LL_0132,PROPERTY,Importance,could guarantee he would not face protests,Protest,5,LL,23,31,27,33,LL
+5_LL_0133,EVENT,Protest,protests,,5,LL,23,31,33,33,LL
+5_LL_0134,ACTOR,GBR\May,the Prime Minister,,5,LL,23,31,11,13,LL
+5_LL_0135,ACTION,Break UK visits,would not visit the UK,,5,LL,23,31,20,24,LL
+5_LL_0136,ACTOR-I,GBR\GBR-Misc,Left-wing commentator,,5,LL,24,32,0,1,LL
+5_LL_0137,ACTOR-I,GBR\GBR-Misc,Owen Jones,,5,LL,24,32,2,3,LL
+5_LL_0138,PROPERTY,Refusal,criticism of the US President,Trump,5,LL,24,32,11,15,LL
+5_LL_0139,PROPERTY,Confidence,has been vocal,GBR-Misc,5,LL,24,32,6,8,LL
+5_LL_0140,ACTOR,USA\Trump,the US President,,5,LL,24,32,13,15,LL
+5_LL_0141,EVENT,Protest,the protests,,5,LL,24,32,22,23,LL
+5_LL_0142,PROPERTY,Confidence,would be leading the protests,GBR-Misc,5,LL,24,32,19,23,LL
+5_LL_0143,PROPERTY,Power,would be leading the protests,GBR-Misc,5,LL,24,32,19,23,LL
+5_LL_0144,PROPERTY,Aggressor,anti-Muslim hatred,Trump,5,LL,25,33,17,18,LL
+5_LL_0145,PROPERTY,Aggressor,bigotry,Trump,5,LL,25,33,14,14,LL
+5_LL_0146,PROPERTY,Aggressor,misogyny,Trump,5,LL,25,33,21,21,LL
+5_LL_0147,ACTOR,USA\Trump,this man,,5,LL,25,33,22,23,LL
+5_LL_0148,PROPERTY,Importance,time to speak out,Protest,5,LL,25,33,8,11,LL
+5_LL_0149,ACTOR,USA\Trump,Trump,,5,LL,26,34,22,22,LL
+5_LL_0150,PROPERTY,Refusal,abhor everything that Trump stands for,Trump,5,LL,26,34,19,24,LL
+5_LL_0151,COUNTRY,USA,the United States,,5,LL,26,34,13,15,LL
+5_LL_0152,COUNTRY,GBR,this country,,5,LL,26,34,6,7,LL
+5_LL_0153,PROPERTY,Affection,want a good relationship with,USA,5,LL,26,34,8,12,LL
+5_LL_0154,OBJECT,GBR\London,London,,5,LL,27,35,13,13,LL
+5_LL_0155,ACTOR,USA\Trump,Trump,,5,LL,27,35,37,37,LL
+5_LL_0156,PROPERTY,Power,issued by,Trump,5,LL,27,35,35,36,LL
+5_LL_0157,ACTOR-I,GBR\GBR-Misc,tens of thousands of demonstrators,,5,LL,27,35,3,7,LL
+5_LL_0158,COUNTRY,GBR,the UK,,5,LL,27,35,20,21,LL
+5_LL_0159,PROPERTY,Importance,throughout the UK,Protest,5,LL,27,35,19,21,LL
+5_LL_0160,EVENT,Protest,took to the streets,,5,LL,27,35,8,11,LL
+5_LL_0161,PROPERTY,Refusal,waving banners and placards - in response to,Trump,5,LL,27,35,23,30,LL
+5_LL_0162,ACTOR-I,GBR\GBR-Misc,David Lammy,,5,LL,28,36,11,12,LL
+5_LL_0163,ACTOR-I,GBR\GBR-Misc,Labour MP,,5,LL,28,36,9,10,LL
+5_LL_0164,EVENT,Visit Trump UK,the Trump visit,,5,LL,28,36,1,3,LL
+5_LL_0165,ACTOR-I,GBR\GBR-I,Foreign Affairs spokesperson,,5,LL,29,37,8,10,LL
+5_LL_0166,ACTOR-I,GBR\GBR-Misc,Jo Swinson,,5,LL,29,37,0,1,LL
+5_LL_0167,ACTOR-I,GBR\GBR-Misc,Liberal Democrat deputy leader,,5,LL,29,37,3,6,LL
+5_LL_0168,PROPERTY,Importance,must not be met with scaled-down protests,Visit Trump UK,5,LL,29,37,16,22,LL
+5_LL_0169,EVENT,Protest,scaled-down protests,,5,LL,29,37,21,22,LL
+5_LL_0170,EVENT,Visit Trump UK,"the ""scaled-down trip",,5,LL,29,37,12,15,LL
+5_LL_0171,EVENT,Protest,Protesting against,,5,LL,30,38,4,5,LL
+5_LL_0172,ACTOR,USA\Trump,a man,,5,LL,30,38,6,7,LL
+5_LL_0173,PROPERTY,Aggressor,dangerous,Trump,5,LL,30,38,9,9,LL
+5_LL_0174,PROPERTY,Aggressor,has abused and denigrated,Trump,5,LL,30,39,13,16,LL
+5_LL_0175,PROPERTY,Aggressor,misogynistic,Trump,5,LL,30,38,11,11,LL
+5_LL_0176,EVENT,Protest,opportunity to stand in solidarity,,5,LL,30,39,3,7,LL
+5_LL_0177,PROPERTY,Aggressor,racist views,Trump,5,LL,30,38,13,14,LL
+5_LL_0178,PROPERTY,Refusal,stand in solidarity with,Trump,5,LL,30,39,5,8,LL
+5_LL_0179,ACTOR-I,GBR\GBR-Misc,Kate Allen,,5,LL,31,40,0,1,LL
+5_LL_0180,ACTOR-I,GBR\GBR-Misc,director of Amnesty International UK,,5,LL,31,40,3,7,LL
+5_LL_0181,PROPERTY,Confidence,very definitely be making our voices heard,GBR-Misc,5,LL,31,40,18,24,LL
+5_LL_0182,PROPERTY,Power,very definitely be making our voices heard,GBR-Misc,5,LL,31,40,18,24,LL
+5_LL_0183,ACTOR-I,GBR\GBR-Misc,"""thousands of our supporters""",,5,LL,31,40,10,15,LL
+5_LL_0184,PROPERTY,Importance,deeply disturbing,Trump,5,LL,32,41,16,17,LL
+5_LL_0185,PROPERTY,Aggressor,"harmful policies on refugees, women's rights and climate change",Trump,5,LL,32,41,35,45,LL
+5_LL_0186,PROPERTY,Dishonor,human rights roll-back,Trump,5,LL,32,41,18,20,LL
+5_LL_0187,PROPERTY,Unreason,reckless,Trump,5,LL,32,41,29,29,LL
+5_LL_0188,PROPERTY,Aggressor,reckless announcement on,Trump,5,LL,32,41,29,31,LL
+5_LL_0189,PROPERTY,Aggressor,the discriminatory travel ban,Trump,5,LL,32,41,23,26,LL
+5_LL_0190,PROPERTY,Importance,an important opportunity,Visit Trump UK,5,LL,33,42,8,10,LL
+5_LL_0191,PROPERTY,Positive,an important opportunity,Visit Trump UK,5,LL,33,42,8,10,LL
+5_LL_0192,EVENT,Protest,protest,,5,LL,33,42,22,22,LL
+5_LL_0193,PROPERTY,Honor,underline the importance of free speech and the right to protest,GBR-Misc,5,LL,33,42,12,22,LL
+5_LL_0194,EVENT,Visit Trump UK,visit to Britain,,5,LL,33,42,3,5,LL

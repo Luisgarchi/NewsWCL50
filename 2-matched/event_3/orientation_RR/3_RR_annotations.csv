@@ -1,0 +1,140 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+3_RR_0000,PROPERTY,Weakness,DESPERATION,Democrats,3,RR,0,0,0,0,RR
+3_RR_0001,GROUP,USA\Democrats,DNC,,3,RR,0,0,2,2,RR
+3_RR_0002,COUNTRY,RUS,Russia,,3,RR,0,0,8,8,RR
+3_RR_0003,EVENT,Trump campaign,Trump campaign,,3,RR,0,0,10,11,RR
+3_RR_0004,MISC,RUS interference into USA election,collusion,,3,RR,0,0,13,13,RR
+3_RR_0005,PROPERTY,Power,files,Democrats,3,RR,0,0,3,3,RR
+3_RR_0006,PROPERTY,Importance,multi-million dollar,Lawsuit,3,RR,0,0,4,5,RR
+3_RR_0007,MISC,Lawsuit,multi-million dollar lawsuit,,3,RR,0,0,4,6,RR
+3_RR_0008,COUNTRY,RUS,Russian government,,3,RR,1,1,7,8,RR
+3_RR_0009,GROUP,USA\Democrats,The Democratic National Committee,,3,RR,1,1,0,3,RR
+3_RR_0010,GROUP,Wikileaks,WikiLeaks,,3,RR,1,1,15,15,RR
+3_RR_0011,MISC,Lawsuit,a desperate attempt to keep a collusion narrative going,,3,RR,1,1,28,36,RR
+3_RR_0012,PROPERTY,Other,allegedly,Lawsuit,3,RR,1,1,17,17,RR
+3_RR_0013,MISC,RUS interference into USA election,allegedly disrupting the 2016 campaign,,3,RR,1,1,17,21,RR
+3_RR_0014,PROPERTY,Weakness,desperate,Democrats,3,RR,1,1,29,29,RR
+3_RR_0015,MISC,Lawsuit,is suing,,3,RR,1,1,4,5,RR
+3_RR_0016,PROPERTY,Importance,is suing,Democrats,3,RR,1,1,4,5,RR
+3_RR_0017,EVENT,USA election 2016,the 2016 campaign,,3,RR,1,1,19,21,RR
+3_RR_0018,EVENT,Trump campaign,the Trump campaign,,3,RR,1,1,10,12,RR
+3_RR_0019,COUNTRY,USA,Deputy Attorney General Rod Rosenstein,,3,RR,2,2,9,13,RR
+3_RR_0020,ACTOR,USA\Republicans\Trump,President Trump,,3,RR,2,2,16,17,RR
+3_RR_0021,MISC,RUS interference into USA election,Russian meddling and collusion,,3,RR,2,2,29,32,RR
+3_RR_0022,MISC,Lawsuit,The multi-million dollar lawsuit,,3,RR,2,2,0,3,RR
+3_RR_0023,PROPERTY,Importance,multi-million dollar,Lawsuit,3,RR,2,2,1,2,RR
+3_RR_0024,PROPERTY,Positive,not the target,Trump,3,RR,2,2,20,22,RR
+3_RR_0025,GROUP,USA\Republicans,personal attorney Michael D. Cohen,,3,RR,2,2,43,47,RR
+3_RR_0026,COUNTRY,USA,the special counsel,,3,RR,2,2,25,27,RR
+3_RR_0027,EVENT,RUS investigation,the special counsel's Russian meddling and collusion probe,,3,RR,2,2,25,33,RR
+3_RR_0028,GROUP,USA\Democrats,DNC,,3,RR,3,3,10,10,RR
+3_RR_0029,GROUP,USA\Democrats,Rep. Adam Schiff,,3,RR,3,3,40,42,RR
+3_RR_0030,GROUP,USA\Republicans,Rep. Adam Schiff,,3,RR,3,3,40,42,RR
+3_RR_0031,ACTOR,USA\Republicans\Trump,Trump,,3,RR,3,3,18,18,RR
+3_RR_0032,GROUP,USA\Republicans,a defendant,,3,RR,3,3,20,21,RR
+3_RR_0033,PROPERTY,Other,a theory,RUS interference into USA election,3,RR,3,3,36,37,RR
+3_RR_0034,MISC,RUS interference into USA election,a theory,,3,RR,3,3,36,37,RR
+3_RR_0035,PROPERTY,Other,alleges,Lawsuit,3,RR,3,3,24,24,RR
+3_RR_0036,MISC,RUS interference into USA election,collusion,,3,RR,3,3,34,34,RR
+3_RR_0037,PROPERTY,Positive,does not name Trump as a defendant,Trump,3,RR,3,3,15,21,RR
+3_RR_0038,MISC,Lawsuit,the DNC's lawsuit,,3,RR,3,3,9,12,RR
+3_RR_0039,EVENT,Trump campaign,the campaign,,3,RR,3,3,30,31,RR
+3_RR_0040,COUNTRY,RUS,various Russian contacts,,3,RR,3,3,26,28,RR
+3_RR_0041,ACTOR,USA\Republicans\Trump,Trump,,3,RR,4,4,31,31,RR
+3_RR_0042,ACTOR-I,USA\USA-Misc,Trump critics,,3,RR,4,4,31,32,RR
+3_RR_0043,MISC,Lawsuit,allegations of obstruction of justice,,3,RR,4,4,19,23,RR
+3_RR_0044,COUNTRY,USA,former FBI Director James Comey,,3,RR,4,4,3,7,RR
+3_RR_0045,PROPERTY,Weakness,had hoped for,USA-Misc,3,RR,4,4,33,35,RR
+3_RR_0046,PROPERTY,Importance,highly anticipated,USA,3,RR,4,4,14,15,RR
+3_RR_0047,PROPERTY,Unimportance,not yielded the smoking gun,USA,3,RR,4,4,26,30,RR
+3_RR_0048,MISC,RUS interference into USA election,obstruction of justice,,3,RR,4,4,21,23,RR
+3_RR_0049,COUNTRY,USA,Comey,,3,RR,5,5,30,30,RR
+3_RR_0050,PROPERTY,Unreason,disturbing,Trump,3,RR,5,5,13,13,RR
+3_RR_0051,PROPERTY,Unlawfulness,fall short of being illegal,Trump,3,RR,5,5,23,27,RR
+3_RR_0052,PROPERTY,Aggressor,violating basic norms of ethical leadership,Trump,3,RR,5,5,15,20,RR
+3_RR_0053,GROUP,USA\Democrats,Democrats,,3,RR,6,7,0,0,RR
+3_RR_0054,PROPERTY,Weakness,have been soliciting donations,Democrats,3,RR,6,7,3,6,RR
+3_RR_0055,PROPERTY,Economy positive,helping to raise funds,Lawsuit,3,RR,6,6,17,20,RR
+3_RR_0056,PROPERTY,Weakness,hoping that,Democrats,3,RR,6,6,6,7,RR
+3_RR_0057,PROPERTY,Power,invigorate the Russian collusion theory,Lawsuit,3,RR,6,6,11,15,RR
+3_RR_0058,GROUP,USA\Democrats,the DNC,,3,RR,6,6,2,3,RR
+3_RR_0059,EVENT,RUS investigation,the Mueller probe,,3,RR,6,7,10,12,RR
+3_RR_0060,MISC,RUS interference into USA election,the Russian collusion theory,,3,RR,6,6,12,15,RR
+3_RR_0061,MISC,Lawsuit,the lawsuit,,3,RR,6,6,8,9,RR
+3_RR_0062,ACTOR,USA\Democrats\Clinton,Hillary Clinton,,3,RR,7,8,35,36,RR
+3_RR_0063,GROUP,USA\Democrats,The DNC,,3,RR,7,8,0,1,RR
+3_RR_0064,ACTOR,USA\Republicans\Trump,Trump,,3,RR,7,8,18,18,RR
+3_RR_0065,ACTOR,USA\Republicans\Trump,Trump,,3,RR,7,8,39,39,RR
+3_RR_0066,MISC,Lawsuit,a complaint,,3,RR,7,8,6,7,RR
+3_RR_0067,PROPERTY,Other,according to,Lawsuit,3,RR,7,8,55,56,RR
+3_RR_0068,PROPERTY,Aggressor,conspired,Republicans; RUS,3,RR,7,8,22,22,RR
+3_RR_0069,PROPERTY,Victim,conspired,Clinton,3,RR,7,8,22,22,RR
+3_RR_0070,PROPERTY,Power,disseminating them,Republicans; RUS,3,RR,7,8,52,53,RR
+3_RR_0071,PROPERTY,Aggressor,hacking the email servers,Republicans; RUS,3,RR,7,8,42,45,RR
+3_RR_0072,MISC,RUS interference into USA election,hacking the email servers of the Democratic National Committee and disseminating them,,3,RR,7,8,42,53,RR
+3_RR_0073,PROPERTY,Other,is alleging,Democrats,3,RR,7,8,2,3,RR
+3_RR_0074,COUNTRY,RUS,military spy agency,,3,RR,7,8,30,32,RR
+3_RR_0075,GROUP,USA\Democrats,the Democratic National Committee,,3,RR,7,8,47,50,RR
+3_RR_0076,COUNTRY,RUS,the Russian government,,3,RR,7,8,25,27,RR
+3_RR_0077,GROUP,USA\Republicans,top Trump campaign officials,,3,RR,7,8,17,20,RR
+3_RR_0078,MISC,RUS interference into USA election,"""conspired"" with the Russian government and its military spy agency to hurt Hillary Clinton and help Trump",,3,RR,7,8,21,39,RR
+3_RR_0079,GROUP,USA\Democrats,DNC Chairman,,3,RR,8,9,0,1,RR
+3_RR_0080,ACTOR,USA\Republicans\Trump,Donald Trump,,3,RR,8,9,34,35,RR
+3_RR_0081,EVENT,Trump campaign,Donald Trump's campaign,,3,RR,8,9,34,37,RR
+3_RR_0082,COUNTRY,RUS,Russia,,3,RR,8,9,16,16,RR
+3_RR_0083,GROUP,USA\Democrats,Tom Perez,,3,RR,8,9,2,3,RR
+3_RR_0084,EVENT,Trump campaign,a willing and active partner,,3,RR,8,9,28,32,RR
+3_RR_0085,PROPERTY,Power,active partner,Trump campaign,3,RR,8,9,31,32,RR
+3_RR_0086,PROPERTY,Importance,all-out,RUS interference into USA election,3,RR,8,9,19,19,RR
+3_RR_0087,PROPERTY,Victim,an all-out assault on,USA,3,RR,8,9,18,21,RR
+3_RR_0088,MISC,RUS interference into USA election,an all-out assault on our democracy,,3,RR,8,9,18,23,RR
+3_RR_0089,PROPERTY,Aggressor,launched an all-out assault,RUS,3,RR,8,9,17,20,RR
+3_RR_0090,COUNTRY,USA,our democracy,,3,RR,8,9,22,23,RR
+3_RR_0091,EVENT,USA election 2016,the 2016 presidential campaign,,3,RR,8,9,11,14,RR
+3_RR_0092,PROPERTY,Affection,willing and active partner,RUS,3,RR,8,9,29,32,RR
+3_RR_0093,COUNTRY,RUS,a hostile foreign power,,3,RR,9,10,23,26,RR
+3_RR_0094,ACTOR,USA\Republicans\Trump,a nominee for President of the United States,,3,RR,9,10,12,19,RR
+3_RR_0095,MISC,RUS interference into USA election,an act of unprecedented treachery,,3,RR,9,10,3,7,RR
+3_RR_0096,PROPERTY,Power,bolster its own chance,Republicans,3,RR,9,10,28,31,RR
+3_RR_0097,PROPERTY,Aggressor,hostile,RUS,3,RR,9,10,24,24,RR
+3_RR_0098,EVENT,Trump campaign,the campaign of a nominee for President of the United States,,3,RR,9,10,9,19,RR
+3_RR_0099,PROPERTY,Dishonor,treachery,RUS interference into USA election,3,RR,9,10,7,7,RR
+3_RR_0100,PROPERTY,Importance,unprecedented,RUS interference into USA election,3,RR,9,10,6,6,RR
+3_RR_0101,GROUP,USA\Democrats,The DNC,,3,RR,10,11,0,1,RR
+3_RR_0102,PROPERTY,Other,argues that,Democrats,3,RR,10,11,2,3,RR
+3_RR_0103,PROPERTY,Victim,faced personal harassment and death threats,Republicans,3,RR,10,11,22,27,RR
+3_RR_0104,GROUP,USA\Democrats,its employees,,3,RR,10,11,20,21,RR
+3_RR_0105,GROUP,USA\Republicans,its employees,,3,RR,10,11,20,21,RR
+3_RR_0106,MISC,RUS interference into USA election,the cyberattack,,3,RR,10,11,4,5,RR
+3_RR_0107,PROPERTY,Aggressor,undermined,RUS interference into USA election,3,RR,10,11,6,6,RR
+3_RR_0108,PROPERTY,Victim,undermined,Democrats,3,RR,10,11,6,6,RR
+3_RR_0109,PROPERTY,Economy negative,"undermined its ability to communicate with voters, collect donations and operate effectively",RUS interference into USA election,3,RR,10,11,6,18,RR
+3_RR_0110,PROPERTY,Negative,"undermined its ability to communicate with voters, collect donations and operate effectively",RUS interference into USA election,3,RR,10,11,6,18,RR
+3_RR_0111,PROPERTY,Power,"undermined its ability to communicate with voters, collect donations and operate effectively",RUS interference into USA election,3,RR,10,11,6,18,RR
+3_RR_0112,COUNTRY,RUS,Russia,,3,RR,11,12,5,5,RR
+3_RR_0113,MISC,Lawsuit,The suit,,3,RR,11,13,0,1,RR
+3_RR_0114,COUNTRY,USA,U.S. lawsuits,,3,RR,11,12,17,18,RR
+3_RR_0115,PROPERTY,Aggressor,conspired to infiltrate,Republicans,3,RR,11,13,11,13,RR
+3_RR_0116,MISC,RUS interference into USA election,"conspired to infiltrate Democrats' computers, steal information, and disseminate it to influence the 2016 election",,3,RR,11,13,11,28,RR
+3_RR_0117,COUNTRY,RUS,defendants,,3,RR,11,13,8,8,RR
+3_RR_0118,GROUP,Wikileaks,defendants,,3,RR,11,13,8,8,RR
+3_RR_0119,MISC,Lawsuit,legal challenges,,3,RR,11,12,7,8,RR
+3_RR_0120,PROPERTY,Weakness,other nations have immunity from most U.S. lawsuits,USA,3,RR,11,12,11,18,RR
+3_RR_0121,PROPERTY,Other,reportedly,Lawsuit,3,RR,11,13,2,2,RR
+3_RR_0122,PROPERTY,Weakness,seeks an acknowledgment,Lawsuit,3,RR,11,13,3,5,RR
+3_RR_0123,PROPERTY,No trustworthiness,"steal information, and disseminate it",Republicans; RUS; Wikileaks,3,RR,11,13,18,23,RR
+3_RR_0124,MISC,Lawsuit,suing Russia,,3,RR,11,12,4,5,RR
+3_RR_0125,EVENT,USA election 2016,the 2016 election,,3,RR,11,13,26,28,RR
+3_RR_0126,GROUP,USA\Democrats,the Democrats,,3,RR,11,13,32,33,RR
+3_RR_0127,MISC,Lawsuit,the Democrats' core collusion claims,,3,RR,11,13,32,37,RR
+3_RR_0128,GROUP,USA\Republicans,the defendants,,3,RR,11,13,7,8,RR
+3_RR_0129,GROUP,USA\Republicans,Donald Trump Jr.,,3,RR,12,14,8,10,RR
+3_RR_0130,GROUP,USA\Republicans,Jared Kushner,,3,RR,12,14,13,14,RR
+3_RR_0131,GROUP,USA\Republicans,Manafort's deputy,,3,RR,12,14,22,24,RR
+3_RR_0132,GROUP,USA\Republicans,Rick Gates,,3,RR,12,14,26,27,RR
+3_RR_0133,MISC,Lawsuit,The lawsuit,,3,RR,12,14,0,1,RR
+3_RR_0134,GROUP,USA\Republicans,Trump confidant Roger Stone,,3,RR,12,14,29,32,RR
+3_RR_0135,GROUP,USA\Republicans,campaign chairman Paul Manafort,,3,RR,12,14,17,20,RR
+3_RR_0136,GROUP,USA\Republicans,former Trump campaign volunteer George Papadopoulos,,3,RR,12,14,34,39,RR
+3_RR_0137,PROPERTY,Power,is targeting,Lawsuit,3,RR,12,14,2,3,RR
+3_RR_0138,ACTOR,USA\Republicans\Trump,president,,3,RR,12,14,4,4,RR

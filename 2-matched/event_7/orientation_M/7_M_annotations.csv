@@ -1,0 +1,102 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+7_M_0000,ACTOR,USA\Trump,Trump,,7,M,0,0,0,0,M
+7_M_0001,PROPERTY,Power,extends exemptions,Trump,7,M,0,0,1,2,M
+7_M_0002,COUNTRY,CHN,China,,7,M,1,1,2,2,M
+7_M_0003,COUNTRY,JPN,Japan,,7,M,1,1,0,0,M
+7_M_0004,COUNTRY,JPN,Japanese Foreign Minister,,7,M,1,1,17,19,M
+7_M_0005,COUNTRY,JPN,Taro Kono,,7,M,1,1,20,21,M
+7_M_0006,COUNTRY,CHN,the world's third and second-largest economies,,7,M,1,1,29,35,M
+7_M_0007,COUNTRY,JPN,the world's third and second-largest economies,,7,M,1,1,29,35,M
+7_M_0008,COUNTRY,EU,European leaders,,7,M,2,2,21,22,M
+7_M_0009,ACTOR,USA\Trump,President Trump,,7,M,2,2,2,3,M
+7_M_0010,PROPERTY,Power,delayed steep steel and aluminum tariffs,Trump,7,M,2,2,4,9,M
+7_M_0011,PROPERTY,Power,putting off a showdown,Trump,7,M,2,2,16,19,M
+7_M_0012,PROPERTY,Importance,steep,Tariffs,7,M,2,2,5,5,M
+7_M_0013,OBJECT,Tariffs,steep steel and aluminum tariffs,,7,M,2,2,5,9,M
+7_M_0014,COUNTRY,CAN,Canada,,7,M,3,3,16,16,M
+7_M_0015,COUNTRY,MEX,Mexico,,7,M,3,3,18,18,M
+7_M_0016,PROPERTY,Power,imposed,USA,7,M,3,3,40,40,M
+7_M_0017,OBJECT,Tariffs,the 25% tariff,,7,M,3,3,34,37,M
+7_M_0018,COUNTRY,EU,the European Union,,7,M,3,3,12,14,M
+7_M_0019,COUNTRY,USA,the United States,,7,M,3,3,26,28,M
+7_M_0020,COUNTRY,USA,the administration,,7,M,3,3,38,39,M
+7_M_0021,PROPERTY,Economy positive,will be able to export steel to the United States through June 1 without paying the 25% tariff,EU; CAN; MEX,7,M,3,3,19,37,M
+7_M_0022,COUNTRY,USA,Officials,,7,M,4,4,0,0,M
+7_M_0023,PROPERTY,Power,allow those countries to avoid tariffs for longer,USA,7,M,4,4,13,20,M
+7_M_0024,OBJECT,Tariffs,tariffs,,7,M,4,4,18,18,M
+7_M_0025,COUNTRY,CAN,Canada,,7,M,5,5,28,28,M
+7_M_0026,COUNTRY,MEX,Mexico,,7,M,5,5,30,30,M
+7_M_0027,ACTOR,USA\Trump,Trump,,7,M,5,5,0,0,M
+7_M_0028,OBJECT,Tariffs,a 10% tariff on aluminum,,7,M,5,5,9,14,M
+7_M_0029,OBJECT,Tariffs,a 25% tariff on steel,,7,M,5,5,2,7,M
+7_M_0030,PROPERTY,Power,announced,Trump,7,M,5,5,1,1,M
+7_M_0031,PROPERTY,Power,offered temporary exemptions,Trump,7,M,5,5,20,22,M
+7_M_0032,COUNTRY,EU,the Europe Union,,7,M,5,5,24,26,M
+7_M_0033,COUNTRY,CHN,China,,7,M,6,7,11,11,M
+7_M_0034,OBJECT,Tariffs,The tariffs,,7,M,6,7,0,1,M
+7_M_0035,COUNTRY,EU,European nations,,7,M,7,9,3,4,M
+7_M_0036,ACTOR-I,EU\EU-I,French President Emmanuel Macron,,7,M,7,8,14,17,M
+7_M_0037,ACTOR-I,EU\EU-I,German Chancellor Angela Merkel,,7,M,7,8,19,22,M
+7_M_0038,ACTOR-I,EU\EU-I,Merkel,,7,M,7,8,22,22,M
+7_M_0039,ACTOR-I,EU\EU-I,Merkel,,7,M,7,9,0,0,M
+7_M_0040,OBJECT,Tariffs,The tariffs,,7,M,7,8,0,1,M
+7_M_0041,ACTOR,USA\Trump,Trump,,7,M,7,8,9,9,M
+7_M_0042,PROPERTY,Importance,a central issue,Tariffs,7,M,7,8,3,5,M
+7_M_0043,MISC,Reactions to the permanent exemption,placing their own barriers on American products,,7,M,7,9,14,20,M
+7_M_0044,MISC,Tariff imposition consequences,placing their own barriers on American products,,7,M,7,9,14,20,M
+7_M_0045,PROPERTY,Weakness,retaliate,EU,7,M,7,9,6,6,M
+7_M_0046,COUNTRY,USA,the White House,,7,M,7,8,24,26,M
+7_M_0047,PROPERTY,Aggressor,threatened,EU-I,7,M,7,9,1,1,M
+7_M_0048,MISC,Reactions to the permanent exemption,would retaliate if the U.S. tariffs take effect,,7,M,7,9,5,12,M
+7_M_0049,MISC,Tariff imposition consequences,would retaliate if the U.S. tariffs take effect,,7,M,7,9,5,12,M
+7_M_0050,COUNTRY,EU,Europe,,7,M,8,10,14,14,M
+7_M_0051,COUNTRY,EU,European officials,,7,M,8,11,0,1,M
+7_M_0052,COUNTRY,USA,Trump officials,,7,M,8,10,0,1,M
+7_M_0053,PROPERTY,Weakness,imposing duties,EU,7,M,8,11,4,5,M
+7_M_0054,MISC,Tariff imposition consequences,imposing duties,,7,M,8,11,4,5,M
+7_M_0055,MISC,Reactions to the permanent exemption,"imposing duties on U.S.-made motorcycles, orange juice and bourbon",,7,M,8,11,4,13,M
+7_M_0056,OBJECT,Tariffs,retaliatory measures,,7,M,8,10,25,26,M
+7_M_0057,ACTOR-I,USA\USA-Misc,some Republicans,,7,M,8,10,17,18,M
+7_M_0058,ACTOR-I,USA\USA-I,some Republicans on Capitol Hill,,7,M,8,10,17,21,M
+7_M_0059,PROPERTY,Refusal,sparking an outcry,USA,7,M,8,10,10,12,M
+7_M_0060,PROPERTY,Economy negative,would hurt home state industries,Tariffs,7,M,8,10,27,31,M
+7_M_0061,MISC,Tariff imposition consequences,would hurt home state industries,,7,M,8,10,27,31,M
+7_M_0062,COUNTRY,CAN,Canada,,7,M,9,12,23,23,M
+7_M_0063,COUNTRY,EU,European Union,,7,M,9,12,20,21,M
+7_M_0064,COUNTRY,MEX,Mexico,,7,M,9,12,25,25,M
+7_M_0065,COUNTRY,USA,the White House,,7,M,9,12,5,7,M
+7_M_0066,COUNTRY,USA,The Trump administration,,7,M,10,13,0,2,M
+7_M_0067,PROPERTY,Economy negative,decades-long slide of manufacturing,USA,7,M,10,14,20,23,M
+7_M_0068,PROPERTY,Affection,justified,Tariffs,7,M,10,14,5,5,M
+7_M_0069,PROPERTY,Safety,national security purposes,Tariffs,7,M,10,13,17,19,M
+7_M_0070,PROPERTY,Economy negative,shuttered plants and mills,USA,7,M,10,14,12,15,M
+7_M_0071,ACTOR,USA\Trump,the president,,7,M,10,14,1,2,M
+7_M_0072,OBJECT,Tariffs,the tariffs,,7,M,10,14,6,7,M
+7_M_0073,OBJECT,Tariffs,trade restrictions for national security purposes,,7,M,10,13,14,19,M
+7_M_0074,GROUP,USA\Steel producers,"""shuttered plants and mills,""",,7,M,10,14,11,17,M
+7_M_0075,COUNTRY,CAN,Canada,,7,M,11,16,0,0,M
+7_M_0076,COUNTRY,MEX,Mexico,,7,M,11,16,18,18,M
+7_M_0077,COUNTRY,KOR,South Korea,,7,M,11,16,15,16,M
+7_M_0078,COUNTRY,USA,The U.S.,,7,M,11,15,0,1,M
+7_M_0079,COUNTRY,USA,the U.S.,,7,M,11,15,21,22,M
+7_M_0080,COUNTRY,USA,the U.S.,,7,M,11,16,8,9,M
+7_M_0081,COUNTRY,USA,the U.S. Department of Commerce,,7,M,11,15,21,25,M
+7_M_0082,PROPERTY,Importance,the largest exporter of steel to the U.S.,CAN,7,M,11,16,2,9,M
+7_M_0083,COUNTRY,USA,Officials,,7,M,12,17,0,0,M
+7_M_0084,COUNTRY,KOR,South Korea,,7,M,12,17,11,12,M
+7_M_0085,COUNTRY,KOR,South Korea,,7,M,12,18,12,13,M
+7_M_0086,OBJECT,New import quotas,That deal,,7,M,12,18,0,1,M
+7_M_0087,OBJECT,New import quotas,a final agreement with South Korea on steel,,7,M,12,17,7,14,M
+7_M_0088,OBJECT,New import quotas,limit exports to the U.S. in exchange for an exemption from tariffs,,7,M,12,18,15,26,M
+7_M_0089,PROPERTY,Power,reached a final agreement with South Korea,USA,7,M,12,17,6,12,M
+7_M_0090,COUNTRY,USA,the administration,,7,M,12,17,4,5,M
+7_M_0091,COUNTRY,CAN,Canada,,7,M,13,19,0,0,M
+7_M_0092,OBJECT,Tariffs,Metal tariffs,,7,M,13,20,0,1,M
+7_M_0093,COUNTRY,MEX,Mexico,,7,M,13,19,2,2,M
+7_M_0094,ACTOR,USA\Trump,Trump,,7,M,13,19,13,13,M
+7_M_0095,OBJECT,New import quotas,a new trade deal with the U.S.,,7,M,13,19,5,11,M
+7_M_0096,PROPERTY,Power,negotiating a new trade deal,MEX; CAN,7,M,13,19,4,8,M
+7_M_0097,COUNTRY,USA,the U.S.,,7,M,13,19,10,11,M
+7_M_0098,COUNTRY,USA,the U.S.,,7,M,13,19,36,37,M
+7_M_0099,COUNTRY,CAN,those two countries,,7,M,13,20,3,5,M
+7_M_0100,COUNTRY,MEX,those two countries,,7,M,13,20,3,5,M

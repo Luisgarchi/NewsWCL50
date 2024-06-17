@@ -1,0 +1,129 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+9_LL_0000,ACTOR,ISR\Netanyahu,Benjamin Netanyahu,,9,LL,0,0,0,1,LL
+9_LL_0001,PROPERTY,Aggressor,Disparages,Netanyahu,9,LL,0,0,2,2,LL
+9_LL_0002,PROPERTY,Victim,Disparages,Nuclear deal,9,LL,0,0,2,2,LL
+9_LL_0003,OBJECT,Nuclear deal,Iran Nuclear Agreement,,9,LL,0,0,3,5,LL
+9_LL_0004,COUNTRY,IRN,Iran,,9,LL,1,1,1,1,LL
+9_LL_0005,COUNTRY,IRN,Iran,,9,LL,1,2,11,11,LL
+9_LL_0006,COUNTRY,IRN,Iran's leaders,,9,LL,1,1,1,3,LL
+9_LL_0007,ACTOR,ISR\Netanyahu,Netanyahu,,9,LL,1,1,13,13,LL
+9_LL_0008,PROPERTY,No trustworthiness,lied,IRN,9,LL,1,2,12,12,LL
+9_LL_0009,MISC,IRN nuclear activity,pursuing nuclear weapons,,9,LL,1,1,7,9,LL
+9_LL_0010,PROPERTY,Importance,repeatedly deny,IRN nuclear activity; Nuclear deal,9,LL,1,1,4,5,LL
+9_LL_0011,COUNTRY,IRN,Iran,,9,LL,2,3,16,16,LL
+9_LL_0012,COUNTRY,ISR,Israel,,9,LL,2,3,6,6,LL
+9_LL_0013,COUNTRY,USA,Washington,,9,LL,2,3,36,36,LL
+9_LL_0014,OBJECT,Nuclear deal,a 2015 agreement,,9,LL,2,3,24,26,LL
+9_LL_0015,MISC,IRN nuclear activity,continued gathering nuclear knowledge,,9,LL,2,3,18,21,LL
+9_LL_0016,PROPERTY,Power,continued gathering nuclear knowledge,IRN,9,LL,2,3,18,21,LL
+9_LL_0017,PROPERTY,No trustworthiness,continued gathering nuclear knowledge after signing a 2015 agreement,IRN,9,LL,2,3,18,26,LL
+9_LL_0018,OBJECT,IRN files,evidence,,9,LL,2,3,14,14,LL
+9_LL_0019,OBJECT,Nuclear deal,the agreement,,9,LL,2,3,39,40,LL
+9_LL_0020,COUNTRY,IRN,Iran,,9,LL,3,4,1,1,LL
+9_LL_0021,COUNTRY,IRN,Iran,,9,LL,3,5,11,11,LL
+9_LL_0022,COUNTRY,IRN,Iran's leaders,,9,LL,3,4,1,3,LL
+9_LL_0023,ACTOR,ISR\Netanyahu,Prime Minister Benjamin Netanyahu,,9,LL,3,4,12,15,LL
+9_LL_0024,PROPERTY,No trustworthiness,lied,IRN,9,LL,3,5,12,12,LL
+9_LL_0025,MISC,IRN nuclear activity,pursuing nuclear weapons,,9,LL,3,4,7,9,LL
+9_LL_0026,PROPERTY,Importance,repeatedly deny,IRN nuclear activity; Nuclear deal,9,LL,3,4,4,5,LL
+9_LL_0027,COUNTRY,IRN,Iran,,9,LL,4,6,3,3,LL
+9_LL_0028,COUNTRY,IRN,Iran,,9,LL,4,8,7,7,LL
+9_LL_0029,ACTOR,ISR\Netanyahu,Netanyahu,,9,LL,4,8,22,22,LL
+9_LL_0030,MISC,IRN nuclear activity,a nuclear weapons program,,9,LL,4,6,8,11,LL
+9_LL_0031,PROPERTY,No trustworthiness,"even after the deal, Iran continued to preserve and expand its nuclear weapons knowledge",IRN,9,LL,4,8,2,16,LL
+9_LL_0032,PROPERTY,No trustworthiness,lied about,IRN,9,LL,4,6,4,5,LL
+9_LL_0033,MISC,IRN nuclear activity,preserve and expand its nuclear weapons knowledge,,9,LL,4,8,10,16,LL
+9_LL_0034,PROPERTY,Power,prove it did,IRN files,9,LL,4,7,3,5,LL
+9_LL_0035,OBJECT,IRN files,secret files,,9,LL,4,7,1,2,LL
+9_LL_0036,OBJECT,Nuclear deal,the deal,,9,LL,4,8,4,5,LL
+9_LL_0037,COUNTRY,IRN,Iran,,9,LL,5,9,3,3,LL
+9_LL_0038,PROPERTY,Unlawfulness,didn't come clear to the IAEA as required,IRN,9,LL,5,9,10,18,LL
+9_LL_0039,PROPERTY,No trustworthiness,lied,IRN,9,LL,5,9,4,4,LL
+9_LL_0040,OBJECT,Nuclear deal,the nuclear deal,,9,LL,5,9,20,22,LL
+9_LL_0041,OBJECT,IRN files,Iranian documents,,9,LL,6,10,24,25,LL
+9_LL_0042,ACTOR,ISR\Netanyahu,The Israeli leader,,9,LL,6,10,0,2,LL
+9_LL_0043,PROPERTY,Importance,historic secret,IRN nuclear activity,9,LL,6,10,15,16,LL
+9_LL_0044,MISC,IRN nuclear activity,historic secret Iranian nuclear facilities,,9,LL,6,10,15,19,LL
+9_LL_0045,PROPERTY,Power,plans to,IRN,9,LL,6,10,27,28,LL
+9_LL_0046,MISC,IRN nuclear activity,plans to develop atomic weapons,,9,LL,6,10,27,31,LL
+9_LL_0047,PROPERTY,Reason,spoke in English,Netanyahu,9,LL,6,10,3,5,LL
+9_LL_0048,COUNTRY,IRN,Iran,,9,LL,7,11,9,9,LL
+9_LL_0049,COUNTRY,IRN,Iran,,9,LL,7,12,3,3,LL
+9_LL_0050,PROPERTY,Importance,highly secret,IRN nuclear activity,9,LL,7,12,11,12,LL
+9_LL_0051,PROPERTY,Power,intensified its efforts,IRN,9,LL,7,11,10,12,LL
+9_LL_0052,MISC,IRN nuclear activity,moved its nuclear weapons files to a highly secret location,,9,LL,7,12,4,13,LL
+9_LL_0053,OBJECT,IRN files,nuclear weapons files,,9,LL,7,12,6,8,LL
+9_LL_0054,OBJECT,IRN files,secret files,,9,LL,7,11,16,17,LL
+9_LL_0055,OBJECT,Nuclear deal,the nuclear deal,,9,LL,7,11,3,5,LL
+9_LL_0056,MISC,IRN nuclear activity,Amad,,9,LL,8,13,11,11,LL
+9_LL_0057,ACTOR,ISR\Netanyahu,Netanyahu,,9,LL,8,13,0,0,LL
+9_LL_0058,PROPERTY,Importance,secret,IRN nuclear activity,9,LL,8,13,4,4,LL
+9_LL_0059,MISC,IRN nuclear activity,secret Iranian nuclear project,,9,LL,8,13,4,7,LL
+9_LL_0060,MISC,IRN nuclear activity,work in the field had continued,,9,LL,8,13,26,31,LL
+9_LL_0061,COUNTRY,IRN,Iran,,9,LL,9,14,19,19,LL
+9_LL_0062,ACTOR,USA\Trump,U.S. President Donald Trump,,9,LL,9,14,0,3,LL
+9_LL_0063,PROPERTY,Power,criticized,Trump,9,LL,9,14,6,6,LL
+9_LL_0064,PROPERTY,Weakness,criticized,Nuclear deal,9,LL,9,14,6,6,LL
+9_LL_0065,PROPERTY,Power,curbs to its nuclear program,Nuclear deal,9,LL,9,14,23,27,LL
+9_LL_0066,PROPERTY,Economy positive,lifted economic sanctions,IRN,9,LL,9,14,15,17,LL
+9_LL_0067,OBJECT,Nuclear deal,the 2015 agreement,,9,LL,9,14,7,9,LL
+9_LL_0068,ACTOR,ISR\Netanyahu,Netanyahu,,9,LL,10,16,0,0,LL
+9_LL_0069,ACTOR,USA\Trump,Trump,,9,LL,10,15,0,0,LL
+9_LL_0070,ACTOR,USA\Trump,Trump,,9,LL,10,16,4,4,LL
+9_LL_0071,PROPERTY,Reason,"do ""the right thing""",Trump,9,LL,10,16,6,11,LL
+9_LL_0072,MISC,Reaction to IRN deal,pull out of,,9,LL,10,15,4,6,LL
+9_LL_0073,OBJECT,Nuclear deal,the Iran deal,,9,LL,10,16,14,16,LL
+9_LL_0074,OBJECT,Nuclear deal,the agreement,,9,LL,10,15,7,8,LL
+9_LL_0075,PROPERTY,Power,threatened,Trump,9,LL,10,15,2,2,LL
+9_LL_0076,COUNTRY,IRN,Iran,,9,LL,11,17,21,21,LL
+9_LL_0077,ACTOR,ISR\Netanyahu,Netanyahu,,9,LL,11,17,0,0,LL
+9_LL_0078,ACTOR-I,USA\USA-I,new U.S. Secretary of State Mike Pompeo,,9,LL,11,17,8,14,LL
+9_LL_0079,PROPERTY,Power,talked tough about,Netanyahu; USA-I,9,LL,11,17,18,20,LL
+9_LL_0080,PROPERTY,Importance,tough,IRN,9,LL,11,17,19,19,LL
+9_LL_0081,MISC,IRN nuclear activity,Iran's dangerous escalation of threats,,9,LL,12,18,6,11,LL
+9_LL_0082,ACTOR-I,USA\USA-I,Pompeo,,9,LL,12,18,20,20,LL
+9_LL_0083,PROPERTY,Weakness,deeply concerned,Netanyahu; USA-I,9,LL,12,18,3,4,LL
+9_LL_0084,PROPERTY,Aggressor,threats,IRN,9,LL,12,18,11,11,LL
+9_LL_0085,PROPERTY,Victim,threats,ISR,9,LL,12,18,11,11,LL
+9_LL_0086,ACTOR,ISR\Netanyahu,Netanyahu,,9,LL,13,19,0,0,LL
+9_LL_0087,MISC,IRN nuclear activity,attempt of Iran to acquire nuclear weapons,,9,LL,13,19,36,42,LL
+9_LL_0088,PROPERTY,Aggressor,greatest threat,IRN; IRN nuclear activity,9,LL,13,19,7,8,LL
+9_LL_0089,PROPERTY,Victim,greatest threat,USA; ISR,9,LL,13,19,7,8,LL
+9_LL_0090,MISC,IRN nuclear activity,marriage of militant Islam with nuclear weapons,,9,LL,13,19,25,31,LL
+9_LL_0091,COUNTRY,IRN,militant Islam,,9,LL,13,19,27,28,LL
+9_LL_0092,COUNTRY,ISR,our two countries,,9,LL,13,19,14,16,LL
+9_LL_0093,COUNTRY,USA,our two countries,,9,LL,13,19,14,16,LL
+9_LL_0094,COUNTRY,IRN,Iran,,9,LL,14,20,3,3,LL
+9_LL_0095,ACTOR,ISR\Netanyahu,Netanyahu,,9,LL,14,20,0,0,LL
+9_LL_0096,ACTOR,USA\Trump,Trump,,9,LL,14,20,7,7,LL
+9_LL_0097,PROPERTY,Importance,discussed,IRN,9,LL,14,20,2,2,LL
+9_LL_0098,PROPERTY,Power,discussed Iran,Netanyahu; Trump,9,LL,14,20,2,3,LL
+9_LL_0099,COUNTRY,IRN,Iran,,9,LL,15,21,25,25,LL
+9_LL_0100,COUNTRY,ISR,Israel,,9,LL,15,21,0,0,LL
+9_LL_0101,COUNTRY,USA,Washington,,9,LL,15,21,8,8,LL
+9_LL_0102,PROPERTY,Lawfulness,abiding by its terms,IRN,9,LL,15,21,27,30,LL
+9_LL_0103,MISC,Reaction to IRN deal,argue that Iran is abiding by its terms,,9,LL,15,21,23,30,LL
+9_LL_0104,PROPERTY,Refusal,opposed,Nuclear deal,9,LL,15,21,3,3,LL
+9_LL_0105,COUNTRY,USA,the Trump administration,,9,LL,15,21,15,17,LL
+9_LL_0106,OBJECT,Nuclear deal,the agreement,,9,LL,15,21,4,5,LL
+9_LL_0107,MISC,Reaction to IRN deal,urged the Trump administration not to abandon it,,9,LL,15,21,14,21,LL
+9_LL_0108,COUNTRY,IRN,Iran,,9,LL,16,22,3,3,LL
+9_LL_0109,COUNTRY,IRN,Iran,,9,LL,16,22,12,12,LL
+9_LL_0110,COUNTRY,IRN,Iran's Atomic Energy organization,,9,LL,16,22,3,7,LL
+9_LL_0111,ACTOR-I,IRN\IRN-I,The head of Iran's Atomic Energy organization,,9,LL,16,22,0,7,LL
+9_LL_0112,PROPERTY,Power,enrich uranium to a higher level than it could before,IRN,9,LL,16,22,18,27,LL
+9_LL_0113,PROPERTY,Power,has the technical capability,IRN,9,LL,16,22,13,16,LL
+9_LL_0114,OBJECT,Nuclear deal,the multinational deal,,9,LL,16,22,28,30,LL
+9_LL_0115,ACTOR-I,IRN\IRN-I,Ali Akbar Salehi,,9,LL,17,23,36,38,LL
+9_LL_0116,COUNTRY,IRN,Iranian state television,,9,LL,17,23,42,44,LL
+9_LL_0117,ACTOR,USA\Trump,Trump,,9,LL,17,23,24,24,LL
+9_LL_0118,PROPERTY,Reason,comes to his senses,Trump,9,LL,17,23,25,28,LL
+9_LL_0119,PROPERTY,Power,enrich uranium higher than we used to produce before the deal was reached,IRN,9,LL,17,23,8,20,LL
+9_LL_0120,PROPERTY,Power,fully prepared,IRN,9,LL,17,23,5,6,LL
+9_LL_0121,MISC,Reaction to IRN deal,stays in the deal,,9,LL,17,23,30,33,LL
+9_LL_0122,OBJECT,Nuclear deal,the deal,,9,LL,17,23,17,18,LL
+9_LL_0123,OBJECT,Nuclear deal,the deal,,9,LL,17,23,32,33,LL
+9_LL_0124,COUNTRY,ISR,Israel,,9,LL,18,24,0,0,LL
+9_LL_0125,PROPERTY,Other,neither confirms nor denies,ISR,9,LL,18,24,17,20,LL
+9_LL_0126,PROPERTY,Power,the only nuclear-armed state in the Middle East,ISR,9,LL,18,24,6,13,LL
+9_LL_0127,PROPERTY,Other,widely believed to be,ISR,9,LL,18,24,2,5,LL

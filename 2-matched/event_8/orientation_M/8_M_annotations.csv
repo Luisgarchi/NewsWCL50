@@ -1,0 +1,119 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+8_M_0000,ACTOR,USA\Mueller,Robert Mueller,,8,M,0,0,0,1,M
+8_M_0001,ACTOR,USA\Trump,Trump,,8,M,0,0,7,7,M
+8_M_0002,GROUP,Trumps Lawyers,Trump's lawyers,,8,M,0,0,7,9,M
+8_M_0003,OBJECT,Inquieries for Trump,list of questions,,8,M,0,0,3,5,M
+8_M_0004,PROPERTY,Power,provides,Mueller,8,M,0,0,2,2,M
+8_M_0005,ACTOR-I,USA\USA-I,James Comey,,8,M,1,1,7,8,M
+8_M_0006,PROPERTY,Unlawfulness,an attack on the rule of law,Trump,8,M,1,1,24,30,M
+8_M_0007,PROPERTY,Aggressor,fire,Trump,8,M,1,1,14,14,M
+8_M_0008,ACTOR,USA\Mueller,special counsel Robert Mueller,,8,M,1,1,15,18,M
+8_M_0009,PROPERTY,Importance,that we have not seen in our lifetime,Trump,8,M,1,1,31,38,M
+8_M_0010,ACTOR,USA\Trump,the president,,8,M,1,1,12,13,M
+8_M_0011,ACTOR,USA\Trump,President Trump,,8,M,2,2,18,19,M
+8_M_0012,EVENT,RUS meddling,Russian meddling in the 2016 election,,8,M,2,2,26,31,M
+8_M_0013,ACTOR,USA\Mueller,Special counsel Robert Mueller,,8,M,2,2,2,5,M
+8_M_0014,ACTOR,USA\Trump,Trump,,8,M,2,2,19,19,M
+8_M_0015,ACTOR,USA\Trump,Trump,,8,M,2,2,34,34,M
+8_M_0016,OBJECT,Inquieries for Trump,a list of almost four dozen questions,,8,M,2,2,8,14,M
+8_M_0017,PROPERTY,Other,according to,Mueller,8,M,2,2,38,39,M
+8_M_0018,EVENT,RUS meddling investigation,his investigation,,8,M,2,2,23,24,M
+8_M_0019,GROUP,Trumps Lawyers,lawyers for President Trump,,8,M,2,2,16,19,M
+8_M_0020,ACTOR-I,USA\USA-I,FBI Director,,8,M,3,3,17,18,M
+8_M_0021,ACTOR-I,USA\USA-I,James Comey,,8,M,3,3,19,20,M
+8_M_0022,COUNTRY,RUS,Russians,,8,M,3,3,31,31,M
+8_M_0023,ACTOR,USA\Trump,Trump,,8,M,3,3,12,12,M
+8_M_0024,ACTOR,USA\Trump,Trump,,8,M,3,3,26,26,M
+8_M_0025,PROPERTY,Aggressor,firing,Trump,8,M,3,3,16,16,M
+8_M_0026,PROPERTY,Victim,firing,USA-I,8,M,3,3,16,16,M
+8_M_0027,OBJECT,Inquieries for Trump,list of the questions,,8,M,3,3,4,7,M
+8_M_0028,GROUP,USA\Mueller\Investigators,Mueller's team,,8,M,4,4,1,3,M
+8_M_0029,GROUP,Trumps Lawyers,The lawyers,,8,M,4,5,0,1,M
+8_M_0030,GROUP,Trumps Lawyers,Trump's lawyers,,8,M,4,4,7,9,M
+8_M_0031,GROUP,USA\Mueller\Investigators,investigators,,8,M,4,4,18,18,M
+8_M_0032,PROPERTY,Difficulty,no agreement,Trumps Lawyers,8,M,4,5,15,16,M
+8_M_0033,PROPERTY,Positive,not considered a target,Trump,8,M,4,4,13,16,M
+8_M_0034,PROPERTY,Unlawfulness,obstruction of justice,Trump,8,M,4,4,28,30,M
+8_M_0035,PROPERTY,Power,resolve the investigation as quickly as possible,Trumps Lawyers,8,M,4,5,4,10,M
+8_M_0036,EVENT,RUS meddling investigation,the investigation,,8,M,4,5,5,6,M
+8_M_0037,ACTOR,USA\Trump,the president,,8,M,4,4,23,24,M
+8_M_0038,COUNTRY,USA,Attorney General Jeff Sessions,,8,M,5,6,18,21,M
+8_M_0039,COUNTRY,RUS,Russia,,8,M,5,6,26,26,M
+8_M_0040,ACTOR,USA\Trump,Trump,,8,M,5,6,31,31,M
+8_M_0041,PROPERTY,Aggressor,angrily criticized,Trump,8,M,5,6,33,34,M
+8_M_0042,EVENT,RUS meddling investigation,the Russia investigation,,8,M,5,6,25,27,M
+8_M_0043,EVENT,RUS meddling,the obstruction issue,,8,M,5,6,10,12,M
+8_M_0044,OBJECT,Inquieries for Trump,the questions,,8,M,5,6,2,3,M
+8_M_0045,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Jay Sekulow,,8,M,6,7,2,3,M
+8_M_0046,COUNTRY,RUS,Moscow,,8,M,6,9,28,28,M
+8_M_0047,ACTOR,USA\Mueller,Mueller,,8,M,6,9,8,8,M
+8_M_0048,OBJECT,Inquieries for Trump,The questions,,8,M,6,8,0,1,M
+8_M_0049,ACTOR,USA\Trump,Trump,,8,M,6,7,0,0,M
+8_M_0050,ACTOR,USA\Trump,Trump,,8,M,6,8,11,11,M
+8_M_0051,ACTOR,USA\Trump,Trump,,8,M,6,9,11,11,M
+8_M_0052,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Trump lawyer,,8,M,6,7,0,1,M
+8_M_0053,ACTOR-I,USA\USA-I,Trump lawyer Jay Sekulow,,8,M,6,7,0,3,M
+8_M_0054,ACTOR-I,USA\USA-I,White House lawyer Ty Cobb,,8,M,6,7,17,21,M
+8_M_0055,EVENT,RUS meddling,coordinated with the Kremlin,,8,M,6,8,13,16,M
+8_M_0056,PROPERTY,Other,declined to comment,Trumps Lawyers-I; USA-I,8,M,6,7,4,6,M
+8_M_0057,ACTOR-I,USA\USA-I,former campaign chairman Paul Manafort,,8,M,6,9,19,23,M
+8_M_0058,OBJECT,Inquieries for Trump,one question,,8,M,6,9,1,2,M
+8_M_0059,PROPERTY,Weakness,reaching out,USA-I,8,M,6,9,25,26,M
+8_M_0060,COUNTRY,RUS,the Kremlin,,8,M,6,8,15,16,M
+8_M_0061,EVENT,RUS meddling,the Russian meddling,,8,M,6,8,5,7,M
+8_M_0062,COUNTRY,USA,the Trump campaign,,8,M,6,8,10,12,M
+8_M_0063,ACTOR-I,USA\USA-I,Manafort,,8,M,7,10,6,6,M
+8_M_0064,ACTOR,USA\Mueller,Mueller,,8,M,7,10,0,0,M
+8_M_0065,EVENT,RUS meddling,Russian election interference,,8,M,7,10,16,18,M
+8_M_0066,PROPERTY,Power,brought several charges against,Mueller,8,M,7,10,2,5,M
+8_M_0067,PROPERTY,Unimportance,none are for any crimes related to,RUS meddling,8,M,7,10,9,15,M
+8_M_0068,EVENT,RUS meddling,such an effort,,8,M,7,11,9,11,M
+8_M_0069,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Cohen,,8,M,8,12,17,17,M
+8_M_0070,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Cohen,,8,M,8,13,0,0,M
+8_M_0071,ACTOR-I,USA\USA-I,Jared Kushner,,8,M,8,15,17,18,M
+8_M_0072,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Michael Cohen,,8,M,8,12,16,17,M
+8_M_0073,ACTOR,RUS\Putin,Mr. Putin,,8,M,8,14,14,15,M
+8_M_0074,OBJECT,Inquieries for Trump,One question,,8,M,8,14,0,1,M
+8_M_0075,COUNTRY,RUS,Russia,,8,M,8,15,27,27,M
+8_M_0076,ACTOR,RUS\Putin,Russian President Vladimir Putin,,8,M,8,14,20,23,M
+8_M_0077,OBJECT,Inquieries for Trump,The queries,,8,M,8,12,0,1,M
+8_M_0078,ACTOR,USA\Trump,Trump,,8,M,8,12,5,5,M
+8_M_0079,ACTOR,USA\Trump,Trump,,8,M,8,14,5,5,M
+8_M_0080,ACTOR,USA\Trump,Trump,,8,M,8,15,29,29,M
+8_M_0081,PROPERTY,Other,a possible attempt,USA-I,8,M,8,15,10,12,M
+8_M_0082,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,his personal lawyer,,8,M,8,12,12,14,M
+8_M_0083,ACTOR-I,USA\USA-I,his son-in-law,,8,M,8,15,14,15,M
+8_M_0084,PROPERTY,Power,set up a back channel with Russia,USA-I,8,M,8,15,21,27,M
+8_M_0085,ACTOR,USA\Trump,the president,,8,M,8,15,4,5,M
+8_M_0086,OBJECT,Inquieries for Trump,Additional questions,,8,M,9,16,0,1,M
+8_M_0087,ACTOR-I,USA\USA-I,Flynn,,8,M,9,16,5,5,M
+8_M_0088,ACTOR-I,USA\USA-I,Flynn,,8,M,9,17,0,0,M
+8_M_0089,ACTOR-I,USA\USA-I,Michael Flynn,,8,M,9,16,4,5,M
+8_M_0090,ACTOR,USA\Mueller,Mueller,,8,M,9,17,5,5,M
+8_M_0091,GROUP,USA\Mueller\Investigators,Mueller's investigators,,8,M,9,17,5,7,M
+8_M_0092,COUNTRY,RUS,Russia,,8,M,9,16,29,29,M
+8_M_0093,COUNTRY,RUS,Russian Ambassador,,8,M,9,16,31,32,M
+8_M_0094,ACTOR-I,RUS\RUS-I,Sergey Kislyak,,8,M,9,16,33,34,M
+8_M_0095,ACTOR,USA\Trump,Trump,,8,M,9,16,7,7,M
+8_M_0096,ACTOR-I,USA\USA-I,Trump's former national security adviser,,8,M,9,16,7,12,M
+8_M_0097,PROPERTY,Trustworthiness,has pleaded guilty,USA-I,8,M,9,16,15,17,M
+8_M_0098,PROPERTY,No trustworthiness,lying to the FBI,USA-I,8,M,9,16,19,22,M
+8_M_0099,COUNTRY,USA,the FBI,,8,M,9,16,21,22,M
+8_M_0100,ACTOR-I,USA\USA-I,Flynn,,8,M,10,18,10,10,M
+8_M_0101,ACTOR-I,USA\USA-I,Flynn,,8,M,10,20,11,11,M
+8_M_0102,ACTOR-I,USA\USA-I,Mr. Flynn,,8,M,10,18,9,10,M
+8_M_0103,COUNTRY,RUS,Russian ambassador,,8,M,10,18,14,15,M
+8_M_0104,ACTOR-I,RUS\RUS-I,Sergey I. Kislyak,,8,M,10,18,17,19,M
+8_M_0105,OBJECT,Inquieries for Trump,one question,,8,M,10,19,1,2,M
+8_M_0106,PROPERTY,Weakness,seeking immunity or possible pardon,USA-I,8,M,10,20,14,18,M
+8_M_0107,ACTOR-I,USA\USA-I,Flynn,,8,M,11,21,0,0,M
+8_M_0108,COUNTRY,RUS,Russian contacts,,8,M,11,21,19,20,M
+8_M_0109,COUNTRY,USA,White House officials,,8,M,11,21,9,11,M
+8_M_0110,PROPERTY,No trustworthiness,misled them,USA-I,8,M,11,21,15,16,M
+8_M_0111,ACTOR-I,USA\USA-I,Comey,,8,M,12,22,9,9,M
+8_M_0112,ACTOR-I,USA\USA-I,Comey,,8,M,12,22,21,21,M
+8_M_0113,ACTOR-I,USA\USA-I,Flynn,,8,M,12,22,27,27,M
+8_M_0114,ACTOR,USA\Trump,Trump,,8,M,12,22,11,11,M
+8_M_0115,PROPERTY,Power,encouraged,Trump,8,M,12,22,20,20,M
+8_M_0116,COUNTRY,USA,other officials,,8,M,12,22,17,18,M
+8_M_0117,COUNTRY,USA,the Oval Office,,8,M,12,22,13,15,M

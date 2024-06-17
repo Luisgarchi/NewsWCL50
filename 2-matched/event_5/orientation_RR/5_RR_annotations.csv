@@ -1,0 +1,94 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+5_RR_0000,COUNTRY,USA,President Trump,,5,RR,0,0,0,1,RR
+5_RR_0001,EVENT,Visit Trump UK,Trump to Visit United Kingdom,,5,RR,0,0,1,5,RR
+5_RR_0002,COUNTRY,GBR,United Kingdom,,5,RR,0,0,4,5,RR
+5_RR_0003,ACTOR,USA\Trump,The President of the United States Donald Trump,,5,RR,1,1,0,7,RR
+5_RR_0004,EVENT,Visit Trump UK,Trump will visit the United Kingdom,,5,RR,1,1,7,12,RR
+5_RR_0005,COUNTRY,GBR,the British Ambassador to Washington,,5,RR,1,1,19,23,RR
+5_RR_0006,COUNTRY,GBR,the United Kingdom,,5,RR,1,1,10,12,RR
+5_RR_0007,ACTOR,USA\Trump,President Trump,,5,RR,2,2,29,30,RR
+5_RR_0008,EVENT,Visit Trump UK,The visit,,5,RR,2,2,0,1,RR
+5_RR_0009,ACTOR,GBR\May,UK Prime Minister Theresa May,,5,RR,2,2,22,26,RR
+5_RR_0010,EVENT,Visit Trump UK,a so-called working visit,,5,RR,2,2,8,11,RR
+5_RR_0011,EVENT,State Visit,full state visit,,5,RR,2,2,14,16,RR
+5_RR_0012,ACTOR,USA\Trump,President Trump,,5,RR,3,3,5,6,RR
+5_RR_0013,EVENT,Visit Trump UK,President Trump's first visit to the UK,,5,RR,3,3,5,12,RR
+5_RR_0014,EVENT,State Visit,a full state visit,,5,RR,3,3,15,18,RR
+5_RR_0015,EVENT,State Visit,a state visit,,5,RR,3,4,7,9,RR
+5_RR_0016,EVENT,Visit Trump UK,a working visit,,5,RR,3,3,41,43,RR
+5_RR_0017,EVENT,State Visit,all the pomp and pageantry,,5,RR,3,3,21,25,RR
+5_RR_0018,PROPERTY,Importance,became prominent,Visit Trump UK,5,RR,3,3,44,45,RR
+5_RR_0019,PROPERTY,Other,remains open,State Visit,5,RR,3,4,14,15,RR
+5_RR_0020,ACTOR,USA\Trump,the U.S. President,,5,RR,3,4,3,5,RR
+5_RR_0021,COUNTRY,GBR,the United Kingdom,,5,RR,3,4,11,13,RR
+5_RR_0022,ACTION,Break UK visits,the trip was postponed and finally apparently ditched,,5,RR,3,3,30,37,RR
+5_RR_0023,PROPERTY,Importance,with all the pomp and pageantry,State Visit,5,RR,3,3,20,25,RR
+5_RR_0033,ACTOR-I,USA\USA-Misc,Hillary Clinton,,5,RR,5,6,21,22,RR
+5_RR_0034,OBJECT,GBR\London,London,,5,RR,5,5,25,25,RR
+5_RR_0035,OBJECT,GBR\London,London,,5,RR,5,6,9,9,RR
+5_RR_0036,ACTOR,GBR\GBR-Misc\Khan,London Mayor Sadiq Khan,,5,RR,5,6,9,12,RR
+5_RR_0037,ACTOR,USA\Trump,President Trump,,5,RR,5,6,4,5,RR
+5_RR_0038,ACTOR,USA\Trump,President Trump,,5,RR,5,6,41,42,RR
+5_RR_0039,EVENT,Visit Trump UK,President Trump's visit,,5,RR,5,6,4,7,RR
+5_RR_0040,ACTOR,GBR\GBR-Misc\Khan,"a self-confessed ""big fan"" of Hillary Clinton",,5,RR,5,6,14,22,RR
+5_RR_0041,PROPERTY,Power,added his own words against,GBR-Misc,5,RR,5,6,36,40,RR
+5_RR_0042,PROPERTY,Aggressor,added his own words against,GBR-Misc,5,RR,5,6,36,40,RR
+5_RR_0043,PROPERTY,Affection,big fan,USA-Misc,5,RR,5,6,17,18,RR
+5_RR_0044,EVENT,Protest,protests,,5,RR,5,5,18,18,RR
+5_RR_0045,EVENT,Protest,protests,,5,RR,5,6,31,31,RR
+5_RR_0046,PROPERTY,Power,talked up the potential for protests,GBR-Misc,5,RR,5,6,26,31,RR
+5_RR_0047,ACTOR,USA\Trump,the President,,5,RR,5,5,20,21,RR
+5_RR_0048,ACTION,Break UK visits,the delay in the visit,,5,RR,5,5,9,13,RR
+5_RR_0049,PROPERTY,Aggressor,the threat of protests,GBR-Misc,5,RR,5,5,15,18,RR
+5_RR_0050,ACTION,Break UK visits,the threat of protests against the President should he visit London,,5,RR,5,5,15,25,RR
+5_RR_0051,EVENT,Visit Trump UK,the visit,,5,RR,5,5,12,13,RR
+5_RR_0052,ACTOR-I,GBR\GBR-Misc,those opposing President Trump's visit,,5,RR,5,6,2,7,RR
+5_RR_0053,ACTOR,GBR\GBR-Misc\Khan,Khan,,5,RR,6,7,6,6,RR
+5_RR_0054,ACTOR,USA\Trump,President Trump,,5,RR,6,7,31,32,RR
+5_RR_0055,PROPERTY,Refusal,complaining,GBR-Misc,5,RR,6,7,34,34,RR
+5_RR_0056,PROPERTY,Dishonor,"his policies ""go[es] against everything we stand for",Trump,5,RR,6,7,35,46,RR
+5_RR_0057,COUNTRY,GBR,our government,,5,RR,6,7,21,22,RR
+5_RR_0058,EVENT,Visit Trump UK,to roll out the red carpet,,5,RR,6,7,23,28,RR
+5_RR_0059,PROPERTY,Refusal,"wouldn't be ""appropriate for our government to roll out the red carpet",Visit Trump UK,5,RR,6,7,15,28,RR
+5_RR_0060,ACTOR,GBR\GBR-Misc\Khan,Khan,,5,RR,7,8,10,10,RR
+5_RR_0061,OBJECT,GBR\London,London,,5,RR,7,8,1,1,RR
+5_RR_0062,PROPERTY,Affection,Praising,London,5,RR,7,8,0,0,RR
+5_RR_0063,PROPERTY,Power,express their views,GBR-Misc,5,RR,7,8,27,29,RR
+5_RR_0064,PROPERTY,Confidence,had no doubt,GBR-Misc,5,RR,7,8,14,16,RR
+5_RR_0065,PROPERTY,Power,loudly,GBR-Misc,5,RR,7,8,30,30,RR
+5_RR_0066,PROPERTY,Reason,peacefully,GBR-Misc,5,RR,7,8,32,32,RR
+5_RR_0067,EVENT,Protest,protest,,5,RR,7,8,8,8,RR
+5_RR_0068,ACTOR-I,GBR\GBR-Misc,some people who will want to express their views loudly and peacefully,,5,RR,7,8,21,32,RR
+5_RR_0069,ACTOR,USA\Trump,the President,,5,RR,7,8,34,35,RR
+5_RR_0070,PROPERTY,Confidence,there will be some people who will want to express their views loudly and peacefully,GBR-Misc,5,RR,7,8,18,32,RR
+5_RR_0071,PROPERTY,Power,"""great history"" of protest",London,5,RR,7,8,3,8,RR
+5_RR_0072,COUNTRY,USA,America,,5,RR,8,10,23,23,RR
+5_RR_0073,COUNTRY,USA,Americans,,5,RR,8,10,25,25,RR
+5_RR_0074,ACTOR,GBR\GBR-Misc\Khan,Khan,,5,RR,8,9,14,14,RR
+5_RR_0075,ACTOR,GBR\GBR-Misc\Khan,Khan,,5,RR,8,10,0,0,RR
+5_RR_0076,ACTOR,USA\Trump,President Trump,,5,RR,8,9,5,6,RR
+5_RR_0077,ACTOR,USA\Trump,President Trump,,5,RR,8,10,10,11,RR
+5_RR_0078,PROPERTY,Reason,got the message,Trump,5,RR,8,10,12,14,RR
+5_RR_0079,ACTION,Break UK visits,have been called off,,5,RR,8,9,10,13,RR
+5_RR_0080,PROPERTY,Affection,love and admire,USA,5,RR,8,10,20,22,RR
+5_RR_0081,PROPERTY,Dishonor,polar opposite of our city's values,Trump,5,RR,8,10,33,39,RR
+5_RR_0082,PROPERTY,Reason,seems to have moderated his tone,GBR-Misc,5,RR,8,9,21,26,RR
+5_RR_0083,OBJECT,GBR\London,the many Londoners,,5,RR,8,10,16,18,RR
+5_RR_0084,EVENT,Visit Trump UK,the visit by President Trump,,5,RR,8,9,2,6,RR
+5_RR_0085,PROPERTY,Honor,"values of inclusion, diversity and tolerance",London,5,RR,8,10,39,45,RR
+5_RR_0086,PROPERTY,Affection,welcomed the news,Break UK visits,5,RR,8,9,15,17,RR
+5_RR_0087,EVENT,Visit Trump UK,His visit next month,,5,RR,9,11,1,4,RR
+5_RR_0088,ACTOR,GBR\May,Theresa May,,5,RR,9,12,9,10,RR
+5_RR_0089,EVENT,State Visit,a state visit,,5,RR,9,12,18,20,RR
+5_RR_0090,EVENT,Protest,mass peaceful protests,,5,RR,9,11,12,14,RR
+5_RR_0091,EVENT,Visit Trump UK,mistake it was for Theresa May to rush and extend an invitation,,5,RR,9,12,5,16,RR
+5_RR_0092,PROPERTY,Unreason,rush and extend an invitation,May,5,RR,9,12,12,16,RR
+5_RR_0093,PROPERTY,Negative,would without doubt have been met by mass peaceful protests,Visit Trump UK,5,RR,9,11,5,14,RR
+5_RR_0094,OBJECT,GBR\London,Londoners,,5,RR,10,13,37,37,RR
+5_RR_0095,ACTOR,GBR\GBR-Misc\Khan,Mayor Khan,,5,RR,10,13,12,13,RR
+5_RR_0096,OBJECT,GBR\London,an unwelcoming London,,5,RR,10,13,7,9,RR
+5_RR_0097,PROPERTY,Affection,"call the city ""open""",London,5,RR,10,13,18,23,RR
+5_RR_0098,OBJECT,GBR\London,the city,,5,RR,10,13,19,20,RR
+5_RR_0099,PROPERTY,Honor,treasured freedom of speech,London,5,RR,10,13,38,41,RR
+5_RR_0100,PROPERTY,Refusal,unwelcoming,Trump,5,RR,10,13,8,8,RR
+5_RR_0101,PROPERTY,Confidence,without irony,GBR-Misc,5,RR,10,13,27,28,RR

@@ -1,0 +1,85 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+0_LL_0000,COUNTRY,USA,CIA Director,,0,LL,0,0,0,1,LL
+0_LL_0001,ACTOR,PRK\Jong Un,Kim Jong Un,,0,LL,0,0,10,12,LL
+0_LL_0002,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,LL,0,0,2,3,LL
+0_LL_0003,ACTOR,PRK\Jong Un,North Korean Leader,,0,LL,0,0,7,9,LL
+0_LL_0004,ACTION,Trip to PRK,Secretly Met With North Korean Leader,,0,LL,0,0,4,9,LL
+0_LL_0005,ACTOR,USA\Trump,Donald Trump,,0,LL,1,1,0,1,LL
+0_LL_0006,ACTOR,PRK\Jong Un,North Korean leader,,0,LL,1,1,8,10,LL
+0_LL_0007,EVENT,PRK USA Summit,is planning to meet with the North Korean leader,,0,LL,1,1,2,10,LL
+0_LL_0008,PROPERTY,Power,planning to meet,Trump,0,LL,1,1,3,5,LL
+0_LL_0009,COUNTRY,USA,Central Intelligence Agency Director,,0,LL,2,2,0,3,LL
+0_LL_0010,ACTOR,PRK\Jong Un,Kim Jong Un,,0,LL,2,2,11,13,LL
+0_LL_0011,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,LL,2,2,4,5,LL
+0_LL_0012,ACTOR,PRK\Jong Un,North Korean leader,,0,LL,2,2,8,10,LL
+0_LL_0013,COUNTRY,USA,CIA chief,,0,LL,3,4,9,10,LL
+0_LL_0014,ACTOR,USA\Trump,Donald Trump,,0,LL,3,3,17,18,LL
+0_LL_0015,ACTOR,PRK\Jong Un,Kim,,0,LL,3,3,20,20,LL
+0_LL_0016,COUNTRY,PRK,North Korea,,0,LL,3,3,7,8,LL
+0_LL_0017,ACTOR,USA\Mike Pompeo,Pompeo,,0,LL,3,3,0,0,LL
+0_LL_0018,COUNTRY,PRK,Pyongyang,,0,LL,3,3,26,26,LL
+0_LL_0019,MISC,Denuclearization,Pyongyang's nuclear program,,0,LL,3,3,26,29,LL
+0_LL_0020,ACTOR,USA\Trump,U.S. President,,0,LL,3,3,15,16,LL
+0_LL_0021,EVENT,PRK USA Summit,direct talks between U.S. President Donald Trump and Kim,,0,LL,3,3,12,20,LL
+0_LL_0022,ACTION,Trip to PRK,reportedly made the secret visit to North Korea,,0,LL,3,3,1,8,LL
+0_LL_0023,COUNTRY,USA,senators,,0,LL,3,4,12,12,LL
+0_LL_0024,EVENT,PRK USA Summit,such talks,,0,LL,3,4,17,18,LL
+0_LL_0025,EVENT,PRK USA Summit,the meeting,,0,LL,3,4,2,3,LL
+0_LL_0026,ACTION,Trip to PRK,to prepare for direct talks,,0,LL,3,3,9,13,LL
+0_LL_0027,PROPERTY,Confidence,was encouraged,PRK USA Summit,0,LL,3,4,14,15,LL
+0_LL_0028,COUNTRY,USA,America,,0,LL,4,6,41,41,LL
+0_LL_0029,PROPERTY,Confidence,I'm optimistic that,Mike Pompeo,0,LL,4,6,1,4,LL
+0_LL_0030,ACTOR,USA\Mike Pompeo,Pompeo,,0,LL,4,5,3,3,LL
+0_LL_0031,ACTOR,USA\Mike Pompeo,Pompeo,,0,LL,4,6,18,18,LL
+0_LL_0032,COUNTRY,USA,Senate Foreign Relations Committee,,0,LL,4,6,21,24,LL
+0_LL_0033,ACTOR,USA\Trump,Trump,,0,LL,4,5,0,0,LL
+0_LL_0034,COUNTRY,USA,U.S. secretary of state,,0,LL,4,5,8,11,LL
+0_LL_0035,COUNTRY,USA,United States government,,0,LL,4,6,6,8,LL
+0_LL_0036,PROPERTY,Importance,so desperately need,PRK USA Summit,0,LL,4,6,45,47,LL
+0_LL_0037,COUNTRY,KOR,Envoys from the South,,0,LL,5,8,0,3,LL
+0_LL_0038,COUNTRY,PRK,North Korea,,0,LL,5,7,6,7,LL
+0_LL_0039,COUNTRY,PRK,Pyongyang,,0,LL,5,7,15,15,LL
+0_LL_0040,COUNTRY,PRK,Pyongyang,,0,LL,5,8,6,6,LL
+0_LL_0041,COUNTRY,KOR,South Korea,,0,LL,5,7,26,27,LL
+0_LL_0042,COUNTRY,USA,U.S.,,0,LL,5,7,4,4,LL
+0_LL_0043,COUNTRY,USA,U.S.,,0,LL,5,8,18,18,LL
+0_LL_0044,COUNTRY,USA,United States,,0,LL,5,7,23,24,LL
+0_LL_0045,PROPERTY,Power,forging a dialogue,KOR,0,LL,5,8,13,15,LL
+0_LL_0046,ACTION,Trip to PRK,the aim of forging a dialogue with the U.S.,,0,LL,5,8,10,18,LL
+0_LL_0047,COUNTRY,USA,White House,,0,LL,6,9,1,2,LL
+0_LL_0048,EVENT,PRK USA Summit,the talks,,0,LL,6,9,5,6,LL
+0_LL_0049,ACTOR,JPN\Abe,Japanese Prime Minister,,0,LL,7,11,6,8,LL
+0_LL_0050,ACTOR,JPN\Abe,Shinzo Abe,,0,LL,7,11,9,10,LL
+0_LL_0051,ACTOR,USA\Trump,The president,,0,LL,7,11,0,1,LL
+0_LL_0052,ACTOR,USA\Trump,Trump,,0,LL,7,10,0,0,LL
+0_LL_0053,COUNTRY,USA,United States,,0,LL,7,10,23,24,LL
+0_LL_0054,EVENT,PRK USA Summit,the meeting,,0,LL,7,11,25,26,LL
+0_LL_0055,EVENT,PRK USA Summit,the summit,,0,LL,7,10,12,13,LL
+0_LL_0056,ACTOR,USA\Trump,Trump,,0,LL,8,12,13,13,LL
+0_LL_0057,ACTOR,PRK\Jong Un,Kim,,0,LL,9,14,0,0,LL
+0_LL_0058,COUNTRY,USA,U.S. diplomats,,0,LL,9,14,13,14,LL
+0_LL_0059,MISC,Denuclearization,a longstanding condition,,0,LL,9,14,10,12,LL
+0_LL_0060,PROPERTY,Importance,longstanding condition,Denuclearization,0,LL,9,14,11,12,LL
+0_LL_0061,PROPERTY,Importance,must be on the table,Denuclearization,0,LL,9,14,17,21,LL
+0_LL_0062,COUNTRY,PRK,the North,,0,LL,9,14,7,8,LL
+0_LL_0063,MISC,Denuclearization,to denuclearize,,0,LL,9,14,5,6,LL
+0_LL_0064,COUNTRY,PRK,the country,,0,LL,10,15,5,6,LL
+0_LL_0065,COUNTRY,USA,Jeffrey Lewis,,0,LL,11,16,30,31,LL
+0_LL_0066,ACTOR,PRK\Jong Un,Kim,,0,LL,11,16,22,22,LL
+0_LL_0067,ACTOR,PRK\Jong Un,Kim,,0,LL,11,17,8,8,LL
+0_LL_0068,ACTOR,PRK\Jong Un,Mr. Kim,,0,LL,11,17,7,8,LL
+0_LL_0069,COUNTRY,USA,director of the East Asia nonproliferation program at the Middlebury Institute,,0,LL,11,16,34,44,LL
+0_LL_0070,MISC,Denuclearization,to disarm,,0,LL,11,17,4,5,LL
+0_LL_0071,MISC,Denuclearization,"to engage in a process, headed toward an ambiguous goal.",,0,LL,11,17,14,24,LL
+0_LL_0072,ACTOR,PRK\Jong Un,Kim,,0,LL,12,18,5,5,LL
+0_LL_0073,ACTOR,KOR\Moon Jae,Moon Jae-in,,0,LL,12,18,24,25,LL
+0_LL_0074,ACTOR,KOR\Moon Jae,South Korean President,,0,LL,12,18,21,23,LL
+0_LL_0075,EVENT,PRK KOR Meeting,upcoming meeting on April 27 with South Korean President Moon Jae-in,,0,LL,12,18,15,25,LL
+0_LL_0076,COUNTRY,CHN,China,,0,LL,13,19,6,6,LL
+0_LL_0077,COUNTRY,CHN,Chinese,,0,LL,13,20,23,23,LL
+0_LL_0078,ACTOR,PRK\Jong Un,Kim,,0,LL,13,19,0,0,LL
+0_LL_0079,ACTOR,PRK\Jong Un,Kim,,0,LL,13,20,12,12,LL
+0_LL_0080,ACTOR,CHN\Jinping,Xi,,0,LL,13,19,8,8,LL
+0_LL_0081,ACTOR,CHN\Jinping,Xi,,0,LL,13,20,7,7,LL
+0_LL_0082,ACTOR,CHN\Jinping,Xi Jinping,,0,LL,13,19,8,9,LL
+0_LL_0083,ACTOR,USA\Trump,Trump,,0,LL,14,21,8,8,LL

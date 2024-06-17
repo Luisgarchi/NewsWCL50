@@ -1,0 +1,252 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+6_L_0000,GROUP,Migrant caravan,Migrant Caravan of Asylum Seekers,,6,L,0,0,0,4,L
+6_L_0001,OBJECT,USA-MEX Border,U.S. Border,,6,L,0,0,6,7,L
+6_L_0002,GROUP,Migrant caravan,Members of the migrant caravan,,6,L,1,1,0,4,L
+6_L_0003,OBJECT,USA-MEX Border,the border wall,,6,L,1,1,6,8,L
+6_L_0004,MISC,Migration to the USA,"A long, grueling journey",,6,L,2,2,4,8,L
+6_L_0005,COUNTRY,MEX,Mexico,,6,L,2,2,2,2,L
+6_L_0006,COUNTRY,MEX,Mexico,,6,L,2,2,36,36,L
+6_L_0007,ACTOR,USA\Trump,President Trump,,6,L,2,2,47,48,L
+6_L_0008,GROUP,Migrant caravan,a caravan of immigrants,,6,L,2,2,23,26,L
+6_L_0009,MISC,Migration to the USA,a dramatic moment,,6,L,2,2,40,42,L
+6_L_0010,MISC,Migration to the USA,a test of President Trump's anti-immigrant politics,,6,L,2,2,44,51,L
+6_L_0011,PROPERTY,Importance,dramatic,Migration to the USA,6,L,2,2,41,41,L
+6_L_0012,PROPERTY,Difficulty,finally,Migration to the USA,6,L,2,2,27,27,L
+6_L_0013,PROPERTY,Unsafety,"long, grueling",Migration to the USA,6,L,2,2,5,7,L
+6_L_0014,MISC,Migration to the USA,reached the border,,6,L,2,2,28,30,L
+6_L_0015,COUNTRY,USA,the United States,,6,L,2,2,32,34,L
+6_L_0016,OBJECT,USA-MEX Border,the border,,6,L,2,2,29,30,L
+6_L_0017,COUNTRY,MEX,Mexico,,6,L,3,3,20,20,L
+6_L_0018,GROUP,Migrant caravan,More than 150 migrants,,6,L,3,3,0,3,L
+6_L_0019,COUNTRY,USA,United States immigration officials,,6,L,3,3,32,35,L
+6_L_0020,GROUP,Migrant caravan,a caravan,,6,L,3,3,7,8,L
+6_L_0021,OBJECT,USA-MEX Border,border,,6,L,3,3,22,22,L
+6_L_0022,PROPERTY,Importance,"once numbered about 1,200",Migrant caravan,6,L,3,3,10,13,L
+6_L_0023,PROPERTY,Power,prepared to seek asylum,Migrant caravan,6,L,3,3,27,30,L
+6_L_0024,MISC,Migration to the USA,prepared to seek asylum from United States immigration officials,,6,L,3,3,27,35,L
+6_L_0025,ACTION,Migration to the USA\Seek asylum,seek asylum,,6,L,3,3,29,30,L
+6_L_0026,PROPERTY,Difficulty,one of many curves on the road,Migration to the USA,6,L,4,4,7,13,L
+6_L_0027,COUNTRY,MEX,the Mexican side,,6,L,4,4,40,42,L
+6_L_0028,OBJECT,USA-MEX Border,the Mexican side of the border,,6,L,4,4,40,45,L
+6_L_0029,COUNTRY,USA,the immigration officials,,6,L,4,4,22,24,L
+6_L_0030,GROUP,Migrant caravan,the migrants,,6,L,4,4,15,16,L
+6_L_0031,PROPERTY,Weakness,would have to spend the night on the Mexican side,Migrant caravan,6,L,4,4,33,42,L
+6_L_0032,ACTOR,USA\Trump,Mr. Trump,,6,L,5,7,16,17,L
+6_L_0033,PROPERTY,Importance,a volatile flash point,Migration to the USA,6,L,5,7,6,9,L
+6_L_0034,MISC,Migration to the USA,a volatile flash point in the immigration debate ignited by Mr. Trump.,,6,L,5,7,6,17,L
+6_L_0035,MISC,Migration to the USA,an immigration drama,,6,L,5,5,7,9,L
+6_L_0036,PROPERTY,Importance,drama,Migration to the USA,6,L,5,5,9,9,L
+6_L_0037,PROPERTY,Power,headed north together,Migrant caravan,6,L,5,6,8,10,L
+6_L_0038,MISC,Migration to the USA,headed north together as a form of protection,,6,L,5,6,8,15,L
+6_L_0039,PROPERTY,Power,ignited by,Trump,6,L,5,7,14,15,L
+6_L_0040,GROUP,Migrant caravan,immigrants,,6,L,5,6,6,6,L
+6_L_0041,PROPERTY,Other,played out in relative obscurity,Migration to the USA,6,L,5,5,12,16,L
+6_L_0042,PROPERTY,Weakness,protection against,Migrant caravan,6,L,5,6,15,16,L
+6_L_0043,PROPERTY,Difficulty,their plight,Migrant caravan,6,L,5,6,34,35,L
+6_L_0044,PROPERTY,Importance,"a fraught, deeply personal one",Migrant caravan,6,L,6,8,7,12,L
+6_L_0045,GROUP,Migrant caravan,the migrants,,6,L,6,8,1,2,L
+6_L_0046,ACTOR-I,Migrant caravan\Migrant caravan-I,Cecilia Sarai Carillo,,6,L,7,9,6,8,L
+6_L_0047,ACTOR-I,Migrant caravan\Migrant caravan-I,Daryeline Ariana,,6,L,7,9,41,42,L
+6_L_0048,ACTOR-I,Migrant caravan\Migrant caravan-I,Mario Quintanillo,,6,L,7,9,0,1,L
+6_L_0049,ACTOR-I,Migrant caravan\Migrant caravan-I,four couples who wed at the beach,,6,L,7,9,20,26,L
+6_L_0050,PROPERTY,Power,wed at the beach,Migrant caravan-I,6,L,7,9,23,26,L
+6_L_0053,COUNTRY,MEX,Mexico,,6,L,9,10,25,25,L
+6_L_0054,ACTOR,USA\Trump,President Trump,,6,L,9,10,8,9,L
+6_L_0055,OBJECT,USA-MEX Border,a wall on the border with Mexico,,6,L,9,10,19,25,L
+6_L_0056,PROPERTY,Weakness,unable to deliver,Trump,6,L,9,10,12,14,L
+6_L_0057,PROPERTY,Weakness,good chance that they would be split up,Migrant caravan,6,L,10,11,16,23,L
+6_L_0058,PROPERTY,Power,planned to apply,Migrant caravan,6,L,10,11,1,3,L
+6_L_0059,ACTION,Migration to the USA\Seek asylum,planned to apply for asylum,,6,L,10,11,1,5,L
+6_L_0060,OBJECT,USA-MEX Border,the American border,,6,L,10,11,7,9,L
+6_L_0061,ACTOR-I,Migrant caravan\Migrant caravan-I,Mr. Quintanillo,,6,L,11,12,20,21,L
+6_L_0062,PROPERTY,Unsafety,everything is possible,Migration to the USA,6,L,11,14,7,9,L
+6_L_0063,PROPERTY,Weakness,fleeing a gang,Migrant caravan-I,6,L,11,13,5,7,L
+6_L_0064,PROPERTY,Confidence,going to be worth the effort,Migrant caravan-I,6,L,11,12,11,16,L
+6_L_0065,PROPERTY,Confidence,going with the feeling,Migrant caravan-I,6,L,11,12,4,7,L
+6_L_0066,ACTOR-I,Migrant caravan\Migrant caravan-I,his family,,6,L,11,13,2,3,L
+6_L_0067,COUNTRY,USA,Congress,,6,L,12,15,55,55,L
+6_L_0068,ACTOR-I,USA\USA-I,Gov. Jerry Brown of California,,6,L,12,15,36,40,L
+6_L_0069,COUNTRY,MEX,Mexico,,6,L,12,15,20,20,L
+6_L_0070,ACTOR,USA\Trump,Mr. Trump,,6,L,12,15,17,18,L
+6_L_0071,ACTOR,USA\Trump,Mr. Trump,,6,L,12,15,33,34,L
+6_L_0072,ACTOR,USA\Trump,Mr. Trump,,6,L,12,15,58,59,L
+6_L_0073,PROPERTY,Difficulty,dense tangle of politics and policy,MEX; USA,6,L,12,15,6,11,L
+6_L_0074,PROPERTY,Refusal,ill will,Trump; MEX,6,L,12,15,14,15,L
+6_L_0075,PROPERTY,Difficulty,personal struggles,Migrant caravan-I,6,L,12,15,2,3,L
+6_L_0076,OBJECT,USA-MEX Border,proposed border wall,,6,L,12,15,61,63,L
+6_L_0077,PROPERTY,Aggressor,the acrimony,Trump; USA-I,6,L,12,15,30,31,L
+6_L_0078,ACTOR,USA\Trump,Mr. Trump,,6,L,13,16,8,9,L
+6_L_0079,COUNTRY,USA,Republicans,,6,L,13,16,23,23,L
+6_L_0080,PROPERTY,Importance,a galvanizing issue,Migration to the USA,6,L,13,16,15,17,L
+6_L_0081,MISC,Migration to the USA,immigration,,6,L,13,16,14,14,L
+6_L_0082,COUNTRY,USA,the House,,6,L,13,16,29,30,L
+6_L_0083,COUNTRY,USA,the Senate,,6,L,13,16,33,34,L
+6_L_0084,PROPERTY,Weakness,worried about losing control,USA,6,L,13,16,24,27,L
+6_L_0085,GROUP,Supporters,American advocacy groups,,6,L,14,17,14,16,L
+6_L_0086,ACTOR-I,Supporters\Supporters-I,Heather Cronk,,6,L,14,17,0,1,L
+6_L_0087,ACTOR-I,Supporters\Supporters-I,co-director of Showing Up for Racial Justice,,6,L,14,17,3,9,L
+6_L_0088,PROPERTY,Power,have been helping,Supporters; Supporters-I,6,L,14,17,18,20,L
+6_L_0089,GROUP,Migrant caravan,its participants,,6,L,14,17,24,25,L
+6_L_0090,PROPERTY,Power,support,Supporters; Supporters-I,6,L,14,17,31,31,L
+6_L_0091,GROUP,Migrant caravan,the caravan,,6,L,14,17,21,22,L
+6_L_0092,GROUP,Migrant caravan,the migrants,,6,L,14,17,32,33,L
+6_L_0093,PROPERTY,Power,traveled,Supporters; Supporters-I,6,L,14,17,27,27,L
+6_L_0094,GROUP,Migrant caravan,the caravan,,6,L,15,18,2,3,L
+6_L_0095,PROPERTY,Honor,Liberty and justice for all,USA,6,L,16,22,12,16,L
+6_L_0096,COUNTRY,USA,a country,,6,L,16,19,12,13,L
+6_L_0097,PROPERTY,Importance,a spiritual moment,Migrant caravan,6,L,16,21,2,4,L
+6_L_0098,PROPERTY,Honor,about who we are as a country,USA,6,L,16,19,7,13,L
+6_L_0099,PROPERTY,Importance,existential moment,Migrant caravan,6,L,16,20,7,8,L
+6_L_0100,ACTOR,USA\Trump,Mr. Trump,,6,L,17,23,4,5,L
+6_L_0101,PROPERTY,Importance,relishes,Migrant caravan,6,L,17,23,7,7,L
+6_L_0102,ACTOR,USA\Trump,Mr. Trump,,6,L,18,24,11,12,L
+6_L_0103,COUNTRY,USA,our Country,,6,L,18,24,36,37,L
+6_L_0104,PROPERTY,Aggressor,ratcheted up his rhetoric,Trump,6,L,18,24,20,23,L
+6_L_0105,PROPERTY,Victim,ratcheted up his rhetoric,Migrant caravan,6,L,18,24,20,23,L
+6_L_0106,COUNTRY,USA,the doorstep of the United States,,6,L,18,24,4,9,L
+6_L_0107,GROUP,Migrant caravan,the migrants,,6,L,18,24,1,2,L
+6_L_0108,GROUP,Migrant caravan,these large Caravans of people,,6,L,18,24,30,34,L
+6_L_0109,ACTOR,USA\Trump,Mr. Trump,,6,L,19,25,0,1,L
+6_L_0110,MISC,Migration to the USA,immigration issues,,6,L,19,25,6,7,L
+6_L_0111,PROPERTY,Importance,repeatedly came back to,Migration to the USA,6,L,19,25,2,5,L
+6_L_0112,COUNTRY,USA,the country,,6,L,19,25,35,36,L
+6_L_0113,PROPERTY,Power,we'll close down,Trump; USA,6,L,19,25,31,34,L
+6_L_0114,ACTOR-I,USA\USA-I,Other administration officials,,6,L,20,26,0,2,L
+6_L_0115,PROPERTY,Power,been vocal,USA-I,6,L,20,26,5,6,L
+6_L_0116,ACTOR-I,USA\USA-I,Attorney General Jeff Sessions,,6,L,21,27,0,3,L
+6_L_0117,PROPERTY,Unlawfulness,overwhelm our system,Migrant caravan,6,L,21,27,16,18,L
+6_L_0118,GROUP,Migrant caravan,the caravan,,6,L,21,27,5,6,L
+6_L_0119,PROPERTY,Unlawfulness,undermine our laws,Migrant caravan,6,L,21,27,12,14,L
+6_L_0120,COUNTRY,MEX,Mexico,,6,L,22,29,29,29,L
+6_L_0121,GROUP,Supporters,Scores of supporters,,6,L,22,29,0,2,L
+6_L_0122,GROUP,Supporters,dozens of members of the news media,,6,L,22,28,4,10,L
+6_L_0123,PROPERTY,Power,gathered in a park,Migrant caravan; Supporters,6,L,22,28,14,17,L
+6_L_0124,PROPERTY,Power,rallied,Supporters,6,L,22,29,16,16,L
+6_L_0125,GROUP,Supporters,supporters,,6,L,22,28,2,2,L
+6_L_0126,GROUP,Supporters,supporters,,6,L,22,29,2,2,L
+6_L_0127,COUNTRY,USA,the American side,,6,L,22,29,31,33,L
+6_L_0128,OBJECT,USA-MEX Border,the American side of the oceanfront park,,6,L,22,29,31,37,L
+6_L_0129,COUNTRY,USA,the United States,,6,L,22,29,25,27,L
+6_L_0130,OBJECT,USA-MEX Border,the fence separating the United States from Mexico,,6,L,22,29,22,29,L
+6_L_0131,GROUP,Migrant caravan,the migrants,,6,L,22,28,12,13,L
+6_L_0132,PROPERTY,Power,chanted and waved Honduran flags,Supporters; Migrant caravan,6,L,23,32,5,9,L
+6_L_0133,PROPERTY,Power,marched,Supporters; Migrant caravan,6,L,23,31,33,33,L
+6_L_0134,GROUP,Supporters,supporters,,6,L,23,31,28,28,L
+6_L_0135,GROUP,Migrant caravan,the caravan,,6,L,23,31,9,10,L
+6_L_0136,MISC,Migration to the USA,the final act of the caravan,,6,L,23,31,5,10,L
+6_L_0137,GROUP,Migrant caravan,applicants,,6,L,24,33,5,5,L
+6_L_0138,PROPERTY,Weakness,been persecuted or fear persecution,Migrant caravan,6,L,24,33,10,14,L
+6_L_0139,GROUP,Migrant caravan,People who request protection,,6,L,25,34,0,3,L
+6_L_0140,COUNTRY,USA,a United States entry,,6,L,25,34,5,8,L
+6_L_0141,OBJECT,USA-MEX Border,a United States entry point,,6,L,25,34,5,9,L
+6_L_0142,COUNTRY,USA,an asylum officer,,6,L,25,34,14,16,L
+6_L_0143,PROPERTY,Trustworthiness,credible-fear,Migrant caravan,6,L,25,34,24,24,L
+6_L_0144,PROPERTY,Weakness,fear of persecution,Migrant caravan,6,L,25,35,12,14,L
+6_L_0145,ACTION,Migration to the USA\Seek asylum,request protection,,6,L,25,34,2,3,L
+6_L_0146,COUNTRY,USA,the officer,,6,L,25,35,1,2,L
+6_L_0147,ACTOR-I,Supporters\Supporters-I,Nicole Ramos,,6,L,26,37,17,18,L
+6_L_0148,ACTOR-I,Supporters\Supporters-I,a volunteer immigration lawyer,,6,L,26,37,20,23,L
+6_L_0149,PROPERTY,Power,helping,Supporters-I,6,L,26,37,24,24,L
+6_L_0150,GROUP,Migrant caravan,the caravan,,6,L,26,37,25,26,L
+6_L_0151,PROPERTY,Weakness,will pass the credible-fear interview,Migrant caravan,6,L,26,37,9,13,L
+6_L_0152,COUNTRY,USA,Customs and Border Protection,,6,L,27,38,1,4,L
+6_L_0153,PROPERTY,Weakness,exhausted its capacity,USA,6,L,27,38,21,23,L
+6_L_0154,COUNTRY,USA,officers,,6,L,27,38,7,7,L
+6_L_0155,GROUP,Migrant caravan,people traveling without documents,,6,L,27,38,26,29,L
+6_L_0156,OBJECT,USA-MEX Border,ports of entry,,6,L,27,38,11,13,L
+6_L_0157,ACTOR-I,Migrant caravan\Migrant caravan-I,A young boy from Honduras,,6,L,28,39,0,4,L
+6_L_0158,OBJECT,USA-MEX Border,the border wall,,6,L,28,39,7,9,L
+6_L_0159,COUNTRY,USA,American border authorities,,6,L,29,41,10,12,L
+6_L_0160,GROUP,Migrant caravan\People without borders,caravan organizers,,6,L,29,40,2,3,L
+6_L_0161,PROPERTY,Power,escorted,People without boarders,6,L,29,40,4,4,L
+6_L_0162,PROPERTY,Weakness,escorted some 50 participants,Migrant caravan,6,L,29,40,4,7,L
+6_L_0163,PROPERTY,Weakness,not be able to process any more,USA-I,6,L,29,41,17,23,L
+6_L_0164,GROUP,Migrant caravan,participants,,6,L,29,40,7,7,L
+6_L_0165,COUNTRY,USA,the American immigration checkpoint,,6,L,29,41,5,8,L
+6_L_0166,COUNTRY,USA,the United States,,6,L,29,40,26,28,L
+6_L_0167,ACTOR-I,Supporters\Supporters-I,Alex Mensing,,6,L,30,42,0,1,L
+6_L_0168,GROUP,Migrant caravan\People without borders,Pueblo Sin Fronteras,,6,L,30,42,6,8,L
+6_L_0169,GROUP,Migrant caravan\People without borders,a transnational group that organized the caravan,,6,L,30,42,10,16,L
+6_L_0170,COUNTRY,USA,border officials,,6,L,30,42,38,39,L
+6_L_0171,PROPERTY,Power,once again had the capacity to process them,USA,6,L,30,42,40,47,L
+6_L_0172,PROPERTY,Power,organized,People without boarders,6,L,30,42,14,14,L
+6_L_0173,ACTOR-I,Supporters\Supporters-I,project coordinator for Pueblo Sin Fronteras,,6,L,30,42,3,8,L
+6_L_0174,GROUP,Migrant caravan,the caravan,,6,L,30,42,15,16,L
+6_L_0175,GROUP,Migrant caravan,the migrants,,6,L,30,42,25,26,L
+6_L_0176,COUNTRY,USA,Immigration and Customs Enforcement,,6,L,31,43,50,53,L
+6_L_0177,GROUP,Migrant caravan,a few hundred asylum seekers,,6,L,31,43,14,18,L
+6_L_0178,PROPERTY,Power,"can certainly pick up more than a 1,000 people",USA,6,L,31,43,26,34,L
+6_L_0179,PROPERTY,Power,capable of accepting,USA,6,L,31,43,9,11,L
+6_L_0180,COUNTRY,USA,the Homeland Security Department,,6,L,31,43,58,61,L
+6_L_0181,COUNTRY,USA,the United States government,,6,L,31,43,4,7,L
+6_L_0182,PROPERTY,Power,"prepared for a long, chilly night",Migrant caravan; Supporters,6,L,32,44,26,32,L
+6_L_0183,GROUP,Supporters,supporters,,6,L,32,44,12,12,L
+6_L_0184,GROUP,Migrant caravan,the asylum seekers,,6,L,32,44,5,7,L
+6_L_0185,PROPERTY,Weakness,detained,Migrant caravan,6,L,33,46,6,6,L
+6_L_0186,PROPERTY,Weakness,get a chance to make their case,Migrant caravan,6,L,33,45,2,8,L
+6_L_0187,GROUP,Migrant caravan,migrant families that request asylum,,6,L,33,45,10,14,L
+6_L_0188,PROPERTY,Weakness,remain in detention centers,Migrant caravan,6,L,33,45,33,36,L
+6_L_0189,ACTION,Migration to the USA\Seek asylum,request asylum,,6,L,33,45,13,14,L
+6_L_0190,COUNTRY,USA,the country,,6,L,33,46,13,14,L
+6_L_0191,OBJECT,USA-MEX Border,the port of entry,,6,L,33,45,16,19,L
+6_L_0192,GROUP,Migrant caravan,undocumented immigrants,,6,L,33,46,17,18,L
+6_L_0193,COUNTRY,USA,United States immigration officials,,6,L,34,47,12,15,L
+6_L_0194,MISC,Migration to the USA,a process,,6,L,34,48,23,24,L
+6_L_0195,PROPERTY,Weakness,allowed to make their case,Migrant caravan,6,L,34,48,11,15,L
+6_L_0196,PROPERTY,Weakness,credible-fear,Migrant caravan,6,L,34,48,4,4,L
+6_L_0197,COUNTRY,USA,immigration judge,,6,L,34,48,20,21,L
+6_L_0198,ACTION,Migration to the USA\Seek asylum,make their case for asylum,,6,L,34,48,13,17,L
+6_L_0199,PROPERTY,Power,screened by,USA,6,L,34,47,10,11,L
+6_L_0200,GROUP,Migrant caravan,the migrants,,6,L,34,47,6,7,L
+6_L_0201,GROUP,Migrant caravan,the migrants,,6,L,34,48,7,8,L
+6_L_0202,PROPERTY,Difficulty,unfolds over several months,Migration to the USA,6,L,34,48,26,29,L
+6_L_0203,GROUP,Migrant caravan,Migrants,,6,L,35,49,0,0,L
+6_L_0204,PROPERTY,Weakness,allowed to,Migrant caravan,6,L,35,49,10,11,L
+6_L_0205,PROPERTY,Weakness,fitted with ankle monitors,Migrant caravan,6,L,35,49,3,6,L
+6_L_0206,COUNTRY,USA,the country,,6,L,35,49,17,18,L
+6_L_0207,ACTOR,USA\Trump,Mr. Trump,,6,L,36,50,0,1,L
+6_L_0208,PROPERTY,Aggressor,denounced,Trump,6,L,36,50,6,6,L
+6_L_0209,PROPERTY,Aggressor,dismissed,Trump,6,L,36,50,19,19,L
+6_L_0210,PROPERTY,Power,kept many migrants seeking asylum in detention,USA,6,L,36,51,12,18,L
+6_L_0211,PROPERTY,Weakness,kept many migrants seeking asylum in detention,Migrant caravan,6,L,36,51,12,18,L
+6_L_0212,GROUP,Supporters,migrant advocates,,6,L,36,51,4,5,L
+6_L_0213,GROUP,Migrant caravan,migrants,,6,L,36,50,11,11,L
+6_L_0214,GROUP,Migrant caravan,migrants,,6,L,36,51,14,14,L
+6_L_0215,GROUP,Migrant caravan,migrants seeking asylum,,6,L,36,51,14,16,L
+6_L_0216,ACTION,Migration to the USA\Seek asylum,seeking asylum,,6,L,36,51,15,16,L
+6_L_0217,PROPERTY,Unlawfulness,skipped their court hearings,Migrant caravan,6,L,36,50,13,16,L
+6_L_0218,COUNTRY,USA,the Trump administration,,6,L,36,51,8,10,L
+6_L_0219,PROPERTY,Importance,high political stakes,Trump; USA; MEX,6,L,37,52,3,5,L
+6_L_0220,ACTION,Migration to the USA\Seek asylum,planning to seek asylum,,6,L,37,52,14,17,L
+6_L_0221,PROPERTY,Importance,stakes for the individual migrants planning to seek asylum Sunday were at least as high,Migrant caravan,6,L,37,52,9,23,L
+6_L_0222,GROUP,Migrant caravan,the individual migrants planning to seek asylum,,6,L,37,52,11,17,L
+6_L_0223,ACTOR-I,Migrant caravan\Migrant caravan-I,18-year-old brother,,6,L,38,53,12,13,L
+6_L_0224,ACTOR-I,Migrant caravan\Migrant caravan-I,Andres Rodríguez,,6,L,38,53,23,24,L
+6_L_0225,ACTOR-I,Migrant caravan\Migrant caravan-I,Byron Claros,,6,L,38,53,0,1,L
+6_L_0226,ACTOR-I,Migrant caravan\Migrant caravan-I,Luis Alexander Rodriguez,,6,L,38,53,15,17,L
+6_L_0227,ACTOR-I,Migrant caravan\Migrant caravan-I,a Salvadoran immigrant,,6,L,38,53,3,5,L
+6_L_0228,GROUP,Migrant caravan,the caravan,,6,L,38,53,8,9,L
+6_L_0229,ACTOR-I,Migrant caravan\Migrant caravan-I,their stepfather,,6,L,38,53,20,21,L
+6_L_0230,COUNTRY,MEX,Mexico,,6,L,39,54,41,41,L
+6_L_0231,ACTOR-I,Migrant caravan\Migrant caravan-I,Mr. Claros,,6,L,39,54,0,1,L
+6_L_0232,ACTOR-I,Migrant caravan\Migrant caravan-I,Mr. Rodriguez,,6,L,39,54,3,4,L
+6_L_0233,PROPERTY,Weakness,case for sanctuary was not strong enough,Migrant caravan-I,6,L,39,54,27,33,L
+6_L_0234,PROPERTY,Power,planned to,Migrant caravan-I,6,L,39,54,5,6,L
+6_L_0235,ACTOR-I,Migrant caravan\Migrant caravan-I,their stepfather,,6,L,39,54,13,14,L
+6_L_0236,GROUP,Supporters,volunteer lawyers,,6,L,39,54,19,20,L
+6_L_0237,PROPERTY,Weakness,would remain behind,Migrant caravan-I,6,L,39,54,37,39,L
+6_L_0238,ACTOR-I,Migrant caravan\Migrant caravan-I,Mr. Claros,,6,L,40,55,15,16,L
+6_L_0239,PROPERTY,Power,gathered,Supporters; Migrant caravan,6,L,40,55,36,36,L
+6_L_0240,MISC,Migration to the USA,hour I've waited for my entire life,,6,L,40,55,2,9,L
+6_L_0241,PROPERTY,Importance,hour I've waited for my entire life,Migration to the USA,6,L,40,55,2,9,L
+6_L_0242,GROUP,Migrant caravan,hundreds of migrants,,6,L,40,55,24,26,L
+6_L_0243,GROUP,Supporters,supporters,,6,L,40,55,31,31,L
+6_L_0244,OBJECT,USA-MEX Border,the border crossing,,6,L,40,55,56,58,L
+6_L_0245,ACTOR-I,Migrant caravan\Migrant caravan-I,Mr. Rodriguez,,6,L,41,56,0,1,L
+6_L_0246,PROPERTY,Power,can support our rights but can also deny us our rights,USA,6,L,41,56,12,22,L
+6_L_0247,COUNTRY,USA,the United States,,6,L,41,56,9,11,L
+6_L_0248,PROPERTY,Weakness,was nervous,Migrant caravan-I,6,L,41,56,4,5,L
+6_L_0249,PROPERTY,Confidence,only one way to push,Migrant caravan-I,6,L,42,57,7,11,L
+6_L_0250,MISC,Migration to the USA,fought too much to get here,,6,L,43,58,3,8,L
+6_L_0251,PROPERTY,Importance,fought too much to get here,Migration to the USA,6,L,43,58,3,8,L
+6_L_0252,PROPERTY,Power,we're here,Migrant caravan,6,L,43,59,2,4,L

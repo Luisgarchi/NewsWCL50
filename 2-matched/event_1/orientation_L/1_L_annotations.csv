@@ -1,0 +1,273 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+1_L_0000,ACTOR,USA\Flynn,Michael T. Flynn,,1,L,0,0,43,45,L
+1_L_0001,ACTOR,USA\Comey,Mr. Comey,,1,L,0,0,57,58,L
+1_L_0002,OBJECT,Comey Memos,Mr. Comey's closely guarded memos,,1,L,0,0,57,62,L
+1_L_0003,ACTOR,USA\Trump,President Trump,,1,L,0,0,2,3,L
+1_L_0004,COUNTRY,RUS,Russia,,1,L,0,0,38,38,L
+1_L_0005,PROPERTY,Importance,closely guarded,Comey Memos,1,L,0,0,60,61,L
+1_L_0006,ACTOR,USA\Comey,former F.B.I. director James Comey,,1,L,0,0,12,16,L
+1_L_0007,PROPERTY,Importance,most sensitive matters,Comey Memos,1,L,0,0,21,23,L
+1_L_0008,PROPERTY,Negative,salacious,Steele dossier,1,L,0,0,30,30,L
+1_L_0009,OBJECT,Comey Memos\Steele dossier,salacious dossier,,1,L,0,0,30,31,L
+1_L_0010,PROPERTY,Importance,spoke in intimate and candid terms,Trump,1,L,0,0,4,9,L
+1_L_0011,EVENT,Comey Memos\Flynn investigation,the investigation into Michael T. Flynn,,1,L,0,0,40,45,L
+1_L_0012,ACTOR,USA\Trump,the president,,1,L,0,0,47,48,L
+1_L_0013,ACTOR,USA\Flynn,the president's first national security adviser,,1,L,0,0,47,53,L
+1_L_0014,COUNTRY,USA,Congress,,1,L,1,1,15,15,L
+1_L_0015,OBJECT,Comey Memos,The redacted and declassified memos,,1,L,1,1,0,4,L
+1_L_0016,MISC,Comey Memos\Interactions with Trump,a series of phone calls and encounters between the two men,,1,L,1,1,25,35,L
+1_L_0017,ACTOR,RUS\Putin,leaders at the highest levels of government,,1,L,1,2,10,16,L
+1_L_0018,ACTOR,USA\Trump,leaders at the highest levels of government,,1,L,1,2,10,16,L
+1_L_0019,PROPERTY,Power,offer an extraordinary look,Comey Memos,1,L,1,2,1,4,L
+1_L_0020,COUNTRY,USA,the Justice Department,,1,L,1,1,17,19,L
+1_L_0021,MISC,Comey Memos\Interactions with Trump,the private interactions among leaders at the highest levels of government,,1,L,1,2,6,16,L
+1_L_0022,ACTOR,USA\Trump,Mr. Trump,,1,L,2,3,0,1,L
+1_L_0023,PROPERTY,Lawfulness,NO COLLUSION,Trump,1,L,2,3,26,27,L
+1_L_0024,EVENT,RUS interference,NO COLLUSION,,1,L,2,3,26,27,L
+1_L_0025,PROPERTY,Lawfulness,NO OBSTRUCTION,Trump,1,L,2,3,29,30,L
+1_L_0026,PROPERTY,Aggressor,seized on the memos,Trump,1,L,2,3,2,5,L
+1_L_0027,PROPERTY,Victim,seized on the memos,Comey,1,L,2,3,2,5,L
+1_L_0028,OBJECT,Comey Memos,the memos,,1,L,2,3,4,5,L
+1_L_0029,ACTOR,USA\Comey,Mr. Comey,,1,L,3,4,22,23,L
+1_L_0030,ACTOR,USA\Flynn,Mr. Flynn,,1,L,3,4,29,30,L
+1_L_0031,ACTOR,USA\Trump,Mr. Trump,,1,L,3,4,19,20,L
+1_L_0032,PROPERTY,Other,according to copies of the memos,Comey Memos,1,L,3,4,6,11,L
+1_L_0033,MISC,Comey Memos\Interactions with Trump,one previously undisclosed exchange,,1,L,3,4,1,4,L
+1_L_0034,EVENT,Comey Memos\Flynn investigation,serious judgment issues,,1,L,3,4,36,38,L
+1_L_0035,PROPERTY,Unreason,serious judgment issues,Flynn,1,L,3,4,36,38,L
+1_L_0036,OBJECT,Comey Memos,the memos,,1,L,3,4,10,11,L
+1_L_0037,ACTOR,USA\Flynn,Mr. Flynn,,1,L,4,6,0,1,L
+1_L_0038,ACTOR,USA\Trump,Mr. Trump,,1,L,4,5,0,1,L
+1_L_0039,ACTOR,USA\Trump,Mr. Trump,,1,L,4,6,21,22,L
+1_L_0040,PROPERTY,Affection,congratulate,Trump,1,L,4,5,18,18,L
+1_L_0041,ACTOR,USA\Trump,the president,,1,L,4,6,3,4,L
+1_L_0042,ACTOR,USA\Flynn,Mr. Flynn,,1,L,5,7,12,13,L
+1_L_0043,ACTOR,RUS\Putin,President Vladimir V. Putin of Russia,,1,L,5,7,20,25,L
+1_L_0044,COUNTRY,RUS,Russia,,1,L,5,7,25,25,L
+1_L_0045,PROPERTY,Victim,irritated at Mr. Flynn,Flynn,1,L,5,7,10,13,L
+1_L_0046,PROPERTY,Aggressor,was irritated,Trump,1,L,5,7,9,10,L
+1_L_0047,ACTOR,USA\Comey,Mr. Comey,,1,L,6,9,3,4,L
+1_L_0048,ACTOR,USA\Flynn,Mr. Flynn,,1,L,6,8,0,1,L
+1_L_0049,ACTOR,USA\Flynn,Mr. Flynn,,1,L,6,10,11,12,L
+1_L_0050,ACTOR,USA\Trump,Mr. Trump,,1,L,6,10,6,7,L
+1_L_0051,COUNTRY,RUS,Russian ambassador,,1,L,6,8,21,22,L
+1_L_0052,COUNTRY,USA,Vice President Mike Pence,,1,L,6,8,7,10,L
+1_L_0053,PROPERTY,Lawfulness,hadn't done anything wrong,Flynn,1,L,6,10,14,18,L
+1_L_0054,EVENT,Comey Memos\Flynn investigation,his inquiry,,1,L,6,10,30,31,L
+1_L_0055,PROPERTY,No trustworthiness,misleading,USA,1,L,6,8,6,6,L
+1_L_0056,COUNTRY,RUS,the Russians,,1,L,6,10,22,23,L
+1_L_0057,ACTOR,USA\Flynn,Flynn,,1,L,7,11,16,16,L
+1_L_0058,ACTOR,USA\Trump,Mr. Trump,,1,L,7,11,20,21,L
+1_L_0059,OBJECT,Comey Memos,the memo,,1,L,7,11,26,27,L
+1_L_0060,ACTOR,USA\Comey,Mr. Comey,,1,L,8,12,28,29,L
+1_L_0061,ACTOR,USA\Flynn,Mr. Flynn,,1,L,8,12,0,1,L
+1_L_0062,COUNTRY,USA,investigators for the special counsel,,1,L,8,12,18,22,L
+1_L_0063,PROPERTY,No trustworthiness,pleaded guilty to lying,Flynn,1,L,8,12,4,7,L
+1_L_0064,PROPERTY,Honor,pleaded guilty to lying,Flynn,1,L,8,12,4,7,L
+1_L_0065,COUNTRY,USA,the F.B.I.,,1,L,8,12,9,10,L
+1_L_0066,EVENT,Comey Memos\Flynn investigation,the investigation,,1,L,8,12,25,26,L
+1_L_0067,ACTOR,USA\Comey,Mr. Comey,,1,L,9,13,31,32,L
+1_L_0068,MISC,Comey Memos\Interactions with Trump,That exchange,,1,L,9,13,0,1,L
+1_L_0069,COUNTRY,USA,the Senate,,1,L,9,13,36,37,L
+1_L_0070,OBJECT,Comey Memos,the memos,,1,L,9,13,7,8,L
+1_L_0071,ACTOR,USA\Trump,Mr. Trump,,1,L,10,14,15,16,L
+1_L_0072,PROPERTY,Importance,evidence in a possible obstruction,Comey Memos,1,L,10,14,6,10,L
+1_L_0073,PROPERTY,Other,possible obstruction of justice,Trump,1,L,10,14,9,12,L
+1_L_0074,COUNTRY,USA,the special counsel,,1,L,10,14,20,22,L
+1_L_0075,ACTOR,USA\Comey,Mr. Comey,,1,L,11,16,4,5,L
+1_L_0076,OBJECT,Comey Memos,The memos,,1,L,11,15,0,1,L
+1_L_0077,PROPERTY,Importance,exacting in their specificity,Comey Memos,1,L,11,15,3,6,L
+1_L_0078,PROPERTY,Good quality,exacting in their specificity,Comey Memos,1,L,11,15,3,6,L
+1_L_0079,PROPERTY,Good quality,precise times,Comey Memos,1,L,11,15,17,18,L
+1_L_0080,MISC,Comey Memos\Interactions with Trump,that conversations,,1,L,11,15,19,20,L
+1_L_0081,ACTOR,USA\Comey,Mr. Comey,,1,L,12,17,5,6,L
+1_L_0082,ACTOR,USA\Comey,Mr. Comey,,1,L,12,18,9,10,L
+1_L_0083,OBJECT,Comey Memos,Mr. Comey's account of events,,1,L,12,17,5,10,L
+1_L_0084,ACTOR,USA\Flynn,Mr. Flynn,,1,L,12,18,17,18,L
+1_L_0085,ACTOR,USA\Trump,Mr. Trump,,1,L,12,18,0,1,L
+1_L_0086,PROPERTY,Trustworthiness,add credibility,Comey; Comey Memos,1,L,12,17,2,3,L
+1_L_0087,EVENT,Comey Memos\Flynn investigation,an investigation into Mr. Flynn,,1,L,12,18,14,18,L
+1_L_0088,PROPERTY,Aggressor,has disputed,Trump,1,L,12,18,2,3,L
+1_L_0089,ACTOR,USA\Comey,Mr. Comey,,1,L,13,19,19,20,L
+1_L_0090,COUNTRY,USA,chief of staff,,1,L,13,19,39,41,L
+1_L_0091,COUNTRY,USA,deputy director,,1,L,13,19,36,37,L
+1_L_0092,OBJECT,Comey Memos,his first memo,,1,L,13,19,26,28,L
+1_L_0093,PROPERTY,Trustworthiness,notes I typed in the vehicle immediately upon exiting,Comey Memos,1,L,13,19,4,12,L
+1_L_0094,PROPERTY,Good quality,notes I typed in the vehicle immediately upon exiting,Comey Memos,1,L,13,19,4,12,L
+1_L_0095,COUNTRY,USA,the F.B.I.'s chief counsel,,1,L,13,19,43,47,L
+1_L_0096,COUNTRY,USA,Congress,,1,L,14,21,14,14,L
+1_L_0097,COUNTRY,USA,Rod J. Rosenstein,,1,L,14,21,35,37,L
+1_L_0098,COUNTRY,USA,Select lawmakers,,1,L,14,20,0,1,L
+1_L_0099,COUNTRY,USA,deputy attorney general,,1,L,14,21,31,33,L
+1_L_0100,OBJECT,Comey Memos,the memos,,1,L,14,20,10,11,L
+1_L_0101,COUNTRY,USA,three House Republican committee chairmen,,1,L,14,21,1,5,L
+1_L_0102,PROPERTY,Power,willing to issue a subpoena,USA,1,L,14,21,24,28,L
+1_L_0103,COUNTRY,USA,The Justice Department,,1,L,15,22,0,2,L
+1_L_0104,PROPERTY,Weakness,relented,USA,1,L,15,22,3,3,L
+1_L_0105,OBJECT,Comey Memos,the memos,,1,L,15,22,14,15,L
+1_L_0106,COUNTRY,USA,Congress,,1,L,16,23,49,49,L
+1_L_0107,ACTOR-I,USA\USA-I,Stephen E. Boyd,,1,L,16,23,8,10,L
+1_L_0108,EVENT,Comey Memos\Flynn investigation,any ongoing investigation,,1,L,16,23,57,59,L
+1_L_0109,EVENT,Comey Memos\Russian Investigation,any ongoing investigation,,1,L,16,23,57,59,L
+1_L_0110,ACTOR-I,USA\USA-I,assistant attorney general,,1,L,16,23,13,15,L
+1_L_0111,COUNTRY,USA,lawmakers,,1,L,16,23,4,4,L
+1_L_0112,PROPERTY,Weakness,not adversely impact,Comey Memos,1,L,16,23,54,56,L
+1_L_0113,COUNTRY,USA,the department,,1,L,16,23,33,34,L
+1_L_0114,COUNTRY,USA,the executive branch,,1,L,16,23,65,67,L
+1_L_0115,OBJECT,Comey Memos,the memorandums,,1,L,16,23,46,47,L
+1_L_0116,OBJECT,Comey Memos,the previous limited disclosure,,1,L,16,23,28,31,L
+1_L_0117,COUNTRY,USA,the relevant parties,,1,L,16,23,37,39,L
+1_L_0118,PROPERTY,Other,the unusual events,Comey Memos,1,L,16,23,23,25,L
+1_L_0119,ACTOR,USA\Comey,Mr. Comey,,1,L,17,24,40,41,L
+1_L_0120,ACTOR,USA\Comey,Mr. Comey,,1,L,17,25,7,8,L
+1_L_0121,ACTOR-I,USA\USA-I,Representative Devin Nunes of the Intelligence Committee,,1,L,17,24,14,20,L
+1_L_0122,ACTOR-I,USA\USA-I,Representative Robert W. Goodlatte of the Judiciary Committee,,1,L,17,24,5,12,L
+1_L_0123,ACTOR-I,USA\USA-I,Representative Trey Gowdy of the Oversight Committee,,1,L,17,24,22,28,L
+1_L_0124,ACTOR-I,USA\USA-I,The three Republican chairmen,,1,L,17,24,0,3,L
+1_L_0125,PROPERTY,Unreason,blind with biases,Comey,1,L,17,25,11,13,L
+1_L_0126,PROPERTY,Unreason,demonstrated bad judgment,Comey,1,L,17,25,16,18,L
+1_L_0127,PROPERTY,Victim,direct aim at Mr. Comey's character and the import of the memos,Comey; Comey Memos,1,L,17,24,37,49,L
+1_L_0128,OBJECT,Comey Memos,documents,,1,L,17,25,1,1,L
+1_L_0129,PROPERTY,Power,issued a joint statement,USA-I,1,L,17,24,30,33,L
+1_L_0130,PROPERTY,Aggressor,taking direct aim,USA-I,1,L,17,24,36,38,L
+1_L_0131,OBJECT,Comey Memos,the memos,,1,L,17,24,48,49,L
+1_L_0132,ACTOR,USA\Comey,Mr. Comey,,1,L,18,26,1,2,L
+1_L_0133,EVENT,Comey Memos\Flynn investigation,his investigation,,1,L,18,26,49,50,L
+1_L_0134,EVENT,Comey Memos\Russian Investigation,his investigation,,1,L,18,26,49,50,L
+1_L_0135,PROPERTY,Poor quality,never once mentioned the most relevant fact of all,Comey,1,L,18,26,32,40,L
+1_L_0136,ACTOR-I,USA\USA-Misc,Democrats,,1,L,19,27,0,0,L
+1_L_0137,ACTOR-I,USA\USA-I,Representative Elijah Cummings,,1,L,19,28,0,2,L
+1_L_0138,PROPERTY,Unreason,alarmed by the president's behavior,Trump,1,L,19,28,25,30,L
+1_L_0139,ACTOR,USA\Comey,law enforcement official,,1,L,19,28,22,24,L
+1_L_0140,PROPERTY,Reason,prudent,Comey,1,L,19,28,21,21,L
+1_L_0141,OBJECT,Comey Memos,the documents,,1,L,19,28,14,15,L
+1_L_0142,ACTOR,USA\Trump,the president,,1,L,19,28,27,28,L
+1_L_0143,COUNTRY,USA,the top Democrat on the Oversight Committee,,1,L,19,28,4,10,L
+1_L_0144,ACTOR,USA\Trump,Mr. Trump,,1,L,20,29,17,18,L
+1_L_0145,OBJECT,Comey Memos,The memos,,1,L,20,29,0,1,L
+1_L_0146,PROPERTY,Importance,include other previously undisclosed conversations,Comey Memos,1,L,20,29,2,6,L
+1_L_0147,MISC,Comey Memos\Interactions with Trump,other previously undisclosed conversations,,1,L,20,29,3,6,L
+1_L_0148,EVENT,Comey Memos\Russian Investigation,the F.B.I.'s Russia investigation,,1,L,20,29,11,15,L
+1_L_0149,ACTOR,USA\Comey,Mr. Comey,,1,L,21,30,20,21,L
+1_L_0150,ACTOR,USA\Comey,Mr. Comey,,1,L,21,31,7,8,L
+1_L_0151,COUNTRY,USA,Mr. Priebus,,1,L,21,30,24,25,L
+1_L_0152,ACTOR,USA\Trump,Mr. Trump,,1,L,21,31,10,11,L
+1_L_0153,ACTOR,USA\Trump,Mr. Trump,,1,L,21,31,24,25,L
+1_L_0154,COUNTRY,USA,Reince Priebus,,1,L,21,30,6,7,L
+1_L_0155,COUNTRY,RUS,Russia,,1,L,21,30,51,51,L
+1_L_0156,ACTOR,USA\Trump,Trump,,1,L,21,30,48,48,L
+1_L_0157,ACTOR,USA\Trump,Trump,,1,L,21,31,11,11,L
+1_L_0158,ACTOR,USA\Trump,Trump,,1,L,21,31,25,25,L
+1_L_0159,COUNTRY,GBR,a former British spy,,1,L,21,30,36,39,L
+1_L_0160,PROPERTY,Other,a supposed encounter,Trump,1,L,21,31,20,22,L
+1_L_0161,EVENT,RUS interference,a vast conspiracy between the Trump campaign and Russia to sway the election,,1,L,21,30,43,55,L
+1_L_0162,PROPERTY,Importance,lays out a vast conspiracy,Steele dossier,1,L,21,30,41,45,L
+1_L_0163,COUNTRY,USA,the White House chief of staff,,1,L,21,30,10,15,L
+1_L_0164,OBJECT,Comey Memos\Steele dossier,the salacious dossier,,1,L,21,30,31,33,L
+1_L_0165,ACTOR,USA\Comey,Mr. Comey,,1,L,22,32,17,18,L
+1_L_0166,COUNTRY,USA,Mr. Priebus,,1,L,22,32,14,15,L
+1_L_0167,OBJECT,Comey Memos\Steele dossier,the allegations,,1,L,22,32,26,27,L
+1_L_0168,COUNTRY,USA,the bureau,,1,L,22,32,22,23,L
+1_L_0169,ACTOR,USA\Comey,Mr. Comey,,1,L,23,33,27,28,L
+1_L_0170,ACTOR,USA\Trump,Mr. Trump,,1,L,23,34,9,10,L
+1_L_0171,COUNTRY,USA,analysts from all three agencies,,1,L,23,33,5,9,L
+1_L_0172,PROPERTY,Trustworthiness,consistent with and corroborative of other intelligence,Steele dossier,1,L,23,34,20,26,L
+1_L_0173,PROPERTY,Weakness,defended his decision,Comey,1,L,23,34,2,4,L
+1_L_0174,COUNTRY,USA,other intelligence,,1,L,23,33,23,24,L
+1_L_0175,COUNTRY,USA,other intelligence,,1,L,23,34,25,26,L
+1_L_0176,PROPERTY,Trustworthiness,portions of the material were corroborated,Steele dossier,1,L,23,33,16,21,L
+1_L_0177,PROPERTY,Importance,relevant,Steele dossier,1,L,23,33,13,13,L
+1_L_0178,ACTOR,USA\Comey,Mr. Comey,,1,L,24,35,8,9,L
+1_L_0179,ACTOR,USA\Flynn,Mr. Flynn,,1,L,24,36,21,22,L
+1_L_0180,COUNTRY,USA,Mr. Priebus,,1,L,24,35,5,6,L
+1_L_0181,COUNTRY,USA,the F.B.I.,,1,L,24,36,16,17,L
+1_L_0182,COUNTRY,USA,the White House chief of staff,,1,L,24,36,8,13,L
+1_L_0183,ACTOR,USA\Comey,the director,,1,L,24,36,1,2,L
+1_L_0184,ACTOR,USA\Comey,Mr. Comey,,1,L,25,37,0,1,L
+1_L_0185,COUNTRY,USA,Mr. Priebus,,1,L,25,37,3,4,L
+1_L_0186,PROPERTY,Unreason,inappropriate,USA,1,L,25,37,9,9,L
+1_L_0187,ACTOR,USA\Flynn,Michael T. Flynn,,1,L,26,39,0,2,L
+1_L_0188,ACTOR,USA\Comey,Mr. Comey,,1,L,26,40,4,5,L
+1_L_0189,ACTOR,USA\Flynn,Mr. Flynn,,1,L,26,40,11,12,L
+1_L_0190,EVENT,Comey Memos\Flynn investigation,Mr. Flynn's judgment,,1,L,26,40,11,14,L
+1_L_0191,ACTOR,USA\Trump,Mr. Trump,,1,L,26,39,13,14,L
+1_L_0192,ACTOR,USA\Trump,Mr. Trump,,1,L,26,40,7,8,L
+1_L_0193,OBJECT,Comey Memos,memo,,1,L,26,40,2,2,L
+1_L_0194,PROPERTY,Aggressor,questioned,Trump,1,L,26,40,10,10,L
+1_L_0195,PROPERTY,Refusal,questioned Mr. Flynn's judgment,Flynn,1,L,26,40,10,14,L
+1_L_0196,ACTOR,USA\Flynn,the former national security adviser,,1,L,26,39,6,10,L
+1_L_0197,ACTOR,USA\Comey,Mr. Comey,,1,L,27,41,11,12,L
+1_L_0198,ACTOR,USA\Trump,Mr. Trump,,1,L,27,41,14,15,L
+1_L_0199,COUNTRY,USA,The two men,,1,L,27,41,0,2,L
+1_L_0200,ACTOR,USA\Comey,The two men,,1,L,27,41,0,2,L
+1_L_0201,OBJECT,Comey Memos\Steele dossier,consorted with Russian prostitutes,,1,L,27,41,20,23,L
+1_L_0202,COUNTRY,USA,the Oval Office,,1,L,27,41,6,8,L
+1_L_0203,OBJECT,Comey Memos\Steele dossier,the dossier,,1,L,27,41,26,27,L
+1_L_0204,ACTOR,USA\Comey,Mr. Comey,,1,L,28,42,34,35,L
+1_L_0205,ACTOR,RUS\Putin,Mr. Putin,,1,L,28,43,11,12,L
+1_L_0206,ACTOR,USA\Trump,Mr. Trump,,1,L,28,43,2,3,L
+1_L_0207,ACTOR,RUS\Putin,Putin,,1,L,28,42,14,14,L
+1_L_0208,ACTOR,RUS\Putin,Putin,,1,L,28,43,12,12,L
+1_L_0209,ACTOR,USA\Trump,The president,,1,L,28,42,1,2,L
+1_L_0210,PROPERTY,No trustworthiness,nonsense,Steele dossier,1,L,28,42,10,10,L
+1_L_0211,OBJECT,Comey Memos\Steele dossier,the hookers thing,,1,L,28,42,5,7,L
+1_L_0212,ACTOR,USA\Comey,Mr. Comey,,1,L,29,45,9,10,L
+1_L_0213,ACTOR,USA\Trump,Mr. Trump,,1,L,29,45,6,7,L
+1_L_0214,OBJECT,Comey Memos,Other memos,,1,L,29,44,0,1,L
+1_L_0215,PROPERTY,Importance,add new details,Comey Memos,1,L,29,44,2,4,L
+1_L_0216,PROPERTY,Affection,bonded,Trump; Comey,1,L,29,45,19,19,L
+1_L_0217,OBJECT,Comey Memos\Steele dossier,leaks of sensitive government information,,1,L,29,45,21,25,L
+1_L_0218,PROPERTY,Importance,sensitive government information,Steele dossier,1,L,29,45,23,25,L
+1_L_0219,EVENT,Comey Memos\Flynn investigation,the Flynn investigation,,1,L,29,45,13,15,L
+1_L_0220,MISC,Comey Memos\Interactions with Trump,well-known exchanges,,1,L,29,44,6,7,L
+1_L_0221,ACTOR,USA\Comey,Mr. Comey,,1,L,30,46,23,24,L
+1_L_0222,PROPERTY,Confidence,eager to find leakers,Comey,1,L,30,46,5,8,L
+1_L_0223,PROPERTY,Aggressor,prosecuting journalists,Comey,1,L,30,47,5,6,L
+1_L_0224,PROPERTY,Confidence,would like to nail one to the door,Comey,1,L,30,46,10,17,L
+1_L_0225,COUNTRY,USA,Attorney General Jeff Sessions,,1,L,31,48,14,17,L
+1_L_0226,ACTOR,USA\Comey,Mr. Comey,,1,L,31,48,3,4,L
+1_L_0227,ACTOR,USA\Trump,Mr. Trump,,1,L,31,48,0,1,L
+1_L_0228,COUNTRY,USA,Sessions,,1,L,31,48,9,9,L
+1_L_0229,COUNTRY,USA,Sessions,,1,L,31,48,17,17,L
+1_L_0230,PROPERTY,Aggressor,do about being more aggressive,Trump; USA,1,L,31,48,25,29,L
+1_L_0231,COUNTRY,USA,Andrew G. McCabe,,1,L,32,49,13,15,L
+1_L_0232,ACTOR,USA\Comey,Mr. Comey,,1,L,32,49,3,4,L
+1_L_0233,ACTOR,USA\Trump,Mr. Trump,,1,L,32,49,0,1,L
+1_L_0234,ACTOR-I,USA\USA-Misc,an ally of Hillary Clinton,,1,L,32,49,37,41,L
+1_L_0235,PROPERTY,Refusal,had a problem with him,Trump,1,L,32,49,18,22,L
+1_L_0236,ACTOR,USA\Comey,Mr. Comey,,1,L,33,50,0,1,L
+1_L_0237,COUNTRY,USA,Mr. McCabe,,1,L,33,50,3,4,L
+1_L_0238,ACTOR,USA\Trump,Mr. Trump,,1,L,33,50,13,14,L
+1_L_0239,PROPERTY,Reason,true pro,USA,1,L,33,50,8,9,L
+1_L_0240,PROPERTY,Trustworthiness,true pro,USA,1,L,33,50,8,9,L
+1_L_0241,COUNTRY,USA,Mr. McCabe,,1,L,34,51,11,12,L
+1_L_0242,ACTOR,USA\Trump,Mr. Trump,,1,L,34,51,2,3,L
+1_L_0243,PROPERTY,Unreason,biased,USA,1,L,34,51,17,17,L
+1_L_0244,PROPERTY,Refusal,biased against him,Trump,1,L,34,51,17,19,L
+1_L_0245,PROPERTY,Aggressor,lavish criticism,Trump,1,L,34,51,8,9,L
+1_L_0246,PROPERTY,Victim,lavish criticism,USA,1,L,34,51,8,9,L
+1_L_0247,COUNTRY,USA,Federal prosecutors,,1,L,35,53,0,1,L
+1_L_0248,COUNTRY,USA,Mr. McCabe,,1,L,35,52,0,1,L
+1_L_0249,COUNTRY,USA,investigators,,1,L,35,52,13,13,L
+1_L_0250,PROPERTY,Other,reportedly lying to investigators,USA,1,L,35,52,10,13,L
+1_L_0251,COUNTRY,USA,the F.B.I.,,1,L,35,52,5,6,L
+1_L_0252,COUNTRY,USA,the department's inspector general,,1,L,35,53,19,23,L
+1_L_0253,ACTOR-I,USA\USA-Misc,Clinton,,1,L,36,54,28,28,L
+1_L_0254,ACTOR-I,USA\USA-Misc,Clinton,,1,L,36,55,9,9,L
+1_L_0255,ACTOR-I,USA\USA-Misc,Clinton,,1,L,36,55,24,24,L
+1_L_0256,ACTOR,USA\Comey,Mr. Comey,,1,L,36,54,14,15,L
+1_L_0257,ACTOR,USA\Comey,Mr. Comey,,1,L,36,55,3,4,L
+1_L_0258,COUNTRY,USA,Mr. Priebus,,1,L,36,55,0,1,L
+1_L_0259,ACTOR-I,USA\USA-Misc,Mrs. Clinton,,1,L,36,54,27,28,L
+1_L_0260,ACTOR-I,USA\USA-Misc,Mrs. Clinton,,1,L,36,55,23,24,L
+1_L_0261,EVENT,Comey Memos\Russian Investigation,another consequential F.B.I. investigation,,1,L,36,54,19,22,L
+1_L_0262,PROPERTY,Power,eager to discuss,Trump; USA,1,L,36,54,10,12,L
+1_L_0263,PROPERTY,Power,pressed him for an explanation,USA,1,L,36,55,16,20,L
+1_L_0264,COUNTRY,USA,secretary of state,,1,L,36,54,37,39,L
+1_L_0265,ACTOR,USA\Trump,that Mr. Trump,,1,L,36,54,3,5,L
+1_L_0266,COUNTRY,USA,top aides,,1,L,36,54,7,8,L
+1_L_0267,ACTOR-I,USA\USA-Misc,Anthony Weiner,,1,L,37,56,20,21,L
+1_L_0268,ACTOR-I,USA\USA-Misc,Huma Abedin,,1,L,37,56,15,16,L
+1_L_0269,ACTOR,USA\Comey,Mr. Comey,,1,L,37,56,24,25,L
+1_L_0270,ACTOR-I,USA\USA-Misc,a top Clinton aide,,1,L,37,56,30,33,L
+1_L_0271,PROPERTY,Lawfulness,wasn't my fault,Comey,1,L,37,56,10,13,L

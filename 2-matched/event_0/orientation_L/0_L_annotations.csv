@@ -1,0 +1,206 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+0_L_0000,COUNTRY,USA,C.I.A. director,,0,L,0,0,10,11,L
+0_L_0001,ACTOR,PRK\Jong Un,Kim Jong-un,,0,L,0,0,23,24,L
+0_L_0002,ACTOR,USA\Mike Pompeo,Mike Pompeo,,0,L,0,0,12,13,L
+0_L_0003,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,0,0,38,39,L
+0_L_0004,ACTOR,USA\Trump,Mr. Trump,,0,L,0,0,41,42,L
+0_L_0005,COUNTRY,PRK,North Korea,,0,L,0,0,15,16,L
+0_L_0006,ACTOR,USA\Trump,President Trump,,0,L,0,0,6,7,L
+0_L_0007,EVENT,PRK USA Summit,summit meeting,,0,L,0,0,35,36,L
+0_L_0008,ACTION,Trip to PRK,to lay the groundwork for a summit meeting,,0,L,0,0,29,36,L
+0_L_0009,ACTION,Trip to PRK,to meet with its leader,,0,L,0,0,17,21,L
+0_L_0010,ACTOR,USA\Mike Pompeo,Mr. Pompeo,,0,L,1,1,4,5,L
+0_L_0011,ACTOR,USA\Trump,Mr. Trump,,0,L,1,1,0,1,L
+0_L_0012,COUNTRY,PRK,North Korea,,0,L,1,1,23,24,L
+0_L_0013,COUNTRY,USA,United States,,0,L,1,1,16,17,L
+0_L_0014,COUNTRY,USA,White House,,0,L,1,1,35,36,L
+0_L_0015,EVENT,PRK USA Summit,a potential meeting of the two leaders,,0,L,1,1,43,49,L
+0_L_0016,PROPERTY,Importance,extremely high levels,Trip to PRK,0,L,1,1,27,29,L
+0_L_0017,ACTION,Trip to PRK,"in direct talks with North Korea at ""extremely high levels,""",,0,L,1,1,19,31,L
+0_L_0018,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,2,2,28,29,L
+0_L_0019,EVENT,PRK USA Summit,Mr. Kim's invitation to meet,,0,L,2,2,28,33,L
+0_L_0020,ACTOR,USA\Trump,Mr. Trump,,0,L,2,2,24,25,L
+0_L_0021,COUNTRY,PRK,North Korea,,0,L,2,2,15,16,L
+0_L_0022,COUNTRY,USA,White House,,0,L,2,2,1,2,L
+0_L_0023,PROPERTY,Reason,"used intelligence, rather than diplomatic channels",USA,0,L,2,2,4,10,L
+0_L_0024,COUNTRY,USA,American officials,,0,L,3,4,22,23,L
+0_L_0025,COUNTRY,USA,C.I.A.,,0,L,3,3,26,26,L
+0_L_0026,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,3,4,26,27,L
+0_L_0027,EVENT,PRK USA Summit,Mr. Kim's invitation,,0,L,3,4,26,29,L
+0_L_0028,ACTOR,USA\Mike Pompeo,Mr. Pompeo,,0,L,3,3,0,1,L
+0_L_0029,ACTOR,USA\Trump,Mr. Trump,,0,L,3,4,31,32,L
+0_L_0030,COUNTRY,PRK,North Korean counterpart,,0,L,3,3,29,31,L
+0_L_0031,COUNTRY,PRK,North Korean representatives,,0,L,3,3,16,18,L
+0_L_0032,COUNTRY,PRK,Reconnaissance General Bureau,,0,L,3,3,34,36,L
+0_L_0033,COUNTRY,PRK,Suh Hoon,,0,L,3,4,18,19,L
+0_L_0034,ACTOR,USA\Mike Pompeo,awaiting confirmation as secretary of state,,0,L,3,3,5,10,L
+0_L_0035,COUNTRY,PRK,director of South Korea's National Intelligence Service,,0,L,3,4,9,16,L
+0_L_0036,ACTOR,USA\Trump,Mr. Trump,,0,L,4,5,3,4,L
+0_L_0037,COUNTRY,KOR,North and South Korea,,0,L,4,5,13,16,L
+0_L_0038,COUNTRY,PRK,North and South Korea,,0,L,4,5,13,16,L
+0_L_0039,PROPERTY,Power,give his blessing,Trump,0,L,4,5,9,11,L
+0_L_0040,ACTION,Negotiate about the peace,opening the door to a peace treaty,,0,L,4,5,36,42,L
+0_L_0041,EVENT,PRK KOR Meeting,the leaders of those countries meet,,0,L,4,5,27,32,L
+0_L_0042,ACTION,Negotiate about the peace,"to ""discuss the end of the war""",,0,L,4,5,17,25,L
+0_L_0043,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,5,6,41,42,L
+0_L_0044,ACTOR,JPN\Abe,Prime Minister Shinzo Abe,,0,L,5,6,8,11,L
+0_L_0045,EVENT,PRK KOR Meeting,a diplomatic thaw underway on the Korean Peninsula,,0,L,5,6,24,31,L
+0_L_0046,EVENT,PRK USA Summit,a once-unthinkable encounter,,0,L,5,6,35,37,L
+0_L_0047,PROPERTY,Difficulty,once-unthinkable encounter,PRK USA Summit,0,L,5,6,36,37,L
+0_L_0048,ACTOR,USA\Mike Pompeo,Mr. Pompeo,,0,L,6,8,5,6,L
+0_L_0049,ACTION,Trip to PRK,Mr. Pompeo's trip,,0,L,6,8,5,8,L
+0_L_0050,COUNTRY,PRK,North Korea,,0,L,6,7,12,13,L
+0_L_0051,ACTOR,USA\Trump,The president,,0,L,6,7,0,1,L
+0_L_0052,PROPERTY,Other,aura of mystery,PRK USA Summit,0,L,6,7,30,32,L
+0_L_0053,EVENT,PRK USA Summit,potential meeting,,0,L,6,7,37,38,L
+0_L_0054,ACTION,Trip to PRK,was talking to North Korea,,0,L,6,7,9,13,L
+0_L_0055,EVENT,PRK USA Summit,A peace treaty,,0,L,7,10,0,2,L
+0_L_0056,COUNTRY,USA,American troops,,0,L,7,10,20,21,L
+0_L_0057,COUNTRY,PRK,North Korea,,0,L,7,10,4,5,L
+0_L_0058,PROPERTY,Power,could raise other thorny issues,Trump,0,L,7,9,3,7,L
+0_L_0059,COUNTRY,PRK,the North,,0,L,7,10,15,16,L
+0_L_0060,ACTOR,JPN\Abe,Mr. Abe,,0,L,8,12,4,5,L
+0_L_0061,ACTOR,USA\Trump,Mr. Trump,,0,L,8,12,9,10,L
+0_L_0062,COUNTRY,PRK,North Korea,,0,L,8,13,2,3,L
+0_L_0063,PROPERTY,Aggressor,called it cruel and barbaric,Trump,0,L,8,13,20,24,L
+0_L_0064,EVENT,JPN USA Meeting,his meeting with Mr. Abe,,0,L,8,12,1,5,L
+0_L_0065,PROPERTY,Confidence,projected optimism,Trump,0,L,8,12,11,12,L
+0_L_0066,PROPERTY,Poor quality,tragic experiment in a laboratory of history,PRK,0,L,8,13,31,37,L
+0_L_0067,PROPERTY,Other,worlds away from the speech he gave in November,Trump,0,L,8,13,6,14,L
+0_L_0068,COUNTRY,PRK,"""the results of a tragic experiment in a laboratory of history.""",,0,L,8,13,26,39,L
+0_L_0069,ACTOR,USA\Trump,Mr. Trump,,0,L,9,14,13,14,L
+0_L_0070,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,10,17,18,19,L
+0_L_0071,ACTION,Negotiate about the peace,might announce some kind of deal,,0,L,10,17,9,14,L
+0_L_0072,COUNTRY,KOR,the North and the South,,0,L,10,17,4,8,L
+0_L_0073,COUNTRY,PRK,the North and the South,,0,L,10,17,4,8,L
+0_L_0074,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,11,18,40,41,L
+0_L_0075,ACTOR-I,PRK\PRK-Misc,Munhwa Ilbo,,0,L,11,18,8,9,L
+0_L_0076,ACTOR,KOR\Moon Jae,President Moon Jae-in of South Korea,,0,L,11,18,43,48,L
+0_L_0077,ACTOR-I,PRK\PRK-Misc,South Korean newspaper,,0,L,11,18,4,6,L
+0_L_0078,EVENT,PRK USA Summit,summit meeting,,0,L,11,18,36,37,L
+0_L_0079,EVENT,PRK KOR Meeting,the summit meeting planned between Mr. Kim and President Moon Jae-in of South Korea,,0,L,11,18,35,48,L
+0_L_0080,ACTION,Negotiate about the peace,"were negotiating an announcement ""to ease military tensions and end a military confrontation,""",,0,L,11,18,16,31,L
+0_L_0081,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,12,20,26,27,L
+0_L_0082,ACTOR,KOR\Moon Jae,Mr. Moon,,0,L,12,20,23,24,L
+0_L_0083,COUNTRY,PRK,North Korea,,0,L,12,20,43,44,L
+0_L_0084,COUNTRY,KOR,South Korean government official,,0,L,12,20,1,4,L
+0_L_0085,MISC,Denuclearization,"broad and ""abstract"" statements about the need for North Korea to ""denuclearize.""",,0,L,12,20,33,49,L
+0_L_0086,ACTION,Negotiate about the peace,could involve pulling troops out,,0,L,12,19,1,5,L
+0_L_0087,ACTOR,USA\Trump,Mr. Trump,,0,L,13,22,0,1,L
+0_L_0088,COUNTRY,KOR,South Korea,,0,L,13,21,3,4,L
+0_L_0089,MISC,Denuclearization,give up its weapons,,0,L,13,21,18,21,L
+0_L_0090,COUNTRY,PRK,the North,,0,L,13,21,14,15,L
+0_L_0091,ACTION,Negotiate about the peace,was aiming for a comprehensive deal,,0,L,13,21,5,10,L
+0_L_0092,ACTION,Negotiate about the peace,are discussing an end to war,,0,L,14,26,2,7,L
+0_L_0093,ACTION,Negotiate about the peace,to discuss the end of the war,,0,L,14,23,6,12,L
+0_L_0094,ACTOR,JPN\Abe,Mr. Abe,,0,L,15,28,1,2,L
+0_L_0095,ACTOR,USA\Trump,Mr. Trump,,0,L,15,28,6,7,L
+0_L_0096,COUNTRY,PRK,North Korea,,0,L,15,28,18,19,L
+0_L_0097,PROPERTY,Weakness,lavished praise,Abe,0,L,15,28,3,4,L
+0_L_0098,ACTOR,USA\Trump,the president,,0,L,15,28,28,29,L
+0_L_0099,ACTOR,USA\Trump,Donald,,0,L,16,29,1,1,L
+0_L_0100,COUNTRY,PRK,North Korea,,0,L,16,29,19,20,L
+0_L_0101,PROPERTY,Difficulty,challenge of North Korea,PRK,0,L,16,29,17,20,L
+0_L_0102,PROPERTY,Power,unwavering determination,Trump,0,L,16,29,12,13,L
+0_L_0103,EVENT,PRK USA Summit,unwavering determination in addressing the challenge of North Korea,,0,L,16,29,12,20,L
+0_L_0104,COUNTRY,JPN,Japan,,0,L,17,30,43,43,L
+0_L_0105,ACTOR-I,JPN\JPN-I,Japanese citizens,,0,L,17,30,35,36,L
+0_L_0106,ACTOR,JPN\Abe,Mr. Abe,,0,L,17,30,0,1,L
+0_L_0107,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,17,30,11,12,L
+0_L_0108,ACTOR,PRK\Jong Un,Mr. Kim,,0,L,17,30,51,52,L
+0_L_0109,ACTOR,USA\Trump,Mr. Trump,,0,L,17,30,45,46,L
+0_L_0110,PROPERTY,Aggressor,abduction of Japanese citizens,PRK,0,L,17,30,33,36,L
+0_L_0111,PROPERTY,Victim,abduction of Japanese citizens,JPN,0,L,17,30,33,36,L
+0_L_0112,COUNTRY,PRK,the North,,0,L,17,30,15,16,L
+0_L_0113,EVENT,PRK USA Summit,the talks with Mr. Kim,,0,L,17,30,8,12,L
+0_L_0114,PROPERTY,Aggressor,threats posed by its nuclear and missile programs,PRK,0,L,17,30,20,27,L
+0_L_0115,MISC,Denuclearization,to address the threats posed by its nuclear and missile programs,,0,L,17,30,17,27,L
+0_L_0116,ACTOR,JPN\Abe,Abe,,0,L,18,31,1,1,L
+0_L_0117,ACTOR-I,USA\USA-I,Michael J. Green,,0,L,18,31,11,13,L
+0_L_0118,COUNTRY,PRK,North Korea,,0,L,18,31,34,35,L
+0_L_0119,COUNTRY,PRK,North Korea,,0,L,18,32,13,14,L
+0_L_0120,COUNTRY,PRK,"North Korea, a declared nuclear weapons state",,0,L,18,32,13,20,L
+0_L_0121,ACTOR,USA\Trump,president of the United States,,0,L,18,32,2,6,L
+0_L_0122,COUNTRY,USA,senior vice president at the Center for Strategic and International Studies,,0,L,18,31,16,26,L
+0_L_0123,PROPERTY,Confidence,surprisingly brave,Abe,0,L,18,31,5,6,L
+0_L_0124,PROPERTY,Refusal,they offered nothing in return,PRK,0,L,18,32,23,27,L
+0_L_0125,COUNTRY,CHN,China,,0,L,19,33,0,0,L
+0_L_0126,COUNTRY,JPN,Japan,,0,L,19,34,1,1,L
+0_L_0127,COUNTRY,USA,United States,,0,L,19,34,22,23,L
+0_L_0128,ACTION,Negotiate about the peace,peace treaty,,0,L,19,33,15,16,L
+0_L_0129,PROPERTY,Reason,suspicious of one,JPN; USA,0,L,19,34,10,12,L
+0_L_0130,COUNTRY,PRK,the North,,0,L,19,34,29,30,L
+0_L_0131,MISC,Denuclearization,yet to take any tangible steps to give up its nuclear arsenal,,0,L,19,34,32,43,L
+0_L_0132,COUNTRY,PRK,North Korea,,0,L,20,36,4,5,L
+0_L_0133,COUNTRY,PRK,North Korea,,0,L,20,37,9,10,L
+0_L_0134,COUNTRY,USA,United States,,0,L,20,36,1,2,L
+0_L_0135,MISC,Denuclearization,give up its nuclear program,,0,L,20,37,16,20,L
+0_L_0136,PROPERTY,Negative,reneged on pledges to give up its nuclear program,PRK,0,L,20,37,12,20,L
+0_L_0137,COUNTRY,CHN,China,,0,L,21,39,8,8,L
+0_L_0138,COUNTRY,KOR,North and South Korea,,0,L,21,38,6,9,L
+0_L_0139,COUNTRY,PRK,North and South Korea,,0,L,21,38,6,9,L
+0_L_0140,COUNTRY,USA,United States,,0,L,21,39,5,6,L
+0_L_0141,PROPERTY,Importance,signers to the armistice,USA; CHN,0,L,21,39,15,18,L
+0_L_0142,ACTOR,JPN\Abe,Mr. Abe,,0,L,22,40,2,3,L
+0_L_0143,ACTOR,USA\Trump,Mr. Trump,,0,L,22,40,16,17,L
+0_L_0144,EVENT,PRK USA Summit,meetings,,0,L,22,40,14,14,L
+0_L_0145,PROPERTY,Unsafety,political storm clouds,Trump; Abe,0,L,22,40,36,38,L
+0_L_0146,EVENT,JPN USA Meeting,two days of meetings,,0,L,22,40,11,14,L
+0_L_0147,COUNTRY,USA,F.B.I. director,,0,L,23,41,27,28,L
+0_L_0148,ACTOR-I,USA\USA-Misc,James B. Comey,,0,L,23,41,22,24,L
+0_L_0149,COUNTRY,USA,Michael D. Cohen,,0,L,23,41,10,12,L
+0_L_0150,ACTOR,JPN\Abe,Mr. Abe,,0,L,23,41,50,51,L
+0_L_0151,ACTOR,USA\Trump,Mr. Trump,,0,L,23,41,32,33,L
+0_L_0152,COUNTRY,PRK,North Korea,,0,L,23,41,47,48,L
+0_L_0153,ACTOR,JPN\Abe,"a ""truly fine gentleman.""",,0,L,23,41,59,65,L
+0_L_0154,PROPERTY,Negative,ominous reports,USA,0,L,23,41,3,4,L
+0_L_0155,PROPERTY,Aggressor,ousted,Trump,0,L,23,41,30,30,L
+0_L_0156,PROPERTY,Victim,ousted,USA-Misc,0,L,23,41,30,30,L
+0_L_0157,COUNTRY,USA,personal lawyer,,0,L,23,41,7,8,L
+0_L_0158,ACTOR-I,USA\USA-Misc,the F.B.I. director he ousted,,0,L,23,41,26,30,L
+0_L_0159,PROPERTY,Affection,truly fine,Trump,0,L,23,41,61,62,L
+0_L_0160,PROPERTY,Negative,unflattering descriptions,Trump,0,L,23,41,15,16,L
+0_L_0161,ACTOR,JPN\Abe,Mr. Abe,,0,L,24,42,6,7,L
+0_L_0162,PROPERTY,Unsafety,political survival is in doubt,Abe,0,L,24,42,10,14,L
+0_L_0163,PROPERTY,Unsafety,sapped his approval ratings,Abe,0,L,24,42,20,23,L
+0_L_0164,COUNTRY,JPN,Japan,,0,L,25,44,24,24,L
+0_L_0165,ACTOR,JPN\Abe,Mr. Abe,,0,L,25,43,0,1,L
+0_L_0166,ACTOR,JPN\Abe,Mr. Abe,,0,L,25,44,19,20,L
+0_L_0167,ACTOR,USA\Trump,Mr. Trump,,0,L,25,43,9,10,L
+0_L_0168,COUNTRY,PRK,North Korea,,0,L,25,44,14,15,L
+0_L_0169,PROPERTY,Economy negative,challenges in trade,JPN,0,L,25,44,9,11,L
+0_L_0170,COUNTRY,JPN,Japan,,0,L,26,45,14,14,L
+0_L_0171,COUNTRY,JPN,Japan,,0,L,26,46,34,34,L
+0_L_0172,ACTOR,JPN\Abe,Mr. Abe,,0,L,26,45,24,25,L
+0_L_0173,ACTOR,JPN\Abe,Mr. Abe,,0,L,26,46,23,24,L
+0_L_0174,ACTOR,USA\Trump,Mr. Trump,,0,L,26,45,30,31,L
+0_L_0175,ACTOR,USA\Trump,Mr. Trump,,0,L,26,46,11,12,L
+0_L_0176,ACTOR,USA\Trump,Mr. Trump,,0,L,26,46,27,28,L
+0_L_0177,COUNTRY,USA,United States,,0,L,26,45,21,22,L
+0_L_0178,COUNTRY,USA,White House,,0,L,26,45,1,2,L
+0_L_0179,PROPERTY,Difficulty,differences over,JPN USA Meeting,0,L,26,46,6,7,L
+0_L_0180,PROPERTY,Importance,great ally,JPN,0,L,26,45,17,18,L
+0_L_0181,PROPERTY,Power,great ally,JPN,0,L,26,45,17,18,L
+0_L_0182,PROPERTY,Reason,sought to put a good face on,USA,0,L,26,45,3,9,L
+0_L_0183,PROPERTY,Aggressor,stung by Mr. Trump's decision,Trump,0,L,26,46,25,30,L
+0_L_0184,PROPERTY,Victim,stung by Mr. Trump's decision,Abe,0,L,26,46,25,30,L
+0_L_0185,EVENT,JPN USA Meeting,the meeting,,0,L,26,45,10,11,L
+0_L_0186,COUNTRY,USA,Larry Kudlow,,0,L,27,47,15,16,L
+0_L_0187,ACTOR,USA\Trump,Mr. Trump,,0,L,27,47,18,19,L
+0_L_0188,COUNTRY,USA,Mr. Trump's chief economic adviser,,0,L,27,47,18,23,L
+0_L_0189,PROPERTY,Difficulty,certain disagreements,JPN USA Meeting,0,L,27,47,3,4,L
+0_L_0190,EVENT,JPN USA Meeting,the meeting,,0,L,27,47,28,29,L
+0_L_0191,COUNTRY,JPN,Japan,,0,L,28,49,13,13,L
+0_L_0192,COUNTRY,JPN,Japan,,0,L,28,50,22,22,L
+0_L_0193,ACTOR,JPN\Abe,Mr. Abe,,0,L,28,49,5,6,L
+0_L_0194,COUNTRY,USA,Mr. Kudlow,,0,L,28,49,0,1,L
+0_L_0195,ACTOR,USA\Trump,Mr. Trump,,0,L,28,49,9,10,L
+0_L_0196,ACTOR,USA\Trump,Mr. Trump,,0,L,28,50,25,26,L
+0_L_0197,COUNTRY,USA,United States,,0,L,28,50,7,8,L
+0_L_0198,PROPERTY,Importance,anchored by,JPN,0,L,28,50,20,21,L
+0_L_0199,PROPERTY,Power,grant Japan an exemption,Trump,0,L,28,49,12,15,L
+0_L_0200,COUNTRY,USA,American officials,,0,L,30,54,1,2,L
+0_L_0201,ACTOR,JPN\Abe,Mr. Abe,,0,L,30,53,21,22,L
+0_L_0202,ACTOR,USA\Trump,Mr. Trump,,0,L,30,53,18,19,L
+0_L_0203,COUNTRY,USA,Matthew Pottinger,,0,L,31,55,13,14,L
+0_L_0204,COUNTRY,USA,senior director for Asia at the National Security Council,,0,L,31,55,17,25,L

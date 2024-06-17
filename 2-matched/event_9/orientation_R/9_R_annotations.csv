@@ -1,0 +1,93 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+9_R_0000,OBJECT,IRN files,Iran Intel,,9,R,0,0,7,8,R
+9_R_0001,COUNTRY,ISR,Israeli Ambassador,,9,R,0,0,0,1,R
+9_R_0002,ACTOR,ISR\Netanyahu,Netanyahu,,9,R,0,0,5,5,R
+9_R_0003,PROPERTY,Importance,Presented a Smoking Bomb,IRn files,9,R,0,0,10,13,R
+9_R_0004,MISC,IRN nuclear activity,Smoking Bomb,,9,R,0,0,12,13,R
+9_R_0005,COUNTRY,USA,US,,9,R,0,0,3,3,R
+9_R_0006,MISC,IRN nuclear activity,Iran's nuclear program,,9,R,1,1,21,24,R
+9_R_0007,COUNTRY,ISR,Israel's ambassador,,9,R,1,1,0,2,R
+9_R_0008,ACTOR,ISR\Netanyahu,Prime Minister Benjamin Netanyahu,,9,R,1,1,14,17,R
+9_R_0009,EVENT,Presentation,slideshow,,9,R,1,1,12,12,R
+9_R_0010,COUNTRY,USA,the United States,,9,R,1,1,4,6,R
+9_R_0011,PROPERTY,Power,unveiled facts,Presentation; Netanyahu,9,R,1,1,18,19,R
+9_R_0012,PROPERTY,Importance,"worse than a ""smoking gun.""",IRN files; IRN nuclear activity,9,R,1,1,27,34,R
+9_R_0013,ACTOR-I,ISR\ISR-I,Ron Dermer,,9,R,2,2,8,9,R
+9_R_0014,PROPERTY,Importance,presented a smoking bomb,Presentation; IRN nuclear activity,9,R,2,2,2,5,R
+9_R_0015,MISC,IRN nuclear activity,smoking bomb,,9,R,2,2,4,5,R
+9_R_0016,ACTOR,ISR\Netanyahu,Benjamin Netanyahu,,9,R,4,4,3,4,R
+9_R_0017,COUNTRY,IRN,Iran,,9,R,4,4,16,16,R
+9_R_0018,ACTOR,ISR\Netanyahu,Israeli Prime Minister,,9,R,4,4,0,2,R
+9_R_0019,PROPERTY,No trustworthiness,brazenly lying,IRN,9,R,4,4,19,20,R
+9_R_0020,PROPERTY,Importance,dramatic,IRN files,9,R,4,4,8,8,R
+9_R_0021,OBJECT,IRN files,"new ""dramatic"" intelligence",,9,R,4,4,6,10,R
+9_R_0022,MISC,IRN nuclear activity,not complying with the vaunted nuclear deal,,9,R,4,4,32,38,R
+9_R_0023,PROPERTY,Unlawfulness,not complying with the vaunted nuclear deal,IRN,9,R,4,4,32,38,R
+9_R_0024,MISC,IRN nuclear activity,nuclear weapons program,,9,R,4,4,24,26,R
+9_R_0025,PROPERTY,Power,revealed,Netanyahu,9,R,4,4,5,5,R
+9_R_0026,COUNTRY,IRN,the country,,9,R,4,4,29,30,R
+9_R_0027,OBJECT,Nuclear deal,the vaunted nuclear deal,,9,R,4,4,35,38,R
+9_R_0028,OBJECT,IRN files,"""half a ton"" of files",,9,R,5,6,3,9,R
+9_R_0029,COUNTRY,ISR,Israeli officials,,9,R,5,5,10,11,R
+9_R_0030,ACTOR,ISR\Netanyahu,Netanyahu,,9,R,5,6,0,0,R
+9_R_0031,OBJECT,IRN files,The information,,9,R,5,5,0,1,R
+9_R_0032,OBJECT,IRN files,files,,9,R,5,6,9,9,R
+9_R_0033,OBJECT,IRN files,files,,9,R,5,6,36,36,R
+9_R_0034,PROPERTY,Importance,highly secret,IRN files,9,R,5,6,15,16,R
+9_R_0035,OBJECT,Nuclear deal,the deal,,9,R,5,6,22,23,R
+9_R_0036,MISC,IRN nuclear activity,"""Project Amad,""",,9,R,6,8,25,29,R
+9_R_0037,OBJECT,IRN files,"""an exact copy"" of the original materials",,9,R,6,7,6,14,R
+9_R_0038,ACTOR,ISR\Netanyahu,Israel's prime minister,,9,R,6,8,7,10,R
+9_R_0039,ACTOR,ISR\Netanyahu,Netanyahu,,9,R,6,7,0,0,R
+9_R_0040,MISC,IRN nuclear activity,develop a weapon,,9,R,6,8,32,34,R
+9_R_0041,PROPERTY,Power,displayed,Netanyahu,9,R,6,7,1,1,R
+9_R_0042,PROPERTY,Difficulty,filled with incriminating evidence,IRN,9,R,6,8,15,18,R
+9_R_0043,PROPERTY,Power,filled with incriminating evidence,IRN files,9,R,6,8,15,18,R
+9_R_0044,PROPERTY,Difficulty,incriminating documents,IRN,9,R,6,7,28,29,R
+9_R_0045,PROPERTY,Power,incriminating documents,IRN files,9,R,6,7,28,29,R
+9_R_0046,PROPERTY,Importance,"now in a ""very safe place""",IRN files,9,R,6,7,18,25,R
+9_R_0047,MISC,IRN nuclear activity,the Iranian program,,9,R,6,8,20,22,R
+9_R_0048,OBJECT,IRN files,the material,,9,R,6,8,12,13,R
+9_R_0049,ACTOR-I,ISR\ISR-I,Dermer said,,9,R,7,9,0,1,R
+9_R_0050,ACTOR,ISR\Netanyahu,Netanyahu,,9,R,7,9,2,2,R
+9_R_0051,PROPERTY,Power,exposed the fangs of the Iranian wolf,Netanyahu,9,R,7,9,4,10,R
+9_R_0052,COUNTRY,IRN,the Iranian wolf,,9,R,7,9,8,10,R
+9_R_0053,PROPERTY,Aggressor,the Iranian wolf,IRN,9,R,7,9,8,10,R
+9_R_0054,ACTOR,ISR\Netanyahu,Netanyahu,,9,R,8,10,9,9,R
+9_R_0055,OBJECT,IRN files,Netanyahu's intel,,9,R,8,10,9,11,R
+9_R_0056,COUNTRY,USA,U.S. intelligence,,9,R,8,10,3,4,R
+9_R_0057,PROPERTY,Affection,will back up,IRN files,9,R,8,10,6,8,R
+9_R_0058,ACTOR-I,ISR\ISR-I,Dermer,,9,R,9,11,0,0,R
+9_R_0059,ACTOR-I,IRN\IRN-I,Iranian diplomat,,9,R,9,11,3,4,R
+9_R_0060,ACTOR-I,IRN\IRN-I,Mohammad Javad Zarif,,9,R,9,11,5,7,R
+9_R_0061,ACTOR,USA\Trump,Trump,,9,R,9,11,11,11,R
+9_R_0062,PROPERTY,Unreason,impetuous,Trump,9,R,9,11,15,15,R
+9_R_0063,PROPERTY,Aggressor,ripped,ISR-I,9,R,9,11,2,2,R
+9_R_0064,PROPERTY,Victim,ripped,IRN-I,9,R,9,11,2,2,R
+9_R_0065,PROPERTY,Aggressor,sabotaging,Trump,9,R,9,11,18,18,R
+9_R_0066,PROPERTY,Victim,sabotaging,Nuclear deal,9,R,9,11,18,18,R
+9_R_0067,OBJECT,Nuclear deal,the Iran nuclear deal,,9,R,9,11,19,22,R
+9_R_0068,ACTOR-I,ISR\ISR-I,Dermer,,9,R,10,12,0,0,R
+9_R_0069,COUNTRY,IRN,Iran,,9,R,10,12,2,2,R
+9_R_0070,PROPERTY,Economy positive,an influx of money,IRN,9,R,10,12,25,28,R
+9_R_0071,PROPERTY,Economy positive,increase in the ability to sell oil,IRN,9,R,10,12,17,23,R
+9_R_0072,PROPERTY,Power,not being hurt in any way,IRN,9,R,10,12,4,9,R
+9_R_0073,PROPERTY,Poor quality,not being hurt in any way,Nuclear deal,9,R,10,12,4,9,R
+9_R_0074,OBJECT,Nuclear deal,the agreement,,9,R,10,12,30,31,R
+9_R_0075,OBJECT,Nuclear deal,the deal,,9,R,10,12,11,12,R
+9_R_0076,MISC,IRN nuclear activity,getting a bomb,,9,R,11,13,19,21,R
+9_R_0077,PROPERTY,Aggressor,sponsor of terrorism,IRN,9,R,11,13,5,7,R
+9_R_0078,COUNTRY,IRN,the foremost sponsor of terrorism in the world,,9,R,11,13,3,10,R
+9_R_0079,OBJECT,Nuclear deal,this deal,,9,R,11,13,12,13,R
+9_R_0080,COUNTRY,IRN,Iran,,9,R,12,14,8,8,R
+9_R_0081,COUNTRY,IRN,Iran,,9,R,12,14,20,20,R
+9_R_0082,PROPERTY,Positive,in much better shape,IRN,9,R,12,14,22,25,R
+9_R_0083,OBJECT,Nuclear deal,the nuclear deal,,9,R,12,14,15,17,R
+9_R_0084,ACTOR-I,ISR\ISR-I,Dermer,,9,R,13,15,0,0,R
+9_R_0085,ACTOR,USA\Trump,President Donald Trump,,9,R,13,15,2,4,R
+9_R_0086,ACTOR,USA\Trump,The president,,9,R,13,16,0,1,R
+9_R_0087,PROPERTY,Importance,call attention to,Nuclear deal,9,R,13,15,9,11,R
+9_R_0088,PROPERTY,Power,call attention to,Trump,9,R,13,15,9,11,R
+9_R_0089,MISC,Reaction to IRN deal,decide whether to re-ratify it,,9,R,13,16,8,12,R
+9_R_0090,PROPERTY,Affection,"is ""right",Trump,9,R,13,15,5,7,R
+9_R_0091,OBJECT,Nuclear deal,the deal,,9,R,13,15,12,13,R

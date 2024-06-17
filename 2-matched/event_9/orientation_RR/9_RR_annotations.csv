@@ -1,0 +1,88 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+9_RR_0000,PROPERTY,Trustworthiness,Authentic,IRN files,9,RR,0,0,12,12,RR
+9_RR_0001,COUNTRY,IRN,Iran,,9,RR,0,0,4,4,RR
+9_RR_0002,OBJECT,IRN files,Iran Nuclear Files,,9,RR,0,0,4,6,RR
+9_RR_0003,COUNTRY,ISR,Israel,,9,RR,0,0,9,9,RR
+9_RR_0004,PROPERTY,Power,Seized by,ISR,9,RR,0,0,7,8,RR
+9_RR_0005,COUNTRY,USA,U.S.,,9,RR,0,0,2,2,RR
+9_RR_0006,ACTOR,ISR\Netanyahu,Benjamin Netanyahu,,9,RR,1,1,20,21,RR
+9_RR_0007,COUNTRY,IRN,Iran,,9,RR,1,1,14,14,RR
+9_RR_0008,COUNTRY,IRN,Iran,,9,RR,1,1,26,26,RR
+9_RR_0009,COUNTRY,ISR,Israel,,9,RR,1,1,12,12,RR
+9_RR_0010,ACTOR,ISR\Netanyahu,Israeli Prime Minister,,9,RR,1,1,17,19,RR
+9_RR_0011,COUNTRY,USA,U.S. intelligence,,9,RR,1,1,0,1,RR
+9_RR_0012,PROPERTY,Trustworthiness,authentic,IRN files,9,RR,1,1,34,34,RR
+9_RR_0013,PROPERTY,Affection,confirmed,IRN files,9,RR,1,1,3,3,RR
+9_RR_0014,MISC,IRN nuclear activity,nuclear weapons program,,9,RR,1,1,29,31,RR
+9_RR_0015,PROPERTY,Other,reportedly,USA,9,RR,1,1,2,2,RR
+9_RR_0016,PROPERTY,Power,seized by,ISR,9,RR,1,1,10,11,RR
+9_RR_0017,OBJECT,IRN files,tens of thousands of files,,9,RR,1,1,5,9,RR
+9_RR_0018,COUNTRY,ISR,Israel,,9,RR,2,2,9,9,RR
+9_RR_0019,ACTOR,ISR\Netanyahu,Netanyahu,,9,RR,2,2,0,0,RR
+9_RR_0020,PROPERTY,Other,allegedly,IRN,9,RR,2,2,28,28,RR
+9_RR_0021,MISC,Reaction to IRN deal,hid its nuclear weapons research archive,,9,RR,2,2,29,34,RR
+9_RR_0022,OBJECT,IRN files,hundreds of thousands of Iranian files,,9,RR,2,2,12,17,RR
+9_RR_0023,PROPERTY,Power,revealed,Netanyahu,9,RR,2,2,7,7,RR
+9_RR_0024,COUNTRY,IRN,the regime,,9,RR,2,2,25,26,RR
+9_RR_0025,COUNTRY,IRN,Iran,,9,RR,3,3,8,8,RR
+9_RR_0026,ACTOR,ISR\Netanyahu,Netanyahu,,9,RR,3,3,3,3,RR
+9_RR_0027,OBJECT,IRN files,The files,,9,RR,3,3,0,1,RR
+9_RR_0028,MISC,IRN nuclear activity,a nuclear bomb,,9,RR,3,3,26,28,RR
+9_RR_0029,MISC,IRN nuclear activity,developing nuclear weapons,,9,RR,3,3,19,21,RR
+9_RR_0030,MISC,IRN nuclear activity,development of testing sites,,9,RR,3,3,36,39,RR
+9_RR_0031,PROPERTY,No trustworthiness,lied,IRN,9,RR,3,3,10,10,RR
+9_RR_0032,MISC,IRN nuclear activity,research on nuclear warheads,,9,RR,3,3,30,33,RR
+9_RR_0033,PROPERTY,Affection,I'm sure he'll do the right thing,Trump,9,RR,5,7,5,13,RR
+9_RR_0034,COUNTRY,IRN,Iran,,9,RR,5,5,1,1,RR
+9_RR_0035,COUNTRY,ISR,Israel,,9,RR,5,6,0,0,RR
+9_RR_0036,COUNTRY,ISR,Israel,,9,RR,5,7,27,27,RR
+9_RR_0037,ACTOR,ISR\Netanyahu,Netanyahu,,9,RR,5,5,12,12,RR
+9_RR_0038,ACTOR,USA\Trump,Trump,,9,RR,5,7,2,2,RR
+9_RR_0039,MISC,IRN nuclear activity,a nuclear weapons program,,9,RR,5,5,6,9,RR
+9_RR_0040,PROPERTY,Reason,do the right thing,Trump,9,RR,5,7,10,13,RR
+9_RR_0041,PROPERTY,No trustworthiness,lied,IRN,9,RR,5,5,2,2,RR
+9_RR_0042,OBJECT,IRN files,secret Iranian files,,9,RR,5,6,2,4,RR
+9_RR_0043,COUNTRY,USA,the United States,,9,RR,5,7,19,21,RR
+9_RR_0044,PROPERTY,Affection,the right thing for,Trump,9,RR,5,7,15,18,RR
+9_RR_0045,PROPERTY,Affection,the right thing for,Trump,9,RR,5,7,23,26,RR
+9_RR_0046,PROPERTY,Affection,the right thing for,Trump,9,RR,5,7,30,33,RR
+9_RR_0047,PROPERTY,Power,uncovered,ISR,9,RR,5,6,1,1,RR
+9_RR_0048,PROPERTY,Other,I'm told,IRN files,9,RR,6,9,17,19,RR
+9_RR_0049,COUNTRY,ISR,Israel,,9,RR,6,9,0,0,RR
+9_RR_0050,ACTOR,ISR\Netanyahu,Netanyahu,,9,RR,6,8,6,6,RR
+9_RR_0051,ACTOR-I,USA\USA-I,US official,,9,RR,6,8,2,3,RR
+9_RR_0052,PROPERTY,Trustworthiness,authentic,IRN files,9,RR,6,9,15,15,RR
+9_RR_0053,PROPERTY,Affection,confirms,Netanyahu,9,RR,6,8,4,4,RR
+9_RR_0054,OBJECT,IRN files,the Iranian files,,9,RR,6,9,2,4,RR
+9_RR_0055,COUNTRY,USA,the U.S.,,9,RR,6,9,6,7,RR
+9_RR_0056,COUNTRY,USA,the U.S.,,9,RR,6,9,9,10,RR
+9_RR_0057,OBJECT,IRN files,the material,,9,RR,6,9,12,13,RR
+9_RR_0058,PROPERTY,Affection,verified,IRN files,9,RR,6,9,11,11,RR
+9_RR_0059,ACTOR,ISR\Netanyahu,Netanyahu,,9,RR,7,10,15,15,RR
+9_RR_0060,COUNTRY,USA,U.S. intelligence,,9,RR,7,10,4,5,RR
+9_RR_0061,OBJECT,IRN files,the files,,9,RR,7,10,20,21,RR
+9_RR_0062,PROPERTY,Other,unclear if,USA; Netanyahu; IRN files,9,RR,7,10,2,3,RR
+9_RR_0063,PROPERTY,Affection,verified,Netanyahu; IRN files,9,RR,7,10,7,7,RR
+9_RR_0064,ACTOR,ISR\Netanyahu,Netanyahu,,9,RR,8,11,0,0,RR
+9_RR_0065,EVENT,Presentation,Netanyahu's presentation,,9,RR,8,11,0,2,RR
+9_RR_0066,ACTOR,USA\Trump,President Donald Trump,,9,RR,8,11,29,31,RR
+9_RR_0067,PROPERTY,Importance,highly-anticipated,Reaction to IRN deal,9,RR,8,11,8,8,RR
+9_RR_0068,PROPERTY,Importance,self-imposed,Nuclear deal,9,RR,8,11,10,10,RR
+9_RR_0069,COUNTRY,USA,the Trump administration,,9,RR,8,11,15,17,RR
+9_RR_0070,MISC,Reaction to IRN deal,withdraw from the Iran nuclear deal,,9,RR,8,11,19,24,RR
+9_RR_0071,ACTOR,ISR\Netanyahu,Netanyahu,,9,RR,9,12,21,21,RR
+9_RR_0072,EVENT,Presentation,Netanyahu's presentation,,9,RR,9,12,21,23,RR
+9_RR_0073,ACTOR,USA\Trump,President Trump,,9,RR,9,12,12,13,RR
+9_RR_0074,PROPERTY,Affection,found it convincing,Netanyahu; Presentation,9,RR,9,12,29,31,RR
+9_RR_0075,PROPERTY,Reason,open to re-negotiating,Trump,9,RR,9,12,46,48,RR
+9_RR_0076,OBJECT,Nuclear deal,the deal,,9,RR,9,12,49,50,RR
+9_RR_0077,PROPERTY,Other,would not yet announce his plans,Trump,9,RR,9,12,34,39,RR
+9_RR_0078,ACTOR-I,IRN\IRN-I,Abbas Araghchi,,9,RR,10,13,11,12,RR
+9_RR_0079,COUNTRY,IRN,Iran,,9,RR,10,13,5,5,RR
+9_RR_0080,COUNTRY,IRN,Iran,,9,RR,10,13,19,19,RR
+9_RR_0081,COUNTRY,IRN,Iran,,9,RR,10,13,27,27,RR
+9_RR_0082,ACTOR-I,IRN\IRN-I,Iran's deputy foreign minister,,9,RR,10,13,5,9,RR
+9_RR_0083,OBJECT,Nuclear deal,The Iran nuclear deal,,9,RR,10,13,18,21,RR
+9_RR_0084,MISC,Reaction to IRN deal,a US exit,,9,RR,10,13,36,38,RR
+9_RR_0085,PROPERTY,Difficulty,no longer sustainable,Nuclear deal,9,RR,10,13,23,25,RR
+9_RR_0086,PROPERTY,Other,reportedly,IRN-I,9,RR,10,13,14,14,RR

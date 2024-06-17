@@ -1,0 +1,129 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+6_R_0000,GROUP,Migrant caravan,Asylum-seeking immigrant 'caravan',,6,R,0,0,0,3,R
+6_R_0001,COUNTRY,USA,Trump administration,,6,R,0,0,8,9,R
+6_R_0002,PROPERTY,Power,poised to test,Migrant caravan,6,R,0,0,5,7,R
+6_R_0003,GROUP,Migrant caravan,Asylum-seekers,,6,R,1,1,0,0,R
+6_R_0004,COUNTRY,USA,Trump administration,,6,R,1,1,16,17,R
+6_R_0005,GROUP,Migrant caravan,"a ""caravan""",,6,R,1,1,2,5,R
+6_R_0006,PROPERTY,Power,begun turning themselves in,Migrant caravan,6,R,1,1,24,27,R
+6_R_0007,COUNTRY,USA,border inspectors,,6,R,1,1,29,30,R
+6_R_0008,PROPERTY,Power,poised on Sunday to test,Migrant caravan,6,R,1,1,10,14,R
+6_R_0009,PROPERTY,Aggressor,tough immigration rhetoric,Trump,6,R,1,1,19,21,R
+6_R_0010,PROPERTY,Victim,tough immigration rhetoric,Migrant caravan,6,R,1,1,19,21,R
+6_R_0011,PROPERTY,Other,According,USA,6,R,2,2,0,0,R
+6_R_0012,COUNTRY,MEX,Mexico,,6,R,2,2,16,16,R
+6_R_0013,COUNTRY,USA,U.S. immigration lawyers,,6,R,2,2,6,8,R
+6_R_0014,GROUP,Migrant caravan,caravan participants,,6,R,2,2,11,12,R
+6_R_0015,PROPERTY,Weakness,face possible separation,Migrant caravan,6,R,2,2,25,27,R
+6_R_0016,OBJECT,USA-MEX Border,the border with San Diego,,6,R,2,2,18,22,R
+6_R_0022,GROUP,Migrant caravan,Immigrants,,6,R,4,3,0,0,R
+6_R_0023,PROPERTY,Weakness,have a chance to consult with lawyers,Migrant caravan,6,R,4,3,10,16,R
+6_R_0024,COUNTRY,USA,lawyers,,6,R,4,3,16,16,R
+6_R_0025,PROPERTY,Power,making a walk,Migrant caravan,6,R,4,3,1,3,R
+6_R_0026,ACTOR-I,USA\USA-I,Los Angeles lawyer Nora Phillips,,6,R,5,4,10,14,R
+6_R_0027,COUNTRY,MEX,Mexico,,6,R,5,4,31,31,R
+6_R_0028,PROPERTY,Difficulty,bearers of horrible news,USA,6,R,5,4,4,7,R
+6_R_0029,COUNTRY,USA,bearers of horrible news,,6,R,5,4,4,7,R
+6_R_0030,PROPERTY,Power,gave free information and advice,USA,6,R,5,4,38,42,R
+6_R_0031,PROPERTY,Good quality,good attorneys,USA,6,R,5,5,4,5,R
+6_R_0032,ACTOR-I,USA\USA-I,good attorneys,,6,R,5,5,4,5,R
+6_R_0033,COUNTRY,USA,lawyers,,6,R,5,4,37,37,R
+6_R_0034,GROUP,Migrant caravan,the migrants,,6,R,5,4,25,26,R
+6_R_0035,ACTOR,USA\Trump,President Donald Trump,,6,R,6,6,0,2,R
+6_R_0036,COUNTRY,USA,U.S.,,6,R,6,6,20,20,R
+6_R_0037,COUNTRY,USA,U.S.,,6,R,6,8,14,14,R
+6_R_0038,PROPERTY,Aggressor,a threat,Migrant caravan,6,R,6,6,16,17,R
+6_R_0039,GROUP,Migrant caravan,a threat to the U.S.,,6,R,6,6,16,20,R
+6_R_0040,PROPERTY,Refusal,been critical,Migration to the USA; Migrant caravan,6,R,6,8,4,5,R
+6_R_0041,PROPERTY,Power,have been tracking,USA,6,R,6,6,8,10,R
+6_R_0042,COUNTRY,USA,members of his Cabinet,,6,R,6,6,4,7,R
+6_R_0043,PROPERTY,Power,"promised a stern, swift response",USA,6,R,6,7,2,7,R
+6_R_0044,PROPERTY,Power,"strong, critical language",Trump,6,R,6,8,22,25,R
+6_R_0045,GROUP,Migrant caravan,the caravan,,6,R,6,6,11,12,R
+6_R_0046,GROUP,Migrant caravan,the caravan,,6,R,6,8,7,8,R
+6_R_0047,MISC,Migration to the USA,the caravan's steady approach to the U.S.,,6,R,6,8,7,14,R
+6_R_0048,ACTOR,USA\Trump,the president,,6,R,6,8,1,2,R
+6_R_0049,COUNTRY,MEX,Mexico,,6,R,7,9,1,1,R
+6_R_0050,PROPERTY,Power,absolute power,MEX,6,R,7,9,4,5,R
+6_R_0051,PROPERTY,Weakness,has no effective border laws,USA,6,R,7,10,30,34,R
+6_R_0052,COUNTRY,USA,our country,,6,R,7,10,26,27,R
+6_R_0053,OBJECT,USA-MEX Border,their Northern Border,,6,R,7,10,5,7,R
+6_R_0054,PROPERTY,Good quality,their border laws work,MEX,6,R,7,10,14,17,R
+6_R_0055,COUNTRY,MEX,their country,,6,R,7,9,17,18,R
+6_R_0056,GROUP,Migrant caravan,"these large ""Caravans"" of people",,6,R,7,9,9,15,R
+6_R_0057,MISC,Migration to the USA,to pass through into our country,,6,R,7,10,22,27,R
+6_R_0058,ACTOR-I,USA\USA-I,Chief Patrol Agent,,6,R,8,11,5,7,R
+6_R_0059,ACTOR-I,USA\USA-I,Rodney Scott,,6,R,8,11,8,9,R
+6_R_0060,MISC,Migration to the USA,several attempted illegal entries,,6,R,8,11,14,17,R
+6_R_0061,GROUP,Migrant caravan,the caravan,,6,R,8,11,22,23,R
+6_R_0062,PROPERTY,Safety,a legitimate Port of Entry,Migration to the USA,6,R,9,14,24,28,R
+6_R_0063,OBJECT,USA-MEX Border,a legitimate Port of Entry,,6,R,9,14,24,28,R
+6_R_0064,ACTOR-I,Migrant caravan\Migrant caravan-I,a pregnant female,,6,R,9,13,17,19,R
+6_R_0065,ACTOR-I,Migrant caravan\Migrant caravan-I,children as young as 4-years-old,,6,R,9,13,7,11,R
+6_R_0066,PROPERTY,Unsafety,dangerous canyons,Migration to the USA,6,R,9,14,35,36,R
+6_R_0067,PROPERTY,Unsafety,dangerous conditions,Migration to the USA,6,R,9,14,17,18,R
+6_R_0068,PROPERTY,Difficulty,"dark, treacherous canyon",Migration to the USA,6,R,9,13,30,33,R
+6_R_0069,PROPERTY,Unlawfulness,entering the United States illegally,Migrant caravan-I,6,R,9,13,23,27,R
+6_R_0070,PROPERTY,Unlawfulness,illegally entered,Migrant caravan,6,R,9,12,15,16,R
+6_R_0071,PROPERTY,Power,illegally entered,Migrant caravan,6,R,9,12,15,16,R
+6_R_0072,MISC,Migration to the USA,illegally entered the United States,,6,R,9,12,15,19,R
+6_R_0073,OBJECT,USA-MEX Border,metal border fence,,6,R,9,12,29,31,R
+6_R_0074,PROPERTY,Difficulty,notorious for human and drug smuggling,Migration to the USA,6,R,9,13,36,41,R
+6_R_0075,GROUP,Migrant caravan,the Central American Caravan,,6,R,9,12,10,13,R
+6_R_0076,OBJECT,USA-MEX Border,the San Ysidro Port of Entry,,6,R,9,12,36,41,R
+6_R_0077,COUNTRY,USA,the United States,,6,R,9,12,17,19,R
+6_R_0078,COUNTRY,USA,the United States,,6,R,9,13,24,26,R
+6_R_0079,PROPERTY,Unreason,unconscionable,Migrant caravan-I,6,R,9,14,8,8,R
+6_R_0080,COUNTRY,USA,U.S. government officials,,6,R,10,16,18,20,R
+6_R_0081,COUNTRY,USA,a very welcoming country,,6,R,10,17,2,5,R
+6_R_0082,PROPERTY,Trustworthiness,answer questions honestly,Migrant caravan,6,R,10,17,24,26,R
+6_R_0083,PROPERTY,Lawfulness,enter through our front door,Migrant caravan,6,R,10,17,17,21,R
+6_R_0084,PROPERTY,Unlawfulness,illegal entry,Migrant caravan,6,R,10,15,5,6,R
+6_R_0085,PROPERTY,Unlawfulness,illegally enter,Migrant caravan,6,R,10,16,6,7,R
+6_R_0086,PROPERTY,Unlawfulness,make any false statements,Migrant caravan,6,R,10,16,13,16,R
+6_R_0087,PROPERTY,Weakness,placing you and your family at risk,Migrant caravan,6,R,10,16,31,37,R
+6_R_0088,PROPERTY,Unsafety,placing you and your family at risk,Migrant caravan,6,R,10,16,31,37,R
+6_R_0089,COUNTRY,USA,the United States,,6,R,10,16,8,10,R
+6_R_0090,GROUP,Migrant caravan,those contemplating illegal entry,,6,R,10,15,3,6,R
+6_R_0091,PROPERTY,Power,urged,Migrant caravan-I,6,R,10,15,2,2,R
+6_R_0092,PROPERTY,Affection,very welcoming,Migrant caravan,6,R,10,17,3,4,R
+6_R_0093,PROPERTY,Difficulty,potential hardships,Migration to the USA,6,R,11,18,20,21,R
+6_R_0094,PROPERTY,Power,ready to confront,Migrant caravan,6,R,11,18,13,15,R
+6_R_0095,COUNTRY,USA,the U.S. response,,6,R,11,18,16,18,R
+6_R_0096,GROUP,Migrant caravan,the immigrants,,6,R,11,18,10,11,R
+6_R_0097,ACTOR-I,Migrant caravan\Migrant caravan-I,Kenia Elizabeth Avila,,6,R,12,19,0,2,R
+6_R_0098,PROPERTY,Weakness,could be separated,Migrant caravan-I,6,R,12,19,27,29,R
+6_R_0099,PROPERTY,Unsafety,could be separated,Migration to the USA,6,R,12,19,27,29,R
+6_R_0100,PROPERTY,Difficulty,temperatures may be cold,Migration to the USA,6,R,12,19,16,19,R
+6_R_0101,GROUP,Supporters,the volunteer attorneys,,6,R,12,19,9,11,R
+6_R_0102,MISC,Migration to the USA,fled,,6,R,13,21,1,1,R
+6_R_0103,PROPERTY,Other,reasons she declined to discuss,Migrant caravan-I,6,R,13,21,3,7,R
+6_R_0104,PROPERTY,Unsafety,returning to her native El Salvador would be worse,Migrant caravan-I,6,R,13,20,11,19,R
+6_R_0105,PROPERTY,Weakness,better than getting myself killed,Migrant caravan-I,6,R,14,22,15,19,R
+6_R_0106,PROPERTY,Victim,better than getting myself killed,Migrant caravan-I,6,R,14,22,15,19,R
+6_R_0107,PROPERTY,Weakness,separate us,Migrant caravan,6,R,14,22,6,7,R
+6_R_0108,COUNTRY,USA,Lawyers,,6,R,15,23,0,0,R
+6_R_0109,PROPERTY,Power,arrived in,Migrant caravan,6,R,15,23,18,19,R
+6_R_0110,PROPERTY,Weakness,camping out in shelters,Migrant caravan,6,R,15,23,24,27,R
+6_R_0111,PROPERTY,Refusal,denied any coaching,Migrant caravan,6,R,15,23,5,7,R
+6_R_0112,GROUP,Migrant caravan,the caravan,,6,R,15,23,14,15,R
+6_R_0113,GROUP,Migrant caravan,Some migrants,,6,R,16,24,0,1,R
+6_R_0114,PROPERTY,Power,assess the merits of their cases,Migrant caravan,6,R,16,24,5,10,R
+6_R_0115,GROUP,Migrant caravan,groups of the migrants with their children,,6,R,16,24,13,19,R
+6_R_0116,PROPERTY,Affection,received counseling,Migrant caravan,6,R,16,24,2,3,R
+6_R_0117,PROPERTY,Affection,were told how asylum works,Migrant caravan,6,R,16,24,22,26,R
+6_R_0118,GROUP,Migrant caravan,Asylum-seekers,,6,R,17,25,0,0,R
+6_R_0119,COUNTRY,USA,Immigration and Customs Enforcement,,6,R,17,25,16,19,R
+6_R_0120,PROPERTY,Power,held up,USA,6,R,17,25,3,4,R
+6_R_0121,PROPERTY,Weakness,may be detained or fitted with ankle monitors,Migrant caravan,6,R,17,26,8,15,R
+6_R_0122,MISC,Migration to the USA,may be detained or fitted with ankle monitors and released,,6,R,17,26,8,17,R
+6_R_0123,MISC,Migration to the USA,pass an initial screening,,6,R,17,26,2,5,R
+6_R_0124,GROUP,Migrant caravan,asylum-seekers,,6,R,18,27,4,4,R
+6_R_0125,PROPERTY,Difficulty,few are likely to eventually win asylum,Migration to the USA,6,R,18,27,24,30,R
+6_R_0126,MISC,Migration to the USA,passed the initial screening,,6,R,18,27,5,8,R
+6_R_0127,ACTOR-I,Migrant caravan\Migrant caravan-I,Cazares,,6,R,19,28,1,1,R
+6_R_0128,ACTOR-I,Migrant caravan\Migrant caravan-I,Cazares,,6,R,19,28,27,27,R
+6_R_0129,ACTOR-I,Migrant caravan\Migrant caravan-I,Jose Cazares,,6,R,19,28,0,1,R
+6_R_0130,PROPERTY,Victim,faced death threats,Migrant caravan-I,6,R,19,28,7,9,R
+6_R_0131,PROPERTY,Victim,killing the mother of his children,Migrant caravan,6,R,19,28,18,23,R
+6_R_0132,OBJECT,USA-MEX Border,the border barriers,,6,R,20,29,37,39,R

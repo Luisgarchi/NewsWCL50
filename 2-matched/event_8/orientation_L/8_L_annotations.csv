@@ -1,0 +1,333 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+8_L_0000,PROPERTY,Importance,Broad Quest,RUS meddling investigation,8,L,0,0,8,9,L
+8_L_0001,PROPERTY,Importance,Dozens of,Inquieries for Trump,8,L,0,0,2,3,L
+8_L_0002,OBJECT,Inquieries for Trump,Dozens of Inquiries,,8,L,0,0,2,4,L
+8_L_0003,ACTOR,USA\Mueller,Mueller,,8,L,0,0,0,0,L
+8_L_0004,COUNTRY,RUS,Russia,,8,L,0,0,11,11,L
+8_L_0005,EVENT,RUS meddling,Russia Ties and Obstruction,,8,L,0,0,11,14,L
+8_L_0006,ACTOR,USA\Trump,Trump,,8,L,0,0,6,6,L
+8_L_0007,ACTOR-I,USA\USA-I,James B. Comey,,8,L,1,1,20,22,L
+8_L_0008,ACTOR,USA\Mueller,Robert S. Mueller,,8,L,1,1,0,2,L
+8_L_0009,PROPERTY,Aggressor,fired,Trump,8,L,1,1,19,19,L
+8_L_0010,PROPERTY,Victim,fired,USA-I,8,L,1,1,19,19,L
+8_L_0011,PROPERTY,Unlawfulness,had criminal intent,Trump,8,L,1,1,14,16,L
+8_L_0012,ACTOR-I,USA\USA-I,the F.B.I. director,,8,L,1,1,24,26,L
+8_L_0013,ACTOR,USA\Trump,the president,,8,L,1,1,12,13,L
+8_L_0014,PROPERTY,Power,trying to determine,Mueller,8,L,1,1,8,10,L
+8_L_0015,ACTOR,USA\Trump,President Trump,,8,L,2,2,32,33,L
+8_L_0016,ACTOR,USA\Mueller,Robert S. Mueller,,8,L,2,2,2,4,L
+8_L_0017,COUNTRY,RUS,Russia,,8,L,2,2,11,11,L
+8_L_0018,COUNTRY,RUS,Russia,,8,L,2,2,41,41,L
+8_L_0019,EVENT,RUS meddling,Russia's election interference,,8,L,2,2,11,14,L
+8_L_0020,PROPERTY,Other,according to,Inquieries for Trump,8,L,2,2,51,52,L
+8_L_0021,PROPERTY,Importance,at least four dozen,Inquieries for Trump,8,L,2,2,17,20,L
+8_L_0022,PROPERTY,Power,exhaustive array of subjects,Inquieries for Trump,8,L,2,2,24,27,L
+8_L_0023,OBJECT,Inquieries for Trump,four dozen questions,,8,L,2,2,19,21,L
+8_L_0024,EVENT,RUS meddling investigation,investigating Russia's election interference,,8,L,2,2,10,14,L
+8_L_0025,OBJECT,Inquieries for Trump,list of the questions,,8,L,2,2,54,57,L
+8_L_0026,PROPERTY,No trustworthiness,obstructed the inquiry,Trump,8,L,2,2,46,48,L
+8_L_0027,OBJECT,Inquieries for Trump,the inquiry,,8,L,2,2,47,48,L
+8_L_0028,COUNTRY,USA,the special counsel,,8,L,2,2,7,9,L
+8_L_0029,EVENT,RUS meddling,ties to Russia,,8,L,2,2,39,41,L
+8_L_0030,ACTOR-I,USA\USA-I,Attorney General Jeff Sessions,,8,L,3,4,23,26,L
+8_L_0031,ACTOR-I,USA\USA-Misc,Hillary Clinton,,8,L,3,4,41,42,L
+8_L_0032,COUNTRY,RUS,Russians,,8,L,3,4,37,37,L
+8_L_0033,OBJECT,Inquieries for Trump,The open-ended queries,,8,L,3,3,0,2,L
+8_L_0034,PROPERTY,Aggressor,attempt to penetrate,Inquieries for Trump,8,L,3,3,7,9,L
+8_L_0035,COUNTRY,USA,campaign officials,,8,L,3,4,34,35,L
+8_L_0036,PROPERTY,Importance,high-profile firings,Trump; USA-I,8,L,3,4,7,8,L
+8_L_0037,COUNTRY,USA,his closest advisers,,8,L,3,3,37,39,L
+8_L_0038,COUNTRY,USA,his family,,8,L,3,3,34,35,L
+8_L_0039,ACTOR-I,USA\USA-I,his first national security adviser,,8,L,3,4,14,18,L
+8_L_0040,PROPERTY,Unreason,most combative Twitter posts,Trump,8,L,3,3,24,27,L
+8_L_0041,PROPERTY,Aggressor,offering dirt,RUS,8,L,3,4,38,39,L
+8_L_0042,ACTOR-I,USA\USA-I,the F.B.I. director,,8,L,3,4,10,12,L
+8_L_0043,ACTOR,USA\Trump,the president,,8,L,3,3,10,11,L
+8_L_0044,ACTOR,USA\Trump,the president,,8,L,3,4,4,5,L
+8_L_0045,EVENT,RUS meddling,Democratic email hackings,,8,L,4,5,77,79,L
+8_L_0046,ACTOR-I,USA\USA-I,Jared Kushner,,8,L,4,5,42,43,L
+8_L_0047,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Michael D. Cohen,,8,L,4,5,18,20,L
+8_L_0048,ACTOR,USA\Trump,Mr. Trump,,8,L,4,5,37,38,L
+8_L_0049,ACTOR,USA\Trump,Mr. Trump,,8,L,4,5,85,86,L
+8_L_0050,ACTOR,USA\Trump,Mr. Trump',,8,L,4,5,37,38,L
+8_L_0051,ACTOR,USA\Trump,Mr. Trump',,8,L,4,5,85,86,L
+8_L_0052,ACTOR-I,USA\USA-I,Mr. Trump's son-in-law,,8,L,4,5,37,40,L
+8_L_0053,ACTOR-I,USA\USA-I,Roger J. Stone Jr.,,8,L,4,5,62,65,L
+8_L_0054,COUNTRY,RUS,Russia,,8,L,4,5,52,52,L
+8_L_0055,ACTOR-I,USA\USA-I,a longtime adviser,,8,L,4,5,67,69,L
+8_L_0056,PROPERTY,Other,claimed to,USA-I,8,L,4,5,71,72,L
+8_L_0057,PROPERTY,Power,have inside information,USA-I,8,L,4,5,73,75,L
+8_L_0058,PROPERTY,Importance,longtime adviser,USA-I,8,L,4,5,68,69,L
+8_L_0059,PROPERTY,Importance,longtime personal lawyer,Trumps Lawyers-I,8,L,4,5,14,16,L
+8_L_0060,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,personal lawyer,,8,L,4,5,15,16,L
+8_L_0061,PROPERTY,Power,set up a back channel to Russia,USA-I,8,L,4,5,46,52,L
+8_L_0062,ACTOR,USA\Trump,the president,,8,L,4,5,5,6,L
+8_L_0063,ACTOR,USA\Trump,the president,,8,L,4,5,30,31,L
+8_L_0064,ACTOR,USA\Trump,Mr. Trump,,8,L,5,6,0,1,L
+8_L_0065,ACTOR,USA\Trump,The president,,8,L,5,7,0,1,L
+8_L_0066,EVENT,RUS meddling,collusion,,8,L,5,6,37,37,L
+8_L_0067,EVENT,RUS meddling,collusion,,8,L,5,7,4,4,L
+8_L_0068,PROPERTY,Unreason,disgraceful,Mueller,8,L,5,6,11,11,L
+8_L_0069,PROPERTY,Unreason,incorrectly noted,Trump,8,L,5,6,29,30,L
+8_L_0070,OBJECT,Inquieries for Trump,questions,,8,L,5,6,14,14,L
+8_L_0071,OBJECT,Inquieries for Trump,questions,,8,L,5,6,35,35,L
+8_L_0072,COUNTRY,USA,the special counsel,,8,L,5,6,15,17,L
+8_L_0073,PROPERTY,No trustworthiness,"""phony"" crime",RUS meddling,8,L,5,7,7,10,L
+8_L_0074,ACTOR-I,USA\USA-I,Michael T. Flynn,,8,L,6,10,28,30,L
+8_L_0075,ACTOR,USA\Mueller,Mr. Mueller,,8,L,6,8,9,10,L
+8_L_0076,ACTOR,USA\Mueller,Mr. Mueller,,8,L,6,10,15,16,L
+8_L_0077,EVENT,RUS meddling investigation,Mr. Mueller's investigation,,8,L,6,8,9,12,L
+8_L_0078,ACTOR,USA\Trump,Mr. Trump,,8,L,6,10,7,8,L
+8_L_0079,EVENT,RUS meddling,Russia's election meddling,,8,L,6,9,14,17,L
+8_L_0080,OBJECT,Inquieries for Trump,The questions,,8,L,6,8,0,1,L
+8_L_0081,EVENT,RUS meddling investigation,an investigation into Russia's election meddling,,8,L,6,9,11,17,L
+8_L_0082,PROPERTY,Aggressor,attempts to fire,Trump,8,L,6,10,12,14,L
+8_L_0083,PROPERTY,Victim,attempts to fire,Mueller,8,L,6,10,12,14,L
+8_L_0084,PROPERTY,Importance,grew to include an examination of the president's conduct in office,RUS meddling investigation,8,L,6,9,18,29,L
+8_L_0085,PROPERTY,Importance,most detailed look yet,Inquieries for Trump,8,L,6,8,4,7,L
+8_L_0086,PROPERTY,Good quality,most detailed look yet,Inquieries for Trump,8,L,6,8,4,7,L
+8_L_0087,PROPERTY,Unlawfulness,obstruction of justice,RUS; Trump,8,L,6,9,5,7,L
+8_L_0088,PROPERTY,Other,pardon offers,Trump,8,L,6,10,25,26,L
+8_L_0089,PROPERTY,Other,possible,Inquieries for Trump,8,L,6,9,4,4,L
+8_L_0090,PROPERTY,Other,possible,Inquieries for Trump,8,L,6,10,24,24,L
+8_L_0091,PROPERTY,Other,possible,Trump,8,L,6,9,4,4,L
+8_L_0092,PROPERTY,Other,possible,Trump,8,L,6,10,24,24,L
+8_L_0093,OBJECT,Inquieries for Trump,queries,,8,L,6,10,3,3,L
+8_L_0094,PROPERTY,Other,shrouded in secrecy,RUS meddling investigation,8,L,6,8,17,19,L
+8_L_0095,ACTOR-I,USA\USA-I,the former national security adviser,,8,L,6,10,32,36,L
+8_L_0096,ACTOR,USA\Trump,the president,,8,L,6,9,24,25,L
+8_L_0097,ACTOR,USA\Trump,the president,,8,L,6,10,20,21,L
+8_L_0098,ACTOR-I,USA\USA-I,Mr. Flynn,,8,L,7,11,9,10,L
+8_L_0099,ACTOR,USA\Mueller,Mr. Mueller,,8,L,7,12,0,1,L
+8_L_0100,ACTOR,USA\Trump,Mr. Trump,,8,L,7,13,11,12,L
+8_L_0101,GROUP,Trumps Lawyers,Mr. Trump's legal team,,8,L,7,13,11,15,L
+8_L_0102,OBJECT,Inquieries for Trump,a list,,8,L,7,12,25,26,L
+8_L_0103,ACTOR-I,USA\USA-I,a person outside Mr. Trump's legal team,,8,L,7,13,8,15,L
+8_L_0104,OBJECT,Inquieries for Trump,questions,,8,L,7,12,8,8,L
+8_L_0105,PROPERTY,Weakness,seeking immunity or possible pardon,USA-I,8,L,7,11,12,16,L
+8_L_0106,GROUP,Trumps Lawyers,the president's lawyers,,8,L,7,12,16,19,L
+8_L_0107,GROUP,USA\Mueller\Investigators,the special counsel investigators,,8,L,7,12,11,14,L
+8_L_0108,OBJECT,Inquieries for Trump,A few questions,,8,L,8,14,0,2,L
+8_L_0109,COUNTRY,RUS,Moscow,,8,L,8,15,29,29,L
+8_L_0110,ACTOR,USA\Mueller,Mr. Mueller,,8,L,8,14,5,6,L
+8_L_0111,ACTOR,USA\Mueller,Mr. Mueller,,8,L,8,15,8,9,L
+8_L_0112,ACTOR,USA\Trump,Mr. Trump,,8,L,8,15,12,13,L
+8_L_0113,PROPERTY,Unsafety,No such outreach has been revealed,RUS meddling,8,L,8,16,0,5,L
+8_L_0114,ACTOR-I,USA\USA-I,Paul Manafort,,8,L,8,15,23,24,L
+8_L_0115,ACTOR-I,USA\USA-I,Paul Manafort,,8,L,8,15,46,47,L
+8_L_0116,COUNTRY,RUS,Russia,,8,L,8,14,17,17,L
+8_L_0117,COUNTRY,RUS,Russia,,8,L,8,15,50,50,L
+8_L_0118,EVENT,RUS meddling investigation,investigating possible coordination between the Trump campaign and Russia,,8,L,8,14,9,17,L
+8_L_0119,PROPERTY,Power,is still investigating,Mueller,8,L,8,14,7,9,L
+8_L_0120,OBJECT,Inquieries for Trump,more tantalizing inquiries,,8,L,8,15,4,6,L
+8_L_0121,EVENT,RUS meddling,possible coordination between the Trump campaign and Russia,,8,L,8,14,10,17,L
+8_L_0122,PROPERTY,Other,potential assistance,USA-I; RUS,8,L,8,15,52,53,L
+8_L_0123,PROPERTY,Weakness,seeking assistance from,USA-I,8,L,8,15,26,28,L
+8_L_0124,EVENT,RUS meddling,such outreach,,8,L,8,16,1,2,L
+8_L_0125,PROPERTY,Importance,tantalizing,Inquieries for Trump,8,L,8,15,5,5,L
+8_L_0126,ACTOR,USA\Trump,the former chairman Paul Manafort,,8,L,8,15,20,24,L
+8_L_0127,ACTOR-I,USA\USA-I,A spokesman for the special counsel's office,,8,L,9,18,0,7,L
+8_L_0128,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Jay Sekulow,,8,L,9,17,0,1,L
+8_L_0129,ACTOR,USA\Trump,Mr. Trump,,8,L,9,17,6,7,L
+8_L_0130,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,a lawyer for Mr. Trump,,8,L,9,17,3,7,L
+8_L_0131,PROPERTY,Other,declined to comment,Trumps Lawyers-I,8,L,9,17,9,11,L
+8_L_0132,PROPERTY,Other,did not respond,USA-I,8,L,9,18,8,10,L
+8_L_0133,COUNTRY,USA,the special counsel,,8,L,9,18,3,5,L
+8_L_0134,ACTOR,USA\Mueller,Mr. Mueller,,8,L,10,20,0,1,L
+8_L_0135,ACTOR,USA\Trump,Mr. Trump,,8,L,10,20,15,16,L
+8_L_0136,COUNTRY,RUS,Russian officials,,8,L,10,20,28,29,L
+8_L_0137,OBJECT,Inquieries for Trump,The questions,,8,L,10,19,0,1,L
+8_L_0138,COUNTRY,USA,White House aides,,8,L,10,20,18,20,L
+8_L_0139,PROPERTY,Unsafety,chaotic,Trump,8,L,10,19,8,8,L
+8_L_0140,PROPERTY,Importance,dramatic,USA-I,8,L,10,20,44,44,L
+8_L_0141,PROPERTY,Aggressor,public threats,Trump,8,L,10,20,6,7,L
+8_L_0142,PROPERTY,Unreason,salacious,RUS meddling,8,L,10,20,41,41,L
+8_L_0143,EVENT,RUS meddling,salacious accusations,,8,L,10,20,41,42,L
+8_L_0144,ACTOR,USA\Trump,the president,,8,L,10,20,8,9,L
+8_L_0145,ACTOR,USA\Trump,the president,,8,L,10,20,22,23,L
+8_L_0146,COUNTRY,USA,American sanctions,,8,L,11,22,34,35,L
+8_L_0147,ACTOR,USA\Mueller,Mr. Mueller,,8,L,11,22,0,1,L
+8_L_0148,ACTOR,RUS\Putin,Mr. Putin,,8,L,11,22,41,42,L
+8_L_0149,ACTOR,USA\Trump,Mr. Trump,,8,L,11,22,6,7,L
+8_L_0150,ACTOR,RUS\Putin,President Vladimir V. Putin,,8,L,11,22,20,23,L
+8_L_0151,COUNTRY,RUS,Russia,,8,L,11,21,13,13,L
+8_L_0152,COUNTRY,RUS,Russia,,8,L,11,22,25,25,L
+8_L_0153,COUNTRY,RUS,Russia,,8,L,11,22,37,37,L
+8_L_0154,COUNTRY,USA,The special counsel,,8,L,11,21,0,2,L
+8_L_0155,ACTOR,USA\Trump,the president,,8,L,11,21,7,8,L
+8_L_0156,OBJECT,Inquieries for Trump,would like to ask,,8,L,11,22,2,5,L
+8_L_0157,ACTOR,USA\Mueller,Mr. Mueller,,8,L,12,23,4,5,L
+8_L_0158,ACTOR,USA\Trump,Mr. Trump,,8,L,12,23,11,12,L
+8_L_0159,OBJECT,Inquieries for Trump,his questions,,8,L,12,23,1,2,L
+8_L_0160,PROPERTY,Reason,independent,USA,8,L,12,23,25,25,L
+8_L_0161,COUNTRY,USA,independent investigators,,8,L,12,23,25,26,L
+8_L_0162,COUNTRY,USA,law enforcement officials,,8,L,12,23,16,18,L
+8_L_0163,PROPERTY,Affection,loyally,Trump,8,L,12,23,31,31,L
+8_L_0164,COUNTRY,USA,people who should loyally protect him,,8,L,12,23,28,33,L
+8_L_0165,PROPERTY,Power,tries to tease,Mueller,8,L,12,23,7,9,L
+8_L_0166,ACTOR-I,USA\USA-I,James B. Comey,,8,L,13,24,8,10,L
+8_L_0167,ACTOR-I,USA\USA-I,Mr. Comey,,8,L,13,26,17,18,L
+8_L_0168,ACTOR-I,USA\USA-I,Mr. Comey,,8,L,13,27,15,16,L
+8_L_0169,ACTOR,USA\Mueller,Mr. Mueller,,8,L,13,25,0,1,L
+8_L_0170,OBJECT,Inquieries for Trump,Mr. Mueller's questions,,8,L,13,25,0,3,L
+8_L_0171,ACTOR,USA\Trump,Mr. Trump,,8,L,13,26,10,11,L
+8_L_0172,ACTOR,USA\Trump,Mr. Trump,,8,L,13,27,11,12,L
+8_L_0173,ACTOR-I,USA\USA-Misc,Mrs. Clinton,,8,L,13,24,32,33,L
+8_L_0174,PROPERTY,Unlawfulness,broke with Justice Department policy,USA-I,8,L,13,24,20,24,L
+8_L_0175,PROPERTY,Lawfulness,had abided by policy,USA-I,8,L,13,26,19,22,L
+8_L_0176,PROPERTY,Confidence,no concerns,Trump,8,L,13,26,13,14,L
+8_L_0177,PROPERTY,Power,put that statement to the test,Inquieries for Trump,8,L,13,25,4,9,L
+8_L_0178,PROPERTY,Power,spoke publicly,USA-I,8,L,13,24,26,27,L
+8_L_0179,ACTOR-I,USA\USA-I,the F.B.I. director,,8,L,13,24,4,6,L
+8_L_0180,EVENT,RUS meddling investigation,the Russia investigation,,8,L,13,27,21,23,L
+8_L_0181,COUNTRY,USA,the White House,,8,L,13,24,15,17,L
+8_L_0182,PROPERTY,Victim,was fired,USA-I,8,L,13,24,12,13,L
+8_L_0183,PROPERTY,Victim,was fired,USA-I,8,L,13,27,17,18,L
+8_L_0184,ACTOR-I,USA\USA-I,Mr. Sessions,,8,L,14,28,10,11,L
+8_L_0185,ACTOR-I,USA\USA-I,Mr. Sessions,,8,L,14,28,31,32,L
+8_L_0186,ACTOR,USA\Trump,Mr. Trump,,8,L,14,28,5,6,L
+8_L_0187,ACTOR,USA\Trump,Mr. Trump,,8,L,14,28,28,29,L
+8_L_0188,PROPERTY,Power,needed him in place for protection,USA-I,8,L,14,28,34,39,L
+8_L_0189,PROPERTY,Weakness,needed him in place for protection,Trump,8,L,14,28,34,39,L
+8_L_0190,PROPERTY,Power,recuse himself,USA-I,8,L,14,28,20,21,L
+8_L_0191,EVENT,RUS meddling investigation,the Russia investigation,,8,L,14,28,23,25,L
+8_L_0192,ACTOR-I,USA\USA-I,the attorney general,,8,L,14,28,14,16,L
+8_L_0193,OBJECT,Inquieries for Trump,the questions,,8,L,14,28,2,3,L
+8_L_0194,ACTOR-I,USA\USA-I,Donald F. McGahn II,,8,L,15,30,9,12,L
+8_L_0195,ACTOR,USA\Mueller,Mr. Mueller,,8,L,15,29,0,1,L
+8_L_0196,ACTOR,USA\Mueller,Mr. Mueller,,8,L,15,29,15,16,L
+8_L_0197,ACTOR,USA\Trump,Mr. Trump,,8,L,15,29,7,8,L
+8_L_0198,ACTOR,USA\Trump,The president,,8,L,15,30,0,1,L
+8_L_0199,PROPERTY,Other,appears to be,Mueller,8,L,15,29,2,4,L
+8_L_0200,ACTOR-I,USA\USA-I,the White House counsel,,8,L,15,30,4,7,L
+8_L_0201,COUNTRY,USA,the special counsel,,8,L,15,30,21,23,L
+8_L_0202,PROPERTY,Aggressor,threatened to resign,USA-I,8,L,15,30,14,16,L
+8_L_0203,PROPERTY,Power,took steps last year to fire,Trump,8,L,15,29,9,14,L
+8_L_0204,PROPERTY,Aggressor,took steps last year to fire,Trump,8,L,15,29,9,14,L
+8_L_0205,PROPERTY,Victim,took steps last year to fire,Mueller,8,L,15,29,9,14,L
+8_L_0206,ACTOR-I,USA\USA-I,Don McGahn,,8,L,16,33,24,25,L
+8_L_0207,ACTOR,USA\Mueller,Mr. Mueller,,8,L,16,32,0,1,L
+8_L_0208,PROPERTY,Affection,backing,Trump,8,L,16,33,26,26,L
+8_L_0209,PROPERTY,Power,terminating the special counsel,Trump,8,L,16,31,9,12,L
+8_L_0210,OBJECT,Inquieries for Trump,the list of questions,,8,L,16,32,8,11,L
+8_L_0211,COUNTRY,USA,the special counsel,,8,L,16,31,10,12,L
+8_L_0212,COUNTRY,USA,the special counsel,,8,L,16,33,20,22,L
+8_L_0213,GROUP,Trumps Lawyers,His lawyers,,8,L,17,36,0,1,L
+8_L_0214,ACTOR-I,USA\USA-I,Mr. Flynn,,8,L,17,37,4,5,L
+8_L_0215,ACTOR,USA\Mueller,Mr. Mueller,,8,L,17,35,0,1,L
+8_L_0216,OBJECT,Inquieries for Trump,an avenue to end the inquiry more quickly,,8,L,17,35,29,36,L
+8_L_0217,PROPERTY,Unreason,easily become distracted,Trump,8,L,17,36,32,34,L
+8_L_0218,PROPERTY,Unreason,exaggerations,Trump,8,L,17,36,17,17,L
+8_L_0219,PROPERTY,Affection,"expressed a desire, at times, to be interviewed",Inquieries for Trump,8,L,17,35,15,24,L
+8_L_0220,PROPERTY,No trustworthiness,half-truths,Trump,8,L,17,36,19,19,L
+8_L_0221,PROPERTY,Power,have been negotiating,Trumps Lawyers,8,L,17,36,2,4,L
+8_L_0222,GROUP,USA\Mueller\Investigators,investigators,,8,L,17,37,13,13,L
+8_L_0223,PROPERTY,No trustworthiness,lying to investigators,USA-I,8,L,17,37,11,13,L
+8_L_0224,PROPERTY,Weakness,out of concern,Trumps Lawyers,8,L,17,36,9,11,L
+8_L_0225,PROPERTY,No trustworthiness,outright falsehoods,Trump,8,L,17,36,21,22,L
+8_L_0226,PROPERTY,No trustworthiness,provide false statements,Trump,8,L,17,36,28,30,L
+8_L_0227,PROPERTY,Importance,sought for months to,Inquieries for Trump,8,L,17,35,3,6,L
+8_L_0228,OBJECT,Inquieries for Trump,the Russia inquiry,,8,L,17,37,15,17,L
+8_L_0229,ACTOR,USA\Trump,the president,,8,L,17,35,8,9,L
+8_L_0230,ACTOR,USA\Trump,their client,,8,L,17,36,13,14,L
+8_L_0231,PROPERTY,Weakness,Concerned about,Trumps Laywers-I,8,L,18,40,0,1,L
+8_L_0232,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,John Dowd,,8,L,18,40,13,14,L
+8_L_0233,ACTOR,USA\Mueller,Mr. Mueller,,8,L,18,39,8,9,L
+8_L_0234,ACTOR,USA\Mueller,Mr. Mueller,,8,L,18,40,20,21,L
+8_L_0235,ACTOR,USA\Trump,Mr. Trump,,8,L,18,39,3,4,L
+8_L_0236,ACTOR,USA\Trump,Mr. Trump,,8,L,18,40,28,29,L
+8_L_0237,GROUP,Trumps Lawyers,Mr. Trump's lawyers,,8,L,18,39,3,6,L
+8_L_0238,OBJECT,Inquieries for Trump,The list of questions,,8,L,18,38,0,3,L
+8_L_0239,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,lead lawyer,,8,L,18,40,10,11,L
+8_L_0240,PROPERTY,Difficulty,legal jeopardy,Trump; Trumps Lawyers,8,L,18,40,6,7,L
+8_L_0241,ACTOR,USA\Trump,the president,,8,L,18,39,16,17,L
+8_L_0242,ACTOR,USA\Trump,the president,,8,L,18,40,3,4,L
+8_L_0243,COUNTRY,USA,the special counsel,,8,L,18,39,23,25,L
+8_L_0244,PROPERTY,Power,trying to convince,Trumps Lawyers-I,8,L,18,40,17,19,L
+8_L_0245,ACTOR-I,USA\USA-I,Mr. Comey,,8,L,19,42,25,26,L
+8_L_0246,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,19,42,2,3,L
+8_L_0247,ACTOR,USA\Mueller,Mr. Mueller,,8,L,19,41,0,1,L
+8_L_0248,PROPERTY,Aggressor,fired,Trump,8,L,19,42,24,24,L
+8_L_0249,PROPERTY,Victim,fired,USA-I,8,L,19,42,24,24,L
+8_L_0250,PROPERTY,Unlawfulness,had criminal intent,Trump,8,L,19,42,19,21,L
+8_L_0251,OBJECT,Inquieries for Trump,question the president,,8,L,19,42,11,13,L
+8_L_0252,ACTOR,USA\Trump,the president,,8,L,19,42,12,13,L
+8_L_0253,PROPERTY,Negative,unsatisfied,Mueller,8,L,19,41,4,4,L
+8_L_0254,PROPERTY,Other,was apparently,Mueller,8,L,19,41,2,3,L
+8_L_0255,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,20,43,1,2,L
+8_L_0256,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,20,43,20,21,L
+8_L_0257,ACTOR,USA\Mueller,Mr. Mueller,,8,L,20,43,9,10,L
+8_L_0258,ACTOR,USA\Trump,Mr. Trump,,8,L,20,43,28,29,L
+8_L_0259,PROPERTY,Confidence,held firm,Trumps Lawyers-I,8,L,20,43,3,4,L
+8_L_0260,GROUP,USA\Mueller\Investigators,investigators for Mr. Mueller,,8,L,20,43,7,10,L
+8_L_0261,OBJECT,Inquieries for Trump,the questions,,8,L,20,43,22,23,L
+8_L_0262,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,21,44,15,16,L
+8_L_0263,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,21,45,1,2,L
+8_L_0264,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,21,46,11,12,L
+8_L_0265,ACTOR,USA\Mueller,Mr. Mueller,,8,L,21,44,1,2,L
+8_L_0266,ACTOR,USA\Mueller,Mr. Mueller,,8,L,21,45,17,18,L
+8_L_0267,ACTOR,USA\Trump,Mr. Mueller,,8,L,21,44,1,2,L
+8_L_0268,ACTOR,USA\Trump,Mr. Mueller,,8,L,21,45,17,18,L
+8_L_0269,ACTOR-I,USA\USA-I,Mr. Mueller's team,,8,L,21,44,1,4,L
+8_L_0270,ACTOR,USA\Trump,Mr. Trump,,8,L,21,45,6,7,L
+8_L_0271,ACTOR,USA\Trump,his client,,8,L,21,46,17,18,L
+8_L_0272,PROPERTY,Unreason,ignoring his advice,Trump,8,L,21,46,20,22,L
+8_L_0273,PROPERTY,Weakness,misgivings,Trumps Lawyers-I,8,L,21,45,4,4,L
+8_L_0274,PROPERTY,Confidence,remained firm in his insistence,Trump,8,L,21,45,8,12,L
+8_L_0275,ACTOR,USA\Trump,the president,,8,L,21,44,20,21,L
+8_L_0276,PROPERTY,Negative,tone and detailed nature cemented Mr. Dowd's view that the president should not sit for an interview,Inquieries for Trump,8,L,21,44,10,27,L
+8_L_0277,ACTOR,USA\Mueller,Mr. Mueller,,8,L,22,47,19,20,L
+8_L_0278,ACTOR,USA\Trump,Mr. Trump,,8,L,22,47,0,1,L
+8_L_0279,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Trump's new lawyer in the investigation,Trumps Lawyers-I,8,L,22,47,0,7,L
+8_L_0280,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Rudolph W. Giuliani,,8,L,22,47,13,15,L
+8_L_0281,ACTOR-I,USA\USA-I,his staff,,8,L,22,47,35,36,L
+8_L_0282,PROPERTY,Importance,longtime confidant,Trumps Lawyers-I,8,L,22,47,10,11,L
+8_L_0283,COUNTRY,USA,the special counsel,,8,L,22,47,31,33,L
+8_L_0284,PROPERTY,Reason,truly objective,Mueller; USA; USA-I,8,L,22,47,42,43,L
+8_L_0285,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,23,50,4,5,L
+8_L_0286,ACTOR,USA\Mueller,Mr. Mueller,,8,L,23,48,0,1,L
+8_L_0287,ACTOR,USA\Mueller,Mr. Mueller,,8,L,23,50,28,29,L
+8_L_0288,EVENT,RUS meddling investigation,Mr. Mueller's endgame,,8,L,23,48,0,3,L
+8_L_0289,COUNTRY,USA,The special counsel,,8,L,23,50,0,2,L
+8_L_0290,PROPERTY,Unlawfulness,broke the law,Trump,8,L,23,48,14,16,L
+8_L_0291,PROPERTY,Power,cannot be charged with a crime while they are in office,Trump,8,L,23,49,8,19,L
+8_L_0292,PROPERTY,Positive,does not expect to charge him,Trump,8,L,23,50,30,35,L
+8_L_0293,PROPERTY,Positive,not a target of the investigation,Trump,8,L,23,50,20,25,L
+8_L_0294,PROPERTY,Other,remains a mystery,Mueller,8,L,23,48,4,6,L
+8_L_0295,EVENT,RUS meddling investigation,the investigation,,8,L,23,50,24,25,L
+8_L_0296,ACTOR,USA\Trump,the president,,8,L,23,48,12,13,L
+8_L_0297,ACTOR,USA\Trump,the president,,8,L,23,50,10,11,L
+8_L_0298,ACTOR,USA\Mueller,Mr. Mueller,,8,L,24,51,7,8,L
+8_L_0299,OBJECT,Inquieries for Trump,Mr. Mueller's inquiries,,8,L,24,51,7,10,L
+8_L_0300,ACTOR,USA\Trump,Mr. Trump,,8,L,24,51,14,15,L
+8_L_0301,ACTOR-I,USA\USA-I,former top aides,,8,L,24,51,22,24,L
+8_L_0302,PROPERTY,Power,influence their decisions,Trump,8,L,24,51,26,28,L
+8_L_0303,PROPERTY,Power,offered them,Trump,8,L,24,51,16,17,L
+8_L_0304,EVENT,RUS meddling investigation,the special counsel investigation,,8,L,24,51,34,37,L
+8_L_0305,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Mr. Dowd,,8,L,25,52,0,1,L
+8_L_0306,ACTOR-I,USA\USA-I,Mr. Flynn,,8,L,25,52,13,14,L
+8_L_0307,ACTOR-I,USA\USA-I,Mr. Manafort,,8,L,25,52,16,17,L
+8_L_0308,ACTOR-I,USA\USA-I,Mr. Manafort,,8,L,25,53,0,1,L
+8_L_0309,PROPERTY,Other,according to,USA-I,8,L,25,52,19,20,L
+8_L_0310,PROPERTY,Trustworthiness,according to people with knowledge of the discussions,USA-I,8,L,25,52,19,26,L
+8_L_0311,PROPERTY,Unlawfulness,charges of money laundering,USA-I,8,L,25,53,7,10,L
+8_L_0312,PROPERTY,Unlawfulness,financial crimes,USA-I,8,L,25,53,13,14,L
+8_L_0313,ACTOR-I,USA\USA-I,people with knowledge of the discussions,,8,L,25,52,21,26,L
+8_L_0314,PROPERTY,Other,pleaded not guilty,USA-I,8,L,25,53,3,5,L
+8_L_0315,ACTOR-I,USA\USA-I,Mr. Flynn,,8,L,26,54,0,1,L
+8_L_0316,COUNTRY,RUS,Russian ambassador to the United States,,8,L,26,54,24,29,L
+8_L_0317,ACTOR-I,USA\USA-I,a retired Army lieutenant general,,8,L,26,54,3,7,L
+8_L_0318,PROPERTY,Power,agreed to cooperate,USA-I,8,L,26,54,42,44,L
+8_L_0319,COUNTRY,USA,federal authorities,,8,L,26,54,39,40,L
+8_L_0320,PROPERTY,No trustworthiness,lying to federal authorities,USA-I,8,L,26,54,37,40,L
+8_L_0321,PROPERTY,Trustworthiness,pleaded guilty,USA-I,8,L,26,54,32,33,L
+8_L_0322,COUNTRY,USA,the United States,,8,L,26,54,27,29,L
+8_L_0323,COUNTRY,USA,the special counsel,,8,L,26,54,46,48,L
+8_L_0324,PROPERTY,Victim,was ousted from,USA-I,8,L,26,54,9,11,L
+8_L_0325,ACTOR-I,USA\USA-I,Flynn,,8,L,27,55,3,3,L
+8_L_0326,ACTOR-I,USA\USA-I,Flynn,,8,L,27,55,22,22,L
+8_L_0327,ACTOR-I,USA\USA-I,Flynn,,8,L,27,55,26,26,L
+8_L_0328,ACTOR-I,USA\USA-I,General Flynn,,8,L,27,55,2,3,L
+8_L_0329,ACTOR-I,USA\USA-I,General Flynn,,8,L,27,55,21,22,L
+8_L_0330,ACTOR,USA\Mueller,Mr. Mueller,,8,L,27,56,0,1,L
+8_L_0331,PROPERTY,Weakness,seeking immunity or possible pardon,USA-I,8,L,27,55,27,31,L

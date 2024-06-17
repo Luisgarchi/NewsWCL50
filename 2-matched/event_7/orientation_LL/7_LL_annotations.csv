@@ -1,0 +1,195 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+7_LL_0000,PROPERTY,Power,Postpones,Trump,7,LL,0,0,1,1,LL
+7_LL_0001,OBJECT,Tariffs,"Steel, Aluminum Tariffs",,7,LL,0,0,2,5,LL
+7_LL_0002,ACTOR,USA\Trump,Trump,,7,LL,0,0,0,0,LL
+7_LL_0003,OBJECT,Tariffs,The tariffs,,7,LL,1,1,0,1,LL
+7_LL_0004,PROPERTY,Importance,have increased frictions,Tariffs,7,LL,1,1,2,4,LL
+7_LL_0005,PROPERTY,Power,have prompted,Tariffs,7,LL,1,1,11,12,LL
+7_LL_0006,MISC,Tariff imposition consequences,have prompted several challenges,,7,LL,1,1,11,14,LL
+7_LL_0007,MISC,Tariff imposition consequences,increased frictions with U.S. trading partners worldwide,,7,LL,1,1,3,9,LL
+7_LL_0008,COUNTRY,CAN,Canada,,7,LL,2,2,21,21,LL
+7_LL_0009,COUNTRY,MEX,Mexico,,7,LL,2,2,27,27,LL
+7_LL_0010,ACTOR,USA\Trump,President Donald Trump,,7,LL,2,2,8,10,LL
+7_LL_0011,OBJECT,New import quotas,agreements for permanent exemptions,,7,LL,2,2,35,38,LL
+7_LL_0012,PROPERTY,Power,has postponed the imposition of steel and aluminum tariffs,Trump,7,LL,2,2,11,19,LL
+7_LL_0013,PROPERTY,Power,has reached agreements for permanent exemptions,Trump,7,LL,2,2,33,38,LL
+7_LL_0014,OBJECT,Permanent exemptions,permanent exemptions,,7,LL,2,2,37,38,LL
+7_LL_0015,COUNTRY,EU,the European Union,,7,LL,2,2,23,25,LL
+7_LL_0016,COUNTRY,USA,the White House,,7,LL,2,2,46,48,LL
+7_LL_0017,OBJECT,Tariffs,the imposition of steel and aluminum tariffs,,7,LL,2,2,13,19,LL
+7_LL_0018,OBJECT,Tariffs,tariffs,,7,LL,3,3,10,10,LL
+7_LL_0019,PROPERTY,Other,did not disclose terms,USA,7,LL,4,4,26,29,LL
+7_LL_0020,COUNTRY,USA,the White House,,7,LL,4,4,4,6,LL
+7_LL_0021,OBJECT,New import quotas,the deals,,7,LL,4,4,11,12,LL
+7_LL_0022,COUNTRY,CAN,Canada,,7,LL,5,5,8,8,LL
+7_LL_0023,COUNTRY,MEX,Mexico,,7,LL,5,5,10,10,LL
+7_LL_0024,COUNTRY,USA,The administration,,7,LL,5,5,1,2,LL
+7_LL_0025,PROPERTY,Power,extending negotiations,USA,7,LL,5,5,5,6,LL
+7_LL_0026,PROPERTY,Economy negative,prevent transshipment,Tariffs,7,LL,5,6,17,18,LL
+7_LL_0027,MISC,Tariff imposition consequences,prevent transshipment,,7,LL,5,6,17,18,LL
+7_LL_0028,PROPERTY,Safety,protect the national security,Tariffs,7,LL,5,6,21,24,LL
+7_LL_0029,MISC,Tariff imposition consequences,protect the national security,,7,LL,5,6,21,24,LL
+7_LL_0030,OBJECT,New import quotas,quotas,,7,LL,5,6,11,11,LL
+7_LL_0031,OBJECT,Tariffs,quotas,,7,LL,5,6,11,11,LL
+7_LL_0032,PROPERTY,Economy negative,restrain imports,Tariffs,7,LL,5,6,14,15,LL
+7_LL_0033,MISC,Tariff imposition consequences,restrain imports,,7,LL,5,6,14,15,LL
+7_LL_0034,COUNTRY,EU,the European Union,,7,LL,5,5,13,15,LL
+7_LL_0035,COUNTRY,USA,the White House,,7,LL,5,6,27,29,LL
+7_LL_0036,COUNTRY,USA,the administration,,7,LL,5,6,6,7,LL
+7_LL_0037,OBJECT,Tariffs,tariffs,,7,LL,6,7,19,19,LL
+7_LL_0038,COUNTRY,CAN,Canada,,7,LL,7,8,13,13,LL
+7_LL_0039,ACTOR,USA\Trump,President Donald Trump,,7,LL,7,8,0,2,LL
+7_LL_0040,PROPERTY,Power,has postponed the imposition of steel and aluminum tariffs,Trump,7,LL,7,8,3,11,LL
+7_LL_0041,OBJECT,Tariffs,steel and aluminum tariffs,,7,LL,7,8,8,11,LL
+7_LL_0042,COUNTRY,EU,the European Union,,7,LL,7,8,15,17,LL
+7_LL_0049,OBJECT,Tariffs,the tariffs,,7,LL,8,9,9,10,LL
+7_LL_0050,COUNTRY,CAN,Canada,,7,LL,9,10,25,25,LL
+7_LL_0051,COUNTRY,MEX,Mexico,,7,LL,9,10,27,27,LL
+7_LL_0052,COUNTRY,KOR,South Korea,,7,LL,9,11,11,12,LL
+7_LL_0053,ACTOR,USA\Trump,Trump,,7,LL,9,10,0,0,LL
+7_LL_0054,ACTOR,USA\Trump,Trump,,7,LL,9,11,0,0,LL
+7_LL_0055,OBJECT,Tariffs,a 10 percent tariff on aluminum,,7,LL,9,10,13,18,LL
+7_LL_0056,OBJECT,Tariffs,a 25 percent tariff on steel imports,,7,LL,9,10,5,11,LL
+7_LL_0057,PROPERTY,Power,granted a permanent exemption,Trump,7,LL,9,11,3,6,LL
+7_LL_0058,PROPERTY,Power,granted temporary exemptions,Trump,7,LL,9,10,21,23,LL
+7_LL_0059,PROPERTY,Power,imposed,Trump,7,LL,9,10,4,4,LL
+7_LL_0060,OBJECT,Permanent exemptions,permanent exemption on steel tariffs,,7,LL,9,11,5,9,LL
+7_LL_0061,PROPERTY,Aggressor,sharply criticized,Trump,7,LL,9,11,25,26,LL
+7_LL_0062,PROPERTY,Victim,sharply criticized,KOR,7,LL,9,11,25,26,LL
+7_LL_0063,OBJECT,Tariffs,steel tariffs,,7,LL,9,11,8,9,LL
+7_LL_0064,COUNTRY,EU,the EU,,7,LL,9,10,31,32,LL
+7_LL_0065,COUNTRY,CHN,China,,7,LL,10,12,36,36,LL
+7_LL_0066,ACTOR,USA\Trump,Trump,,7,LL,10,12,0,0,LL
+7_LL_0067,GROUP,USA\Steel producers,U.S. steel and aluminum producers,,7,LL,10,12,11,15,LL
+7_LL_0068,PROPERTY,Power,has invoked,Trump,7,LL,10,12,1,2,LL
+7_LL_0069,PROPERTY,Victim,largely blamed on,CHN,7,LL,10,12,30,32,LL
+7_LL_0070,OBJECT,Tariffs,protections,,7,LL,10,12,9,9,LL
+7_LL_0071,PROPERTY,Safety,to erect protections,USA,7,LL,10,12,7,9,LL
+7_LL_0072,PROPERTY,Difficulty,worldwide glut of both metals,USA,7,LL,10,12,23,27,LL
+7_LL_0073,OBJECT,Tariffs,The tariffs,,7,LL,11,13,0,1,LL
+7_LL_0074,PROPERTY,Power,have increased frictions,Tariffs,7,LL,11,13,4,6,LL
+7_LL_0075,MISC,Tariff imposition consequences,have increased frictions,,7,LL,11,13,4,6,LL
+7_LL_0076,PROPERTY,Power,have prompted several challenges,Tariffs,7,LL,11,13,13,16,LL
+7_LL_0077,MISC,Tariff imposition consequences,have prompted several challenges,,7,LL,11,13,13,16,LL
+7_LL_0078,PROPERTY,Economy positive,increase their capacity utilization rates,USA,7,LL,11,13,33,37,LL
+7_LL_0079,MISC,Tariff imposition consequences,increase their capacity utilization rates,,7,LL,11,13,33,37,LL
+7_LL_0080,GROUP,USA\Steel producers,the two U.S. metals industries,,7,LL,11,13,27,31,LL
+7_LL_0081,COUNTRY,USA,Trump administration officials,,7,LL,12,14,0,2,LL
+7_LL_0082,GROUP,USA\Steel producers,U.S. producers,,7,LL,12,14,28,29,LL
+7_LL_0083,PROPERTY,Economy positive,achieve similar protections,New import quotas,7,LL,12,14,24,26,LL
+7_LL_0084,OBJECT,New import quotas,quotas,,7,LL,12,14,21,21,LL
+7_LL_0085,OBJECT,Tariffs,tariffs,,7,LL,12,14,9,9,LL
+7_LL_0086,COUNTRY,USA,Washington,,7,LL,13,15,28,28,LL
+7_LL_0087,PROPERTY,Affection,welcomed,Permanent exemptions,7,LL,13,15,14,14,LL
+7_LL_0088,MISC,Reactions to the permanent exemption,welcomed the tariff exemption,,7,LL,13,15,14,17,LL
+7_LL_0089,OBJECT,Permanent exemptions,The exemption,,7,LL,14,16,1,2,LL
+7_LL_0090,MISC,Tariff imposition consequences,reflects the fair and reciprocal trade relationship Australia shares with the United States,,7,LL,14,16,3,15,LL
+7_LL_0091,COUNTRY,USA,the United States,,7,LL,14,16,13,15,LL
+7_LL_0092,PROPERTY,Affection,unbreakable friendship,USA,7,LL,14,16,19,20,LL
+7_LL_0093,MISC,Tariff imposition consequences,underpins the unbreakable friendship,,7,LL,14,16,17,20,LL
+7_LL_0094,PROPERTY,Affection,pleased with,Permanent exemptions,7,LL,15,17,24,25,LL
+7_LL_0095,COUNTRY,USA,the United States,,7,LL,15,17,17,19,LL
+7_LL_0096,MISC,Reactions to the permanent exemption,was pleased with the exemption.,,7,LL,15,17,23,27,LL
+7_LL_0097,COUNTRY,KOR,Seoul,,7,LL,17,20,0,0,LL
+7_LL_0098,PROPERTY,Affection,agreeing to,New import quotas,7,LL,17,19,10,11,LL
+7_LL_0099,OBJECT,Tariffs,aluminum tariffs.,,7,LL,17,20,6,7,LL
+7_LL_0100,PROPERTY,Economy negative,cut its steel shipments,KOR,7,LL,17,19,15,18,LL
+7_LL_0101,PROPERTY,Power,earned its permanent exemption,KOR,7,LL,17,19,2,5,LL
+7_LL_0102,MISC,Reactions to the permanent exemption,earned its permanent exemption,,7,LL,17,19,2,5,LL
+7_LL_0103,PROPERTY,Victim,is still subject to,KOR,7,LL,17,20,1,4,LL
+7_LL_0104,OBJECT,Permanent exemptions,permanent exemption from steel tariffs,,7,LL,17,19,4,8,LL
+7_LL_0105,OBJECT,New import quotas,quotas,,7,LL,17,19,12,12,LL
+7_LL_0106,MISC,Tariff imposition consequences,will cut its steel shipments by about 30 percent,,7,LL,17,19,14,22,LL
+7_LL_0107,MISC,Tariff imposition consequences,aluminum and steel-linked materials eased on prospects supply could be cheaper to come by,,7,LL,18,21,17,30,LL
+7_LL_0108,COUNTRY,USA,The White House,,7,LL,19,22,0,2,LL
+7_LL_0109,PROPERTY,Power,address global challenges to the steel and aluminum industries,Tariffs,7,LL,19,22,22,30,LL
+7_LL_0110,MISC,Tariff imposition consequences,address global challenges to the steel and aluminum industries,,7,LL,19,22,22,30,LL
+7_LL_0111,COUNTRY,USA,administration,,7,LL,19,22,7,7,LL
+7_LL_0112,OBJECT,Tariffs,administration efforts,,7,LL,19,22,7,8,LL
+7_LL_0113,PROPERTY,Safety,protect our national security,USA,7,LL,19,22,17,20,LL
+7_LL_0114,MISC,Tariff imposition consequences,protect our national security,,7,LL,19,22,17,20,LL
+7_LL_0115,PROPERTY,Fairness,reach fair outcomes with allies,USA,7,LL,19,22,11,15,LL
+7_LL_0116,MISC,Tariff imposition consequences,reach fair outcomes with allies,,7,LL,19,22,11,15,LL
+7_LL_0117,GROUP,USA\Steel producers,American steelmakers,,7,LL,20,23,18,19,LL
+7_LL_0118,ACTOR-I,USA\USA-I,Todd Leebow,,7,LL,20,23,0,1,LL
+7_LL_0119,GROUP,USA\Steel producers,a Cleveland-based distributor of domestic steel products,,7,LL,20,23,9,15,LL
+7_LL_0120,PROPERTY,Weakness,needed certainty,USA,7,LL,20,23,20,21,LL
+7_LL_0121,ACTOR-I,USA\USA-I,president of Majestic Steel USA,,7,LL,20,23,3,7,LL
+7_LL_0122,ACTOR-I,USA\USA-I,Leebow,,7,LL,21,24,42,42,LL
+7_LL_0123,ACTOR,USA\Trump,President Trump,,7,LL,21,24,21,22,LL
+7_LL_0124,OBJECT,New import quotas,a quota system,,7,LL,21,24,28,30,LL
+7_LL_0125,PROPERTY,Confidence,hopeful,USA,7,LL,21,24,3,3,LL
+7_LL_0126,MISC,Tariff imposition consequences,limit the amount of imports flooding,,7,LL,21,24,32,37,LL
+7_LL_0127,PROPERTY,Economy positive,limit the amount of imports flooding our country,New import quotas,7,LL,21,24,32,39,LL
+7_LL_0128,PROPERTY,Economy positive,most productive path,Tariffs,7,LL,21,24,10,12,LL
+7_LL_0129,MISC,Tariff imposition consequences,moves us toward the most productive path for our domestic steel industry,,7,LL,21,24,6,17,LL
+7_LL_0130,COUNTRY,USA,our country,,7,LL,21,24,38,39,LL
+7_LL_0131,GROUP,USA\Steel producers,our domestic steel industry,,7,LL,21,24,14,17,LL
+7_LL_0132,OBJECT,Tariffs,the tariffs,,7,LL,21,24,19,20,LL
+7_LL_0133,OBJECT,Tariffs,The metals tariffs,,7,LL,22,25,0,2,LL
+7_LL_0134,ACTOR,USA\Trump,Trump,,7,LL,22,25,8,8,LL
+7_LL_0135,COUNTRY,USA,Trump's Republican Party,,7,LL,22,25,8,11,LL
+7_LL_0136,PROPERTY,Power,have caused some divisions,Tariffs,7,LL,22,25,3,6,LL
+7_LL_0137,MISC,Tariff imposition consequences,have caused some divisions,,7,LL,22,25,3,6,LL
+7_LL_0138,PROPERTY,Economy negative,higher prices would hurt their competitiveness,Tariffs,7,LL,22,25,20,25,LL
+7_LL_0139,MISC,Tariff imposition consequences,higher prices would hurt their competitiveness,,7,LL,22,25,20,25,LL
+7_LL_0140,GROUP,USA\Steel producers,steel- and aluminum-consuming industries,,7,LL,22,25,14,18,LL
+7_LL_0141,ACTOR-I,USA\USA-I,Chairman Kevin Brady,,7,LL,23,26,5,7,LL
+7_LL_0142,COUNTRY,USA,House Ways and Means Committee,,7,LL,23,26,0,4,LL
+7_LL_0143,ACTOR-I,USA\USA-I,a pro-trade Republican from Texas,,7,LL,23,26,9,13,LL
+7_LL_0144,COUNTRY,USA,here at home,,7,LL,23,26,35,37,LL
+7_LL_0145,PROPERTY,Good quality,narrow,Tariffs,7,LL,23,26,25,25,LL
+7_LL_0146,MISC,Tariff imposition consequences,protect our workers and job creators,,7,LL,23,26,29,34,LL
+7_LL_0147,OBJECT,Tariffs,the tariffs,,7,LL,23,26,21,22,LL
+7_LL_0148,PROPERTY,Economy positive,to protect our workers and job creators,Tariffs,7,LL,23,26,28,34,LL
+7_LL_0149,PROPERTY,Power,would work to ensure,USA-I,7,LL,23,26,17,20,LL
+7_LL_0150,COUNTRY,CAN,Canada,,7,LL,24,27,1,1,LL
+7_LL_0151,COUNTRY,MEX,Mexico,,7,LL,24,27,3,3,LL
+7_LL_0152,OBJECT,Permanent exemptions,permanent exemptions from the U.S. tariffs,,7,LL,24,27,18,23,LL
+7_LL_0153,OBJECT,New import quotas,quotas,,7,LL,24,27,15,15,LL
+7_LL_0154,COUNTRY,EU,the European Union,,7,LL,24,27,5,7,LL
+7_LL_0155,OBJECT,Tariffs,the U.S. tariffs,,7,LL,24,27,21,23,LL
+7_LL_0156,PROPERTY,Refusal,will not accept,New import quotas,7,LL,24,27,12,14,LL
+7_LL_0157,MISC,Reactions to the permanent exemption,will not accept quotas to gain permanent exemptions,,7,LL,24,27,12,19,LL
+7_LL_0158,COUNTRY,EU,The European Commission,,7,LL,25,28,0,2,LL
+7_LL_0159,PROPERTY,Economy negative,already affecting business decisions,Tariffs,7,LL,25,28,16,19,LL
+7_LL_0160,COUNTRY,EU,The EU,,7,LL,26,29,1,2,LL
+7_LL_0161,PROPERTY,Unreason,cannot be justified on the grounds of national security,Tariffs; New import quotas,7,LL,26,29,15,24,LL
+7_LL_0162,OBJECT,Permanent exemptions,fully and permanently exempted,,7,LL,26,29,5,8,LL
+7_LL_0163,MISC,Reactions to the permanent exemption,should be fully and permanently exempted,,7,LL,26,29,3,8,LL
+7_LL_0164,OBJECT,Tariffs,these measures,,7,LL,26,29,10,11,LL
+7_LL_0165,COUNTRY,EU,the EU,,7,LL,27,30,10,11,LL
+7_LL_0166,COUNTRY,EU,the UK steel and aluminum industries,,7,LL,27,30,18,23,LL
+7_LL_0167,PROPERTY,Difficulty,concerned about,Tariffs,7,LL,28,31,3,4,LL
+7_LL_0168,COUNTRY,EU,the EU,,7,LL,28,31,19,20,LL
+7_LL_0169,MISC,Tariff imposition consequences,the impact of these tariffs on global trade,,7,LL,28,31,5,12,LL
+7_LL_0170,OBJECT,Tariffs,these tariffs,,7,LL,28,31,8,9,LL
+7_LL_0171,COUNTRY,CAN,Canada,,7,LL,29,32,9,9,LL
+7_LL_0172,COUNTRY,MEX,Mexico,,7,LL,29,32,11,11,LL
+7_LL_0173,OBJECT,Tariffs,U.S. steel and aluminum tariff,,7,LL,29,32,2,6,LL
+7_LL_0174,PROPERTY,Difficulty,intertwined with intensified talks,CAN; MEX,7,LL,29,32,15,18,LL
+7_LL_0175,COUNTRY,CAN,Canada,,7,LL,30,33,0,0,LL
+7_LL_0176,PROPERTY,Importance,highly integrated with that of its southern neighbor,CAN,7,LL,30,33,15,22,LL
+7_LL_0177,COUNTRY,CAN,its industry,,7,LL,30,33,12,13,LL
+7_LL_0178,COUNTRY,USA,the United States,,7,LL,30,33,7,9,LL
+7_LL_0179,PROPERTY,Importance,the largest steel exporter to the United States,CAN,7,LL,30,33,2,9,LL
+7_LL_0180,ACTOR,CAN\Trudeau,Canadian Prime Minister,,7,LL,31,34,31,33,LL
+7_LL_0181,COUNTRY,CAN,Canadian steel and aluminum,,7,LL,31,34,10,13,LL
+7_LL_0182,ACTOR,CAN\Trudeau,Justin Trudeau,,7,LL,31,34,34,35,LL
+7_LL_0183,PROPERTY,Unreason,"a ""very bad idea""",Tariffs,7,LL,31,34,16,21,LL
+7_LL_0184,OBJECT,Tariffs,"a ""very bad idea""",,7,LL,31,34,16,21,LL
+7_LL_0185,PROPERTY,Economy negative,guaranteed to disrupt trade,Tariffs,7,LL,31,34,22,25,LL
+7_LL_0186,MISC,Tariff imposition consequences,guaranteed to disrupt trade,,7,LL,31,34,22,25,LL
+7_LL_0187,PROPERTY,Aggressor,impose tariffs on,USA,7,LL,31,34,7,9,LL
+7_LL_0188,PROPERTY,Victim,impose tariffs on,CAN,7,LL,31,34,7,9,LL
+7_LL_0189,OBJECT,Tariffs,tariffs,,7,LL,31,34,8,8,LL
+7_LL_0190,COUNTRY,USA,the United States,,7,LL,31,34,3,5,LL
+7_LL_0191,COUNTRY,CAN,the two countries,,7,LL,31,34,27,29,LL
+7_LL_0192,COUNTRY,USA,the two countries,,7,LL,31,34,27,29,LL
+7_LL_0193,COUNTRY,USA,U.S. exports,,7,LL,32,35,42,43,LL
+7_LL_0194,PROPERTY,Victim,is subject to,EU,7,LL,32,35,3,5,LL
+7_LL_0195,OBJECT,Tariffs,tariffs,,7,LL,32,35,6,6,LL
+7_LL_0196,COUNTRY,EU,the EU,,7,LL,32,35,1,2,LL
+7_LL_0197,COUNTRY,USA,the United States,,7,LL,32,35,24,26,LL
+7_LL_0198,PROPERTY,Weakness,will set its own duties,EU,7,LL,32,35,32,36,LL
+7_LL_0199,MISC,Reactions to the permanent exemption,will set its own duties,,7,LL,32,35,32,36,LL

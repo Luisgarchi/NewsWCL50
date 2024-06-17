@@ -1,0 +1,325 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+3_M_0000,GROUP,USA\Democrats,Democratic Party,,3,M,0,0,0,1,M
+3_M_0001,COUNTRY,RUS,Russia,,3,M,0,0,3,3,M
+3_M_0002,GROUP,Wikileaks,WikiLeaks,,3,M,0,0,9,9,M
+3_M_0003,PROPERTY,Other,alleging,Lawsuit,3,M,0,0,11,11,M
+3_M_0004,MISC,RUS interference into USA election,conspiracy to influence the 2016 election,,3,M,0,0,12,17,M
+3_M_0005,MISC,Lawsuit,sues,,3,M,0,0,2,2,M
+3_M_0006,PROPERTY,Aggressor,sues,Trump campaign; RUS; Wikileaks,3,M,0,0,2,2,M
+3_M_0007,EVENT,USA election 2016,the 2016 election,,3,M,0,0,15,17,M
+3_M_0008,EVENT,Trump campaign,the Trump campaign,,3,M,0,0,5,7,M
+3_M_0009,MISC,Lawsuit,A major lawsuit from the Democratic National Committee,,3,M,1,1,0,7,M
+3_M_0010,GROUP,USA\Democrats,Democratic National Committee,,3,M,1,1,5,7,M
+3_M_0011,GROUP,Wikileaks,Wikileaks,,3,M,1,1,17,17,M
+3_M_0012,PROPERTY,No trustworthiness,conspiring,Wikileaks; RUS; Trump campaign,3,M,1,1,19,19,M
+3_M_0013,MISC,RUS interference into USA election,conspiring to help the President win the 2016 election,,3,M,1,1,19,27,M
+3_M_0014,PROPERTY,Aggressor,targeting,RUS; Trump campaign; Wikileaks,3,M,1,1,9,9,M
+3_M_0015,EVENT,USA election 2016,the 2016 election,,3,M,1,1,25,27,M
+3_M_0016,ACTOR,USA\Republicans\Trump,the President,,3,M,1,1,22,23,M
+3_M_0017,COUNTRY,RUS,the Russians,,3,M,1,1,10,11,M
+3_M_0018,EVENT,Trump campaign,the Trump campaign,,3,M,1,1,13,15,M
+3_M_0019,GROUP,USA\Democrats,Democratic National Committee,,3,M,2,3,3,5,M
+3_M_0020,ACTOR,USA\Republicans\Trump,President Trump,,3,M,2,3,32,33,M
+3_M_0021,GROUP,Wikileaks,WikiLeaks,,3,M,2,3,19,19,M
+3_M_0022,PROPERTY,Other,alleging,Democrats,3,M,2,3,21,21,M
+3_M_0023,MISC,RUS interference into USA election,conspired to influence the 2016 election,,3,M,2,3,23,28,M
+3_M_0024,PROPERTY,Power,filed a lawsuit,Democrats,3,M,2,3,6,8,M
+3_M_0025,MISC,Lawsuit,lawsuit,,3,M,2,3,8,8,M
+3_M_0026,EVENT,USA election 2016,the 2016 election,,3,M,2,3,26,28,M
+3_M_0027,COUNTRY,RUS,the Russian government,,3,M,2,3,11,13,M
+3_M_0028,EVENT,Trump campaign,the Trump campaign,,3,M,2,3,15,17,M
+3_M_0029,GROUP,USA\Democrats,Democratic Party,,3,M,3,4,25,26,M
+3_M_0030,ACTOR,USA\Republicans\Trump,Donald Trump,,3,M,3,4,29,30,M
+3_M_0031,COUNTRY,RUS,Russia,,3,M,3,4,4,4,M
+3_M_0032,MISC,Lawsuit,The lawsuit,,3,M,3,4,0,1,M
+3_M_0033,EVENT,Trump campaign,Trump campaign,,3,M,3,4,15,16,M
+3_M_0034,PROPERTY,Affection,"a ""willing and active partner""",RUS,3,M,3,4,6,12,M
+3_M_0035,EVENT,Trump campaign,"a ""willing and active partner""",,3,M,3,4,6,12,M
+3_M_0036,PROPERTY,Power,"active partner""",Trump campaign,3,M,3,4,10,12,M
+3_M_0037,PROPERTY,Other,alleges,Lawsuit,3,M,3,4,2,2,M
+3_M_0038,PROPERTY,Aggressor,hurting,RUS; Trump campaign,3,M,3,4,23,23,M
+3_M_0039,ACTOR-I,RUS\RUS-I,representatives of the three groups,,3,M,3,5,2,6,M
+3_M_0040,EVENT,Trump campaign,representatives of the three groups,,3,M,3,5,2,6,M
+3_M_0041,GROUP,Wikileaks,representatives of the three groups,,3,M,3,5,2,6,M
+3_M_0042,PROPERTY,Aggressor,the cyberattack,RUS; Trump campaign,3,M,3,5,14,15,M
+3_M_0043,MISC,RUS interference into USA election,the cyberattack,,3,M,3,5,14,15,M
+3_M_0044,GROUP,USA\Democrats,DNC Chair Tom Perez,,3,M,4,6,38,41,M
+3_M_0045,MISC,RUS interference into USA election,act of unprecedented treachery,,3,M,4,6,4,7,M
+3_M_0046,PROPERTY,Power,bolster its own chance,Trump campaign,3,M,4,6,28,31,M
+3_M_0047,PROPERTY,Aggressor,hostile,RUS,3,M,4,6,24,24,M
+3_M_0048,COUNTRY,RUS,hostile foreign power,,3,M,4,6,24,26,M
+3_M_0049,EVENT,Trump campaign,the campaign of a nominee for President of the United States,,3,M,4,6,9,19,M
+3_M_0050,EVENT,USA election 2016,the presidency,,3,M,4,6,34,35,M
+3_M_0051,PROPERTY,Dishonor,treachery,RUS interference into USA election,3,M,4,6,7,7,M
+3_M_0052,PROPERTY,Importance,unprecedented,RUS interference into USA election,3,M,4,6,6,6,M
+3_M_0053,GROUP,USA\Democrats,DNC,,3,M,5,7,15,15,M
+3_M_0054,ACTOR,USA\Democrats\Clinton,Hillary Clinton,,3,M,5,7,36,37,M
+3_M_0055,COUNTRY,RUS,Russian agents,,3,M,5,7,11,12,M
+3_M_0056,COUNTRY,USA,Several U.S. intelligence agencies,,3,M,5,7,0,3,M
+3_M_0057,MISC,RUS interference into USA election,hacked the DNC's computers,,3,M,5,7,13,17,M
+3_M_0058,PROPERTY,Aggressor,hurting,RUS,3,M,5,7,27,27,M
+3_M_0059,MISC,RUS interference into USA election,part of a broader influence campaign aimed at hurting the campaign of the Democratic presidential nominee,,3,M,5,7,19,34,M
+3_M_0060,ACTOR,USA\Democrats\Clinton,the Democratic presidential nominee,,3,M,5,7,31,34,M
+3_M_0061,GROUP,USA\Democrats,DNC,,3,M,6,8,4,4,M
+3_M_0062,GROUP,USA\Democrats,DNC,,3,M,6,8,22,22,M
+3_M_0063,GROUP,USA\Democrats,DNC,,3,M,6,9,10,10,M
+3_M_0064,GROUP,USA\Democrats,DNC,,3,M,6,9,15,15,M
+3_M_0065,GROUP,USA\Democrats,DNC,,3,M,6,9,39,39,M
+3_M_0066,COUNTRY,RUS,Russian intelligence,,3,M,6,9,5,6,M
+3_M_0067,COUNTRY,RUS,Russian intelligence,,3,M,6,9,28,29,M
+3_M_0068,COUNTRY,RUS,Russian intelligence agents,,3,M,6,9,5,7,M
+3_M_0069,MISC,RUS interference into USA election,The cyberattack on the DNC's computers,,3,M,6,8,0,6,M
+3_M_0070,GROUP,Wikileaks,WikiLeaks,,3,M,6,9,22,22,M
+3_M_0071,PROPERTY,Other,alleges,Democrats,3,M,6,9,40,40,M
+3_M_0072,PROPERTY,Power,disseminate the stolen materials,Wikileaks; RUS,3,M,6,9,31,34,M
+3_M_0073,MISC,RUS interference into USA election,"hacked into DNC computer systems, stole DNC documents and emails",,3,M,6,9,8,18,M
+3_M_0074,PROPERTY,Importance,major component,RUS interference into USA election,3,M,6,8,10,11,M
+3_M_0075,GROUP,USA\Democrats,the DNC,,3,M,6,8,3,4,M
+3_M_0076,GROUP,USA\Democrats,the DNC,,3,M,6,8,21,22,M
+3_M_0077,GROUP,USA\Democrats,the DNC,,3,M,6,9,38,39,M
+3_M_0078,MISC,RUS interference into USA election,the Russian interference campaign,,3,M,6,8,13,16,M
+3_M_0079,GROUP,USA\Democrats,Perez,,3,M,7,10,16,16,M
+3_M_0080,PROPERTY,Aggressor,attacks on our democracy,RUS,3,M,7,11,5,8,M
+3_M_0081,PROPERTY,Confidence,exactly what we're doing today,Democrats,3,M,7,11,13,18,M
+3_M_0082,PROPERTY,Power,exactly what we're doing today,Democrats,3,M,7,11,13,18,M
+3_M_0083,PROPERTY,Aggressor,hacked,RUS,3,M,7,10,3,3,M
+3_M_0084,PROPERTY,Victim,hacked,Democrats,3,M,7,10,3,3,M
+3_M_0085,PROPERTY,Power,prevent future attacks,Democrats,3,M,7,11,3,5,M
+3_M_0086,PROPERTY,Good quality,successfully,RUS interference into USA election,3,M,7,10,2,2,M
+3_M_0087,GROUP,USA\Democrats,the Democratic Party,,3,M,7,10,4,6,M
+3_M_0088,PROPERTY,Unsafety,will be back,Democrats,3,M,7,10,11,13,M
+3_M_0089,GROUP,USA\Republicans,Brad Parscale,,3,M,8,12,4,5,M
+3_M_0090,GROUP,USA\Democrats,DNC,,3,M,8,12,28,28,M
+3_M_0091,GROUP,USA\Democrats,DNC,,3,M,8,13,4,4,M
+3_M_0092,COUNTRY,RUS,Russia,,3,M,8,13,18,18,M
+3_M_0093,ACTOR,USA\Republicans\Trump,Trump,,3,M,8,12,0,0,M
+3_M_0094,ACTOR,USA\Republicans\Trump,Trump,,3,M,8,13,16,16,M
+3_M_0095,EVENT,Trump campaign,Trump's campaign,,3,M,8,12,0,2,M
+3_M_0096,GROUP,USA\Republicans,Trump's campaign manager,,3,M,8,12,0,3,M
+3_M_0097,PROPERTY,Weakness,fight back aggressively,Trump campaign,3,M,8,12,17,19,M
+3_M_0098,PROPERTY,Aggressor,fight back aggressively,Trump campaign,3,M,8,12,17,19,M
+3_M_0099,PROPERTY,Unreason,frivolous,Lawsuit,3,M,8,12,10,10,M
+3_M_0100,EVENT,Trump campaign,the campaign,,3,M,8,12,14,15,M
+3_M_0101,MISC,Lawsuit,"the lawsuit ""frivolous""",,3,M,8,12,7,11,M
+3_M_0102,GROUP,USA\Republicans,Parscale,,3,M,9,14,26,26,M
+3_M_0103,MISC,RUS interference into USA election,Russian collusion,,3,M,9,14,9,10,M
+3_M_0104,MISC,Lawsuit,a bogus Russian collusion claim,,3,M,9,14,7,11,M
+3_M_0105,GROUP,USA\Democrats,"a desperate, dysfunctional, and nearly insolvent Democratic Party",,3,M,9,14,14,23,M
+3_M_0106,MISC,Lawsuit,a sham lawsuit,,3,M,9,14,3,5,M
+3_M_0107,PROPERTY,No trustworthiness,acts of corruption,Democrats,3,M,9,15,39,41,M
+3_M_0108,PROPERTY,Unreason,bogus,Lawsuit,3,M,9,14,8,8,M
+3_M_0109,MISC,Lawsuit,claims of 'damages',,3,M,9,15,31,34,M
+3_M_0110,PROPERTY,Unreason,created an opportunity for us to take aggressive discovery,Democrats,3,M,9,15,20,28,M
+3_M_0111,PROPERTY,Weakness,desperate,Democrats,3,M,9,14,15,15,M
+3_M_0112,PROPERTY,Poor quality,dysfunctional,Democrats,3,M,9,14,17,17,M
+3_M_0113,PROPERTY,Unreason,frivolous,Lawsuit,3,M,9,15,5,5,M
+3_M_0114,PROPERTY,Economy negative,insolvent,Democrats,3,M,9,14,21,21,M
+3_M_0115,PROPERTY,No trustworthiness,sham,Lawsuit,3,M,9,14,4,4,M
+3_M_0116,PROPERTY,Aggressor,take aggressive discovery,Republicans,3,M,9,15,26,28,M
+3_M_0117,GROUP,USA\Democrats,the DNC,,3,M,9,15,17,18,M
+3_M_0118,MISC,Lawsuit,the case,,3,M,9,15,12,13,M
+3_M_0119,MISC,Lawsuit,this lawsuit,,3,M,9,15,2,3,M
+3_M_0120,PROPERTY,Poor quality,will be dismissed,Lawsuit,3,M,9,15,7,9,M
+3_M_0121,GROUP,USA\Democrats,DNC,,3,M,10,16,25,25,M
+3_M_0122,GROUP,USA\Democrats,DNC,,3,M,10,16,29,29,M
+3_M_0123,GROUP,USA\Democrats,Debbie Wasserman Schultz,,3,M,10,16,31,33,M
+3_M_0124,ACTOR,USA\Republicans\Trump,Trump,,3,M,10,16,0,0,M
+3_M_0125,ACTOR,USA\Republicans\Trump,Trump,,3,M,10,16,14,14,M
+3_M_0126,GROUP,USA\Democrats,Wendy Wasserman Schultz,,3,M,10,16,44,46,M
+3_M_0127,PROPERTY,Other,can be good,Lawsuit,3,M,10,16,8,10,M
+3_M_0128,PROPERTY,Weakness,counter sue,Trump campaign,3,M,10,16,18,19,M
+3_M_0129,PROPERTY,Unreason,incorrectly referred to,Trump,3,M,10,16,39,41,M
+3_M_0130,GROUP,USA\Democrats,the DNC,,3,M,10,16,24,25,M
+3_M_0131,EVENT,Trump campaign,the Trump campaign,,3,M,10,16,13,15,M
+3_M_0132,MISC,Lawsuit,the lawsuit,,3,M,10,16,5,6,M
+3_M_0133,GROUP,USA\Democrats,DNC,,3,M,11,18,7,7,M
+3_M_0134,GROUP,USA\Democrats,DNC,,3,M,11,18,30,30,M
+3_M_0135,ACTOR,USA\Democrats\Clinton,Hillary Clinton,,3,M,11,18,37,38,M
+3_M_0136,GROUP,Wikileaks,Wikileaks,,3,M,11,18,4,4,M
+3_M_0137,MISC,Lawsuit,lawsuit,,3,M,11,18,13,13,M
+3_M_0138,PROPERTY,No trustworthiness,rigged its primaries,Clinton; Democrats,3,M,11,18,31,33,M
+3_M_0139,PROPERTY,Power,seeking publicity,Democrats,3,M,11,18,9,10,M
+3_M_0140,GROUP,USA\Democrats,the DNC,,3,M,11,18,6,7,M
+3_M_0141,GROUP,USA\Democrats,the committee,,3,M,11,18,19,20,M
+3_M_0142,MISC,Lawsuit,Friday's lawsuit,,3,M,12,19,0,2,M
+3_M_0143,MISC,RUS interference into USA election,Russian interference in the 2016 presidential election,,3,M,12,19,25,31,M
+3_M_0144,ACTOR,USA\Republicans\Trump,Trump,,3,M,12,19,8,8,M
+3_M_0145,PROPERTY,Difficulty,already are contending with special counsel Robert Mueller's investigation,Trump; Republicans,3,M,12,19,14,23,M
+3_M_0146,PROPERTY,Difficulty,another legal challenge,Trump,3,M,12,19,4,6,M
+3_M_0147,GROUP,USA\Republicans,his allies,,3,M,12,19,10,11,M
+3_M_0148,COUNTRY,USA,special counsel Robert Mueller,,3,M,12,19,18,21,M
+3_M_0149,EVENT,RUS investigation,special counsel Robert Mueller's investigation,,3,M,12,19,18,23,M
+3_M_0150,EVENT,USA election 2016,the 2016 presidential election,,3,M,12,19,28,31,M
+3_M_0151,ACTOR,USA\Republicans\Trump,Trump,,3,M,13,20,0,0,M
+3_M_0152,EVENT,RUS investigation,"a ""witch hunt.""",,3,M,13,20,22,27,M
+3_M_0153,PROPERTY,Lawfulness,did not collude,Trump campaign,3,M,13,20,6,8,M
+3_M_0154,EVENT,Trump campaign,his campaign,,3,M,13,20,4,5,M
+3_M_0155,EVENT,RUS investigation,investigations into the matter,,3,M,13,20,18,21,M
+3_M_0156,COUNTRY,RUS,the Russian government,,3,M,13,20,10,12,M
+3_M_0157,PROPERTY,Unreason,witch hunt,Lawsuit,3,M,13,20,24,25,M
+3_M_0158,GROUP,USA\Democrats,The DNC,,3,M,14,21,0,1,M
+3_M_0159,PROPERTY,Trustworthiness,"based on ""facts, admissions of defendants in multiple criminal proceedings",Lawsuit,3,M,14,21,6,17,M
+3_M_0160,PROPERTY,Trustworthiness,conclusions of the U.S. intelligence community,Lawsuit,3,M,14,21,34,39,M
+3_M_0161,COUNTRY,RUS,defendants,,3,M,14,21,13,13,M
+3_M_0162,GROUP,USA\Republicans,defendants,,3,M,14,21,13,13,M
+3_M_0163,GROUP,Wikileaks,defendants,,3,M,14,21,13,13,M
+3_M_0164,PROPERTY,Other,including their own words,Lawsuit,3,M,14,21,19,22,M
+3_M_0165,MISC,Lawsuit,lawsuit,,3,M,14,21,4,4,M
+3_M_0166,PROPERTY,Trustworthiness,records that have been released in legal filings,Lawsuit,3,M,14,21,24,31,M
+3_M_0167,COUNTRY,USA,the U.S. intelligence community,,3,M,14,21,36,39,M
+3_M_0168,PROPERTY,Trustworthiness,widely confirmed,Lawsuit,3,M,14,21,41,42,M
+3_M_0169,ACTOR,USA\Democrats\Clinton,Clinton,,3,M,15,23,32,32,M
+3_M_0170,GROUP,USA\Democrats,DNC officials,,3,M,15,23,23,24,M
+3_M_0171,GROUP,USA\Democrats,Democrats,,3,M,15,22,8,8,M
+3_M_0172,GROUP,USA\Democrats,Rep. Debbie Wasserman Schultz,,3,M,15,24,11,14,M
+3_M_0173,GROUP,USA\Democrats,Sen. Bernie Sanders,,3,M,15,23,2,4,M
+3_M_0174,MISC,RUS interference into USA election,The cyberattack,,3,M,15,22,0,1,M
+3_M_0175,MISC,RUS interference into USA election,The scandal,,3,M,15,24,0,1,M
+3_M_0176,GROUP,USA\Democrats,a Vermont independent,,3,M,15,23,6,8,M
+3_M_0177,PROPERTY,Unsafety,chaos,Democrats,3,M,15,22,3,3,M
+3_M_0178,PROPERTY,Importance,created chaos,RUS interference into USA election,3,M,15,22,2,3,M
+3_M_0179,PROPERTY,Importance,deepening divisions,RUS interference into USA election,3,M,15,22,10,11,M
+3_M_0180,PROPERTY,Victim,deepening divisions,Democrats,3,M,15,22,10,11,M
+3_M_0181,PROPERTY,Affection,favored,Clinton,3,M,15,23,31,31,M
+3_M_0182,PROPERTY,Aggressor,forced,RUS interference into USA election,3,M,15,24,2,2,M
+3_M_0183,PROPERTY,Refusal,furious,Democrats,3,M,15,23,18,18,M
+3_M_0184,PROPERTY,Refusal,hostile,Democrats,3,M,15,23,26,26,M
+3_M_0185,PROPERTY,Victim,step down,Democrats,3,M,15,24,19,20,M
+3_M_0186,GROUP,USA\Democrats,the DNC's chairwoman,,3,M,15,24,3,6,M
+3_M_0187,GROUP,USA\Democrats,the party,,3,M,15,22,13,14,M
+3_M_0188,MISC,Lawsuit,The lawsuit,,3,M,16,25,0,1,M
+3_M_0189,ACTOR,USA\Republicans\Trump,Trump,,3,M,16,25,8,8,M
+3_M_0190,ACTOR,USA\Republicans\Trump,Trump,,3,M,16,25,34,34,M
+3_M_0191,PROPERTY,Other,alleges,RUS,3,M,16,25,2,2,M
+3_M_0192,PROPERTY,Power,notified the Trump campaign in advance,RUS,3,M,16,25,6,11,M
+3_M_0193,PROPERTY,Unlawfulness,stolen Democratic emails,RUS,3,M,16,25,15,17,M
+3_M_0194,GROUP,USA\Democrats,the Democratic Party,,3,M,16,25,22,24,M
+3_M_0195,COUNTRY,RUS,the Russian government,,3,M,16,25,3,5,M
+3_M_0196,EVENT,Trump campaign,the Trump campaign,,3,M,16,25,7,9,M
+3_M_0197,COUNTRY,RUS,Russia,,3,M,17,26,3,3,M
+3_M_0198,COUNTRY,RUS,Russia,,3,M,17,26,20,20,M
+3_M_0199,MISC,RUS interference into USA election,Russia's intentions to interfere with elections,,3,M,17,26,3,9,M
+3_M_0200,PROPERTY,Affection,gleefully welcomed,RUS,3,M,17,26,18,19,M
+3_M_0201,GROUP,USA\Republicans,its agents,,3,M,17,26,16,17,M
+3_M_0202,PROPERTY,Other,states,Lawsuit,3,M,17,26,27,27,M
+3_M_0203,EVENT,Trump campaign,the Trump campaign,,3,M,17,26,12,14,M
+3_M_0204,MISC,Lawsuit,the lawsuit,,3,M,17,26,25,26,M
+3_M_0205,COUNTRY,RUS,Russian agents,,3,M,18,27,0,1,M
+3_M_0206,GROUP,Wikileaks,WikiLeaks,,3,M,18,27,5,5,M
+3_M_0207,PROPERTY,Other,alleges,Lawsuit,3,M,18,27,22,22,M
+3_M_0208,PROPERTY,Power,disseminated the information,Wikileaks,3,M,18,27,8,10,M
+3_M_0209,PROPERTY,Reason,disseminated the information at key moments,Wikileaks,3,M,18,27,8,13,M
+3_M_0210,EVENT,Trump campaign,the Trump campaign,,3,M,18,27,16,18,M
+3_M_0211,MISC,Lawsuit,the lawsuit,,3,M,18,27,20,21,M
+3_M_0212,PROPERTY,Power,transmitted data,RUS,3,M,18,27,2,3,M
+3_M_0213,GROUP,USA\Republicans,Roger Stone,,3,M,19,28,6,7,M
+3_M_0214,COUNTRY,RUS,Russian intelligence agencies,,3,M,19,29,17,19,M
+3_M_0215,ACTOR,USA\Republicans\Trump,Trump,,3,M,19,28,0,0,M
+3_M_0216,ACTOR,USA\Republicans\Trump,Trump,,3,M,19,29,4,4,M
+3_M_0217,GROUP,USA\Republicans,Trump associates,,3,M,19,29,4,5,M
+3_M_0218,GROUP,USA\Republicans,Trump's closest political adviser,,3,M,19,28,0,4,M
+3_M_0219,GROUP,Wikileaks,WikiLeaks,,3,M,19,28,26,26,M
+3_M_0220,GROUP,USA\Republicans,a defendant,,3,M,19,28,13,14,M
+3_M_0221,PROPERTY,Other,according to,Lawsuit,3,M,19,29,21,22,M
+3_M_0222,PROPERTY,Other,alleges,Lawsuit,3,M,19,28,36,36,M
+3_M_0223,PROPERTY,Other,appeared to have advance knowledge,Republicans,3,M,19,28,17,21,M
+3_M_0224,PROPERTY,Power,disseminate some of this information,Wikileaks,3,M,19,28,28,32,M
+3_M_0225,PROPERTY,Reason,have advance knowledge,Republicans,3,M,19,28,19,21,M
+3_M_0226,COUNTRY,RUS,individuals closely connected to the Kremlin,,3,M,19,29,10,15,M
+3_M_0227,EVENT,Trump campaign,the campaign,,3,M,19,29,1,2,M
+3_M_0228,MISC,Lawsuit,the lawsuit,,3,M,19,28,34,35,M
+3_M_0229,MISC,Lawsuit,the lawsuit,,3,M,19,29,23,24,M
+3_M_0230,GROUP,USA\Republicans,Manafort's business partner,,3,M,20,31,21,24,M
+3_M_0231,COUNTRY,USA,Mueller,,3,M,20,31,35,35,M
+3_M_0232,EVENT,RUS investigation,Mueller's investigation,,3,M,20,31,35,37,M
+3_M_0233,GROUP,USA\Republicans,Richard Gates,,3,M,20,31,26,27,M
+3_M_0234,MISC,Lawsuit,The lawsuit,,3,M,20,30,0,1,M
+3_M_0235,ACTOR,USA\Republicans\Trump,Trump,,3,M,20,30,4,4,M
+3_M_0236,ACTOR,USA\Republicans\Trump,Trump,,3,M,20,30,9,9,M
+3_M_0237,ACTOR,USA\Republicans\Trump,Trump,,3,M,20,31,4,4,M
+3_M_0238,GROUP,USA\Republicans,Trump's former campaign manager Paul Manafort,,3,M,20,31,4,10,M
+3_M_0239,GROUP,USA\Republicans,"Trump's son, Donald Trump Jr.",,3,M,20,30,4,10,M
+3_M_0240,GROUP,USA\Republicans,defendants,,3,M,20,30,20,20,M
+3_M_0241,GROUP,USA\Republicans,defendants,,3,M,20,31,2,2,M
+3_M_0242,GROUP,USA\Republicans,former campaign adviser George Papadopoulos,,3,M,20,31,14,18,M
+3_M_0243,PROPERTY,Unlawfulness,have all been charged,Republicans,3,M,20,31,30,33,M
+3_M_0244,GROUP,USA\Republicans,"his son-in-law, Jared Kushner",,3,M,20,30,13,17,M
+3_M_0245,GROUP,USA\Republicans,individual defendants,,3,M,20,31,1,2,M
+3_M_0246,GROUP,USA\Republicans,Gates,,3,M,21,32,2,2,M
+3_M_0247,GROUP,USA\Republicans,Gates,,3,M,21,32,16,16,M
+3_M_0248,GROUP,USA\Republicans,Manafort,,3,M,21,33,0,0,M
+3_M_0249,GROUP,USA\Republicans,Papadopoulous,,3,M,21,32,0,0,M
+3_M_0250,MISC,RUS interference into USA election,conspiracy against the United States,,3,M,21,32,24,28,M
+3_M_0251,PROPERTY,Unlawfulness,count of conspiracy,Republicans,3,M,21,32,22,24,M
+3_M_0252,PROPERTY,Other,has pleaded not guilty,Republicans,3,M,21,33,1,4,M
+3_M_0253,PROPERTY,No trustworthiness,making a false statement,Republicans,3,M,21,32,6,9,M
+3_M_0254,PROPERTY,Honor,pleaded guilty,Republicans,3,M,21,32,3,4,M
+3_M_0255,PROPERTY,Honor,pleaded guilty,Republicans,3,M,21,32,18,19,M
+3_M_0256,COUNTRY,USA,the United States,,3,M,21,32,26,28,M
+3_M_0257,MISC,Lawsuit,The lawsuit,,3,M,22,34,0,1,M
+3_M_0258,MISC,Lawsuit,The lawsuit,,3,M,22,35,0,1,M
+3_M_0259,EVENT,Trump campaign,Trump campaign,,3,M,22,34,5,6,M
+3_M_0260,PROPERTY,Power,pursue damages,Democrats,3,M,22,35,15,16,M
+3_M_0261,MISC,Lawsuit,pursue damages in civil court,,3,M,22,35,15,19,M
+3_M_0262,PROPERTY,Dishonor,racketeering,Trump campaign,3,M,22,34,10,10,M
+3_M_0263,EVENT,Trump campaign,racketeering enterprise,,3,M,22,34,10,11,M
+3_M_0264,PROPERTY,Aggressor,sought to exploit,Trump campaign,3,M,22,34,14,16,M
+3_M_0265,PROPERTY,Victim,sought to exploit,Democrats,3,M,22,34,14,16,M
+3_M_0266,GROUP,USA\Democrats,the DNC,,3,M,22,34,17,18,M
+3_M_0267,PROPERTY,Victim,victims of hacking,Democrats,3,M,22,35,11,13,M
+3_M_0268,COUNTRY,USA,Mueller,,3,M,23,37,14,14,M
+3_M_0269,EVENT,RUS investigation,Mueller's investigation,,3,M,23,37,14,16,M
+3_M_0270,ACTOR-I,USA\USA-I,Nick Ackerman,,3,M,23,36,0,1,M
+3_M_0271,MISC,RUS interference into USA election,Russian interference in the 2016 election,,3,M,23,37,7,12,M
+3_M_0272,ACTOR,USA\Republicans\Trump,Trump,,3,M,23,36,26,26,M
+3_M_0273,GROUP,USA\Republicans,Trump's allies,,3,M,23,36,26,28,M
+3_M_0274,ACTOR-I,USA\USA-I,a former Watergate prosecutor,,3,M,23,36,3,6,M
+3_M_0275,PROPERTY,Power,"allow the party to begin ""taking depositions and getting documents""",Lawsuit,3,M,23,36,32,43,M
+3_M_0276,PROPERTY,Reason,an expert on,USA-I,3,M,23,36,8,10,M
+3_M_0277,ACTOR-I,USA\USA-I,an expert on computer security issues,,3,M,23,36,8,13,M
+3_M_0278,PROPERTY,Other,"could allow the party to begin ""taking depositions and getting documents""",Lawsuit,3,M,23,36,31,43,M
+3_M_0279,PROPERTY,Other,could pose significant legal risks,Lawsuit,3,M,23,36,20,24,M
+3_M_0280,PROPERTY,Difficulty,pose significant legal risks,Republicans; Trump,3,M,23,36,21,24,M
+3_M_0281,EVENT,RUS investigation,probe Russian interference in the 2016 election,,3,M,23,37,6,12,M
+3_M_0282,PROPERTY,Power,provides another avenue to probe Russian interference,Lawsuit,3,M,23,37,2,8,M
+3_M_0283,EVENT,USA election 2016,the 2016 election,,3,M,23,37,10,12,M
+3_M_0284,GROUP,USA\Democrats,the DNC,,3,M,23,36,16,17,M
+3_M_0285,MISC,Lawsuit,the DNC's move,,3,M,23,36,16,19,M
+3_M_0286,MISC,Lawsuit,their allegations,,3,M,23,36,46,47,M
+3_M_0287,ACTOR-I,USA\USA-I,Ackerman,,3,M,24,38,13,13,M
+3_M_0288,COUNTRY,USA,Mueller,,3,M,24,38,2,2,M
+3_M_0289,ACTOR,USA\Republicans\Trump,Trump,,3,M,24,39,1,1,M
+3_M_0290,MISC,Lawsuit,a civil case,,3,M,24,39,7,9,M
+3_M_0291,PROPERTY,Weakness,can't pardon anybody,Trump,3,M,24,39,2,5,M
+3_M_0292,PROPERTY,Weakness,can't stop the civil case,Trump,3,M,24,40,1,6,M
+3_M_0293,PROPERTY,Unsafety,could continue with this,Trump campaign,3,M,24,38,7,10,M
+3_M_0294,GROUP,USA\Democrats,the Democratic Party,,3,M,24,38,16,18,M
+3_M_0295,MISC,Lawsuit,the civil case,,3,M,24,40,4,6,M
+3_M_0296,PROPERTY,Power,does give the Democratic National Committee a means to go after people hard and heavy,Lawsuit,3,M,25,41,3,17,M
+3_M_0297,GROUP,USA\Democrats,the Democratic National Committee,,3,M,25,41,5,8,M
+3_M_0298,GROUP,USA\Democrats,DNC,,3,M,26,43,10,10,M
+3_M_0299,GROUP,USA\Democrats,DNC,,3,M,26,43,17,17,M
+3_M_0300,COUNTRY,USA,Protect Democracy,,3,M,26,44,5,6,M
+3_M_0301,EVENT,Trump campaign,Trump's campaign,,3,M,26,42,0,2,M
+3_M_0302,GROUP,USA\Democrats,a former DNC staffer,,3,M,26,43,8,11,M
+3_M_0303,GROUP,USA\Democrats,a former Obama administration lawyer,,3,M,26,44,13,17,M
+3_M_0304,COUNTRY,USA,a watchdog group,,3,M,26,44,8,10,M
+3_M_0305,PROPERTY,Difficulty,already is battling another civil lawsuit,Trump campaign,3,M,26,42,3,8,M
+3_M_0306,GROUP,USA\Democrats,two Democratic donors,,3,M,26,43,4,6,M
+3_M_0307,PROPERTY,Aggressor,violated their privacy,Trump campaign,3,M,26,43,19,21,M
+3_M_0308,PROPERTY,Victim,violated their privacy,Democrats,3,M,26,43,19,21,M
+3_M_0309,COUNTRY,USA,Mueller,,3,M,27,45,36,36,M
+3_M_0310,EVENT,RUS investigation,Mueller's ongoing criminal investigation,,3,M,27,45,36,40,M
+3_M_0311,COUNTRY,USA,Protect Democracy,,3,M,27,46,12,13,M
+3_M_0312,EVENT,Trump campaign,The Trump campaign,,3,M,27,45,0,2,M
+3_M_0313,ACTOR,USA\Republicans\Trump,Trump,,3,M,27,45,1,1,M
+3_M_0314,ACTOR,USA\Republicans\Trump,Trump,,3,M,27,45,30,30,M
+3_M_0315,ACTOR,USA\Republicans\Trump,Trump,,3,M,27,46,4,4,M
+3_M_0316,EVENT,Trump campaign,Trump campaign,,3,M,27,45,1,2,M
+3_M_0317,EVENT,Trump campaign,Trump campaign,,3,M,27,46,4,5,M
+3_M_0318,MISC,Lawsuit,"a ""disruptive, politically motivated lawsuit""",,3,M,27,45,17,24,M
+3_M_0319,PROPERTY,Unreason,disruptive,Lawsuit,3,M,27,45,19,19,M
+3_M_0320,PROPERTY,No trustworthiness,politically motivated lawsuit,Lawsuit,3,M,27,45,21,23,M
+3_M_0321,PROPERTY,Power,seeking to dismiss that case,Trump campaign,3,M,27,45,4,8,M
+3_M_0322,PROPERTY,Aggressor,threatens,Lawsuit,3,M,27,45,26,26,M
+3_M_0323,PROPERTY,Victim,threatens to interfere with,Trump; USA,3,M,27,45,26,29,M

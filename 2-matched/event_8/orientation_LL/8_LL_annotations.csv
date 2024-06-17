@@ -1,0 +1,110 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+8_LL_0000,ACTOR,USA\Trump,Donald Trump,,8,LL,0,0,7,8,LL
+8_LL_0001,PROPERTY,Other,Reportedly,Mueller,8,LL,0,0,3,3,LL
+8_LL_0002,ACTOR,USA\Mueller,Robert Mueller,,8,LL,0,0,1,2,LL
+8_LL_0003,OBJECT,Inquieries for Trump,Wants To Ask,,8,LL,0,0,4,6,LL
+8_LL_0004,OBJECT,Inquieries for Trump,a list of possible questions,,8,LL,1,1,5,9,LL
+8_LL_0005,ACTOR,USA\Trump,the president,,8,LL,1,1,11,12,LL
+8_LL_0006,ACTOR,USA\Trump,President Donald Trump,,8,LL,2,2,7,9,LL
+8_LL_0007,EVENT,RUS meddling,Russian meddling in the 2016 election,,8,LL,2,2,20,25,LL
+8_LL_0008,ACTOR,USA\Mueller,Special counsel Robert Mueller,,8,LL,2,2,0,3,LL
+8_LL_0009,OBJECT,Inquieries for Trump,dozens of open-ended questions,,8,LL,2,2,10,13,LL
+8_LL_0010,OBJECT,Inquieries for Trump,his inquiry,,8,LL,2,2,17,18,LL
+8_LL_0011,ACTOR-I,USA\USA-I,FBI Director James Comey,,8,LL,3,3,27,30,LL
+8_LL_0012,ACTOR,USA\Mueller,Mueller,,8,LL,3,3,43,43,LL
+8_LL_0013,ACTOR,USA\Trump,Trump,,8,LL,3,3,20,20,LL
+8_LL_0014,PROPERTY,Aggressor,attempts to fire,Trump,8,LL,3,3,40,42,LL
+8_LL_0015,PROPERTY,Victim,attempts to fire,Mueller,8,LL,3,3,40,42,LL
+8_LL_0016,PROPERTY,Aggressor,firings of,Trump,8,LL,3,3,25,26,LL
+8_LL_0017,PROPERTY,Victim,firings of,USA-I,8,LL,3,3,25,26,LL
+8_LL_0018,ACTOR-I,USA\USA-I,national security adviser Michael Flynn,,8,LL,3,3,32,36,LL
+8_LL_0019,PROPERTY,Unlawfulness,obstructed justice,Trump,8,LL,3,3,21,22,LL
+8_LL_0020,OBJECT,Inquieries for Trump,those questions,,8,LL,3,3,2,3,LL
+8_LL_0021,ACTOR-I,USA\USA-I,Mr. Flynn,,8,LL,4,4,9,10,LL
+8_LL_0022,PROPERTY,Weakness,seeking immunity or possible pardon,USA-I,8,LL,4,4,12,16,LL
+8_LL_0023,PROPERTY,Aggressor,terminating,Trump,8,LL,4,6,9,9,LL
+8_LL_0024,ACTOR,USA\Trump,the president,,8,LL,4,5,15,16,LL
+8_LL_0025,GROUP,Trumps Lawyers,the president's legal team,,8,LL,4,5,15,19,LL
+8_LL_0026,OBJECT,Inquieries for Trump,the queries,,8,LL,4,5,3,4,LL
+8_LL_0027,COUNTRY,USA,the special counsel,,8,LL,4,6,10,12,LL
+8_LL_0028,ACTOR-I,USA\USA-I,unnamed official,,8,LL,4,5,11,12,LL
+8_LL_0029,ACTOR,USA\Mueller,Mueller,,8,LL,5,8,13,13,LL
+8_LL_0030,COUNTRY,RUS,Russian officials,,8,LL,5,9,19,20,LL
+8_LL_0031,OBJECT,Inquieries for Trump,The questions,,8,LL,5,8,0,1,LL
+8_LL_0032,ACTOR,USA\Trump,Trump,,8,LL,5,9,9,9,LL
+8_LL_0033,EVENT,RUS meddling investigation,a tight-lipped investigation,,8,LL,5,8,8,10,LL
+8_LL_0034,PROPERTY,Power,homing in on,Mueller,8,LL,5,8,15,17,LL
+8_LL_0035,PROPERTY,Power,shed light on,Inquieries for Trump,8,LL,5,8,2,4,LL
+8_LL_0036,PROPERTY,Power,shed light on,Inquieries for Trump,8,LL,5,9,6,8,LL
+8_LL_0037,COUNTRY,RUS,the Kremlin,,8,LL,5,9,25,26,LL
+8_LL_0038,OBJECT,Inquieries for Trump,the inquiries,,8,LL,5,9,2,3,LL
+8_LL_0039,ACTOR,USA\Trump,the president,,8,LL,5,8,18,19,LL
+8_LL_0040,ACTOR,USA\Mueller,Mueller,,8,LL,6,10,12,12,LL
+8_LL_0041,ACTOR,USA\Trump,Trump,,8,LL,6,10,0,0,LL
+8_LL_0042,EVENT,RUS meddling,collusion with the Russians,,8,LL,6,10,20,23,LL
+8_LL_0043,PROPERTY,Affection,looking forward,Inquieries for Trump,8,LL,6,11,7,8,LL
+8_LL_0044,COUNTRY,RUS,the Russians,,8,LL,6,10,22,23,LL
+8_LL_0045,COUNTRY,USA,the special counsel,,8,LL,6,11,13,15,LL
+8_LL_0046,PROPERTY,Importance,vehemently denied,RUS meddling; Trump,8,LL,6,10,15,16,LL
+8_LL_0047,PROPERTY,Affection,willing to talk,Inquieries for Trump,8,LL,6,10,8,10,LL
+8_LL_0048,ACTOR,USA\Trump,Trump,,8,LL,7,12,7,7,LL
+8_LL_0049,PROPERTY,Aggressor,lashed out,Trump,8,LL,7,12,10,11,LL
+8_LL_0050,PROPERTY,Victim,lashed out,RUS meddling investigation,8,LL,7,12,10,11,LL
+8_LL_0051,EVENT,RUS meddling investigation,the investigation,,8,LL,7,12,13,14,LL
+8_LL_0052,ACTOR,USA\Trump,The president,,8,LL,8,13,0,1,LL
+8_LL_0053,GROUP,Trumps Lawyers,The president's lawyers,,8,LL,8,13,0,3,LL
+8_LL_0054,ACTOR,USA\Trump,Trump,,8,LL,8,13,23,23,LL
+8_LL_0055,PROPERTY,Weakness,cautioned against,Trumps Lawyers,8,LL,8,13,5,6,LL
+8_LL_0056,GROUP,USA\Mueller\Investigators,federal investigators,,8,LL,8,14,18,19,LL
+8_LL_0057,ACTOR-I,USA\USA-I,four people in the president's orbit,,8,LL,8,14,4,10,LL
+8_LL_0058,PROPERTY,Power,have sought to strictly limit,Trumps Lawyers,8,LL,8,13,10,14,LL
+8_LL_0059,PROPERTY,No trustworthiness,lying to federal investigators,USA-I,8,LL,8,14,16,19,LL
+8_LL_0060,PROPERTY,Trustworthiness,pleaded guilty,USA-I,8,LL,8,14,13,14,LL
+8_LL_0061,OBJECT,Inquieries for Trump,the interview,,8,LL,8,13,7,8,LL
+8_LL_0062,ACTOR,USA\Trump,the president,,8,LL,8,14,7,8,LL
+8_LL_0063,PROPERTY,Weakness,worried,Trumps Lawyers,8,LL,8,13,21,21,LL
+8_LL_0064,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,John Dowd,,8,LL,9,16,26,27,LL
+8_LL_0065,ACTOR,USA\Mueller,Mueller,,8,LL,9,16,10,10,LL
+8_LL_0066,OBJECT,Inquieries for Trump,The questions,,8,LL,9,15,0,1,LL
+8_LL_0067,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Trump's former lead lawyer,,8,LL,9,16,16,20,LL
+8_LL_0068,GROUP,Trumps Lawyers,Trump's squadron of lawyers,,8,LL,9,15,21,25,LL
+8_LL_0069,OBJECT,Inquieries for Trump,his ideal list,,8,LL,9,16,12,14,LL
+8_LL_0070,OBJECT,Inquieries for Trump,the Russia inquiry,,8,LL,9,16,22,24,LL
+8_LL_0071,PROPERTY,Difficulty,the back and forth,Trumps Lawyers; USA,8,LL,9,16,4,7,LL
+8_LL_0072,PROPERTY,Importance,the result of months of negotiations,Inquieries for Trump,8,LL,9,15,10,15,LL
+8_LL_0073,COUNTRY,USA,the special counsel,,8,LL,9,15,17,19,LL
+8_LL_0074,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Dowd,,8,LL,10,17,0,0,LL
+8_LL_0075,ACTOR,USA\Trump,Trump,,8,LL,10,17,5,5,LL
+8_LL_0076,ACTOR,USA\Trump,Trump,,8,LL,10,18,19,19,LL
+8_LL_0077,PROPERTY,Unreason,planned to ignore his advice,Trump,8,LL,10,18,20,24,LL
+8_LL_0078,PROPERTY,Other,reports that,Trumps Lawyers-I; Trump,8,LL,10,18,8,9,LL
+8_LL_0079,PROPERTY,Weakness,resigned,Trumps Lawyers-I,8,LL,10,18,3,3,LL
+8_LL_0080,EVENT,RUS meddling investigation,the investigation,,8,LL,10,17,14,15,LL
+8_LL_0081,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,the lawyer,,8,LL,10,18,1,2,LL
+8_LL_0082,OBJECT,Inquieries for Trump,the list,,8,LL,10,17,27,28,LL
+8_LL_0083,ACTOR,USA\Trump,the president,,8,LL,10,18,13,14,LL
+8_LL_0084,PROPERTY,Power,urged Trump to reject any request,Trumps Lawyers-I,8,LL,10,17,4,9,LL
+8_LL_0085,PROPERTY,Weakness,wary,Trumps Lawyers-I,8,LL,10,17,21,21,LL
+8_LL_0086,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Dowd,,8,LL,11,19,0,0,LL
+8_LL_0087,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,former New York City Mayor Rudy Giuliani,,8,LL,11,19,6,12,LL
+8_LL_0088,COUNTRY,USA,FBI,,8,LL,12,20,16,16,LL
+8_LL_0089,PROPERTY,Aggressor,FBI raids,USA,8,LL,12,20,16,17,LL
+8_LL_0090,PROPERTY,Victim,FBI raids,Trumps Lawyers-I,8,LL,12,20,16,17,LL
+8_LL_0091,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Michael Cohen,,8,LL,12,20,28,29,LL
+8_LL_0092,ACTOR,USA\Trump,Trump,,8,LL,12,20,0,0,LL
+8_LL_0093,ACTOR,USA\Trump,Trump,,8,LL,12,22,11,11,LL
+8_LL_0094,PROPERTY,Unreason,a total witch-hunt,RUS meddling investigation,8,LL,12,21,3,5,LL
+8_LL_0095,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,his longtime personal attorney,,8,LL,12,20,24,27,LL
+8_LL_0096,PROPERTY,Aggressor,ramped up his criticism,Trump,8,LL,12,20,2,5,LL
+8_LL_0097,PROPERTY,Victim,ramped up his criticism,USA,8,LL,12,20,2,5,LL
+8_LL_0098,PROPERTY,Reason,saying it for a long time,Trump,8,LL,12,22,3,8,LL
+8_LL_0099,COUNTRY,USA,the special counsel's office,,8,LL,12,20,7,11,LL
+8_LL_0100,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Cohen,,8,LL,13,23,12,12,LL
+8_LL_0101,ACTOR,USA\Trump,The president,,8,LL,13,23,0,1,LL
+8_LL_0102,PROPERTY,Refusal,distance himself,Trumps Lawyers-I,8,LL,13,23,9,10,LL
+8_LL_0103,PROPERTY,Unimportance,"handled only a ""tiny, tiny little fraction""",Trumps Lawyers-I,8,LL,13,23,26,35,LL
+8_LL_0104,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,the lawyer,,8,LL,13,23,24,25,LL
+8_LL_0105,ACTOR-I,Trumps Lawyers\Trumps Lawyers-I,Cohen,,8,LL,14,24,9,9,LL
+8_LL_0106,ACTOR,USA\Mueller,Mueller,,8,LL,14,24,0,0,LL
+8_LL_0107,OBJECT,Inquieries for Trump,Mueller's list of questions,,8,LL,14,24,0,4,LL
+8_LL_0108,PROPERTY,Other,according to,Inquieries for Trump,8,LL,14,24,16,17,LL

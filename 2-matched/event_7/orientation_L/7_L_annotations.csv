@@ -1,0 +1,234 @@
+id,code_type,code_name,code_mention,target_concept,event_id,publisher_id,paragraph,sentence,start,end,orientation
+7_L_0000,COUNTRY,CAN,Canada,,7,L,0,0,7,7,L
+7_L_0001,PROPERTY,Power,Delays Tariffs,USA,7,L,0,0,2,3,L
+7_L_0002,COUNTRY,EU,E.U.,,7,L,0,0,5,5,L
+7_L_0003,COUNTRY,MEX,Mexico,,7,L,0,0,9,9,L
+7_L_0004,COUNTRY,USA,White House,,7,L,0,0,0,1,L
+7_L_0005,COUNTRY,CAN,Canada,,7,L,1,1,25,25,L
+7_L_0006,COUNTRY,MEX,Mexico,,7,L,1,1,27,27,L
+7_L_0007,COUNTRY,USA,The Trump administration,,7,L,1,1,2,4,L
+7_L_0008,PROPERTY,Power,giving key allies a reprieve,USA,7,L,1,1,33,37,L
+7_L_0009,PROPERTY,Weakness,giving key allies a reprieve,EU; CAN; MEX,7,L,1,1,33,37,L
+7_L_0010,PROPERTY,Aggressor,impose steel and aluminum tariffs on,USA,7,L,1,1,15,20,L
+7_L_0011,PROPERTY,Victim,impose steel and aluminum tariffs on,EU,7,L,1,1,15,20,L
+7_L_0012,PROPERTY,Refusal,resisted those demands,Tariffs,7,L,1,1,51,53,L
+7_L_0013,COUNTRY,EU,the European Union,,7,L,1,1,21,23,L
+7_L_0014,COUNTRY,USA,the White House,,7,L,1,1,39,41,L
+7_L_0015,PROPERTY,Power,tries to extract concessions from trading partners,USA,7,L,1,1,42,48,L
+7_L_0016,PROPERTY,Power,would delay a decision to impose steel and aluminum tariffs,USA,7,L,1,1,10,19,L
+7_L_0017,COUNTRY,CHN,China,,7,L,2,2,38,38,L
+7_L_0018,COUNTRY,EU,European Union nations,,7,L,2,2,16,18,L
+7_L_0019,MISC,Reactions to the permanent exemption,a swift retaliation on American products by European Union nations,,7,L,2,2,9,18,L
+7_L_0020,PROPERTY,Unsafety,concerns by,USA,7,L,2,2,3,4,L
+7_L_0021,PROPERTY,Power,give the Trump administration more breathing room,Tariffs,7,L,2,2,23,29,L
+7_L_0022,PROPERTY,Importance,swift retaliation,EU,7,L,2,2,10,11,L
+7_L_0023,PROPERTY,Weakness,swift retaliation on American products,EU,7,L,2,2,10,14,L
+7_L_0024,COUNTRY,USA,the Trump administration,,7,L,2,2,5,7,L
+7_L_0025,COUNTRY,USA,the Trump administration,,7,L,2,2,24,26,L
+7_L_0026,OBJECT,Tariffs,The 25 percent tariffs on steel and 10 percent on aluminum,,7,L,3,3,0,10,L
+7_L_0027,COUNTRY,USA,The administration,,7,L,3,4,0,1,L
+7_L_0028,PROPERTY,Power,granted temporary exemptions,USA,7,L,3,4,4,6,L
+7_L_0029,PROPERTY,Power,had reached initial agreements,USA,7,L,3,4,17,20,L
+7_L_0030,PROPERTY,Power,set off a global scramble,Tariffs,7,L,3,3,21,25,L
+7_L_0031,COUNTRY,USA,the White House,,7,L,3,5,13,15,L
+7_L_0032,COUNTRY,EU,European Union leaders,,7,L,4,6,43,45,L
+7_L_0033,ACTOR,USA\Trump,President Trump,,7,L,4,6,0,1,L
+7_L_0034,OBJECT,Tariffs,President Trump's decision,,7,L,4,6,0,3,L
+7_L_0035,COUNTRY,USA,The White House,,7,L,4,8,0,2,L
+7_L_0036,COUNTRY,USA,advisers,,7,L,4,7,12,12,L
+7_L_0037,PROPERTY,Power,considering abandoning the Iran nuclear deal,USA,7,L,4,6,33,38,L
+7_L_0038,OBJECT,Tariffs,could destabilize stock markets,,7,L,4,7,20,23,L
+7_L_0039,PROPERTY,Difficulty,could have enraged key American allies,Tariffs,7,L,4,6,9,14,L
+7_L_0040,MISC,Tariff imposition consequences,could have enraged key American allies at a delicate moment,,7,L,4,6,9,18,L
+7_L_0041,COUNTRY,USA,delegation of top officials,,7,L,4,8,7,10,L
+7_L_0042,PROPERTY,Economy negative,destabilize stock markets,Tariffs,7,L,4,7,21,23,L
+7_L_0043,MISC,Tariff imposition consequences,destabilize stock markets,,7,L,4,7,21,23,L
+7_L_0044,PROPERTY,Importance,enraged key American allies at a delicate moment,Tariffs,7,L,4,6,11,18,L
+7_L_0045,PROPERTY,Power,heads toward tricky negotiations with North Korea,USA,7,L,4,6,24,30,L
+7_L_0046,PROPERTY,Reason,leery of initiating trade clashes,USA,7,L,4,7,14,18,L
+7_L_0047,PROPERTY,Negative,put other political goals at risk,Tariffs,7,L,4,7,25,30,L
+7_L_0048,MISC,Tariff imposition consequences,put other political goals at risk,,7,L,4,7,25,30,L
+7_L_0049,COUNTRY,USA,the United States,,7,L,4,6,21,23,L
+7_L_0050,ACTOR,USA\Trump,the president,,7,L,4,7,1,2,L
+7_L_0051,PROPERTY,Other,tough stance,Trump,7,L,4,7,4,5,L
+7_L_0052,PROPERTY,Power,try to soothe tensions,USA,7,L,4,8,16,19,L
+7_L_0053,COUNTRY,USA,America,,7,L,5,9,21,21,L
+7_L_0054,COUNTRY,CAN,Canada,,7,L,5,9,10,10,L
+7_L_0055,COUNTRY,EU,Europe,,7,L,5,9,8,8,L
+7_L_0056,COUNTRY,MEX,Mexico,,7,L,5,9,12,12,L
+7_L_0057,COUNTRY,KOR,South Korea,,7,L,5,10,13,14,L
+7_L_0058,COUNTRY,USA,The Trump administration,,7,L,5,9,0,2,L
+7_L_0059,PROPERTY,Affection,agreed to meet its demands,Tariffs; New import quotas,7,L,5,9,49,53,L
+7_L_0060,PROPERTY,Aggressor,had been trying to pressure,USA,7,L,5,9,3,7,L
+7_L_0061,PROPERTY,Victim,had been trying to pressure,EU; CAN; MEX,7,L,5,9,3,7,L
+7_L_0062,PROPERTY,Power,had helped finalize a continuing deal with South Korea,Tariffs,7,L,5,10,6,14,L
+7_L_0063,OBJECT,New import quotas,its demands,,7,L,5,9,52,53,L
+7_L_0064,OBJECT,Tariffs,its demands,,7,L,5,9,52,53,L
+7_L_0065,PROPERTY,Unsafety,little indication that other nations will bend,USA,7,L,5,10,19,25,L
+7_L_0066,COUNTRY,USA,the United States,,7,L,5,9,33,35,L
+7_L_0067,OBJECT,Tariffs,the tariffs,,7,L,5,9,44,45,L
+7_L_0068,PROPERTY,Aggressor,the threat of tariffs,USA,7,L,5,10,2,5,L
+7_L_0069,OBJECT,Tariffs,the threat of tariffs,,7,L,5,10,2,5,L
+7_L_0070,ACTOR,USA\Trump,Mr. Trump,,7,L,6,12,6,7,L
+7_L_0071,PROPERTY,Difficulty,increase the pressure,USA,7,L,6,12,14,16,L
+7_L_0072,PROPERTY,Unreason,is more bark than bite,Trump,7,L,6,12,8,12,L
+7_L_0073,PROPERTY,Aggressor,squeeze concessions,USA,7,L,6,12,22,23,L
+7_L_0074,COUNTRY,USA,the United States,,7,L,6,11,25,27,L
+7_L_0075,COUNTRY,USA,the White House,,7,L,6,12,18,20,L
+7_L_0076,PROPERTY,Difficulty,were bracing for damage,Tariffs,7,L,6,11,12,15,L
+7_L_0077,COUNTRY,USA,American negotiators,,7,L,7,13,4,5,L
+7_L_0078,PROPERTY,Aggressor,have pressed allies,USA,7,L,7,13,6,8,L
+7_L_0079,COUNTRY,USA,the United States,,7,L,7,13,16,18,L
+7_L_0080,OBJECT,Tariffs,the tariffs,,7,L,7,13,24,25,L
+7_L_0081,PROPERTY,Economy negative,prevent transshipment,New import quotas,7,L,8,14,18,19,L
+7_L_0082,MISC,Tariff imposition consequences,prevent transshipment,,7,L,8,14,18,19,L
+7_L_0083,PROPERTY,Power,protect the national security,New import quotas,7,L,8,14,21,24,L
+7_L_0084,PROPERTY,Safety,protect the national security,USA,7,L,8,14,21,24,L
+7_L_0085,MISC,Tariff imposition consequences,protect the national security,,7,L,8,14,21,24,L
+7_L_0086,OBJECT,New import quotas,quotas,,7,L,8,14,12,12,L
+7_L_0087,PROPERTY,Economy negative,restrain imports,New import quotas,7,L,8,14,15,16,L
+7_L_0088,MISC,Tariff imposition consequences,restrain imports,,7,L,8,14,15,16,L
+7_L_0089,COUNTRY,USA,the White House,,7,L,8,14,27,29,L
+7_L_0090,COUNTRY,USA,the administration,,7,L,8,14,7,8,L
+7_L_0091,COUNTRY,CHN,China,,7,L,9,15,6,6,L
+7_L_0092,COUNTRY,CHN,China,,7,L,9,16,3,3,L
+7_L_0093,OBJECT,Tariffs,a 25 percent tariff on steel imports,,7,L,9,16,11,17,L
+7_L_0094,COUNTRY,USA,the United States,,7,L,9,16,19,21,L
+7_L_0095,PROPERTY,Weakness,will face,CHN,7,L,9,16,9,10,L
+7_L_0096,COUNTRY,USA,Commerce Secretary,,7,L,10,18,0,1,L
+7_L_0097,COUNTRY,USA,Wilbur Ross,,7,L,10,18,2,3,L
+7_L_0098,COUNTRY,USA,officials,,7,L,10,17,1,1,L
+7_L_0099,PROPERTY,Power,pushing for,USA,7,L,10,18,18,19,L
+7_L_0100,OBJECT,Tariffs,tariffs on imported cars,,7,L,10,18,25,28,L
+7_L_0101,COUNTRY,EU,the European Union,,7,L,10,18,12,14,L
+7_L_0102,COUNTRY,USA,the United States,,7,L,10,18,35,37,L
+7_L_0103,COUNTRY,EU,the bloc,,7,L,10,18,20,21,L
+7_L_0104,OBJECT,Tariffs,the tariffs,,7,L,11,19,17,18,L
+7_L_0105,PROPERTY,Unsafety,the uncertainty created by the situation,Tariffs,7,L,11,19,30,35,L
+7_L_0106,PROPERTY,Unsafety,were left in suspense,Tariffs,7,L,11,19,11,14,L
+7_L_0107,MISC,Tariff imposition consequences,would play out,,7,L,11,19,20,22,L
+7_L_0108,COUNTRY,EU,European officials,,7,L,12,20,3,4,L
+7_L_0109,MISC,Reactions to the permanent exemption,demanded a permanent and unconditional exemption from the tariffs,,7,L,12,21,25,33,L
+7_L_0110,PROPERTY,Refusal,do not want to negotiate under threat,USA,7,L,12,21,16,22,L
+7_L_0111,PROPERTY,Victim,do not want to negotiate under threat,EU-I,7,L,12,21,16,22,L
+7_L_0112,PROPERTY,Confidence,have held firm,EU,7,L,12,20,5,7,L
+7_L_0113,OBJECT,Permanent exemptions,permanent and unconditional exemption from the tariffs,,7,L,12,21,27,33,L
+7_L_0114,COUNTRY,EU,the European Union,,7,L,12,21,7,9,L
+7_L_0115,OBJECT,Tariffs,the tariffs,,7,L,12,21,32,33,L
+7_L_0116,OBJECT,New import quotas,the trade measures,,7,L,12,20,12,14,L
+7_L_0117,OBJECT,Tariffs,the trade measures,,7,L,12,20,12,14,L
+7_L_0118,PROPERTY,Other,unlikely to satisfy,EU,7,L,12,21,4,6,L
+7_L_0119,PROPERTY,Aggressor,violate international trading law,Tariffs; New import quotas,7,L,12,20,15,18,L
+7_L_0120,ACTOR-I,EU\EU-I,whose leaders,,7,L,12,21,11,12,L
+7_L_0121,COUNTRY,CHN,China,,7,L,13,24,8,8,L
+7_L_0122,COUNTRY,EU,Europe,,7,L,13,22,12,12,L
+7_L_0123,PROPERTY,Power,asked to join a dispute,EU,7,L,13,24,3,7,L
+7_L_0124,PROPERTY,Aggressor,promised swift retaliation,EU,7,L,13,22,14,16,L
+7_L_0125,MISC,Reactions to the permanent exemption,promised swift retaliation,,7,L,13,22,14,16,L
+7_L_0126,MISC,Tariff imposition consequences,promised swift retaliation,,7,L,13,22,14,16,L
+7_L_0127,OBJECT,Tariffs,the steel and aluminum tariffs,,7,L,13,24,16,20,L
+7_L_0128,OBJECT,Tariffs,the tariffs,,7,L,13,22,1,2,L
+7_L_0129,PROPERTY,Weakness,would penalize in return,EU,7,L,13,23,11,14,L
+7_L_0130,COUNTRY,EU,The E.U.,,7,L,14,26,1,2,L
+7_L_0131,OBJECT,Tariffs,The U.S. decision,,7,L,14,25,1,3,L
+7_L_0132,PROPERTY,Economy negative,already affecting business decisions,Tariffs,7,L,14,25,10,13,L
+7_L_0133,MISC,Tariff imposition consequences,already affecting business decisions,,7,L,14,25,10,13,L
+7_L_0134,PROPERTY,Economy negative,prolongs market uncertainty,Tariffs,7,L,14,25,4,6,L
+7_L_0135,PROPERTY,Unsafety,prolongs market uncertainty,Tariffs,7,L,14,25,4,6,L
+7_L_0136,MISC,Tariff imposition consequences,prolongs market uncertainty,,7,L,14,25,4,6,L
+7_L_0137,MISC,Reactions to the permanent exemption,should be fully and permanently exempted from these measures,,7,L,14,26,3,11,L
+7_L_0138,COUNTRY,EU,the European Union,,7,L,14,25,16,18,L
+7_L_0139,PROPERTY,Unreason,they cannot be justified on the grounds of national security,Tariffs,7,L,14,26,14,24,L
+7_L_0140,OBJECT,Tariffs,the move,,7,L,15,27,8,9,L
+7_L_0141,PROPERTY,Fairness,to grow in a fair and reciprocal manner,Tariffs,7,L,15,27,29,36,L
+7_L_0142,PROPERTY,Affection,"was ""positive,""",Tariffs,7,L,15,27,10,14,L
+7_L_0143,PROPERTY,Power,will ensure our trade relationship continues to grow in a fair and reciprocal manner,Tariffs,7,L,15,27,23,36,L
+7_L_0144,COUNTRY,CAN,Canada,,7,L,16,28,11,11,L
+7_L_0145,COUNTRY,MEX,Mexico,,7,L,16,28,13,13,L
+7_L_0146,PROPERTY,Difficulty,differences of opinion remain,USA; MEX,7,L,16,29,1,4,L
+7_L_0147,PROPERTY,Power,making quick progress,MEX; USA,7,L,16,29,13,15,L
+7_L_0148,COUNTRY,MEX,officials from the countries,,7,L,16,29,6,9,L
+7_L_0149,COUNTRY,USA,officials from the countries,,7,L,16,29,6,9,L
+7_L_0150,PROPERTY,Difficulty,still in negotiations,MEX; USA,7,L,16,28,17,19,L
+7_L_0151,COUNTRY,USA,the United States,,7,L,16,28,21,23,L
+7_L_0152,OBJECT,Tariffs,the tariff,,7,L,16,28,3,4,L
+7_L_0153,COUNTRY,CAN,Canada,,7,L,17,30,0,0,L
+7_L_0154,COUNTRY,CAN,Canada,,7,L,17,31,8,8,L
+7_L_0155,COUNTRY,CAN,Canada,,7,L,17,31,32,32,L
+7_L_0156,COUNTRY,MEX,Mexico,,7,L,17,30,2,2,L
+7_L_0157,ACTOR,CAN\Trudeau,Prime Minister Justin Trudeau of Canada,,7,L,17,31,3,8,L
+7_L_0158,MISC,Tariff imposition consequences,could upend delicate negotiations,,7,L,17,30,16,19,L
+7_L_0159,COUNTRY,CAN,his country,,7,L,17,31,16,17,L
+7_L_0160,OBJECT,Tariffs,tariffs,,7,L,17,30,7,7,L
+7_L_0161,OBJECT,Tariffs,tariffs,,7,L,17,31,30,30,L
+7_L_0162,OBJECT,Tariffs,tariffs on Canada,,7,L,17,31,30,32,L
+7_L_0163,COUNTRY,USA,the Trump administration,,7,L,17,31,25,27,L
+7_L_0164,PROPERTY,Difficulty,upend delicate negotiations,Tariffs,7,L,17,30,17,19,L
+7_L_0165,PROPERTY,Confidence,"was ""optimistic""",Trudeau,7,L,17,31,11,14,L
+7_L_0166,PROPERTY,Economy negative,would hurt jobs on both sides,Tariffs,7,L,17,31,33,38,L
+7_L_0167,MISC,Tariff imposition consequences,would hurt jobs on both sides,,7,L,17,31,33,38,L
+7_L_0168,COUNTRY,JPN,Japan,,7,L,18,32,8,8,L
+7_L_0169,COUNTRY,USA,The administration,,7,L,18,32,0,1,L
+7_L_0170,PROPERTY,Economy positive,a large surplus with the United States,JPN,7,L,18,32,44,50,L
+7_L_0171,PROPERTY,Power,hoped to urge the country into one-on-one trade talks,USA,7,L,18,32,58,66,L
+7_L_0172,COUNTRY,USA,the Trump administration,,7,L,18,32,55,57,L
+7_L_0173,COUNTRY,USA,the United States,,7,L,18,32,48,50,L
+7_L_0174,PROPERTY,Other,the largest American ally to be left off the initial list of countries,JPN,7,L,18,32,10,22,L
+7_L_0175,OBJECT,Tariffs,the tariffs,,7,L,18,32,30,31,L
+7_L_0176,ACTOR,JPN\Abe,Mr. Abe,,7,L,19,34,0,1,L
+7_L_0177,ACTOR,USA\Trump,Mr. Trump,,7,L,19,34,21,22,L
+7_L_0178,ACTOR,USA\Trump,Mr. Trump,,7,L,19,35,0,1,L
+7_L_0179,ACTOR,JPN\Abe,Prime Minister Shinzo Abe of Japan,,7,L,19,33,1,6,L
+7_L_0180,PROPERTY,Aggressor,dashed those plans,Abe,7,L,19,33,7,9,L
+7_L_0181,PROPERTY,Power,insisted,Abe,7,L,19,34,2,2,L
+7_L_0182,COUNTRY,USA,the United States,,7,L,19,34,9,11,L
+7_L_0183,PROPERTY,Economy negative,difficult for businesses to plan,Tariffs,7,L,20,36,16,20,L
+7_L_0184,PROPERTY,Economy negative,discouraging them from investing in new factories or hiring more workers,Tariffs,7,L,20,36,22,32,L
+7_L_0185,PROPERTY,Difficulty,making it difficult,Tariffs,7,L,20,36,14,16,L
+7_L_0186,PROPERTY,Unsafety,prolongs the state of uncertainty,Tariffs,7,L,20,36,3,7,L
+7_L_0187,PROPERTY,Economy negative,prolongs the state of uncertainty hanging over the global economy,Tariffs,7,L,20,36,3,12,L
+7_L_0188,COUNTRY,USA,Majestic Steel USA,,7,L,21,38,9,11,L
+7_L_0189,ACTOR-I,USA\USA-I,Todd Leebow,,7,L,21,38,0,1,L
+7_L_0190,PROPERTY,Economy positive,already helping to revive the American industry,Tariffs,7,L,21,38,24,30,L
+7_L_0191,PROPERTY,Affection,companies that support,Tariffs,7,L,21,37,8,10,L
+7_L_0192,PROPERTY,Unsafety,did not know where they would be able to purchase metals from,Tariffs,7,L,21,39,7,18,L
+7_L_0193,PROPERTY,Economy negative,has plagued even steel and aluminum companies that support the measure,Tariffs,7,L,21,37,2,12,L
+7_L_0194,COUNTRY,USA,the American industry,,7,L,21,38,28,30,L
+7_L_0195,OBJECT,Tariffs,the measure,,7,L,21,37,11,12,L
+7_L_0196,ACTOR-I,USA\USA-I,the president and chief executive,,7,L,21,38,3,7,L
+7_L_0197,OBJECT,Tariffs,the tariffs,,7,L,21,38,21,22,L
+7_L_0198,PROPERTY,Unsafety,unpredictability,Tariffs,7,L,21,37,1,1,L
+7_L_0199,PROPERTY,Unsafety,where prices might head,Tariffs,7,L,21,39,21,24,L
+7_L_0200,ACTOR-I,USA\USA-I,Mr. Leebow,,7,L,22,40,17,18,L
+7_L_0201,PROPERTY,Unsafety,creates uncertainty,Tariffs,7,L,22,40,13,14,L
+7_L_0202,COUNTRY,CAN,Canada,,7,L,23,42,4,4,L
+7_L_0203,COUNTRY,CHN,China,,7,L,23,41,22,22,L
+7_L_0204,COUNTRY,CHN,China,,7,L,23,42,31,31,L
+7_L_0205,COUNTRY,EU,The European Union,,7,L,23,42,0,2,L
+7_L_0206,PROPERTY,Economy positive,combating an overcapacity of metals,Tariffs,7,L,23,41,16,20,L
+7_L_0207,PROPERTY,Power,crack down on cheap flows of steel into their markets,EU; CAN,7,L,23,42,17,26,L
+7_L_0208,PROPERTY,Power,have introduced steeper measures,EU; CAN,7,L,23,42,9,12,L
+7_L_0209,COUNTRY,USA,the United States,,7,L,23,42,39,41,L
+7_L_0210,COUNTRY,USA,the administration,,7,L,23,41,10,11,L
+7_L_0211,OBJECT,Tariffs,the measures,,7,L,23,41,3,4,L
+7_L_0212,ACTOR-I,USA\USA-I,Scott Paul,,7,L,24,43,13,14,L
+7_L_0213,PROPERTY,Good quality,is working,Tariffs,7,L,24,43,8,9,L
+7_L_0214,PROPERTY,Affection,supports,Tariffs,7,L,24,43,26,26,L
+7_L_0215,GROUP,USA\Steel producers,the Alliance for American Manufacturing,,7,L,24,43,19,23,L
+7_L_0216,OBJECT,Tariffs,the approach,,7,L,24,43,6,7,L
+7_L_0217,OBJECT,Tariffs,the metal restrictions,,7,L,24,43,27,29,L
+7_L_0218,ACTOR-I,USA\USA-I,the president of the Alliance for American Manufacturing,,7,L,24,43,16,23,L
+7_L_0219,OBJECT,Tariffs,the tariffs,,7,L,25,45,4,5,L
+7_L_0220,COUNTRY,EU,Europe,,7,L,26,46,1,1,L
+7_L_0221,PROPERTY,Power,have driven down steel prices,Tariffs,7,L,26,46,5,9,L
+7_L_0222,MISC,Tariff imposition consequences,have driven down steel prices,,7,L,26,46,5,9,L
+7_L_0223,COUNTRY,USA,the United States,,7,L,26,46,30,32,L
+7_L_0224,OBJECT,Tariffs,the tariffs,,7,L,26,46,3,4,L
+7_L_0225,COUNTRY,CHN,Chinese producers,,7,L,27,47,34,35,L
+7_L_0226,PROPERTY,Weakness,is bouncing back from a crisis,EU,7,L,27,47,13,18,L
+7_L_0227,COUNTRY,EU,the European steel industry,,7,L,27,47,6,9,L
+7_L_0228,COUNTRY,EU,European steel makers,,7,L,28,48,37,39,L
+7_L_0229,ACTOR-I,EU\EU-I,Martin Theuringer,,7,L,28,48,19,20,L
+7_L_0230,PROPERTY,Weakness,are worried,EU,7,L,28,48,2,3,L
+7_L_0231,COUNTRY,EU,the German Steel Federation,,7,L,28,48,26,29,L
+7_L_0232,COUNTRY,EU,the industry,,7,L,28,48,11,12,L
