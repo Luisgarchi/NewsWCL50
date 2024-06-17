@@ -16,7 +16,7 @@ df['event_id'] = df['id'].apply(lambda x: re.match(r'(\d+)_(LL|L|M|R|RR)_', x).g
 df['orientation'] = df['id'].apply(lambda x: re.match(r'(\d+)_(LL|L|M|R|RR)_', x).group(2))
 
 # Create the main directory if it does not exist
-main_directory = 'unprocessed'
+main_directory = '2-matched'
 os.makedirs(main_directory, exist_ok=True)
 
 # Generate a unique directory and file name for each event_id and orientation combination

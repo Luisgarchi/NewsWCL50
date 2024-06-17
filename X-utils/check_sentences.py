@@ -46,7 +46,7 @@ def check_annotations(input_dir, annotations_prefix):
     return None  # Return None if all code mentions are found in their respective sentences
 
 # Specify the directory containing the unprocessed files and the annotations CSV file
-input_directory = 'unprocessed'
+input_directory = '2-matched'
 annotations_prefix = 'annotations.csv'
 result = check_annotations(input_directory, annotations_prefix)
 

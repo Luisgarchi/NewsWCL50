@@ -46,6 +46,6 @@ def process_text_files(input_dir, output_dir):
             print(f'Created file: {new_file_path}')
 
 # Specify the directory containing the articles and the output directory
-input_directory = 'articles'
-output_directory = 'unprocessed'
+input_directory = 'process_article'
+output_directory = '2-matched'
 process_text_files(input_directory, output_directory)
